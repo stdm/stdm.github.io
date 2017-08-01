@@ -1,11 +1,6 @@
 ---
-id: 437
 title: Writing a draft
-date: 2017-01-19T09:22:10+00:00
-author: stdm
 layout: post
-guid: https://dublin.zhaw.ch/~stdm/?p=437
-permalink: /?p=437
 categories:
   - Education
   - Writing
