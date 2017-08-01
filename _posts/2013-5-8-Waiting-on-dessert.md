@@ -1,11 +1,6 @@
 ---
-id: 34
 title: Waiting on dessert
-date: 2013-05-08T12:11:28+00:00
-author: stdm
 layout: post
-guid: https://dublin.zhaw.ch/~stdm/?p=34
-permalink: /?p=34
 categories:
   - Fun
 ---

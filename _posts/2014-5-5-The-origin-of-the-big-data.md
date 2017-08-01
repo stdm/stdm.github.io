@@ -1,11 +1,6 @@
 ---
-id: 178
 title: 'The origin of the term &#8220;Big Data&#8221;'
-date: 2014-05-05T13:30:07+00:00
-author: stdm
 layout: post
-guid: https://dublin.zhaw.ch/~stdm/?p=178
-permalink: /?p=178
 categories:
   - Thoughts
 tags:

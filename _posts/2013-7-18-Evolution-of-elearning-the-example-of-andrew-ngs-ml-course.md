@@ -1,11 +1,6 @@
 ---
-id: 58
 title: Explanations that appeal to intuition have a big effect on learning
-date: 2013-07-18T10:48:02+00:00
-author: stdm
 layout: post
-guid: https://dublin.zhaw.ch/~stdm/?p=58
-permalink: /?p=58
 categories:
   - Education
 ---

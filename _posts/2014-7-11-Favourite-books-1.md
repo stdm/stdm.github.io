@@ -1,11 +1,6 @@
 ---
-id: 195
 title: Favourite Books (1)
-date: 2014-07-11T15:55:37+00:00
-author: stdm
 layout: post
-guid: https://dublin.zhaw.ch/~stdm/?p=195
-permalink: /?p=195
 categories:
   - Education
   - Readings

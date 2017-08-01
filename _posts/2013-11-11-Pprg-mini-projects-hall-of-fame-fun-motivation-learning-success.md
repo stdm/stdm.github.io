@@ -1,11 +1,6 @@
 ---
-id: 90
 title: PPRG Mini Projects Hall of Fame
-date: 2013-11-11T14:37:20+00:00
-author: stdm
 layout: post
-guid: https://dublin.zhaw.ch/~stdm/?p=90
-permalink: /?p=90
 categories:
   - Education
 ---

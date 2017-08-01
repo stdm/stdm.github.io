@@ -1,11 +1,6 @@
 ---
-id: 201
 title: Things a computer scientist rarely talks about
-date: 2014-08-04T12:18:55+00:00
-author: stdm
 layout: post
-guid: https://dublin.zhaw.ch/~stdm/?p=201
-permalink: /?p=201
 categories:
   - Readings
   - Thoughts
@@ -13,7 +8,7 @@ tags:
   - computer science
   - faith
 ---
-[<img class="size-full wp-image-202 alignleft" alt="things_a_computer_scientist" src="https://dublin.zhaw.ch/~stdm/wp-content/uploads/2014/08/things_a_computer_scientist.jpg" width="202" height="300" />](https://dublin.zhaw.ch/~stdm/wp-content/uploads/2014/08/things_a_computer_scientist.jpg)I just finished reading Donald Knuth&#8217;s &#8220;Things a computer scientist rarely talks about&#8221; and thought it fits nicely into this series of literature-related posts. The book is a transcription of 6 lectures Don Knuth gave at MIT about &#8220;God and Computers&#8221;.
+[<img class="size-full wp-image-202 alignleft" alt="things_a_computer_scientist" src="http://stdm.github.io/images/things_a_computer_scientist.jpg" width="202" height="300" />](http://stdm.github.io/images/things_a_computer_scientist.jpg)I just finished reading Donald Knuth&#8217;s &#8220;Things a computer scientist rarely talks about&#8221; and thought it fits nicely into this series of literature-related posts. The book is a transcription of 6 lectures Don Knuth gave at MIT about &#8220;God and Computers&#8221;.
 
 Knuth is  surely best-known to most of us for working on the ingenious &#8220;The Art of Computer Programming&#8221; volumes (see [last post](https://dublin.zhaw.ch/~stdm/?p=195 "Favourite Books (1)")). But he&#8217;s also a Lutheran Christian, occasional bible teacher and author of &#8220;3:16 Bible Texts Illuminated&#8221;, in which he writes about using a random sample of bible verses that he studied in depth in order to gain more insight into the scriptures. In the book at hand he mainly reports on how and why he undertook that project and then expands on what else his studies in computer science (mainly math and algorithms) have taught him about his faith.<!--more-->
 

@@ -1,11 +1,6 @@
 ---
-id: 19
 title: Boiler Plate Code
-date: 2013-04-26T16:03:44+00:00
-author: stdm
 layout: post
-guid: https://dublin.zhaw.ch/~stdm/?p=19
-permalink: /?p=19
 categories:
   - Fun
 ---

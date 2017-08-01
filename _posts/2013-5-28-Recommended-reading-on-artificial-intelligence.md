@@ -1,11 +1,6 @@
 ---
-id: 38
 title: Recommended Reading on Artificial Intelligence
-date: 2013-05-28T09:12:04+00:00
-author: stdm
 layout: post
-guid: https://dublin.zhaw.ch/~stdm/?p=38
-permalink: /?p=38
 categories:
   - Readings
 ---

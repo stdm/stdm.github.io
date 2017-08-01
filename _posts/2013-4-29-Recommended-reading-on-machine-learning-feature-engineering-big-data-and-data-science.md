@@ -1,11 +1,6 @@
 ---
-id: 27
 title: Recommended Reading on Machine Learning, Feature Engineering, Big Data and Data Science
-date: 2013-04-29T14:05:22+00:00
-author: stdm
 layout: post
-guid: https://dublin.zhaw.ch/~stdm/?p=27
-permalink: /?p=27
 categories:
   - Readings
 ---
