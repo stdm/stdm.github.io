@@ -39,5 +39,7 @@ The final research question then (ideally) is: how to close the identified gap b
 ### References
 
 [Newton, 1687] Isaac Newton, “Philosophiae Naturalis Principia Mathematica”. 1687.
+
 [Vardi, 2010] Moshe Y. Vardi, “Science has only two legs“. Communications of the ACM, Vol. 53 No. 9, Page 5, 2010.
+
 [Newton, 1676] Isaac Newton, “Letter from Sir Isaac Newton to Robert Hooke”. 1676.
