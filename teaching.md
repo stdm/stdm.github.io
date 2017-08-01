@@ -1,10 +1,6 @@
 ---
-id: 7
 title: Teaching
-date: 2013-04-26T15:24:48+00:00
-author: stdm
 layout: page
-guid: https://dublin.zhaw.ch/~stdm/?page_id=7
 ---
 # <span style="font-size: 1.5rem;">Currently (Fall 2016)</span>
 
