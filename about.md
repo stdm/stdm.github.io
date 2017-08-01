@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+The is the personal website of [Thilo Stadelmann](http://www.zhaw.ch/=stdm), senior lecturer at [ZHAW](https://www.zhaw.ch/en/university/) [School of Engineering](https://www.zhaw.ch/en/engineering/), deputy head of [InIT‘s](https://www.zhaw.ch/en/engineering/institutes-centres/init/) [Information Engineering Group](https://www.zhaw.ch/de/engineering/institute-zentren/init/information-engineering/) and head of the [ZHAW Datalab](www.zhaw.ch/datalab).
 
-### More Information
+All views expressed are mine and not necessarily shared by ZHAW, InIT or the Datalab.
 
-A place to include any other types of information that you'd like to include about yourself.
+### CV, publications, professional interests etc.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Check out [this link](http://www.zhaw.ch/=stdm) for more profile information and contact data.
