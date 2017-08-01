@@ -5,9 +5,7 @@ layout: page
 
 ### Abstract
 
-This page collects information and resources on audio processing research at ZHAW. If you are interested in (or need) audio processing research at/from ZHAW (as a colleague or pontential project partner), please contact us.
-
-<span style="color: #ff0000;"><em><img class="size-full wp-image-135 aligncenter" alt="Sound_wave" src="https://dublin.zhaw.ch/~stdm/wp-content/uploads/2013/09/Sound_wave.jpg" width="300" height="195" /></em></span>
+This page collects information and resources on audio processing research at ZHAW. If you are interested in (or need) audio processing research at/from ZHAW (as a colleague or potential project partner), please contact us.
 
 ### People
 
@@ -16,47 +14,47 @@ A group of scientists from different backgrounds is involved in audio processing
 <table>
   <tr>
     <td style="text-align: center;">
-      <img class="alignnone size-thumbnail wp-image-143" alt="acke" src="https://dublin.zhaw.ch/~stdm/wp-content/uploads/2013/09/acke-150x150.jpg" width="150" height="150" /><br /> <a href="www.zhaw.ch/=acke">Philipp Ackermann</a><br /> Digital mixing consoles<br /> Digital music<br /> Human computer interaction
+      [Philipp Ackermann](www.zhaw.ch/=acke) <br /> Digital mixing consoles<br /> Digital music<br /> Human computer interaction
     </td>
     
     <td style="text-align: center;">
-      <img class="alignnone size-thumbnail wp-image-144" alt="ciel" src="https://dublin.zhaw.ch/~stdm/wp-content/uploads/2013/09/ciel-150x150.jpg" width="150" height="150" /><br /> <a href="www.zhaw.ch/=ciel">Mark Cieliebak</a><br /> Mobile sound processing<br /> Natural language technologies
+      [Mark Cieliebak](www.zhaw.ch/=ciel) <br /> Mobile sound processing<br /> Natural language technologies
     </td>
   </tr>
   
   <tr>
     <td style="text-align: center;">
-      <a href="https://dublin.zhaw.ch/~stdm/wp-content/uploads/2013/09/dueo2.jpg"><img alt="dueo(2)" src="https://dublin.zhaw.ch/~stdm/wp-content/uploads/2013/09/dueo2-140x150.jpg" width="140" height="150" /></a><br /> <a href="www.zhaw.ch/=dueo">Oliver Dürr</a><br /> Deep learning for sound & speech analysis
+      [Oliver Dürr](www.zhaw.ch/=dueo <br /> Deep learning for sound & speech analysis
     </td>
     
     <td style="text-align: center;">
-      <a href="https://dublin.zhaw.ch/~stdm/wp-content/uploads/2015/09/hirc.jpg"><img class="alignnone size-thumbnail wp-image-286" alt="hirc" src="https://dublin.zhaw.ch/~stdm/wp-content/uploads/2015/09/hirc-150x150.jpg" width="150" height="150" /><br /> </a><a href="www.zhaw.ch/=hirc">Sven Hirsch<br /> </a>Audio fingerprinting & music classification<br /> Sound installations
+      [Sven Hirsch](www.zhaw.ch/=hirc <br /> Audio fingerprinting & music classification<br /> Sound installations
     </td>
   </tr>
   
   <tr>
     <td style="text-align: center;">
-      <img alt="huhp" src="https://dublin.zhaw.ch/~stdm/wp-content/uploads/2013/09/huhp-150x150.jpg" width="150" height="150" /><a href="http://www.zhaw.ch/fileadmin/php_includes/popup/person-detail.php?kurzz=huhp" target="_blank"><br /> </a><a href="www.zhaw.ch/=huhp">Hans-Peter Hutter</a><a href="http://www.zhaw.ch/fileadmin/php_includes/popup/person-detail.php?kurzz=huhp" target="_blank"><br /> </a>Automatic speech recognition<br /> Handset & channel normalization
+      [Hans-Peter Hutter](www.zhaw.ch/=huhp) <br /> Automatic speech recognition<br /> Handset & channel normalization
     </td>
     
     <td style="text-align: center;">
-      <a href="https://dublin.zhaw.ch/~stdm/wp-content/uploads/2013/09/rosn.jpg"><img alt="rosn" src="https://dublin.zhaw.ch/~stdm/wp-content/uploads/2013/09/rosn-150x150.jpg" width="150" height="150" /><br /> </a><a href="https://www.zhaw.ch/de/ueber-uns/person/rosn/" target="_blank">Matthias Rosenthal<br /> </a>3D audio algorithms<br /> Development of embedded hardware for signal processing
+      [Matthias Rosenthal](www.zhaw.ch/=rosn) <br /> 3D audio algorithms<br /> Development of embedded hardware for signal processing
     </td>
   </tr>
   
   <tr>
     <td style="text-align: center;">
-      <img alt="stdm" src="https://dublin.zhaw.ch/~stdm/wp-content/uploads/2013/09/stdm-150x150.jpg" width="150" height="150" /><a href="http://www.zhaw.ch/fileadmin/php_includes/popup/person-detail.php?kurzz=stdm" target="_blank"><br /> </a><a href="www.zhaw.ch/=stdm">Thilo Stadelmann</a><a href="http://www.zhaw.ch/fileadmin/php_includes/popup/person-detail.php?kurzz=stdm" target="_blank"><br /> </a>Automatic speaker recognition & clustering (diarization)<br /> Music & multimedia information retrieval<br /> Sound classification and segmentation
+      [Thilo Stadelmann](www.zhaw.ch/=stdm) <br /> Automatic speaker recognition & clustering (diarization)<br /> Music & multimedia information retrieval<br /> Sound classification and segmentation
     </td>
     
     <td style="text-align: center;">
-      <a href="https://dublin.zhaw.ch/~stdm/wp-content/uploads/2013/09/rosn.jpg"><img alt="wyrs" src="https://dublin.zhaw.ch/~stdm/wp-content/uploads/2013/09/wyrs.jpg" width="100" height="128" /></a><a href="http://www.zhaw.ch/fileadmin/php_includes/popup/person-detail.php?kurzz=wyrs" target="_blank"><br /> </a><a href="www.zhaw.ch/=wyrs">Sigisbert Wyrsch</a><a href="http://www.zhaw.ch/fileadmin/php_includes/popup/person-detail.php?kurzz=wyrs" target="_blank"><br /> </a>Active noise reduction /cancellation<br /> Digital audio signal processing<br /> Hearing aid engineering<a href="https://dublin.zhaw.ch/~stdm/wp-content/uploads/2013/09/rosn.jpg"><br /> </a>
+      [Sigisbert Wyrsch](www.zhaw.ch/=wyrs)<br /> Active noise reduction /cancellation<br /> Digital audio signal processing<br /> Hearing aid engineering<a 
     </td>
   </tr>
 </table>
 
 <p style="text-align: center;">
-  &#8230; to be continued (please get <a title="About" href="https://dublin.zhaw.ch/~stdm/?page_id=10" target="_blank">in touch</a>)!
+  &#8230; to be continued (please get in touch)!
 </p>
 
 ### Projects
