@@ -1,7 +1,5 @@
 ---
 title: 'What impresses me'
-date: 2014-08-07T15:20:20+00:00
-author: stdm
 layout: post
 categories:
   - Ethics

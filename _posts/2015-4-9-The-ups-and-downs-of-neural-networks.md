@@ -22,7 +22,7 @@ Neural Networks have a colourful history. Being researched first in the 1950&#82
   * just to rise again as new results showed superiority compared with other approaches on previously unseen tasks.<!--more-->
 
 <div id="attachment_242" class="wp-caption alignnone" style="width: 635px">
-  <a href="https://dublin.zhaw.ch/~stdm/wp-content/uploads/2015/04/NN-History.jpg"><img class="size-large wp-image-242" title="Neural Network hisotry in writing." alt="NN-History" src="https://dublin.zhaw.ch/~stdm/wp-content/uploads/2015/04/NN-History-1024x500.jpg" width="625" height="305" /></a>
+  <a href="http://stdm.github.io/images/NN-History.jpg"><img class="size-large wp-image-242" title="Neural Network hisotry in writing." alt="NN-History" src="http://stdm.github.io/images/NN-History.jpg" width="625" height="305" /></a>
   
   <p class="wp-caption-text">
     Three famous NN publications: Minsky&#8217;s &#8220;Perceptrons&#8221;, Rumelhart&#8217;s &#8220;Parallel Distributed Processing&#8221; and LeCun&#8217;s &#8220;Gradient-based Learning Applied to Document Recognition&#8221;.
@@ -34,7 +34,7 @@ This up and down is readily observed in the literature (see the picture): Inflat
 In 2006, <a href="http://www.cs.toronto.edu/~hinton/absps/ncfast.pdf" target="_blank">Hinton et al</a> finally showed how to train deeper architectures of Neural Networks and thus realize their full potential. This kicked off a whole bunch of new and continued dedicated &#8220;Deep Learning&#8221; (a.k.a. Representation Learning) research that culminated an most of all pattern recognition benchmarks won by a large margin through deep learning approaches within the last 4 years &#8211; see Schmidhuber&#8217;s excellent survey of the history of Deep Learning research and achievements <a href="http://arxiv.org/abs/1404.7828" target="_blank">here</a>.
 
 <div id="attachment_243" class="wp-caption alignnone" style="width: 471px">
-  <a href="https://dublin.zhaw.ch/~stdm/wp-content/uploads/2015/04/lecun-hinton-bengio-schmidhuber.jpg"><img class="size-full wp-image-243 " title="Big 4 in DL" alt="lecun-hinton-bengio-schmidhuber" src="https://dublin.zhaw.ch/~stdm/wp-content/uploads/2015/04/lecun-hinton-bengio-schmidhuber.jpg" width="461" height="127" /></a>
+  <a href="http://stdm.github.io/images/lecun-hinton-bengio-schmidhuber.jpg"><img class="size-full wp-image-243 " title="Big 4 in DL" alt="lecun-hinton-bengio-schmidhuber" src="http://stdm.github.io/images/lecun-hinton-bengio-schmidhuber.jpg" width="461" height="127" /></a>
   
   <p class="wp-caption-text">
     Big Names in Deep Learning (left to right): Yann LeCun, Geoffrey Hinton, Yoshua Bengio and Juergen Schmidhuber.
@@ -45,4 +45,4 @@ As an interesting side note, the heads of what are on my perception the top 4 re
 
 ## What are we going to do about it?
 
-The <a href="http://dlab.zhaw.ch" target="_blank">Datalab </a>invested considerably in <a href="http://www.zhaw.ch/de/zhaw/institute-zentren/uebergreifende-institute-zentren/dlab/hardware.html" target="_blank">parallel computing hardware</a> last year in order to kick off Deep Learning research at ZHAW. A group of about 10 researchers formed, reading foundations and gaining momentum by implementing prototypes for various applications including face recognition and OCR. First projects are already finished, and more are yet to come.
+The <a href="http://www.zhaw.ch/datalab" target="_blank">Datalab </a>invested considerably in <a href="http://www.zhaw.ch/de/zhaw/institute-zentren/uebergreifende-institute-zentren/dlab/hardware.html" target="_blank">parallel computing hardware</a> last year in order to kick off Deep Learning research at ZHAW. A group of about 10 researchers formed, reading foundations and gaining momentum by implementing prototypes for various applications including face recognition and OCR. First projects are already finished, and more are yet to come.

@@ -1,32 +1,23 @@
 ---
-id: 250
 title: 'The ENJOY Project: Enjoying Public Speeches despite Hearing Impairment'
-date: 2015-04-14T13:19:44+00:00
-author: stdm
-excerpt: |
-  Hearing-impaired attendants of large public events often find it impossible to follow speeches delivered via a loudspeaker/PA system even if they can follow normal conversations in small groups easily due to the aid of hearing implants. A possible remedy is simultaneous speech-to-text synthesis (speech recognition), so that the speech can be followed in reading live and on a private communication device like a tablet computer or smartphone.
-  
-  Using the example of the public worship services of GvC Chile Hegi in Winterthur, a team of four people has committed considerable resources since spring 2014 in researching and building a prototype of such a system.
 layout: post
-guid: https://dublin.zhaw.ch/~stdm/?p=250
-permalink: /?p=250
 categories:
   - Ethics
   - Research
 ---
-During my spare time in the last year and ongoing, I have been involved in a very intersting project bringing together computer science expertise and charity: The ENJOY project (my term for it  <img src='https://dublin.zhaw.ch/~stdm/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />.
+During my spare time in the last year and ongoing, I have been involved in a very intersting project bringing together computer science expertise and charity: The ENJOY project (my term for it.
 
 **Abstract.** Hearing-impaired attendants of large public events often find it impossible to follow speeches delivered via a loudspeaker/PA system even if they can follow normal conversations in small groups easily due to the aid of hearing implants. A possible remedy is simultaneous speech-to-text synthesis (speech recognition), so that the speech can be followed in reading live and on a private communication device like a tablet computer or smartphone.
 
 Using the example of the public worship services of <a href="http://www.gvc-winterthur.ch" target="_blank">GvC Chile Hegi</a> in Winterthur, a team of four people has committed considerable resources since spring 2014 in researching and building a prototype of such a system.<!--more-->
 
-## The Setting
+### The Setting
 
 The public worship services of GvC Chile Hegi are attended by approximately 800 people.  They consist of a mixture of live-played pop music and speeches (including e.g. announcements, interviews and a sermon) in a theatre-like setting. All performances are supported by certain media types in order for the people to get involved: Song lyrics are displayed in a multimedia show, speech is translated from Swiss German to several languages on wireless headphones for foreign visitors, and speakers are videotaped with a live playback streamed to a big central screen in order to be seen from every seat in the hall. However, if one is not able to follow what is said, most of the meaning is lost for this person.
 
 In early 2014, a team of volunteers formed to help a hard of hearing / deaf attendee who desires to better follow the services. The team consists of a deaf person with a bone anchored and an ordinary hearing aid, a computer scientist having research experience in speech analysis, a closed caption author/translator with experience in re-speaking, and church leadership.
 
-## Related Work
+### Related Work
 
 Besides manual sign language translation, one possible approach for helping hearing impaired persons enjoying public speeches is the application of speech recognition technology to auto-create some sort of closed captions for all speech parts during an event. Those closed captions could then be displayed either on the central video screen or streamed to personal communication devices (tablets, smartphones) of individual participants. Several approaches exist:
 
@@ -34,7 +25,7 @@ Besides manual sign language translation, one possible approach for helping hear
 
 As this brief review of the state of the art shows, there is no ready-made commercial system that supports the complete process from speech recognition to delivering the result end-to-end. But as the project in Leeds [8] demonstrates, it should be possible to build up this process using off-the-shelf components, uniquely orchestrated to fulfil the purpose of making public speeches enjoyable for hearing impaired persons. This view is also supported by several likewise reports [e.g., <a href="http://livecaptioningwithdragon.edublogs.org/" target="_blank">here</a>, and <a href="http://www.ngtvoice.com/services/assistive/transcription.htm" target="_blank">here</a>].
 
-## Our Approach
+### Our Approach
 
 Building on the results of this survey, the team decided to build a speech recognition based system out of available building blocks.
 
@@ -46,7 +37,7 @@ Also, a dedicated workstation (dual Xeon X5570 with 8 cores, 18 GB RAM and SSD d
 
 The link to the Google Doc is shared among all participants of the pilot test and can be viewed on any private web-enabled device via GvC’s WLAN. In the tests, the Google Doc app for iPad has been used to follow a speech by reading. (In the future, the need for public Google Docs could be eliminated by setting up a private <a href="http://etherpad.org/" target="_blank">Etherpad server</a> with similar functionality.)
 
-## Outlook
+### Outlook
 
 The prototype system works and is currently further evaluated before being integrated into GvC’s standard program for public worship services. Smaller issues are the display of the transcript (bright font on black background would be preferable in the darkened hall environment) and the used vocabulary (e.g., the German word for “bible” is usually confused with the word for “love”). Overall, the system is already capable to making the attendance of the services for hearing impaired people enjoyable by conveying the main message of speeches.
 
