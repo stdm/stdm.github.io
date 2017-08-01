@@ -1,11 +1,6 @@
 ---
-id: 360
 title: Advice for (prospective) students
-date: 2016-09-09T09:34:50+00:00
-author: stdm
 layout: post
-guid: https://dublin.zhaw.ch/~stdm/?p=360
-permalink: /?p=360
 categories:
   - Education
   - Research
@@ -13,7 +8,6 @@ categories:
   - Writing
 ---
 Dear (prospective) ZHAW student,
-
 a very warm welcome to academia! You may just have entered the bachelor&#8217;s programme or &#8220;Fachstudium&#8221;, or you are already a mature engineer, ready to start your master&#8217;s studies &#8211; chances are you haven&#8217;t been exposed much yet to our setting of learning within an applied research and development context.
 
 I will hopefully write more about what it means to do applied research and development in the future (yep &#8211; <a title="Doing applied science" href="https://dublin.zhaw.ch/~stdm/?p=465" target="_blank">here it is</a>). Until then, this blog post may point you to a few resources helpful in<!--more-->
@@ -30,5 +24,3 @@ Here you go: you may want to have a look at&#8230;
   * <a href="https://dublin.zhaw.ch/~stdm/?p=327" target="_blank">This post</a> by <a href="https://www.zhaw.ch/de/ueber-uns/person/stdm/" target="_blank">myself</a> on where  to find additional resorces to be educated in AI and machine learning. Includes links to very good MOOCs, to exciting blog posts with intuitive explanations and code for recent techniques and applications, and to more general advice on how to build a career as a &#8220;<a href="www.zhaw.ch/datalab" target="_blank">data scientist</a>&#8221; out of this.
   * <a href="https://dublin.zhaw.ch/~stdm/?p=337" target="_blank">This post</a> by myself on the (personal and organizational) importance of developing a mindset that is eager to publish valuable results. It is not about the publication; it is about pursuing things that are valuable potentially also to others, and about developing healthy self esteem that says &#8220;I can recognize if I did good work, and it will likely benefit others&#8221;.
   * <a title="Getting to know oneself" href="https://dublin.zhaw.ch/~stdm/?p=430" target="_blank">This post</a> by myself on getting to one&#8217;s own personal strengths and weaknesses that will have an impact on one&#8217;s career.
-
-&nbsp;

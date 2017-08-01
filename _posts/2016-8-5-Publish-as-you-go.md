@@ -1,11 +1,6 @@
 ---
-id: 337
 title: 'Release your thoughts: publish as you go'
-date: 2016-08-05T16:14:12+00:00
-author: stdm
 layout: post
-guid: https://dublin.zhaw.ch/~stdm/?p=337
-permalink: /?p=337
 categories:
   - Education
   - Research
@@ -19,8 +14,6 @@ tags:
 Here&#8217;s the point: Everyone of us (e.g., me and my team) who tried some hands-on deep learning had to follow basically the same steps. Installation marathon,  follow easy example, collect lessons learned. And we all had to document our work somehow for the sake of the team or the (next) project. And we all have been glad to have this job done and move and to more interesting stuff.
 
 I&#8217;d suggest that we all (having this experience with research/development &#8220;chores&#8221;) try to copy Mark&#8217;s model: **Put 5% more effort into public documentation.** Helps others, leaves a foot print with one&#8217;s own name on it, and is great training in writing.
-
-<!--more-->
 
 Another great example is <a href="http://bamos.github.io/2016/08/09/deep-completion/" target="_blank">this blog post </a>on image completion, giving a nice tutorial-style introduction and code for <a href="https://arxiv.org/abs/1607.07539" target="_blank">this arXiv paper</a> that appeared just 2 weeks earlier. Thus, Brandon Amos, the blogger, assumedly dived into understanding the paper and just collected his findings and explanations he needed for himself anyhow by starting to author the blog post. Awesome.
 

@@ -1,11 +1,6 @@
 ---
-id: 388
 title: Career planning
-date: 2016-11-07T14:24:12+00:00
-author: stdm
 layout: post
-guid: https://dublin.zhaw.ch/~stdm/?p=388
-permalink: /?p=388
 categories:
   - Education
   - Opinion
@@ -17,7 +12,10 @@ tags:
   - Master
   - Ph.D.
 ---
-<span style="font-size: 1rem;">The picture above basically says &#8220;learn hairdressing to become a biologist&#8221;.</span>
+
+![Advertisement](http://stdm.github.io/images/coiffeur_biologe.jpg)
+
+The picture above basically says &#8220;learn hairdressing to become a biologist&#8221;.
 
 It is an advertisement aimed at young people to pursue a career that starts with an apprenticeship to learn a craft &#8211; in this case, hairdressing. (Apprenticeships are a famous and valid way of vocational training in the German speaking countries to enter the job market without the need of academic education. This is fine, and there is absolutely nothing wrong about it: Not every job needs academic education, and not every person needs it either. Society would be seriously wrong if it would be otherwise, here I totally agree with <a href="http://www.panorama.ch/dyn/1122.aspx?id_article=446" target="_blank">Rudolf Strahm</a>.)
 

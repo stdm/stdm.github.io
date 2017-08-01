@@ -1,11 +1,6 @@
 ---
-id: 327
 title: 'Some places to start learning AI, ML &#038; data science (continually expanded)'
-date: 2016-06-22T09:12:52+00:00
-author: stdm
 layout: post
-guid: https://dublin.zhaw.ch/~stdm/?p=327
-permalink: /?p=327
 categories:
   - Education
   - Research
@@ -26,8 +21,6 @@ Here are some links to my favourite [MOOC](https://en.wikipedia.org/wiki/Massive
   * [&#8220;Neural Networks&#8221;](http://info.usherbrooke.ca/hlarochelle/cours/ift725_A2013/contenu.html) by Hugo Larochelle, U Sherbrooke ([video lectures](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
   * [&#8220;Deep Learning: Take machine learning to the next level&#8221;](https://www.udacity.com/course/deep-learning--ud730) by Vincent Vanhoucke, Google
   * [&#8220;Big Data Analysis with Apache Spark&#8221;](https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x) by Anthony Joseph, UC Berkeley
-
-<!--more-->
 
 These reading resources might also be of interest (use cases, deep dives into specific methods):
 

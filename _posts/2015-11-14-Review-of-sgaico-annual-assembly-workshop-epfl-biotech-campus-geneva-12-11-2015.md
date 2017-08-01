@@ -1,11 +1,6 @@
 ---
-id: 289
 title: 'Review of SGAICO Annual Assembly &#038; Workshop, EPFL Biotech Campus, Geneva, 12.11.2015'
-date: 2015-11-14T12:50:54+00:00
-author: stdm
 layout: post
-guid: https://dublin.zhaw.ch/~stdm/?p=289
-permalink: /?p=289
 categories:
   - Education
   - Ethics

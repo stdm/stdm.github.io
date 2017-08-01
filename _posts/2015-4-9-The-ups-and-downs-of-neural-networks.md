@@ -1,11 +1,7 @@
 ---
-id: 241
 title: The ups and downs of Neural Networks
-date: 2015-04-09T10:34:56+00:00
-author: stdm
 layout: post
 guid: https://dublin.zhaw.ch/~stdm/?p=241
-permalink: /?p=241
 categories:
   - Readings
   - Research

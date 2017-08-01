@@ -13,8 +13,6 @@ Over the last 15 years, I&#8217;ve got to value certain personality tests (yes, 
 
 I like such tests because you can easily learn a lot about yourself by just answering 20-100 carefully designed questions quickly and truthfully, and it never stops to amaze me how accurate I find myself described after taking such a test (offline, of course, with pen&paper). The take home messages I get from these results easily outperform what I had a hard time figuring out introspecting myself over extended amounts of time. They show me my potential in certain areas, but also certain weaknesses that is good to be aware of (and be it only to be less annoying to fellow people).
 
-<!--more-->
-
 Following is a list of links to some such test systems that I found interesting over the years. Use it as a resource if you want to learn more about yourself, and judge the results for yourself (sorry, links are mostly in German as these are the sources I know):
 
   * <a style="font-size: 1rem;" href="https://de.wikipedia.org/wiki/Myers-Briggs-Typenindikator" target="_blank">MBTI Myers-Briggs type indicator</a><span style="font-size: 1rem;">: state of the art method that tells you how you perceive the world and make decisions. Very accurate, but expensive. Used by big companies during their executive training. Distinguishes 16 types. A free test is available after registration </span><a style="font-size: 1rem;" href="https://www.16personalities.com/" target="_blank">here</a><span style="font-size: 1rem;">.</span>
