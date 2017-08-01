@@ -1,11 +1,6 @@
 ---
-id: 430
 title: Getting to know oneself
-date: 2016-12-20T16:59:54+00:00
-author: stdm
 layout: post
-guid: https://dublin.zhaw.ch/~stdm/?p=430
-permalink: /?p=430
 categories:
   - Allgemein
   - Education

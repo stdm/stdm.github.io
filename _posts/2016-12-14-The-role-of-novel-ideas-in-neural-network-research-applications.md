@@ -1,11 +1,6 @@
 ---
-id: 416
 title: 'The role of novel ideas in neural network research &#038; applications'
-date: 2016-12-14T11:28:14+00:00
-author: stdm
 layout: post
-guid: https://dublin.zhaw.ch/~stdm/?p=416
-permalink: /?p=416
 categories:
   - Opinion
   - Research
