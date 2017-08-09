@@ -60,8 +60,8 @@ Types:
 | MAS Data Science| **Master of Advanced Studies in Data Science** | continuing education program | technically oriented data science education for university alumnis | co-initiate, co-create | Spring 2014-2015 |  
 | IE1 | **Information Engineering 1** | lecture & lab | last year BSc computer science elective course | introduction to information retrieval | co-teach | Fall 2015 |
 | PROG2 | **Programmieren 2** | lecture & lab | BSc computer science foundational module | advanced Java programming & tooling | co-create, teach | Spring 2014-2017 |
-| Big Data | **Big Data** | lecture & lab | continuing education module in [CAS Information Engineering](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-information-| DSSY | **Decision Support Systems** | lecture & lab | last year BSc industrial engineering course | data warehousing & big data | co-create, (co-)teach | Spring 2013-2015 |
-engineering.html) | foundations and tools of processing at scale for data scientists | co-teach | Spring 2015 |
+| Big Data | **Big Data** | lecture & lab | continuing education module in [CAS Information Engineering](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-information-engineering.html) | foundations and tools of processing at scale for data scientists | co-teach | Spring 2015 |
+| DSSY | **Decision Support Systems** | lecture & lab | last year BSc industrial engineering course | data warehousing & big data | co-create, (co-)teach | Spring 2013-2015 |
 | ITPROG | **IT Programming** | lecture & lab | BSc industrial/aviation/transportation engineering foundational module | introduction to programming with Python | initiate, create, teach | Fall 2014-2015 |
 | PPRG | **Prozedurale Programmierung** | lecture & lab | BSc aviation/industrial engineering foundational module | Java for beginners | teach | Fall 2013 |
 | PSIT 1&2 | **Projektschiene 1&2** | guided project, reviews | BSc computer science foundational module | project track software development | co-create | Fall 2013 |
