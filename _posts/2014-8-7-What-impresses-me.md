@@ -5,6 +5,6 @@ categories:
   - Ethics
   - Thoughts
 ---
-[<img class="size-full wp-image-206 alignleft" alt="brodie_main" src="http://stdm.github.io/images/brodie_main.jpg" width="120" height="180" />](http://stdm.github.io/images/brodie_main.jpg)&#8230;is a computer scientist with a level of maturity to ponder on these questions that Michael Brodie raised here: [http://www.michaelbrodie.com/michael\_brodie\_statement.asp](http://www.michaelbrodie.com/michael_brodie_statement.asp)
+...is a computer scientist with a level of maturity to ponder on these questions that Michael Brodie raised [here](http://www.michaelbrodie.com/michael_brodie_statement.asp):
 
-(Hint: _&#8220;Whatever you are doing with computers, you are changing our world. Is it for the better?&#8221;_ -> align the work your doing with the vision of the world you want to live in.)
+"Whatever you are doing with computers, you are changing our world. Is it for the better? -> align the work your doing with the vision of the world you want to live in."

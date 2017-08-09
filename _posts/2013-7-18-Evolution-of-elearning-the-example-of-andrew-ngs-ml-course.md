@@ -4,7 +4,6 @@ layout: post
 categories:
   - Education
 ---
-<img class="alignright" alt="" src="https://www.coursera.org//maestro/api/course/970311/logo" width="240" height="135" />
 
 **The example of Andrew Ng&#8217;s ML course then and now**
 
