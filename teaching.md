@@ -93,10 +93,12 @@ layout: page
 
 ## Past lectures
 
-Tag | Name | Format | Type | Content | Did what? | When?
---- | --- | --- | --- | --- | --- | --- 
-[TSM_MachLe](https://www.msengineering.ch/en/course-structure/theory-modules/tsm-modules.html) | **Machine Learning** | lecture & lab | MSc computer science & engineering elective course | mid-level course on practical machine learning with a focus on deep learning | co-create. co-teach | Spring 2017
-IE1 | **Information Engineering 1** | lecture & lab | last year BSc computer science elective course | introduction to information retrieval | co-teach | Fall 2015
+| Tag | Name | Format | Type | Content | Did what? | When? |
+| --- | --- | --- | --- | --- | --- | --- |
+| [TSM_MachLe](https://www.msengineering.ch/en/course-structure/theory-modules/tsm-modules.html) | **Machine Learning** | lecture & lab | MSc computer science & engineering elective course | mid-level course on practical machine learning with a focus on deep learning | co-create, co-teach | Spring 2017 |
+| IE1 | **Information Engineering 1** | lecture & lab | last year BSc computer science elective course | introduction to information retrieval | co-teach | Fall 2015 |
+| EVA MI LAB | **Machine Intelligence Lab** | MOOC, colloquia & hackathon | experience an online course on an advanced machine learning topic | create, teach | Fall 2015-2017 |
+
 
   * Created and taught Master's level extended advanced module (EVA) **Machine Intelligence Lab** (EVA MI Lab, MSc engineering elective module for computer scientists and data scientists)
   
