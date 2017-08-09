@@ -87,6 +87,15 @@ layout: page
   * Co-Taught **Information Engineering 1** (IE1, last year BSc computer science elective module, **Information Retrieval**)
     
     Fall 2015
+  * Created and taught Master's level extended advanced module (EVA) **Machine Intelligence Lab** (EVA MI Lab, MSc engineering elective module for computer scientists and data scientists)
+  
+    Fall 2015-2017
+  * Co-created and taught lecture **Programmieren 2** (PROG2, BSc computer science foundational module, advanced Java programming)
+  
+    Spring 2014-2017
+  * Created and taught lecture **Machine Learning** (ML, )
+  
+    Fall 2015-2016, spring 2017
 
 
 
@@ -97,18 +106,12 @@ layout: page
 | --- | --- | --- | --- | --- | --- | --- |
 | [TSM_MachLe](https://www.msengineering.ch/en/course-structure/theory-modules/tsm-modules.html) | **Machine Learning** | lecture & lab | MSc computer science & engineering elective course | mid-level course on practical machine learning with a focus on deep learning | co-create, co-teach | Spring 2017 |
 | IE1 | **Information Engineering 1** | lecture & lab | last year BSc computer science elective course | introduction to information retrieval | co-teach | Fall 2015 |
-| EVA MI LAB | **Machine Intelligence Lab** | MOOC, colloquia & hackathon | experience an online course on an advanced machine learning topic | create, teach | Fall 2015-2017 |
+| EVA MI LAB | **Machine Intelligence Lab** | MOOC, colloquia & hackathon | MSc extended advanced module (EVA) | experience an online course on an advanced machine learning topic | create, teach | Fall 2015-2017 |
+| PROG2 | **Programmieren 2** | lecture & lab | BSc computer science foundational module | advanced Java programming & tooling | co-create, teach | Spring 2014-2017 |
+| ML | **Machine Learning** | lecture & lab | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Machine Intelligence](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-machine-intelligence.html) | practical machine learning for data scientists | create. teach | Fall 2015-2016, spring 2017 |
+| DPD | **Data Product Design** | lecture, lab, guest appearances, video pitch | 
 
 
-  * Created and taught Master's level extended advanced module (EVA) **Machine Intelligence Lab** (EVA MI Lab, MSc engineering elective module for computer scientists and data scientists)
-  
-    Fall 2015-2017
-  * Co-created and taught lecture **Programmieren 2** (PROG2, BSc computer science foundational module, advanced Java programming)
-  
-    Spring 2014-2017
-  * Created and taught lecture **Machine Learning** (ML, continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Machine Inteligence](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-machine-intelligence.html) for data scientists)
-  
-    Fall 2015-2016, spring 2017
   * Co-created and co-taught lecture **Data Product Design** (DPD, continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Data Product Design](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-product-design.html) fpr data scientists)
   
     Fall 2015-2017
