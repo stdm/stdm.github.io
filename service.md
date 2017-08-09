@@ -150,7 +150,7 @@ See my [Marburgian page](http://www.informatik.uni-marburg.de/~stadelmann/resear
     05/2013 - ongoing
   * Co-organizer & member of program committee: Deep Learning and Beyond, 16.11.2016, Rotkreuz/Switzerland
   
-  * General chair: SDS|2016, the [3rd Swiss Conference on Data Science](www.zhaw.ch/datalab/sds2016), 16.09.2016, Winterthur, Switzerland
+  * General chair: SDS\|2016, the [3rd Swiss Conference on Data Science](www.zhaw.ch/datalab/sds2016), 16.09.2016, Winterthur, Switzerland
   
   * Member of program committee, <a href="https://www.twt-gmbh.de/en/cpsdata.html" target="_blank">CPSData </a>@ <a href="http://www.cpsweek.org/2016/" target="_blank">CPSWeek 2016 Vienna</a>: &#8220;Second International Workshop on modeling, analysis and control of complex Cyber-Physical Systems&#8221;, 11.04.2016, Vienna/Austria
   
