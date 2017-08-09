@@ -8,8 +8,8 @@ layout: page
 ### 2017
  
   * _Wie denken denkende Maschinen?_  
-    Swiss ICT Symposium 2017, Lucerne, Switzerland
-    November 14, 2017
+    Swiss ICT Symposium 2017, Lucerne, Switzerland 
+    November 14, 2017 
  
   * _Wissenschaftliches Vorgehen: Der beste Weg zu guter Praxis_
   
