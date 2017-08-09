@@ -8,55 +8,32 @@ layout: page
 ### 2017
  
   * _Wie denken denkende Maschinen?_  
-    Swiss ICT Symposium 2017, Lucerne, Switzerland 
-    November 14, 2017 
+    Swiss ICT Symposium 2017, Lucerne, Switzerland, November 14, 2017 
  
   * _Wissenschaftliches Vorgehen: Der beste Weg zu guter Praxis_
-  
-    Tagung "Best Teaching - Best Practices", Wädenswil, Switzerland
-  
-    September 6, 2017
+    Tagung "Best Teaching - Best Practices", Wädenswil, Switzerland, September 6, 2017
  
   * _Beyond ImageNet - Deep Learning in Industrial Practice_ (together with Oliver Duerr)
-  
-    4th Swiss Conference on Data Science, SDS|2017, Bern, Switzerland
-  
-    June 16, 2017
+    4th Swiss Conference on Data Science, SDS|2017, Bern, Switzerland, June 16, 2017
     
     [Youtube](https://youtu.be/mRis4rBxXg0)
- 
   * _CTI projects - how they work_ (deputizing Gerold Baudinot)
-  
-    SwissText 2017, Winterthur, Switzerland
-  
-    June 9, 2017    
+    SwissText 2017, Winterthur, Switzerland, June 9, 2017    
     
     [Youtube](https://youtu.be/FuYbk4zyaTw)
- 
   * _Der Motor der digitalen Transformation – Eine Winterthurer Perspektive auf Data Science und KI_
-  
-    WinLink early morning session, Winterthur, Switzerland
-  
-    May 10, 2017
+    WinLink early morning session, Winterthur, Switzerland, May 10, 2017
   
   * _The ZHAW Data Science Laboratory_
-    
-    Departementstag of the faculty of the ZHAW School of Engineering, Winterthur, Switzerland
-    
-    January 13, 2017
+    Departementstag of the faculty of the ZHAW School of Engineering, Winterthur, Switzerland, January 13, 2017
   
 ### 2016
 
   * _Erfolg im 21. Jahrhundert: Daten entscheiden. Wie die Swiss Alliance for Data-Intensive Services datenbasierte Mehrwerte schafft_
-    
-    Innovation Apéro of the Technopark Winterthur, Switzerland
-    
-    November 17, 2016
+    Innovation Apéro of the Technopark Winterthur, Switzerland, November 17, 2016
     
     [Slideshare](www.slideshare.net/thilo_stadelmann/wie-die-swiss-alliance-for-dataintensive-services-datenbasierte-mehrwerte-schafft)
-
   * _Data Science made in Switzerland_
-    
     Interview with Steffen Lukesch at Hochschultag ZHAW, Zurich, Switzerland
     
     November 09, 2016
