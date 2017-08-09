@@ -3,17 +3,17 @@ title: Audio Processing @ ZHAW
 layout: page
 ---
 
-### Abstract
+## Abstract
 
 This page collects information and resources on audio processing research at ZHAW. If you are interested in (or need) audio processing research at/from ZHAW (as a colleague or potential project partner), please contact us.
 
-### People
+## People
 
 A group of scientists from different backgrounds is involved in audio processing research here at ZHAW (in alphabetical order):
 
 | Name | Competencies | 
 | [Philipp Ackermann](www.zhaw.ch/=acke) | Digital mixing consoles, Digital music, Human computer interaction |
-| [Mark Cieliebak](www.zhaw.ch/=ciel) | Mobile sound processing | Natural language technologies |
+| [Mark Cieliebak](www.zhaw.ch/=ciel) | Mobile sound processing, Natural language technologies |
 | [Oliver Dürr](www.zhaw.ch/=dueo) | Deep learning for sound & speech analysis |
 | [Sven Hirsch](www.zhaw.ch/=hirc) | Audio fingerprinting & music classification, Sound installations |
 | [Hans-Peter Hutter](www.zhaw.ch/=huhp) | Automatic speech recognition, Handset & channel normalization |
@@ -22,7 +22,7 @@ A group of scientists from different backgrounds is involved in audio processing
 | [Sigisbert Wyrsch](www.zhaw.ch/=wyrs) | Active noise reduction /cancellation, Digital audio signal processing, Hearing aid engineering |
 | ...to be continued | (please get in touch)! |
 
-### Projects
+## Projects
 
   * Master Thesis ("MT") on "Learning to Cluster" (HS 2017)
   * Paper at [IEEE MLSP 2017](http://mlsp2017.conwiz.dk/home.htm) on ["Learning Embeddings for Speaker Clustering Based on Voice Equality"](https://www.zhaw.ch/no_cache/de/forschung/personen-publikationen-projekte/detailansicht-publikation/publikation/212963/) (09/2017)
@@ -40,6 +40,6 @@ A group of scientists from different backgrounds is involved in audio processing
   * Bachelor Thesis ("BA") on "Erkennung von Hintergrundmusik in Broadcast Audio" (FS 2015)
   * Project [Talkalyzer - Mobile App for Share-in-Speech Analysis via Real-Time Speaker Classification](http://www.zhaw.ch/fileadmin/php_includes/popup/projekt-detail.php?projektnr=1799) (09/2013 - 12/2014)
 
-### Resources
+## Resources
 
   * M. Barning, ["Spectrograms and speech processing"](http://www.web3.lu/spectrogram-speech-processing/), 2014: Blog post on tools and background information on the spectrograms
