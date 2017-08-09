@@ -3,14 +3,12 @@ title: Service
 layout: page
 ---
 
-# Talks
+## Talks
 
 ### 2017
  
-  * _Wie denken denkende Maschinen?_
-  
+  * _Wie denken denkende Maschinen?_  
     Swiss ICT Symposium 2017, Lucerne, Switzerland
-  
     November 14, 2017
  
   * _Wissenschaftliches Vorgehen: Der beste Weg zu guter Praxis_
@@ -272,7 +270,7 @@ layout: page
 See my [Marburgian page](http://www.informatik.uni-marburg.de/~stadelmann/research.html#talks) for some of the previous talks I gave (mostly on audio and speech processing topics).
 
 
-# Offices
+## Offices
 
   * Co-founder and member of the board of the [Swiss Alliance for Data-Intensive Services](www.data-service-alliance.ch), a CTI-funded [National Thematic Network](https://www.kti.admin.ch/kti/en/home/unsere-foerderangebote/fuer-forschende/vernetzungsmoeglichkeiten.html)
  
