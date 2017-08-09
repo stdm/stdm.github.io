@@ -2,18 +2,26 @@
 title: Teaching
 layout: page
 ---
-## Currently (Fall 2017)
-  * Teaching lecture "Künstliche Intelligenz 1" (KI1, last year BSc computer science elective course, introductory practical AI course based on Russell&Norvig's book)
-  * Teachiung Master's level extended advanced module (EVA) **Machine Intelligence Lab** (EVA MI Lab, MSc engineering elective module for computer scientists and data scientists)
-  * Supervising Bachelor Project Thesis ("PA") **Are final grades predictable from resume photos? Debugging deep neural networks based on a controversial claim**
-  * Supervising Bachelor Project Thesis ("PA") **Deep Learning Verfahren das Malen beibringen: Optimiertes Training für GANs**
-  * Supervising Bachelor Project Thesis ("PA") **Deep Learning for Speaker Clustering**
-  * Supervising Bachelor Project Thesis ("PA") **Deep Learning-basierte Voice Conversion mittels problemspezifischer Loss-Funktion**
-  * Supervising Master Thesis ("MT") **Learning to Cluster**
-  * Supervising Master Thesis ("MT") **Reinforcement Learning to Play 'Doom'**
 
-
-## Past supervised thesis projects (all levels)
+## Supervised thesis projects (all levels)
+  * Fall 2017 Bachelor Project Thesis ("PA") 
+  
+    **Are final grades predictable from resume photos? Debugging deep neural networks based on a controversial claim**
+  * Fall 2017 Bachelor Project Thesis ("PA") 
+  
+    **Deep Learning Verfahren das Malen beibringen: Optimiertes Training für GANs**
+  * Fall 2017 Bachelor Project Thesis ("PA") 
+    
+    **Deep Learning for Speaker Clustering**
+  * Fall 2017 Bachelor Project Thesis ("PA") 
+  
+    **Deep Learning-basierte Voice Conversion mittels problemspezifischer Loss-Funktion**
+  * Fall 2017 Master Thesis ("MT") 
+  
+    **Learning to Cluster**
+  * Fall 2017 Master Thesis ("MT") 
+  
+    **Reinforcement Learning to Play 'Doom'**
   * Spring 2017 Bachlor Thesis ("BA") 
   
     **Machine Learning for Speaker Clustering**
@@ -79,64 +87,27 @@ layout: page
     **Einsatz von Graphenalgorithmen zur Verbesserung der Pünktlichkeit von Zügen**
 
 
-
-  * Created new 2-semester lecture **Künstliche Intelligenz 1&2** (KI1&2, last year BSc computer science elective course, practical artificial intelligence)
-  * Co-Created and co-taught lecture **Machine Learning** (TSM_MachLe, [MSc engineering](http://www.msengineering.ch) module, mid-level course on practical machine learning with a focus on deep learning)
-  
-    Spring 2017
-  * Co-Taught **Information Engineering 1** (IE1, last year BSc computer science elective module, **Information Retrieval**)
-    
-    Fall 2015
-  * Created and taught Master's level extended advanced module (EVA) **Machine Intelligence Lab** (EVA MI Lab, MSc engineering elective module for computer scientists and data scientists)
-  
-    Fall 2015-2017
-  * Co-created and taught lecture **Programmieren 2** (PROG2, BSc computer science foundational module, advanced Java programming)
-  
-    Spring 2014-2017
-  * Created and taught lecture **Machine Learning** (ML, )
-  
-    Fall 2015-2016, spring 2017
-
-
-
-
-## Past lectures
+## Lectures & curriculae
 
 | Tag | Name | Format | Type | Content | Did what? | When? |
 | --- | --- | --- | --- | --- | --- | --- |
-| [TSM_MachLe](https://www.msengineering.ch/en/course-structure/theory-modules/tsm-modules.html) | **Machine Learning** | lecture & lab | MSc computer science & engineering elective course | mid-level course on practical machine learning with a focus on deep learning | co-create, co-teach | Spring 2017 |
+| [KI1](https://olat.zhaw.ch/auth/RepositoryEntry/219152410/CourseNode/95069693647358) | **Künstliche Intelligenz 1** | lecture & lab | final year BSc computer science elective course | practical AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017 |
+| KI2 | **Künstliche Intelligenz 2** | lecture & lab | finale year BSc computer science elective course | AI applications with a focus on neural networks | responsible, co-initiate, co-create | Fall 2017 |
+| [TSM_MachLe](https://www.msengineering.ch/en/course-structure/theory-modules/tsm-modules.html) | **Machine Learning** | lecture & lab | MSc computer science & engineering elective course | mid-level course on practical machine learning with a focus on deep learning | responsible, initiate, co-create, co-teach | Spring 2017 |
+| EVA MI LAB | **Machine Intelligence Lab** | MOOC, colloquia & hackathon | MSc extended advanced module (EVA) | experience an online course on an advanced machine learning topic | responsible, initiate, co-create, (co-)teach | Fall 2015-2017 |
+| EVA AI Seminar | **Artificial Intelligence Semniar** | seminar, blog posts, talk | MSc extended advanced module (EVA) | read, understand and write scientific literature | initiate, create, create, teach | Spring 2017 |
+| ML | **Machine Learning** | lecture & lab | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Machine Intelligence](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-machine-intelligence.html) | practical machine learning for data scientists | responsible, initiate, create, teach | Fall 2015-2016, spring 2017 |
+| DPD | **Data Product Design** | lecture, lab, guest appearances, video pitch | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Data Product Design](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-product-design.html) | business basics for techie data scientists | initiate, co-create, co-teach | Fall 2015-2017 |
+| Scripting | **Scripting** | lecture & lab | continuing education module in [CAS Information Engineering](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-information-engineering.html) | foundations of scripting for analytics with Python for data scientists | initiate, create, teach | Fall 2014-2015 |
+| MAS Data Science| **Master of Advanced Studies in Data Science** | continuing education program | technically oriented data science education for university alumnis | co-initiate, co-create | Spring 2014-2015 |  
 | IE1 | **Information Engineering 1** | lecture & lab | last year BSc computer science elective course | introduction to information retrieval | co-teach | Fall 2015 |
-| EVA MI LAB | **Machine Intelligence Lab** | MOOC, colloquia & hackathon | MSc extended advanced module (EVA) | experience an online course on an advanced machine learning topic | create, teach | Fall 2015-2017 |
 | PROG2 | **Programmieren 2** | lecture & lab | BSc computer science foundational module | advanced Java programming & tooling | co-create, teach | Spring 2014-2017 |
-| ML | **Machine Learning** | lecture & lab | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Machine Intelligence](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-machine-intelligence.html) | practical machine learning for data scientists | create. teach | Fall 2015-2016, spring 2017 |
-| DPD | **Data Product Design** | lecture, lab, guest appearances, video pitch | 
-
-
-  * Co-created and co-taught lecture **Data Product Design** (DPD, continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Data Product Design](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-product-design.html) fpr data scientists)
-  
-    Fall 2015-2017
-  * Co-Taught lecture**Big Data** (continuing education module in [CAS Information Engineering](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-information-engineering.html) for data scientists)
-  
-    Spring 2015
-  * Created and taught lecture **IT Programming** (IT-PROG, BSc industrial/aviation/transportation engineering foundational module, introduction to programming with Python) 
-  
-    Fall 2014-2015
-  * Created and taught lecture **Scripting** (continuing education module in [CAS Information Engineering](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-information-engineering.html) for dara scientists, data analysis with Python)
-  
-    Fall 2014-2015
-  * Co-created and (co-)taught lecture **Decision Support Systems** (DSSY, last year BSc industrial engineering course, data warehousing & big data)
-  
-    Spring 2013-2015
-  * Co-created curriculum for a <a title="DAS Data Science" href="http://www.engineering.zhaw.ch/nc/de/engineering/weiterbildung/programmdetails.html?i=T903680&amp;gu=0" target="_blank">"Dimploma of Advanced Studies" (DAS) in <strong>Data Science</strong></a> (2014)
-  
-  * Co-created **Projektschiene 1&2** (PSIT1&2, BSc computer science foundational module, project track software development)
-  
-  Fall 2013  
-  * Taught **Prozedurale Programmierung** (PPRG, BSc aviation/industrial engineering foundational module, Java for beginners)
-  
-  Fall 2013  
-  * Guest appearences in **Datenbanken 1** (DBBSc computer science foundational module, introduction to databases) for undergraduate computer scientists (<a title="DAB1 Kursbeschreibung" href="https://tat.zhaw.ch/moku_mig/kurs.pdf.jsp?code=dab1&lang=de" target="_blank">DAB1</a>) (Fall 2013)
-  
-  * Guest appearences in "**<a title="IRG Kursbeschreibung" href="https://tat.zhaw.ch/kube2010/pdf/2010-2011/KuBe2010_t.IRG_de.pdf" target="_blank">Information Retrieval Grundlagen</a>**" (foundations of information retrieval) for undergraduate computer scientists (Spring 2013)
+| Big Data | **Big Data** | lecture & lab | continuing education module in [CAS Information Engineering](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-information-| DSSY | **Decision Support Systems** | lecture & lab | last year BSc industrial engineering course | data warehousing & big data | co-create, (co-)teach | Spring 2013-2015 |
+engineering.html) | foundations and tools of processing at scale for data scientists | co-teach | Spring 2015 |
+| ITPROG | **IT Programming** | lecture & lab | BSc industrial/aviation/transportation engineering foundational module | introduction to programming with Python | initiate, create, teach | Fall 2014-2015 |
+| PPRG | **Prozedurale Programmierung** | lecture & lab | BSc aviation/industrial engineering foundational module | Java for beginners | teach | Fall 2013 |
+| PSIT 1&2 | **Projektschiene 1&2** | guided project, reviews | BSc computer science foundational module | project track software development | co-create | Fall 2013 |
+| DAB1 | **Datenbanken 1** | lecture | BSc computer science foundational course | relational algebra, databases, and SQL | guest appearance | Fall 2013 |
+| IRG | **Information Retrieval Grundlagen** | final year BSc computer science elective course | foundations of textual information retrieval | guest appearance | Spring 2013 |
 
 See also my [Marburgian page](http://www.informatik.uni-marburg.de/~stadelmann/teaching.html) for several lectures, labs and supervised theses in the area of **Multimedia Analysis and Retrieval** (2005-2009).
