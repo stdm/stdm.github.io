@@ -4,87 +4,45 @@ layout: page
 ---
 
 ## Supervised thesis projects (all levels)
-  * Fall 2017 Bachelor Project Thesis ("PA") 
-  
-    **Are final grades predictable from resume photos? Debugging deep neural networks based on a controversial claim**
-  * Fall 2017 Bachelor Project Thesis ("PA") 
-  
-    **Deep Learning Verfahren das Malen beibringen: Optimiertes Training für GANs**
-  * Fall 2017 Bachelor Project Thesis ("PA") 
-    
-    **Deep Learning for Speaker Clustering**
-  * Fall 2017 Bachelor Project Thesis ("PA") 
-  
-    **Deep Learning-basierte Voice Conversion mittels problemspezifischer Loss-Funktion**
-  * Fall 2017 Master Thesis ("MT") 
-  
-    **Learning to Cluster**
-  * Fall 2017 Master Thesis ("MT") 
-  
-    **Reinforcement Learning to Play 'Doom'**
-  * Spring 2017 Bachlor Thesis ("BA") 
-  
-    **Machine Learning for Speaker Clustering**
-  * Spring 2017 Bachlor Thesis ("BA") 
-  
-    **Speaker Clustering with Metric Embeddings**
-  * Fall 2016 Bachelor Project Thesis ("PA") 
-    
-    **Recurrent Neural Networks for Speaker Recognition**
-  * Fall 2016 Bachelor Project Thesis ("PA") 
-  
-    **Pinball Wizard II: Using Deep Reinforcement Learning to Train a Pinball Wizard**
-  * Fall 2016 Bachelor Project Thesis ("PA") 
-  
-    **Deep OMR: New Ways for Optical Music Recognition**
-  * Fall 2016 Master project Thesis ("MSE-PA1", see resulting [paper](https://www.zhaw.ch/no_cache/de/forschung/personen-publikationen-projekte/detailansicht-publikation/publikation/212962/)) 
-  
-    **Fully Convolutional Neural Networks for newspaper Article Segmentation**
-  * Spring 2016 Master Project Thesis ("MSE-PA1") 
-  
-    **Reinforcement Learning for Building Control** 
-  * Spring 2016 Bachelor Thesis ("BA") 
-  
-    **Instrumentenerkennung in Single-Source Audio Streams** 
-  * Spring 2016 Bachelor Thesis ("BA", see resulting [paper](https://www.zhaw.ch/no_cache/de/forschung/personen-publikationen-projekte/detailansicht-publikation/publikation/212963/))
-  
-    **Automatische Stimmerkennung mit Deep Learning (Neuronalen Netzen)** 
-  * Spring 2016 Bachelor Thesis ("BA") 
-  
-    **Künstliche Intelligenz für das Zahlenpuzzle 2048** 
-  * Fall 2015 Bachelor Project Thesis ("PA") 
-  
-    **Künstliche Intelligenz für 'Super Mario' durch Neuroevolution** 
-  * Fall 2015 Bachelor Project Thesis ("PA",see resulting [paper](https://www.zhaw.ch/no_cache/de/forschung/personen-publikationen-projekte/detailansicht-publikation/publikation/210537/)) 
-  
-    **Sprechererkennung mit Deep Neural Networks** 
-  * Fall 2015 Bachelor Project Thesis ("PA") 
-  
-    **Automatische Erkennung der Akkordfolge in Popmusik** 
-  * Spring 2015 Bachelor Thesis ("BA") 
-  
-    **Erkennung von Hintergrundmusik in Broadcast Audio" 
-  * Spring 2015 Bachelor Thesis ("BA") 
-  
-    **Entwicklung einer Android-App zur Erkennung von Redeanteilen im Unterricht** 
-  * Spring 2015 Bachelor Thesis ("BA") 
-  
-    **Deep Learning für automatische Stimmerkennung** 
-  * Fall 2014 Project Thesis ("PA") 
-  
-    **Hilti Big Data Competition: Recommender Systeme**
-  * Spring 2014 Bachelor Thesis ("BA") 
-  
-    **Talkalyzer: Neue Algorithmen für automatische Sprecher-Erkennung**
-  * Spring 2014 Bachelor Thesis ("BA") 
-  
-    **Talkalyzer: Mobile-App zur automatischen Sprecher-Erkennung**
-  * Fall 2013 Project Thesis ("PA") 
-  
-    **Web-Scale Datenanalyse auf einer Big Data Appliance** 
-  * Fall 2013 Project Thesis ("PA") 
-  
-    **Einsatz von Graphenalgorithmen zur Verbesserung der Pünktlichkeit von Zügen**
+
+| When | Level | Type | Title |
+| --- | --- | --- | --- |
+| Fall 2017 | BSc | PA | **Are final grades predictable from resume photos? Debugging deep neural networks based on a controversial claim** |
+| Fall 2017 | BSc | PA | **Deep Learning Verfahren das Malen beibringen: Optimiertes Training für GANs** |
+| Fall 2017 | BSc | PA | **Deep Learning for Speaker Clustering** |
+| Fall 2017 | BSc | PA | **Deep Learning-basierte Voice Conversion mittels problemspezifischer Loss-Funktion** |
+| Fall 2017 | MSc | MT | **Learning to Cluster** |
+| Fall 2017 | MSc | MT | **Reinforcement Learning to Play 'Doom'** |
+| Spring 2017 | MSc | VT2 | **Deep Learning for End-to-End Voice Conversion - a Survey** |
+| Spring 2017 | MSc | VT1 | **Evaluating OMR Systems** |
+| Spring 2017 | BSc | BA | **Machine Learning for Speaker Clustering** |
+| Spring 2017 | MSc | BA | **Speaker Clustering with Metric Embeddings** |
+| Fall 2016 | BSc | PA | **Recurrent Neural Networks for Speaker Recognition** |
+| Fall 2016 | BSc | PA | **Pinball Wizard II: Using Deep Reinforcement Learning to Train a Pinball Wizard** |
+| Fall 2016 | BSc | PA | **Deep OMR: New Ways for Optical Music Recognition** |
+| Fall 2016 | MSc | VT1 | [**Fully Convolutional Neural Networks for newspaper Article Segmentation**](https://www.zhaw.ch/no_cache/de/forschung/personen-publikationen-projekte/detailansicht-publikation/publikation/212962/) |
+| Spring 2016 | MSc | VT1 | **Reinforcement Learning for Building Control** |
+| Spring 2016 | BSc | BA | **Instrumentenerkennung in Single-Source Audio Streams** 
+| Spring 2016 | BSc | BA | [ **Automatische Stimmerkennung mit Deep Learning (Neuronalen Netzen)**](https://www.zhaw.ch/no_cache/de/forschung/personen-publikationen-projekte/detailansicht-publikation/publikation/212963/) |
+| Spring 2016 | BSc | BA | **Künstliche Intelligenz für das Zahlenpuzzle 2048** |
+| Fall 2015 | BSc | PA | **Künstliche Intelligenz für 'Super Mario' durch Neuroevolution** |
+| Fall 2015 | BSc | PA | [**Sprechererkennung mit Deep Neural Networks**](https://www.zhaw.ch/no_cache/de/forschung/personen-publikationen-projekte/detailansicht-publikation/publikation/210537/) |
+| Fall 2015 | BSc | PA | **Automatische Erkennung der Akkordfolge in Popmusik** |
+| Spring 2015 | BSc | BA | **Erkennung von Hintergrundmusik in Broadcast Audio" |
+| Spring 2015 | BSc | BA | **Entwicklung einer Android-App zur Erkennung von Redeanteilen im Unterricht** |
+| Spring 2015 | BSc | BA | **Deep Learning für automatische Stimmerkennung** |
+| Fall 2014 | BSc | PA | **Hilti Big Data Competition: Recommender Systeme** |
+| Fall 2014 | BSc | PA | **Talkalyzer: Neue Algorithmen für automatische Sprecher-Erkennung** |
+| Spring 2014 | BSc | BA | **Talkalyzer: Mobile-App zur automatischen Sprecher-Erkennung** |
+| Fall 2013 | BSc | PA | **Web-Scale Datenanalyse auf einer Big Data Appliance** |
+| Fall 2013 | BSc | PA | **Einsatz von Graphenalgorithmen zur Verbesserung der Pünktlichkeit von Zügen** |
+
+Types:
+  * PA: Bachelor project thesis
+  * BA: Bachelor thesis
+  * VT1: Master specialization project thesis 1
+  * VT2: Master specialization project thesis 2
+  * MT: Master thesis
 
 
 ## Lectures & curriculae
