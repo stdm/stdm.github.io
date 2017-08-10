@@ -50,4 +50,8 @@ For the next mini batch, &#8230;
 
 This way, the m generated images per mini batch are the best the generator can do in its current form to mimic this particular batch of training data. The discriminator should be able to learn subtle features much more quickly, and the generator could be driven to learn improve mimicking in general: instead of alternating _the kind of objects_ produced in each mini batch, it learns to improve _the appearance of objects_ themselves.
 
-But so far, this is just an idea. Please let me know if you tried it out and have any insights!
+#### Update per August 09, 2017, by my MSc student Maria Schoenholzer
+
+Unfortunately, the idea described above does so far not lead to significant improvements in the training process. Source code and generated images of an implementation and respectuive experiment can be found in this [Github repository](https://github.com/maria-perevoznikova/dcgan-training). The 'results'' subfolder contains two archives with synthesized images: one contains images generated during unmodified training, another images generated during training with the modifications described above. The synthesized images have comparable quality after equal amount of iterations and the process doesn't seem to converge faster. Moreover, the modified training takes much longer for the same amount of iterations because of an additional z-fitting step.
+
+If you have additional insights, please let me know!
