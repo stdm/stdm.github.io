@@ -12,14 +12,14 @@ This page collects information and resources on audio processing research at ZHA
 A group of scientists from different backgrounds is involved in audio processing research here at ZHAW (in alphabetical order):
 
 | Name | Competencies | 
-| [Philipp Ackermann](www.zhaw.ch/=acke) | Digital mixing consoles, Digital music, Human computer interaction |
-| [Mark Cieliebak](www.zhaw.ch/=ciel) | Mobile sound processing, Natural language technologies |
-| [Oliver Dürr](www.zhaw.ch/=dueo) | Deep learning for sound & speech analysis |
-| [Sven Hirsch](www.zhaw.ch/=hirc) | Audio fingerprinting & music classification, Sound installations |
-| [Hans-Peter Hutter](www.zhaw.ch/=huhp) | Automatic speech recognition, Handset & channel normalization |
-| [Matthias Rosenthal](www.zhaw.ch/=rosn) | 3D audio algorithms, Development of embedded hardware for signal processing |
-| [Thilo Stadelmann](www.zhaw.ch/=stdm) | Automatic speaker recognition & clustering (diarization), Music & multimedia information retrieval, Sound classification and segmentation |
-| [Sigisbert Wyrsch](www.zhaw.ch/=wyrs) | Active noise reduction /cancellation, Digital audio signal processing, Hearing aid engineering |
+| [Philipp Ackermann](http://www.zhaw.ch/=acke) | Digital mixing consoles, Digital music, Human computer interaction |
+| [Mark Cieliebak](http://www.zhaw.ch/=ciel) | Mobile sound processing, Natural language technologies |
+| [Oliver Dürr](http://www.zhaw.ch/=dueo) | Deep learning for sound & speech analysis |
+| [Sven Hirsch](http://www.zhaw.ch/=hirc) | Audio fingerprinting & music classification, Sound installations |
+| [Hans-Peter Hutter](http://www.zhaw.ch/=huhp) | Automatic speech recognition, Handset & channel normalization |
+| [Matthias Rosenthal](http://www.zhaw.ch/=rosn) | 3D audio algorithms, Development of embedded hardware for signal processing |
+| [Thilo Stadelmann](http://www.zhaw.ch/=stdm) | Automatic speaker recognition & clustering (diarization), Music & multimedia information retrieval, Sound classification and segmentation |
+| [Sigisbert Wyrsch](http://www.zhaw.ch/=wyrs) | Active noise reduction /cancellation, Digital audio signal processing, Hearing aid engineering |
 | ...to be continued | (please get in touch)! |
 
 ## Projects
