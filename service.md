@@ -12,7 +12,8 @@ layout: page
  
   * **Wissenschaftliches Vorgehen: Der beste Weg zu guter Praxis** 
     Tagung "Best Teaching - Best Practices", Wädenswil, Switzerland, September 6, 2017
- 
+    
+    [Slideshare](https://de.slideshare.net/thilo_stadelmann/wissenschaftliches-vorgehen-der-beste-weg-zu-guter-praxis)
   * **Beyond ImageNet - Deep Learning in Industrial Practice** (together with Oliver Duerr) 
     4th Swiss Conference on Data Science, SDS|2017, Bern, Switzerland, June 16, 2017
     
