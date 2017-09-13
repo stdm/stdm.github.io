@@ -42,7 +42,7 @@ These reading resources might also be of interest (use cases, deep dives into sp
 Generally: If you want to make AI/ML (or more broadly, data science) a career, check out the following guides:
 
   * <a href="https://www.experfy.com/blog/how-to-become-a-data-scientist-part-1-3" target="_blank">&#8220;How to Become a Data Scientist&#8221;</a> by Alex Smith (also <a href="https://www.experfy.com/blog/how-to-become-a-data-scientist-part-2-3" target="_blank">part 2</a>)
-  * <a href="https://home.zhaw.ch/~stdm/downloads/papers/HMD_BigData_2015.pdf" target="_blank">&#8220;Data Scientist als Beruf&#8221;</a> by my colleagues Kurt, Andreas and myself (in German)
+  * <a href="http://stdm.github.io/downloads/HMD_2016.pdf" target="_blank">&#8220;Data Scientist als Beruf&#8221;</a> by my colleagues Kurt, Andreas and myself (in German)
   * <a href="http://karpathy.github.io/2016/09/07/phd/" target="_blank">&#8220;A survival Guide to a PhD&#8221;</a> by Andrej Karpathy
 
 Additionally, try attending the events of the [Zurich Machine learning & Data Science Meetup](http://www.meetup.com/de-DE/Zurich-Machine-Learning/) and think about joining [SGAICO](http://www.s-i.ch/sgaico/).

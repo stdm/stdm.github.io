@@ -8,11 +8,11 @@ categories:
 tags:
   - books
 ---
-I love books; I enjoy reading them, and I recently learend ([here](http://hochschuldidaktik.phzh.ch/de/CAS-Lehrgange/CAS_Hochschuldidaktik/Programm_Sommerstart/)) that reading books is even the best way I can learn (that might be different for you, though).
+I love books; I enjoy reading them, and I recently learend ([here](https://www.simplypsychology.org/learning-kolb.html)) that reading books is even the best way I can learn (that might be different for you, though).
 
 So, here's the beginning of a loosely coupled series of blog posts regarding my book shelfs: I want to introduce you to some of my favourites, hopefully with a short sentence of what I like about those volumes.
 
-[<img class="alignnone size-full wp-image-194" alt="ai-books" src="https://dublin.zhaw.ch/~stdm/wp-content/uploads/2014/07/ai-books.jpg" width="848" height="400" />](http://stdm.github.io/images/ai-books.jpg)
+[AI books](http://stdm.github.io/images/ai-books.jpg)
 
 This is the first part of my reference books that I keep in my ZHAW office - my precious AI/algorithm textbooks. Let's see what we have here (incomplete - only the favourites):
 
