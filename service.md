@@ -6,9 +6,6 @@ layout: page
 ## Talks
 
 ### 2017
-  * **Workshop Digitalisierung und Innovation**
-    Thesenschreiber & Workshopkonzeption, Konferenz Digitale Schweiz, Biel, November 20, 2017
-  
   * **Big Data Forschung aus der Perspektive des ZHAW Datalab**
     Strategietagung „Digitization“ of the Council of the Universities of Applied Sciences of the Canton of Zurich, November 17, 2017
 
@@ -49,7 +46,7 @@ layout: page
   * **Was denken denkende Maschinen** 
     WI Awards 2016, Zurich, Switzerland, October 20, 2016
   	
-  	[Slideshare](www.slideshare.net/thilo_stadelmann/was-denken-denkende-maschinen)
+    [Slideshare](www.slideshare.net/thilo_stadelmann/was-denken-denkende-maschinen)
   * **Künstliche Intelligenz**  
     Interview with Hannes Diggelmann of Radio1, September 26, 2016
     
@@ -143,6 +140,8 @@ See my [Marburgian page](http://www.informatik.uni-marburg.de/~stadelmann/resear
 
 
 ## Offices
+
+  * Thesenschreiber & workshop concept, [Workshop Digitalisierung und Innovation @ Konferenz Digitale Schweiz](https://www.digitaldialog.swiss/), Biel, November 20, 2017
 
   * Co-founder and member of the board of the [Swiss Alliance for Data-Intensive Services](www.data-service-alliance.ch), a CTI-funded [National Thematic Network](https://www.kti.admin.ch/kti/en/home/unsere-foerderangebote/fuer-forschende/vernetzungsmoeglichkeiten.html)
  
