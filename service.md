@@ -6,10 +6,17 @@ layout: page
 ## Talks
 
 ### 2017
- 
+  * **Workshop Digitalisierung und Innovation**
+    Thesenschreiber & Workshopkonzeption, Konferenz Digitale Schweiz, Biel, November 20, 2017
+  
+  * **Big Data Forschung aus der Perspektive des ZHAW Datalab**
+    Strategietagung „Digitization“ of the Council of the Universities of Applied Sciences of the Canton of Zurich, November 17, 2017
+
+    [Slides](http://stdm.github.io/downloads/talks/2017-11-17_Digitalisierung_BigData_Forschung.pdf) 
   * **Wie denken denkende Maschinen?**  
     Swiss ICT Symposium 2017, Lucerne, Switzerland, November 14, 2017 
  
+    [Slides](http://stdm.github.io/downloads/talks/2017-11-14_Wie_denken_denkende_Maschinen.pdf) 
   * **Wissenschaftliches Vorgehen: Der beste Weg zu guter Praxis** 
     Tagung "Best Teaching - Best Practices", Wädenswil, Switzerland, September 6, 2017
     
