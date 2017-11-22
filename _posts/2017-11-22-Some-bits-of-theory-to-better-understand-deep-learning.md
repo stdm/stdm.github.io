@@ -2,7 +2,8 @@
 layout: post
 title: Some bits of theory to better understand deep learning
 ---
-This is a collection of links to some interesting recent theoretical advances to better understand deep learning. It is not complete, not even comprehensive. It is more of a reading list for the upcoming Christmas holidays. More on the topic can be found in [this](https://www.researchgate.net/project/Theories-of-Deep-Learning) new MOOC by Stanford Staff Hatef Monajemi, David Donoho and Vardan Papyan.
+
+This is a collection of links to some interesting recent theoretical advances to better understand deep learning. It is not complete, not even comprehensive. It is more of a reading list for the upcoming Christmas holidays. More on the topic can be found in [this](https://www.researchgate.net/project/Theories-of-Deep-Learning) new MOOC by Stanford professors Hatef Monajemi, David Donoho and Vardan Papyan.
 
 ### Insights from physics
 
@@ -12,7 +13,7 @@ This is a collection of links to some interesting recent theoretical advances to
 
 ### Insights from information theory
 
-* [Paper 1](https://arxiv.org/abs/1703.00810) and [paper 2](https://arxiv.org/abs/1503.02406) by Naftali Tishby and colleagues
+* [Paper 1](https://arxiv.org/abs/1703.00810) and [2](https://arxiv.org/abs/1503.02406) by Naftali Tishby and colleagues
 
 * [Summary](https://theneuralperspective.com/2017/03/24/opening-the-black-box-of-deep-neural-networks-via-information/) on The Neural Perspective
 
@@ -26,6 +27,6 @@ This is a collection of links to some interesting recent theoretical advances to
 
 ### Insights from Geoffrey Hinton
 
-* [Paper 1](https://openreview.net/pdf?id=HJWLfGWRb) and [paper 2](https://arxiv.org/abs/1710.09829) on capsule networks
+* [Paper 1](https://openreview.net/pdf?id=HJWLfGWRb) and [2](https://arxiv.org/abs/1710.09829) on capsule networks
 
 * [Summary](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b) by Max Pechyonkin
