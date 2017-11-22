@@ -2,7 +2,6 @@
 layout: post
 title: Some bits of theory to better understand deep learning
 ---
-
 This is a collection of links to some interesting recent theoretical advances to better understand deep learning. It is not complete, not even comprehensive. It is more of a reading list for the upcoming Christmas holidays. More on the topic can be found in [this](https://www.researchgate.net/project/Theories-of-Deep-Learning) new MOOC by Stanford Staff Hatef Monajemi, David Donoho and Vardan Papyan.
 
 ### Insights from physics
