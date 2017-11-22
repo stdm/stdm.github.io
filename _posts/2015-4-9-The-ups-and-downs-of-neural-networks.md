@@ -1,7 +1,6 @@
 ---
 title: The ups and downs of Neural Networks
 layout: post
-guid: https://dublin.zhaw.ch/~stdm/?p=241
 categories:
   - Readings
   - Research

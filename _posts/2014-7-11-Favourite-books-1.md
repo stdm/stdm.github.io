@@ -12,7 +12,7 @@ I love books; I enjoy reading them, and I recently learend ([here](https://www.s
 
 So, here's the beginning of a loosely coupled series of blog posts regarding my book shelfs: I want to introduce you to some of my favourites, hopefully with a short sentence of what I like about those volumes.
 
-[AI books](http://stdm.github.io/images/ai-books.jpg)
+[<img class="size-medium wp-image-297 alignleft" alt="AI books" src="http://stdm.github.io/images/ai-books.jpg"/>](http://stdm.github.io/images/ai-books.jpg)
 
 This is the first part of my reference books that I keep in my ZHAW office - my precious AI/algorithm textbooks. Let's see what we have here (incomplete - only the favourites):
 
