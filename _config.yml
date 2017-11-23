@@ -87,3 +87,6 @@ exclude:
 
 # show blog posts with dates in the future
 future: true
+
+#to allow UTF-8 encodings
+encoding: utf-8
