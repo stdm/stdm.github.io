@@ -7,7 +7,7 @@ This is a collection of links to some interesting recent theoretical advances in
 
 ### Insights from physics
 
-Lin, Tenmark and Rolnicmk (2016) argue that in physics, most complex phenomena are explained using simple models and formulas; this might explain why deep neural nets learn so well despite the vast complexity of the tasks.
+Lin, Tenmark and Rolnick (2016) argue that in physics, most complex phenomena are explained using simple models and formulas; this might explain why deep neural nets learn so well despite the vast complexity of the tasks.
 
 * [Paper](https://arxiv.org/abs/1608.08225) from the Journal of Statistical Physics
 
@@ -25,11 +25,11 @@ Naftali Tishbi and colleagues argue that neural nets learn in two distinct phase
 
 ### Insights from neuroscience
 
-Chang and Tsao show that monkey brains decode faces into ~200 orthogonal axes of facial appearance features, and that each face is recognized not by a single neuron (i.e., a softmax layer), but by a specific firing pattern of these 200 neurons. The monkey brain thus learns a face _embedding_. 
+Chang and Tsao show that monkey brains decode faces into ca. 200 orthogonal axes of facial appearance features, and that each face is recognized not by a single neuron (i.e., a softmax layer), but by a specific firing pattern of these 200 neurons. The monkey brain thus learns a face _embedding_. 
 
 * [Paper](http://www.cell.com/cell/comments/S0092-8674(17)30538-X) from Cell Journal
 
-* My summary: It is argued that this encoding procedure of the monkey brain is similar to how CNNs learn representations, and that the discovery of the same mechanism in the brain might hint at a general underlying mechanism (_“The fact that the CNN developed these properties even though it was not explicitly trained to extract appearance coordinates suggests that an axis representation may arise naturally from general constraints on efficient face recognition.”_). The paper concludes with the following paragraph that cites Lin & Tegmark (see “physics” above) and hints at Hinton’s new Capsule Networks (see below): _“Our finding that AM cells are coding axes of shape-free appearance representations rather than ‘‘Eigenface’’ features (Figure 4L) is consistent with a recently proposed explanation for the effectiveness of deep neural networks in image recognition (Lin and Tegmark, 2016): a visual image on the retina can be considered the result of a hierarchical generative model starting from a set of simple variables, e.g., shape-free appearance features. Deep neural networks are reversing this generative hierarchy, one step at a time, to derive these variables at the final layers. According to this view, the reason the brain codes shape and appearance features is that these are the key input variables to the hierarchical generative model for producing face images that the brain has learned to reverse.”_
+* My summary: It is argued that this encoding procedure of the monkey brain is similar to how CNNs learn representations, and that the discovery of the same mechanism in the brain might hint at a general underlying mechanism (_"The fact that the CNN developed these properties even though it was not explicitly trained to extract appearance coordinates suggests that an axis representation may arise naturally from general constraints on efficient face recognition."_). The paper concludes with the following paragraph that cites Lin & Tegmark (see “physics” above) and hints at Hinton’s new Capsule Networks (see below): _"Our finding that AM cells are coding axes of shape-free appearance representations rather than ''Eigenface'' features (Figure 4L) is consistent with a recently proposed explanation for the effectiveness of deep neural networks in image recognition (Lin and Tegmark, 2016): a visual image on the retina can be considered the result of a hierarchical generative model starting from a set of simple variables, e.g., shape-free appearance features. Deep neural networks are reversing this generative hierarchy, one step at a time, to derive these variables at the final layers. According to this view, the reason the brain codes shape and appearance features is that these are the key input variables to the hierarchical generative model for producing face images that the brain has learned to reverse."_
 
 ### Insights from Geoffrey Hinton
 
