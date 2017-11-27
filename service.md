@@ -3,6 +3,9 @@ title: Service
 layout: page
 ---
 
+Here you find [talks](#talks) and (offices)[#offices].
+
+<a name="talks"></a>
 ## Talks
 
 ### 2017
@@ -139,6 +142,7 @@ layout: page
 See my [Marburgian page](http://www.informatik.uni-marburg.de/~stadelmann/research.html#talks) for some of the previous talks I gave (mostly on audio and speech processing topics).
 
 
+<a name="offices"></a>
 ## Offices
 
   * Thesenschreiber & workshop concept, [Workshop Digitalisierung und Innovation @ Konferenz Digitale Schweiz](https://www.digitaldialog.swiss/), Biel, November 20, 2017
