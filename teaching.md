@@ -50,7 +50,6 @@ layout: page
 
 
 ## Lectures & curriculae
-<sub><sub>
 
 | Tag | Name | Format | Type | Content | Did what? | When? |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -72,7 +71,5 @@ layout: page
 | PSIT 1&2 | **Projektschiene 1&2** | guided project, reviews | BSc computer science foundational module | project track software development | co-create | Fall 2013 |
 | DAB1 | **Datenbanken 1** | lecture | BSc computer science foundational course | relational algebra, databases, and SQL | guest appearance | Fall 2013 |
 | IRG | **Information Retrieval Grundlagen** | final year BSc computer science elective course | foundations of textual information retrieval | guest appearance | Spring 2013 |
-
-</sub></sub>
 
 See also my [Marburgian page](http://www.informatik.uni-marburg.de/~stadelmann/teaching.html) for several lectures, labs and supervised theses in the area of **Multimedia Analysis and Retrieval** (2005-2009).
