@@ -25,11 +25,13 @@ A group of scientists from different backgrounds is involved in audio processing
 
 ## Projects
 
-  * Bachelor Thesis ("BA") on Speaker Diarization (FS 2017)
+  * Bachelor Thesis ("BA") on Speaker Diarization (FS 2018)
   * 2 Project Theses ("BA") on Voice Conversion and Speaker Clustering (HS 2017)
   * Master Thesis ("MT") on "Learning to Cluster" (HS 2017)
   * Paper at [IEEE MLSP 2017](http://mlsp2017.conwiz.dk/home.htm) on ["Learning Embeddings for Speaker Clustering Based on Voice Equality"](https://www.zhaw.ch/no_cache/de/forschung/personen-publikationen-projekte/detailansicht-publikation/publikation/212963/) (09/2017)
+  * Project [Key Word Spider - System to Support Segmentation, Content Analysis and Labelling of Audiovisual Content](https://www.eurospider.com/de/know-how/medienanalyse/168-key-word-spider) (04/2017 - 02/2018)
   * 2 Bachelor Theses ("BA") and a graduate (PhD) project on "Machine Learning for Speaker Clustering" (FS 2017)
+  * Project [DeLLA - Deep-Learning-basierter Spracherkenner mit beschränkten Trainingsdaten](https://www.zhaw.ch/no_cache/de/forschung/personen-publikationen-projekte/detailansicht-projekt/projekt/3012/) (09/2016 - 12/2017)
   * Hackathon ("M.Sc. EVA") on "RNNs for Speaker Clustering" (HS 2016)
   * Project Thesis ("B.Sc. PA") on "Recurrent Neural networks for Speaker Recognition" (HS 2016)
   * Paper at [IEEE MLSP 2016](http://mlsp2016.conwiz.dk/home.htm) on ["Speaker Identification and Clustering using Convolutional Neural Networks"](https://www.zhaw.ch/no_cache/de/forschung/personen-publikationen-projekte/detailansicht-publikation/publikation/210537/) (09/2016)
