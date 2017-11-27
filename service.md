@@ -3,7 +3,7 @@ title: Service
 layout: page
 ---
 
-Here you find [talks](#talks) and (offices)[#offices].
+Here you find [talks](#talks) and [offices](#offices).
 
 <a name="talks"></a>
 ## Talks
