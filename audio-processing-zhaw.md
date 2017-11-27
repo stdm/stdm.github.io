@@ -1,5 +1,5 @@
 ---
-title: Audio-Processing
+title: Audio Processing @ ZHAW
 layout: page
 ---
 
