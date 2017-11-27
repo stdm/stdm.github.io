@@ -12,6 +12,7 @@ This page collects information and resources on audio processing research at ZHA
 A group of scientists from different backgrounds is involved in audio processing research here at ZHAW (in alphabetical order):
 
 | Name | Competencies | 
+| --- | --- |
 | [Philipp Ackermann](http://www.zhaw.ch/=acke) | Digital mixing consoles, Digital music, Human computer interaction |
 | [Mark Cieliebak](http://www.zhaw.ch/=ciel) | Mobile sound processing, Natural language technologies |
 | [Oliver Dürr](http://www.zhaw.ch/=dueo) | Deep learning for sound & speech analysis |
@@ -24,6 +25,8 @@ A group of scientists from different backgrounds is involved in audio processing
 
 ## Projects
 
+  * Bachelor Thesis ("BA") on Speaker Diarization (FS 2017)
+  * 2 Project Theses ("BA") on Voice Conversion and Speaker Clustering (HS 2017)
   * Master Thesis ("MT") on "Learning to Cluster" (HS 2017)
   * Paper at [IEEE MLSP 2017](http://mlsp2017.conwiz.dk/home.htm) on ["Learning Embeddings for Speaker Clustering Based on Voice Equality"](https://www.zhaw.ch/no_cache/de/forschung/personen-publikationen-projekte/detailansicht-publikation/publikation/212963/) (09/2017)
   * 2 Bachelor Theses ("BA") and a graduate (PhD) project on "Machine Learning for Speaker Clustering" (FS 2017)
