@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <img style="float:right" src="http://stdm.github.io/images/thilo_sds2015.jpg" />
-The is the personal website of [Thilo Stadelmann](http://www.zhaw.ch/=stdm), senior lecturer at [ZHAW](https://www.zhaw.ch/en/university/) [School of Engineering](https://www.zhaw.ch/en/engineering/), deputy head of [InIT‘s](https://www.zhaw.ch/en/engineering/institutes-centres/init/) [Information Engineering Group](https://www.zhaw.ch/de/engineering/institute-zentren/init/information-engineering/) and head of the [ZHAW Datalab](www.zhaw.ch/datalab).
+This is the personal website of [Thilo Stadelmann](http://www.zhaw.ch/=stdm), senior lecturer at [ZHAW](https://www.zhaw.ch/en/university/) [School of Engineering](https://www.zhaw.ch/en/engineering/), deputy head of [InIT‘s](https://www.zhaw.ch/en/engineering/institutes-centres/init/) [Information Engineering Group](https://www.zhaw.ch/de/engineering/institute-zentren/init/information-engineering/) and head of the [ZHAW Datalab](www.zhaw.ch/datalab).
 
 All views expressed are mine and not necessarily shared by ZHAW, InIT or the Datalab.
 
@@ -15,4 +15,4 @@ My current research interests revolve around deep neural networks for pattern re
 
 ### CV, publications, etc.
 
-Please have a look at my [personal profile at my university's website](http://www.zhaw.ch/=stdm) for publication list, CV, contact data.
+Please have a look at my [personal profile at my university's website](http://www.zhaw.ch/=stdm) for a publication list, CV, contact data and the like.
