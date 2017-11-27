@@ -19,7 +19,8 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+//  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 monospace;
   color: $darkGray;
 }
 
@@ -31,7 +32,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+//  font-family: $helveticaNeue;
+  font-family: monospace;
   color: $darkerGray;
   font-weight: bold;
 
@@ -229,7 +231,7 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
-#  font-size: 16px;
+//  font-size: 16px;
   font-size: 14px;
   font-family: monospace;
 
@@ -241,7 +243,8 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+//  font-family: $helveticaNeue;
+  font-family: monospace;
   font-size: 18px;
 
   @include mobile {
