@@ -15,13 +15,13 @@ Lin, Tenmark and Rolnick (2016) argue that in physics, most complex phenomena ar
 
 ### Insights from information theory
 
-Naftali Tishbi and colleagues argue that neural nets learn in two distinct phases: first (and quickly), they coarsly fit the labels using the data, and then (longer) they learn to generalize by compressing the noisy data representation. We are proud to have Prof. Tishbi giving a keynote on this topic at [SDS 2018](http://www.sds2018.ch), the 5th Swiss Conference on Data Science!
+Naftali Tishby and colleagues argue that neural nets learn in two distinct phases: first (and quickly), they coarsly fit the labels using the data, and then (longer) they learn to generalize by compressing the noisy data representation. We are proud to have Prof. Tishby giving a keynote on this topic at [SDS 2018](http://www.sds2018.ch), the 5th Swiss Conference on Data Science!
 
 * [Paper 1](https://arxiv.org/abs/1703.00810) and [2](https://arxiv.org/abs/1503.02406) on arXiv
 
 * [Summary](https://theneuralperspective.com/2017/03/24/opening-the-black-box-of-deep-neural-networks-via-information/) on The Neural Perspective ([here](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/)'s also a more intuitive one)
 
-* Tishbi's [talk](https://www.youtube.com/watch?v=bLqJHjXihK8) start started the buzz
+* Tishby's [talk](https://www.youtube.com/watch?v=bLqJHjXihK8) start started the buzz
 
 ### Insights from neuroscience
 
