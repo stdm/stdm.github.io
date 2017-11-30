@@ -21,7 +21,7 @@ Naftali Tishby and colleagues argue that neural nets learn in two distinct phase
 
 * [Summary](https://theneuralperspective.com/2017/03/24/opening-the-black-box-of-deep-neural-networks-via-information/) on The Neural Perspective ([here](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/)'s also a more intuitive one)
 
-* Tishby's [talk](https://www.youtube.com/watch?v=bLqJHjXihK8) start started the buzz
+* Tishby's [talk](https://www.youtube.com/watch?v=bLqJHjXihK8) that started the discussion
 
 ### Insights from neuroscience
 
