@@ -3,6 +3,9 @@ title: Teaching
 layout: page
 ---
 
+My main teaching revolves around [AI](https://olat.zhaw.ch/auth/RepositoryEntry/219152410/CourseNode/95069693647358) and [Machine Learning](https://moodle.msengineering.ch/course/view.php?id=670) on different levels. The course materials are on the pages of my university (partly accessible freely; partly with audio recordings; check links above). Please find below the list of all supervised [theses](#theses) as weel as taught and developed [lectures & curricula](#lectures).
+
+<a name="theses"></a>
 ## Supervised thesis projects (all levels)
 
 | When | Level | Type | Title |
@@ -49,6 +52,7 @@ layout: page
   * MT: Master thesis
 
 
+<a name="lectures"></a>
 ## Lectures & curriculae
 
 | Tag | Name | Format | Type | Content | Did what? | When? |
