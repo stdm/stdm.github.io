@@ -35,7 +35,7 @@ My main teaching revolves around [AI](https://olat.zhaw.ch/auth/RepositoryEntry/
 | Fall 2015 | BSc | PA | **Künstliche Intelligenz für 'Super Mario' durch Neuroevolution** |
 | Fall 2015 | BSc | PA | [**Sprechererkennung mit Deep Neural Networks**](https://www.zhaw.ch/no_cache/de/forschung/personen-publikationen-projekte/detailansicht-publikation/publikation/210537/) |
 | Fall 2015 | BSc | PA | **Automatische Erkennung der Akkordfolge in Popmusik** |
-| Spring 2015 | BSc | BA | **Erkennung von Hintergrundmusik in Broadcast Audio" |
+| Spring 2015 | BSc | BA | **Erkennung von Hintergrundmusik in Broadcast Audio** |
 | Spring 2015 | BSc | BA | **Entwicklung einer Android-App zur Erkennung von Redeanteilen im Unterricht** |
 | Spring 2015 | BSc | BA | **Deep Learning für automatische Stimmerkennung** |
 | Fall 2014 | BSc | PA | **Hilti Big Data Competition: Recommender Systeme** |
