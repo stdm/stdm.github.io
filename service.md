@@ -146,7 +146,8 @@ See my [Marburgian page](http://www.informatik.uni-marburg.de/~stadelmann/resear
 ## Offices
 
   * Thesenschreiber & workshop concept, [Workshop Digitalisierung und Innovation @ Konferenz Digitale Schweiz](https://www.digitaldialog.swiss/), Biel, November 20, 2017
-
+  
+  [Youtube](https://www.youtube.com/watch?v=unpSRhgnO4s#t=3h01m59)
   * Co-founder and member of the board of the [Swiss Alliance for Data-Intensive Services](www.data-service-alliance.ch), a CTI-funded [National Thematic Network](https://www.kti.admin.ch/kti/en/home/unsere-foerderangebote/fuer-forschende/vernetzungsmoeglichkeiten.html)
  
     09/2016-ongoing
