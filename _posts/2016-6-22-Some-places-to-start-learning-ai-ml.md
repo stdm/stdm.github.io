@@ -1,5 +1,5 @@
 ---
-title: 'Some places to start learning AI, ML &#038; data science (continually expanded)'
+title: 'Some places to start learning AI, ML & data science (continually expanded)'
 layout: post
 categories:
   - Education
@@ -13,38 +13,41 @@ tags:
 ---
 Here are some links to my favourite [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course)s on learning or deepen Artificial Intelligence and in particular Machine Learning / Deep Learning skills:
 
-  * [&#8220;Machine Learning&#8221;](https://www.coursera.org/learn/machine-learning) by Andrew Ng, Stanford
-  * [&#8220;CS231n: Convolutional Neural Networks for Visual Recognition&#8221;](http://cs231n.stanford.edu/) by Andrej Karpathy, Stanford ([video lectures](https://www.youtube.com/watch?v=2uiulzZxmGg&index=10&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA))
-  * [&#8220;Neural Networks for Machine Learning&#8221;](https://www.coursera.org/course/neuralnets) by Geoffrey Hinton, U Toronto (also on <a href="https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9" target="_blank">youtube</a>)
-  * [&#8220;Advanced Topics: Reinforcement Learning&#8221;](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Silver, University College London ([video lectures](http://videolectures.net/rldm2015_silver_reinforcement_learning/))
-  * [&#8220;Machine Learning: Reinforcement Learning&#8221;](https://www.udacity.com/course/machine-learning-reinforcement-learning--ud820) by Charles Isbell & Michael Littman, GeorgiaTech
-  * [&#8220;Neural Networks&#8221;](http://info.usherbrooke.ca/hlarochelle/cours/ift725_A2013/contenu.html) by Hugo Larochelle, U Sherbrooke ([video lectures](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
-  * [&#8220;Deep Learning: Take machine learning to the next level&#8221;](https://www.udacity.com/course/deep-learning--ud730) by Vincent Vanhoucke, Google
-  * [&#8220;Big Data Analysis with Apache Spark&#8221;](https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x) by Anthony Joseph, UC Berkeley
+  * [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng, Stanford
+  * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) by Andrej Karpathy, Stanford ([video lectures](https://www.youtube.com/watch?v=2uiulzZxmGg&index=10&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA))
+  * [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets) by Geoffrey Hinton, U Toronto (also on <a href="https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9" target="_blank">youtube</a>)
+  * [Advanced Topics: Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Silver, University College London ([video lectures](http://videolectures.net/rldm2015_silver_reinforcement_learning/))
+  * [Machine Learning: Reinforcement Learning](https://www.udacity.com/course/machine-learning-reinforcement-learning--ud820) by Charles Isbell & Michael Littman, GeorgiaTech
+  * [Neural Networks](http://info.usherbrooke.ca/hlarochelle/cours/ift725_A2013/contenu.html) by Hugo Larochelle, U Sherbrooke ([video lectures](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
+  * [Deep Learning: Take machine learning to the next level](https://www.udacity.com/course/deep-learning--ud730) by Vincent Vanhoucke, Google
+  * [Theories of Deep Learning](https://www.researchgate.net/project/Theories-of-Deep-Learning) by Hatef Monajemi, David Donoho and Vardan Papyan, Stanford
+  * [Deep Reinforcement Learning Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) by Pieter Abbeel et al., UC Berkeley
 
 These reading resources might also be of interest (use cases, deep dives into specific methods):
 
   * on CNNs and generative models 
-      * [&#8220;What a Deep Neural Network thinks about your #selfie&#8221;](http://karpathy.github.io/2015/10/25/selfie/) by Andrej Kartpathy
-      * <a href="http://bamos.github.io/2016/08/09/deep-completion/" target="_blank">&#8220;Image Completion with Deep Learning in TensorFlow&#8221;</a> by Brandon Amos (on DCGANs)
-      * <a href="https://openai.com/blog/generative-models/" target="_blank">&#8220;Generative Models&#8221; </a>by the OpenAI team (on DCGANs, VAEs and PixelRNNs)
-      * <a href="https://deepmind.com/blog/wavenet-generative-model-raw-audio/" target="_blank">&#8220;WaveNet: A Generative Model for Raw Audio&#8221;</a> by the DeepMind team (on PixelCNNs)
+  		* [Deep learning and neural networks](http://neuralnetworksanddeeplearning.com/index.html) by Michael Nielsen: a gentle introduction to neural networks in e-book form
+  		* [Beyond ImageNet - Deep Learning Industrial Practice](https://stdm.github.io/downloads/papers/Beyond_ImageNet_preprint_2018.pdf) by me and some colleagues
+      * [What a Deep Neural Network thinks about your #selfie](http://karpathy.github.io/2015/10/25/selfie/) by Andrej Kartpathy
+      * [Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/) by Brandon Amos (on DCGANs)
+      * [Generative Models](https://openai.com/blog/generative-models/) by the OpenAI team (on DCGANs, VAEs and PixelRNNs)
+      * [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) by the DeepMind team (on PixelCNNs)
   * on RNNs 
-      * <a style="line-height: 1.71429; font-size: 1rem;" href="http://karpathy.github.io/2015/05/21/rnn-effectiveness/">&#8220;The Unreasonable Effectiveness of Recurrent Neural Networks&#8221;</a> by Andrej Karpathy
-      * <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">&#8220;Understanding LSTM Networks&#8221;</a> by Chris Olah
-      * <a href="http://distill.pub/2016/augmented-rnns/" target="_blank">&#8220;Attention and Augmented Recurrent Neural Networks&#8221;</a> by Chris Olah and Chan Carter
+      * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) by Andrej Karpathy
+      * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Chris Olah
+      * [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/) by Chris Olah and Chan Carter
   * on Reinforcement Learning 
-      * <a style="line-height: 1.71429; font-size: 1rem;" href="http://karpathy.github.io/2016/05/31/rl/">&#8220;Deep Reinforcement Learning: Pong from Pixels&#8221;</a> by Andrej Karpathy
-      * [&#8220;Demystifying Deep Reinforcement Learning&#8221;](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/) by Tambet Matiisen
+      * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Andrej Karpathy
+      * [Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/) by Tambet Matiisen
   * other 
-      * Interesting 4-post series on [&#8220;Learning in Brains and Machines&#8221;](http://blog.shakirm.com/2016/02/learning-in-brains-and-machines-1/)
+      * Interesting 4-post series on [Learning in Brains and Machines](http://blog.shakirm.com/2016/02/learning-in-brains-and-machines-1/)
 
 Generally: If you want to make AI/ML (or more broadly, data science) a career, check out the following guides:
 
-  * <a href="https://www.experfy.com/blog/how-to-become-a-data-scientist-part-1-3" target="_blank">&#8220;How to Become a Data Scientist&#8221;</a> by Alex Smith (also <a href="https://www.experfy.com/blog/how-to-become-a-data-scientist-part-2-3" target="_blank">part 2</a>)
-  * <a href="http://stdm.github.io/downloads/HMD_2016.pdf" target="_blank">&#8220;Data Scientist als Beruf&#8221;</a> by my colleagues Kurt, Andreas and myself (in German)
-  * <a href="http://karpathy.github.io/2016/09/07/phd/" target="_blank">&#8220;A survival Guide to a PhD&#8221;</a> by Andrej Karpathy
+  * [How to Become a Data Scientist](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-1-3) by Alex Smith (also [part 2](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-2-3))
+  * [Data Scientist als Beruf](http://stdm.github.io/downloads/HMD_2016.pdf) by my colleagues Kurt, Andreas and myself (in German)
+  * [A survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/) by Andrej Karpathy
 
 Additionally, try attending the events of the [Zurich Machine learning & Data Science Meetup](http://www.meetup.com/de-DE/Zurich-Machine-Learning/) and think about joining [SGAICO](http://www.s-i.ch/sgaico/).
 
-My announced blog post series on favourite books is still to be postponed, though. Amazing how fast calendars tend to get filled with other stuff&#8230;
+My announced blog post series on favourite books is still to be postponed, though. Amazing how fast calendars tend to get filled with other stuff...
