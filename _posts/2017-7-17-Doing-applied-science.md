@@ -28,7 +28,7 @@ It then focuses on _one_ specific _novel_ insight from one’s own research (not
 
 Scholarly work is meant to be read, understood and continued by others. It thus is everything but a formal, dry, difficult-to-read technical text. It is a means of communication. It also is a means to preserve knowledge, thus it has to be christal-clear in its statements, and all claims have to be substantiated either by reference to the work of others (hence science is said to be “standing on the shoulders of giants” [Newton, 1676]) or by own extensive proof that one’s conclusions are right. Scholarly work intents to convince the reader by argument.
 
-### How to find a research questions?
+### How to find a research question?
 
 In applied science, research starts from a question of practical importance – e.g., “how to convert pictures (scans) of musical scores to machine-readable notation” (to use the example of a [current research project](https://www.zhaw.ch/no_cache/en/research/people-publications-projects/detail-view-project/projekt/2895/)). You then _abstract_ this question to a level where it is comparable to other published work. For example, we might be (in fact, we are not) the first ones to convert images of musical notation to machine readable form – but we are definitely not the first to convert images of _any_ notation to machine readable form, as there is a long-standing strand of research called “optical character recognition” (OCR), concerned with converting printed text to ASCII files.
 
