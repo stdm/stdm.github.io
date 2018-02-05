@@ -8,7 +8,26 @@ Here you find [talks](#talks) and [offices](#offices).
 <a name="talks"></a>
 ## Talks
 
+### 2018
+  * Invited talk at **Deep Learning Workshop**,
+    SDS|2018 Pre-Confernece Event, Bern, Switzerland, June 06, 2018
+  
+  * Discussion ("Coreferat") on Bart Custers' **Discrimination, privacy and related issues in predictive big data analytics**,
+    Law & Robots Workshop 2018, University of Basel, Switzerland, May 16, 2018
+    
+  * Invited talk & panelist at the **AI Applied to Structured Data** workshop, 
+    IBM Research, Rüschlikon, Switzerland, April 11, 2018
+
+  * **Science Talk** & **Wie denken denkende Maschinen?**
+    SATW TecNight Sarnen, Kantonsschule Obwalden, Switzerland, January 23, 2018
+    
+    [News coverage](http://www.ksobwalden.ch/fileadmin/files/80_Downloads/Aktuell_Medienspiegel/TecDay_TecNight_2018.pdf)
+
 ### 2017
+  * Presentation of **Digitalisierung und Innovation ** workshop results
+    Konferenz Digitale Schweiz, Biel, Switzerland, November 20, 2017
+    
+    [Blog post](https://www.data-service-alliance.ch/single-post/2018/01/16/Digitization-Innovation-through-cooperation-Glimpses-from-the-Digitization-Innovation-Workshop-at-%E2%80%9CKonferenz-Digitale-Schweiz%E2%80%9D)
   * **Big Data Forschung aus der Perspektive des ZHAW Datalab**
     Strategietagung „Digitization“ of the Council of the Universities of Applied Sciences of the Canton of Zurich, November 17, 2017
 
@@ -42,10 +61,8 @@ Here you find [talks](#talks) and [offices](#offices).
     
     [Slideshare](www.slideshare.net/thilo_stadelmann/wie-die-swiss-alliance-for-dataintensive-services-datenbasierte-mehrwerte-schafft)
   * **Data Science made in Switzerland** 
-    Interview with Steffen Lukesch at Hochschultag ZHAW, Zurich, Switzerland
+    Interview with Steffen Lukesch at Hochschultag ZHAW, Zurich, Switzerland, November 09, 2016
     
-    November 09, 2016
-
   * **Was denken denkende Maschinen** 
     WI Awards 2016, Zurich, Switzerland, October 20, 2016
   	
@@ -145,10 +162,12 @@ See my [Marburgian page](http://www.informatik.uni-marburg.de/~stadelmann/resear
 <a name="offices"></a>
 ## Offices
 
+  * Member of program committee, [8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018/Program%20committee.html), Siena, Italy, September 19-21, 2018
+
   * Thesenschreiber & workshop concept, [Workshop Digitalisierung und Innovation @ Konferenz Digitale Schweiz](https://www.digitaldialog.swiss/), Biel, November 20, 2017
   
-  [Youtube](https://www.youtube.com/watch?v=unpSRhgnO4s#t=3h01m59)
-  * Co-founder and member of the board of the [Swiss Alliance for Data-Intensive Services](www.data-service-alliance.ch), a CTI-funded [National Thematic Network](https://www.kti.admin.ch/kti/en/home/unsere-foerderangebote/fuer-forschende/vernetzungsmoeglichkeiten.html)
+    [Youtube](https://www.youtube.com/watch?v=unpSRhgnO4s#t=3h01m59)
+  * Co-founder and member of the board of the [Swiss Alliance for Data-Intensive Services](www.data-service-alliance.ch), a Innosuisse-funded [National Thematic Network](https://www.kti.admin.ch/kti/en/home/unsere-foerderangebote/fuer-forschende/vernetzungsmoeglichkeiten.html)
  
     09/2016-ongoing
   * Co-Organizer, [Zurich Machine Learning & Data Science Meetup](www.meetup.com/de-DE/Zurich-Machine-Learning/)
