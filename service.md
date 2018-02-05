@@ -106,7 +106,7 @@ Here you find [talks](#talks) and [offices](#offices).
     SGAICO Annual Assembly and Workshop "Intelligent Systems & Applications", Basel, Switzerland, November 18, 2014
 
   * **Data Science - (k)eine Teenagerliebe** 
-    34. Swiss ICT Symposium, Lucerne, Switzerland, November 05, 2014
+    34th Swiss ICT Symposium, Lucerne, Switzerland, November 05, 2014
     
     [Slideshare](https://de.slideshare.net/thilo_stadelmann/data-science-keine-teenagerliebe)
   * **Chocolate Flavoured Data Science** 
