@@ -5,7 +5,11 @@ title: Lesenswert
 
 Again, a collection of links. This time to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title).
 
-* [An die Gurgel](http://www.faz.net/aktuell/politik/inland/kommentar-von-berthold-kohler-zur-spd-an-die-gurgel-15443399.html) by Berthold Kohler, Feb 11, 2018. Subject: SPED-Drama; key words: gesellschaftliche entwicklung, populismus, verantwortungsübernahme, elite; abstract: Das Hauen und Stechen in der SPD ist ein Lehrstück über den menschlichen Faktor in der Politik. Alles nur ein Kampf um Macht, Posten und Privilegien? Ein „House of Cards“ ist selbst das Willy-Brandt-Haus nicht.
+* [An die Gurgel](http://www.faz.net/aktuell/politik/inland/kommentar-von-berthold-kohler-zur-spd-an-die-gurgel-15443399.html) by Berthold Kohler, Feb 11, 2018. 
+  
+  Subject: SPD-Drama
+  Key words: gesellschaftliche entwicklung, populismus, verantwortungsübernahme, elite
+  Abstract: Das Hauen und Stechen in der SPD ist ein Lehrstück über den menschlichen Faktor in der Politik. Alles nur ein Kampf um Macht, Posten und Privilegien? Ein „House of Cards“ ist selbst das Willy-Brandt-Haus nicht.
 
 * [Übernehmen Sie Verantwortung!](http://www.zeit.de/2018/07/studenten-leben-verantwortung-universitaet-idealismus/komplettansicht) by Giovanni die Lorenzo, Feb 07, 2018. Subject: Studenten; key words: elite, exzellenz; abstract: Ein Plädoyer für mehr Mut der Studierenden in stürmischen Zeiten.
 
