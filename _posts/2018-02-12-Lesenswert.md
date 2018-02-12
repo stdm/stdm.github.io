@@ -6,8 +6,11 @@ title: Lesenswert
 Again, a collection of links. This time to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title).
 
 * [An die Gurgel](http://www.faz.net/aktuell/politik/inland/kommentar-von-berthold-kohler-zur-spd-an-die-gurgel-15443399.html) by Berthold Kohler, Feb 11, 2018. 
+   
    Subject: SPD-Drama
+   
    Key words: gesellschaftliche entwicklung, populismus, verantwortungsübernahme, elite
+   
    Abstract: Das Hauen und Stechen in der SPD ist ein Lehrstück über den menschlichen Faktor in der Politik. Alles nur ein Kampf um Macht, Posten und Privilegien? Ein „House of Cards“ ist selbst das Willy-Brandt-Haus nicht.
 
 * [Übernehmen Sie Verantwortung!](http://www.zeit.de/2018/07/studenten-leben-verantwortung-universitaet-idealismus/komplettansicht) by Giovanni die Lorenzo, Feb 07, 2018. Subject: Studenten; key words: elite, exzellenz; abstract: Ein Plädoyer für mehr Mut der Studierenden in stürmischen Zeiten.
@@ -26,7 +29,7 @@ Again, a collection of links. This time to valuable reads from non-technical new
 
 * [Anspruch verpflichtet](http://www.zeit.de/kultur/2017-01/debattenkultur-demokratie-konflikte-essay/komplettansicht) by Daniel-Pascal Zorn, Jan 12, 2017. Subject: Debattenkultur; key words: maessigung; abstract: Unsere Debattenkultur krankt daran, dass wir von anderen fordern, was wir selbst nicht erfüllen. Und dass wir von uns selbst fordern, was wir gar nicht erfüllen können.
 
-* [Jeder Mensch hat in sich seine Abgründe](http://www.zeit.de/zeit-wissen/2017/01/psychologie-psychiater-gericht-gutachten-verbrecher-interview/komplettansicht), interview by Andreas Lebert and Katrin Zeug, Jan 02, 2017. Subject: Psychologie; key words: kraenkung; abstract: Er tut Gutes – als Experte für das Böse. Hunderte von Verbrechern hat er für Gerichte begutachtet. Der Psychiater Reinhard Haller über die Besonderheiten der Seele und die gefährliche Wirkung von Kränkungen.
+* [Jeder Mensch hat in sich seine Abgründe](http://www.zeit.de/zeit-wissen/2017/01/psychologie-psychiater-gericht-gutachten-verbrecher-interview/komplettansicht), interview with Reinhard Haller by Andreas Lebert and Katrin Zeug, Jan 02, 2017. Subject: Psychologie; key words: kraenkung; abstract: Er tut Gutes – als Experte für das Böse. Hunderte von Verbrechern hat er für Gerichte begutachtet. Der Psychiater Reinhard Haller über die Besonderheiten der Seele und die gefährliche Wirkung von Kränkungen.
 
 * [Der Hochmut der Vernünftigen](http://www.zeit.de/politik/2016-12/political-correctness-hochmut-vernunft-liberale-gesellschaft/komplettansicht) by Hans Monath, Dec 12, 2016. Subject: Political Correctness; key words: maessigung; abstract: Offene Gesellschaften kann man auch zu Tode verteidigen: Wer in der Krise das Tempo des liberalen Kulturkampfes noch steigert, stärkt vor allem die Gegenkräfte.
 
