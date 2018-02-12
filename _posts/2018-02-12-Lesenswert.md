@@ -5,6 +5,14 @@ title: Lesenswert
 
 Again, a collection of links. This time to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title).
 
+* [Sehend ins Verderben](http://www.spiegel.de/wissenschaft/mensch/youtube-facebook-co-sehend-ins-verderben-kolumne-a-1192615.html) by Christian Stöcker, Feb 11, 2018.
+
+   Subject: YouTube, Facebook & Co.
+   
+   Key words: algoroithmic bias
+   
+   Abstract: Wenn man einen Roboter darauf ansetzt, sich möglichst viele YouTube-Videos hintereinander anzusehen, landet er verlässlich bei Horror und Verschwörungstheorien. Woran das liegt? An uns allen.
+
 * [An die Gurgel](http://www.faz.net/aktuell/politik/inland/kommentar-von-berthold-kohler-zur-spd-an-die-gurgel-15443399.html) by Berthold Kohler, Feb 11, 2018. 
    
    Subject: SPD-Drama
