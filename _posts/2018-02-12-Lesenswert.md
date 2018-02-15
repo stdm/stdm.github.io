@@ -5,6 +5,14 @@ title: Lesenswert
 
 Again, a collection of links. This time to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title).
 
+* [Vom Sprechen in lieblosen Zeiten](http://www.zeit.de/freitext/2018/02/13/zynismus-diktatur-demokratie-grigorcea/) by Dana Grigorcea, Feb 13, 2018.
+
+   Subject: Freitext
+   
+   Key words: maessigung, zynismus
+   
+   Abstract: Im Rumänien meiner Kindheit war Zynismus ein Ventil, um sich Luft in der Diktatur zu verschaffen. Warum kommuniziert heute auch der Rest der Welt nur noch höhnisch?
+
 * [Sehend ins Verderben](http://www.spiegel.de/wissenschaft/mensch/youtube-facebook-co-sehend-ins-verderben-kolumne-a-1192615.html) by Christian Stöcker, Feb 11, 2018.
 
    Subject: YouTube, Facebook & Co.
@@ -28,6 +36,14 @@ Again, a collection of links. This time to valuable reads from non-technical new
    Key words: elite, exzellenz
    
    Abstract: Ein Plädoyer für mehr Mut der Studierenden in stürmischen Zeiten.
+   
+* ["Mannomannomann"](https://magazin.spiegel.de/SP/2017/40/153535177/) by Markus Feldenkirchen, Sep 30, 2017.
+
+	Subject: Karrieren
+	
+	Key words: scheitern, potential, karriere
+	
+	Abstract: Der Höhenflug von Martin Schulz war beispiellos, sein tiefer Absturz ebenfalls. Eine Reportage aus dem Innern seiner Kampagne. 
 
 * [Ausschluss eingeschlossen](http://www.zeit.de/kultur/2017-07/inklusionspolitik-genderqueer-diskurs-identitaet-10nach8/komplettansicht) by Andrea Roedig, Jul 26, 2017. 
 
