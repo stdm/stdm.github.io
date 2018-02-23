@@ -54,4 +54,6 @@ This way, the m generated images per mini batch are the best the generator can d
 
 Unfortunately, the idea described above does so far not lead to significant improvements in the training process. Source code and generated images of an implementation and respectuive experiment can be found in this [Github repository](https://github.com/maria-perevoznikova/dcgan-training). The 'results'' subfolder contains two archives with synthesized images: one contains images generated during unmodified training, another images generated during training with the modifications described above. The synthesized images have comparable quality after equal amount of iterations and the process doesn't seem to converge faster. Moreover, the modified training takes much longer for the same amount of iterations because of an additional z-fitting step.
 
-If you have additional insights, please let me know!
+#### Update per February 23, 2018, by my BSc computer science students Joram Liebeskind & Silvan Wehner:
+
+The project thesis of Joram and Silvan confirms the above findings with a thorough study, showing experimentally that the abovementioned trainings process doesn't produce better images quicker (nor better images in same time). I guess, this concludes the analysis of this idea.
