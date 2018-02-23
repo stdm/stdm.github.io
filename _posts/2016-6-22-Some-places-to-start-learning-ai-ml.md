@@ -11,7 +11,7 @@ tags:
   - RL
   - RNN
 ---
-Here are some links to my favourite [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course)s on learning or deepen Artificial Intelligence and in particular Machine Learning / Deep Learning skills (last update: Dec 14, 2017):
+Here are some links to my favourite [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course)s on learning or deepen Artificial Intelligence and in particular Machine Learning / Deep Learning skills (last update: Feb 23, 2018):
 
   * [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng, Stanford
   * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) by Andrej Karpathy, Stanford ([video lectures](https://www.youtube.com/watch?v=2uiulzZxmGg&index=10&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA))
@@ -37,6 +37,8 @@ These reading resources might also be of interest (use cases, deep dives into sp
       * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Chris Olah
       * [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/) by Chris Olah and Chan Carter
   * on Reinforcement Learning 
+      * [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html) by Alex Irpan
+      * [Learning to learn](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/) by Chelsea Finn
       * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Andrej Karpathy
       * [Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/) by Tambet Matiisen
       * [Deep Learning-to-Learn Robotic Control](https://www.youtube.com/watch?v=TERCdog1ddE) by Pieter Abbeel
