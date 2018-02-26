@@ -33,7 +33,7 @@ Chang and Tsao show that monkey brains decode faces into ca. 200 orthogonal axes
 
 ### Insights from Geoffrey Hinton
 
-Geoffrey Hinton published an improvement of the errors he founds in current CNNs (max pooling, need for many training exaples): capsule networks. They are able to learn hierarchies of representations with respect to their relation to each opther (e.g., in computer vision: translation and rotation). This makes it much easier for the network to learn that objects depicted from different viewpoints are actually the same thing (i.e., CapsNets need less training data).
+Geoffrey Hinton published an improvement of the errors he founds in current CNNs (max pooling, need for many training examples): capsule networks. They are able to learn hierarchies of representations with respect to their relation to each opther (e.g., in computer vision: translation and rotation). This makes it much easier for the network to learn that objects depicted from different viewpoints are actually the same thing (i.e., CapsNets need less training data).
 
 * [Paper 1](https://openreview.net/pdf?id=HJWLfGWRb) and [2](https://arxiv.org/abs/1710.09829) on arXiv
 
