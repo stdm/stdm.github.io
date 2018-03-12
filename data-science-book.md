@@ -4,9 +4,9 @@ layout: page
 ---
 
 ### Braschler, Stadelmann, Stockinger (Eds.)
-#### Springer, 2018 (to appear)
+**Springer, 2018 (to appear)**
 
-Companion website to the upcoming book *Applied Data Science - Lessons Learned for the Data-Driven Business*.
+Companion website to the upcoming book *Applied Data Science - Lessons Learned for the Data-Driven Business*, to appear summer 2018.
 
 ## Synopsis
 
@@ -49,7 +49,7 @@ Part II is a curated collection of guest contributions emphasizing the "lessons 
 application fields (such as industry 4.0, finance, life sciences, health or security) and overarching principles (like what is great DS research? What are legal and ethical implications of data science?).
 
   * *What is Data Science?* By Brodie
-  * *On developing Data Science by Brodie
+  * *On developing Data Science* by Brodie
   * *Statistical Modelling* by Ruckstuhl & Dettling
   * *Beyond ImageNet - Deep Learning in Industrial Practice* by Stadelmann et al.
   * *Economic Measures of Forecast Accuracy for Demand Planning - A Case-Based Discussion* by Ott et al.
