@@ -61,5 +61,6 @@ We work on [media segmentation and classification](https://www.eurospider.com/de
 
 ## Resources
 
+  * [Code](https://github.com/stdm/ZHAW_deep_voice) for the [speaker clustering using deep learning](https://www.zhaw.ch/no_cache/de/forschung/personen-publikationen-projekte/detailansicht-publikation/publikation/210537/) line of research 
   * [Code](https://github.com/stdm/time_model) for the [time model](https://stdm.github.io/downloads/papers/ACMMM_2009.pdf) that started speaker clustering research at ZHAW
   * M. Barning, ["Spectrograms and speech processing"](http://www.web3.lu/spectrogram-speech-processing/), 2014: Blog post on tools and background information on the spectrograms
