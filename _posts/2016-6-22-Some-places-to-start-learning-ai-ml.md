@@ -43,6 +43,7 @@ These reading resources might also be of interest (use cases, deep dives into sp
       * [Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/) by Tambet Matiisen
       * [Deep Learning-to-Learn Robotic Control](https://www.youtube.com/watch?v=TERCdog1ddE) by Pieter Abbeel
   * other 
+      * [ML best practices](https://developers.google.com/machine-learning/rules-of-ml/)
       * Interesting 4-post series on [Learning in Brains and Machines](http://blog.shakirm.com/2016/02/learning-in-brains-and-machines-1/)
 
 Generally: If you want to make AI/ML (or more broadly, data science) a career, check out the following guides:
