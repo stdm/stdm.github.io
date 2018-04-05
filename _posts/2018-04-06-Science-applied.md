@@ -72,7 +72,7 @@ Mein Lehrkonzept stellt Wissenschaftlichkeit also als besten Weg zu einer guten 
 
 In Vorlesungen thematisiere ich den Produktentwicklungsprozess (als das gesamte fachspezifische Arbeiten und Entwickeln beschreibender Begriff [der Automotive-Branche entlehnt](https://de.wikipedia.org/wiki/Produktentstehungsprozess)) direkt z.B. in Lehreinheiten zum fachspezifischen Vorgehensmodell oder experimentellen Design (siehe Abb. 2).
 
-![Abbildung 2: Folie 13 aus den Kursunterlagen V02 zu TSM_MachLe ("Machine Learning" im MSE).](https://stdm.github.io/images/ml_dev_process.jpg)
+![Abbildung 2: Folie 13 aus den Kursunterlagen V02 zu TSM_MachLe ("Machine Learning" im MSE).](https://stdm.github.io/images/ml-dev-process.jpg)
 
 Ziel ist hier, die Studierenden an das dahinerliegende Denkmodell heranzuführen, dass sie dann in Laborübungen selbständig anwenden werden. 
 
