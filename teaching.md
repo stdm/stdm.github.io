@@ -5,7 +5,7 @@ layout: page
 
 My main teaching revolves around [AI](https://olat.zhaw.ch/auth/RepositoryEntry/219152410/CourseNode/95069693647358) and [Machine Learning](https://moodle.msengineering.ch/course/view.php?id=670) on different levels. The course materials are on the pages of my university (partly accessible freely; partly with audio recordings; check links above). Please find below the list of all supervised [theses](#theses) as weel as taught and developed [lectures & curricula](#lectures).
 
-I was awarded a final round nomination for the "Best Teaching - Best Practices" teaching award of my university in 2017 for the topic "Wissenschaftlichkeit" ("scientific characater").
+I was awarded a final round nomination for the "Best Teaching - Best Practices" award of my university in 2017 for [my contribution](https://stdm.github.io/Science-applied) under the topic "Wissenschaftlichkeit" ("scientific characater").
 
 <a name="theses"></a>
 ## Supervised thesis projects (all levels)
