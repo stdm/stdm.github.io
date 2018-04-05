@@ -17,7 +17,7 @@ Again, a collection of links. This time to valuable reads from non-technical new
 
    Subject: YouTube, Facebook & Co.
    
-   Key words: algoroithmic bias
+   Key words: algorithmic bias
    
    Abstract: Wenn man einen Roboter darauf ansetzt, sich möglichst viele YouTube-Videos hintereinander anzusehen, landet er verlässlich bei Horror und Verschwörungstheorien. Woran das liegt? An uns allen.
 
