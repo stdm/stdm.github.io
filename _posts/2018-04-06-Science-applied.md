@@ -3,7 +3,7 @@ layout: post
 title: Science, applied. Die wissenschaftliche Methode im Kern des Produktentwicklungsprozesses
 ---
 
-*This post represents my contribution to the [best teaching award competition](https://www.zhaw.ch/de/ueber-uns/aktuell/veranstaltungen/best-teaching-best-practices/) of my University in 2017; it was awarded a final round nomination (best 10).*
+*This post represents my contribution to the [best teaching award competition](https://www.zhaw.ch/de/ueber-uns/aktuell/veranstaltungen/best-teaching-best-practices/) of my university in 2017; it was awarded a final round nomination (best 10).*
 
 
 ### Abstract
@@ -72,7 +72,7 @@ Mein Lehrkonzept stellt Wissenschaftlichkeit also als besten Weg zu einer guten 
 
 In Vorlesungen thematisiere ich den Produktentwicklungsprozess (als das gesamte fachspezifische Arbeiten und Entwickeln beschreibender Begriff [der Automotive-Branche entlehnt](https://de.wikipedia.org/wiki/Produktentstehungsprozess)) direkt z.B. in Lehreinheiten zum fachspezifischen Vorgehensmodell oder experimentellen Design (siehe Abb. 2).
 
-![Abbildung 2: Folie 13 aus den Kursunterlagen V02 zu TSM_MachLe ("Machine Learning" im MSE).](https://stdm.github.io/images/ml-dev-process.jpg)
+![Abbildung 2: Folie 13 aus den Kursunterlagen V02 zu TSM_MachLe ("Machine Learning" im MSE).](https://stdm.github.io/images/ml_dev_process.jpg)
 
 Ziel ist hier, die Studierenden an das dahinerliegende Denkmodell heranzuführen, dass sie dann in Laborübungen selbständig anwenden werden. 
 
