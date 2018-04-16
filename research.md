@@ -7,7 +7,7 @@ My academic profile including a CV, list of grants (projects) and bibliography c
 
 ## Statement of purpose
 
-I am a **machine learning** researcher in the tradition of the field of **artificial intelligence**, focusing on **pattern recognition** problems. My research interest is to understand how learning works in general, especially the important properties of robustness (resilience) and generalization of methods. I focus on **deep learning** methodology to be inspired by biological learning. I fall back to a wide variety of pattern recognition problems to study these properties: each task has its own learning target (e.g., classification, clustering, segmentation, novelty detection, or control) and uses different architectures, which in turn shed light on different aspects of the learning process. 
+I am a **machine learning** guy in the tradition of the field of **artificial intelligence**, focusing on **pattern recognition** problems. My research interest is to understand how learning works in general, especially the important properties of robustness (resilience) and generalization of methods. I focus on **deep learning** methodology, inspired by biological learning. I fall back to a wide variety of pattern recognition problems to study these properties: each task has its own learning target (e.g., classification, clustering, segmentation, novelty detection, or control) and uses different architectures, which in turn shed light on different aspects of the learning process. 
 
 ## Recent work
 
