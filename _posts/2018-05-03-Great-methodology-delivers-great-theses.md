@@ -3,6 +3,8 @@ title: Great methodology delivers great theses
 layout: post
 ---
 
+![Adam Savage on science](http://d2rormqr1qwzpz.cloudfront.net/photos/2015/12/15/55-83986-83931-05-mythbusters-expressions-1450161563.jpg)
+
 Quite some posts on this blog circle around the topic of how to become a (more) successfull student and researcher (see e.g., [this collection of posts](../Advice-for-prospective-students) as I enjoy mentoring people and sharing my personal lessons learned. One of my mantras (not just on this blog, but also in coaching sessions) with respect to writing an excellent thesis has been to *argue/reason well* in your writeup: motivate your thoughts, justify your choices, and reason over your findings. As you not only make assertions or claims, but reason over their pros and cons and convincing your reader by the power of argument (and references), you will position your work for highest accolades.
 
 Here I want to put this into a greater context: the context of good *research methodology*.
