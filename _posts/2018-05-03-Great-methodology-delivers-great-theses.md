@@ -1,5 +1,5 @@
 ---
-title: What makes a thesis great? Hint: great resaerch methodology
+title: Great methodology delivers great theses
 layout: post
 ---
 
