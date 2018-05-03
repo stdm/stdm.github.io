@@ -7,9 +7,7 @@ categories:
   - Thoughts
   - Writing
 ---
-Dear (prospective) ZHAW student,
-
-a very warm welcome to academia! You may just have entered the bachelor's programme or "Fachstudium", or you are already a mature engineer, ready to start your master's or PhD studies - chances are you haven't been exposed much yet to our setting of learning within an applied research and development context.
+Dear (prospective) ZHAW student, a very warm welcome to academia! You may just have entered the bachelor's programme or "Fachstudium", or you are already a mature engineer, ready to start your master's or PhD studies - chances are you haven't been exposed much yet to our setting of learning within an applied research and development context.
 
 This blog post is meant to point you to a few resources helpful in
 

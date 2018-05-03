@@ -1,6 +1,6 @@
 ---
+title: What makes a thesis great? Hint: great resaerch methodology
 layout: post
-title: What makes a thesis great? (hint: methodology)
 ---
 
 Quite some posts on this blog circle around the topic of how to become a (more) successfull student and researcher (see e.g., [this collection of posts](../Advice-for-prospective-students) as I enjoy mentoring people and sharing my personal lessons learned. One of my mantras (not just on this blog, but also in coaching sessions) with respect to writing an excellent thesis has been to *argue/reason well* in your writeup: motivate your thoughts, justify your choices, and reason over your findings. As you not only make assertions or claims, but reason over their pros and cons and convincing your reader by the power of argument (and references), you will position your work for highest accolades.
