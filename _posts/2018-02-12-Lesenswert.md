@@ -5,6 +5,14 @@ title: Lesenswert
 
 Again, a collection of links. This time to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title).
 
+* [Ingenieure braucht die Welt – oder?](http://www.faz.net/aktuell/wirtschaft/digitalisierung-braucht-die-welt-wirklich-noch-ingenieure-15583701.html) by Alexander Armbruster, May 05, 2018.
+
+   Subject: Technik-Kommentar
+   
+   Key words: technokratie, Elon Musk
+   
+   Abstract: Kann Technik unsere Probleme lösen, oder schafft sie neue? Die Debatte zwischen Technik-Optimisten und Kulturpessimisten tobt schon lange.
+
 * [Vom Sprechen in lieblosen Zeiten](http://www.zeit.de/freitext/2018/02/13/zynismus-diktatur-demokratie-grigorcea/) by Dana Grigorcea, Feb 13, 2018.
 
    Subject: Freitext
