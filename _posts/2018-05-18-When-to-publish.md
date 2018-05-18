@@ -3,9 +3,7 @@ title: When to publish one's work
 layout: post
 ---
 
-![Adam Savage on science](http://d2rormqr1qwzpz.cloudfront.net/photos/2015/12/15/55-83986-83931-05-mythbusters-expressions-1450161563.jpg)
-
-Coming to the end of a writing-heavy week with 5 paper deadlines, the experience from these publishing processes reinforced the three necessary conditions to me on when to publish. When is my work advanced enough that I can publish it? When can I attempt not only writing it down (you should also do it as it clears one's thoughts), but also making it accessible for the rest of the world (being aware of your responsibility not only for the body of human knowledge, the time of potential readers, and your future reputation)?
+Coming to the end of a writing-heavy week with 5 paper deadlines, the experience from these publishing processes reinforced the three necessary conditions to me on when to publish (and on what to focus in the paper, besides the story line). When is my work advanced enough that I can publish it? When can I attempt not only writing it down (you should also do it as it clears one's thoughts), but also making it accessible for the rest of the world (being aware of your responsibility not only for the body of human knowledge, the time of potential readers, and your future reputation)?
 
 It comes down to the [triple filters of Socrates](https://www.quora.com/What-is-Triple-Filter-test-of-Socrates):
 
