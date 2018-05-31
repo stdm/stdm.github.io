@@ -12,20 +12,20 @@ Here you find [talks](#talks) and [offices](#offices).
   * Invited talk at **ANNPR 2018**,
     [8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018), Siena, Italy, September 19-21, 2018
 
-  * Invited talk at FHNW Institute for Data Science
-    [FHNW.ch](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-for-data-science), Windisch, Switzerland, July 10, 2018
+  * Invited talk at [**FHNW Institute for Data Science**](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-for-data-science), 
+    Windisch, Switzerland, July 10, 2018
 
-  * Invited talk at IDIAP
-    [IDIAP.ch](https://www.idiap.ch/en), Martigny, Switzerland, July 02, 2018
+  * Invited talk at [**IDIAP**](https://www.idiap.ch/en), 
+    Martigny, Switzerland, July 02, 2018
 
-  * Invited talk at **Berner Architektentreffen**,
-    [Bberner-Architekten-Treffen.ch](http://www.berner-architekten-treffen.ch), Bern, Switzerland, June 29, 2018
+  * Invited talk at [**Berner Architektentreffen**](http://www.berner-architekten-treffen.ch), 
+    Bern, Switzerland, June 29, 2018
 
-  * Invited talk at **Deep Learning Workshop**,
+  * Invited talk at [**Deep Learning Workshop**](https://sds2018.ch/deep-learning-workshop),
     SDS|2018 Pre-Confernece Event, Bern, Switzerland, June 06, 2018
     
-  * Invited talk at **Informatiktage 2018**,
-    [Informatiktage.ch](https://informatiktage.ch/), Winterthur, Switzerland, June 01, 2018
+  * Invited talk at [**Informatiktage 2018**](https://informatiktage.ch/), 
+    Winterthur, Switzerland, June 01, 2018
   
   * Discussion ("Coreferat") on Bart Custers' **Discrimination, privacy and related issues in predictive big data analytics**,
     Law & Robots Workshop 2018, University of Basel, Switzerland, May 16, 2018
