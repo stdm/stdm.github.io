@@ -9,13 +9,28 @@ Here you find [talks](#talks) and [offices](#offices).
 ## Talks
 
 ### 2018
+  * Invited talk at **ANNPR 2018**,
+    [8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018), Siena, Italy, September 19-21, 2018
+
+  * Invited talk at FHNW Institute for Data Science
+    [FHNW.ch](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-for-data-science), Windisch, Switzerland, July 10, 2018
+
+  * Invited talk at IDIAP
+    [IDIAP.ch](https://www.idiap.ch/en), Martigny, Switzerland, July 02, 2018
+
+  * Invited talk at **Berner Architektentreffen**,
+    [Bberner-Architekten-Treffen.ch](http://www.berner-architekten-treffen.ch), Bern, Switzerland, June 29, 2018
+
   * Invited talk at **Deep Learning Workshop**,
     SDS|2018 Pre-Confernece Event, Bern, Switzerland, June 06, 2018
+    
+  * Invited talk at **Informatiktage 2018**,
+    [Informatiktage.ch](https://informatiktage.ch/), Winterthur, Switzerland, June 01, 2018
   
   * Discussion ("Coreferat") on Bart Custers' **Discrimination, privacy and related issues in predictive big data analytics**,
     Law & Robots Workshop 2018, University of Basel, Switzerland, May 16, 2018
     
-  * Invited talk & panelist at the **AI Applied to Structured Data** workshop, 
+  * Panelist at the **AI Applied to Structured Data** workshop, 
     IBM Research, Rüschlikon, Switzerland, April 11, 2018
 
   * **Science Talk** & **Wie denken denkende Maschinen?**
@@ -164,6 +179,10 @@ See my [Marburgian page](http://www.informatik.uni-marburg.de/~stadelmann/resear
 
   * Member of program committee, [8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018/Program%20committee.html), Siena, Italy, September 19-21, 2018
 
+  * Co-chair, [Workshop "NLP Clinic" at SwisText 2018](https://www.swisstext.org/workshops/2018/NLP_Clinic.html), Winterthur, Switzerland, June 13, 2018
+
+  * Member of program committee, [5th Swiss Conference on Data Science](http://www.sds2018.ch), Bern, Switzerland, June 07, 2018
+  
   * Thesenschreiber & workshop concept, [Workshop Digitalisierung und Innovation @ Konferenz Digitale Schweiz](https://www.digitaldialog.swiss/), Biel, November 20, 2017
   
     [Youtube](https://www.youtube.com/watch?v=unpSRhgnO4s#t=3h01m59)
