@@ -35,36 +35,34 @@ The book aims at learners and professionals in the academic and business sector:
 
 Part I introcuces the main topic: What is applied data science? What is a data product? And what traits do successful data scientists have? It then approaches important aspects of societal integration of data science, namely legal aspects as well as risks and side effects. 
 
-  * *Introduction to Applied Data Science* by Braschler et al.
-  * *History of Data Science* by Stadelmann & Stockinger
-  * *Data Scientists* by Stadelmann & Stockinger
+  * *Introduction* by Stadelmann et al.
+  * *Data Science* by Braschler et al.
+  * *Data Scientists* by Stadelmann et al.
   * *Data Products* by Meierhofer et al.
-  * *Legal Considerations* by Hegy et al.
+  * *Legal Aspects* by Hegy et al.
   * *Risks and Side Effects* by Cap
 
 
 #### Part II - Nuts & bolts of Data Science
 
-Part II is a curated collection of guest contributions emphasizing the "lessons learned" in various data science analyses. It covers topics such as methodical aspects (e.g. text analysis, machine learning, visualization, small/big data or modern analysis workflows), 
-application fields (such as industry 4.0, finance, life sciences, health or security) and overarching principles (like what is great DS research? What are legal and ethical implications of data science?).
+Part II is a curated collection of guest contributions emphasizing the "lessons learned" in various data science analyses. It covers topics such as methodical aspects (e.g. text analysis, machine learning, visualization, small/big data or modern analysis workflows), application fields (such as industry 4.0, finance, life sciences, health or security) and overarching principles (like what is great DS research? What are legal and ethical implications of data science?).
 
-  * *What is Data Science?* By Brodie
+  * *What is Data Science?* by Brodie
   * *On developing Data Science* by Brodie
+  * *The ethics of Big Data applications in the consumer sector* by Christen et al.
   * *Statistical Modelling* by Ruckstuhl & Dettling
   * *Beyond ImageNet - Deep Learning in Industrial Practice* by Stadelmann et al.
-  * *Economic Measures of Forecast Accuracy for Demand Planning - A Case-Based Discussion* by Ott et al.
-  * *The ethics of Big Data applications in the consumer sector* by Christen et al.
   * *The Beauty of Small Data – an Information Retrieval Perspective* by Braschler
-  * *Data-driven Insights* by Selz
-  * *Mining Human Behavior Datasets for Insight, Prediction, and Planning* by Leidig & Wolffe
-  * *Data Warehousing and Exploratory Analysis for Market Monitoring* by Geiger & Stockinger
-  * *Modeling and Simulation for Complexity Management in Business Operations* by Hollenstein et al.
-  * *Image Analysis at Scale for Finding the Links between Structure and Biology* by Mader
   * *Narrative Visualization of Open Data* by Ackermann & Stockinger
-  * *Large-Scale Data-Driven Financial Risk Assessment* by Breymann et al.
-  * *Online Anomaly Detection over Big Data Streams* by Rettig et al.
   * *Security of Data Science and Data Science for Security* by Tellenbach et al.
+  * *Online Anomaly Detection over Big Data Streams* by Rettig et al.
+  * *Modeling and Simulation for Complexity Management in Business Operations* by Hollenstein et al.
+  * *Data Warehousing and Exploratory Analysis for Market Monitoring* by Geiger & Stockinger
+  * *Mining Human Behavior Datasets for Insight, Prediction, and Planning* by Leidig & Wolffe
+  * *Economic Measures of Forecast Accuracy for Demand Planning - A Case-Based Discussion* by Ott et al.
+  * *Large-Scale Data-Driven Financial Risk Assessment* by Breymann et al.
   * *Governance and IT Architecture* by Bignens et al.
+  * *Image Analysis at Scale for Finding the Links between Structure and Biology* by Mader
 
 #### Part III - Lessons learned
 

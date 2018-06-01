@@ -7,7 +7,7 @@ My academic profile including a CV, list of grants (projects) and bibliography c
 
 ## Statement of purpose
 
-I am a **pattern recognition** researcher working on a wide variety of tasks on image, audio or generally "signal" data. I come from the tradition of the field of **artificial intelligence**, and my tool is **machine learning**. My research interest is to discover and understand how intelligent behaviour can be evoked through self-learning, including practical (robustness, generalization) and ethical (algorithmic bias) side effects. I focus on **deep learning** methodology, inspired by biological learning. Each task that I study has its own learning target (e.g., detection, classification, clustering, segmentation, novelty detection, control) and use case (e.g., predictive maintenance, multimedia indexing, optical music recognition, industrial quality control, automated machine learning, automated game play), which in turn sheds light on different aspects of the learning process. 
+I am a **pattern recognition** researcher working on a wide variety of tasks on image, audio or generally "signal" data. I come from the tradition of the field of **artificial intelligence**, and my tool is **machine learning**. My research interest is to discover and understand how intelligent behaviour can be evoked through self-learning, including practical (robustness, generalization) and ethical (algorithmic bias) side effects. I focus on **deep learning** methodology, inspired by biological learning. Each task that I study has its own learning target (e.g., detection, classification, clustering, segmentation, novelty detection, control) and use case (e.g., predictive maintenance, multimedia indexing, document analysis, optical music recognition, industrial quality control, automated machine learning, automated game play), which in turn sheds light on different aspects of the learning process. 
 
 ## Recent work
 
@@ -62,7 +62,12 @@ My 2009 ACM Multimedia paper on [Unfolding Speaker Clustering Potential – a Bi
 [<img alt="Architecture of the successful RNN model for speaker clustering" src="http://stdm.github.io/images/RNN_architecture.jpg"/>](http://stdm.github.io/images/RNN_architecture.jpg)
 
 
-## Collabortations
+### Data science
+
+I helped in creating one of Europe's first dedicated research centers for data science, the [ZHAW Datalab](http://www.zhaw.ch/datalab), and lead it since. Subsequently, my colleagues and I created one of Switzerland's first continuing education programs in data science, the [MAS Data Science](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/mas-data-science.html), where I teach machine learning. In 2015, we started rolling out the successful Datalab collaboration model country-wide in founding the [Swiss Alliance for Data-Intensive Services](https://www.data-service-alliance.ch/), a network of industrial and academic partner institutions that also furthered the [Swiss Conference on Data Science](https://sds2018.ch/) series of events that [started in Winterthur](https://www.zhaw.ch/en/research/inter-school-cooperation/datalab-the-zhaw-data-science-laboratory/sds2014/). The experience gained in these activities, together with the feedback from the applied research projects described above, lead to a [book](https://stdm.github.io/data-science-book/) I am co-editing together with my colleagues [Martin Braschler](www.zhaw.ch/=bram) and [Kurt Stockinger](www.zhaw.ch/=stog).
+
+
+## Collaborations
 
 I frequently collaborate with industry to work on exciting pattern recognition use cases. Partners from start-ups, SMEs and multi-national enterprises alike. 
 
