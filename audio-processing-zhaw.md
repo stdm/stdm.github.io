@@ -15,7 +15,6 @@ A group of scientists from different backgrounds is involved in audio processing
 | --- | --- |
 | [Philipp Ackermann](http://www.zhaw.ch/=acke) | Digital mixing consoles, Digital music, Human computer interaction |
 | [Mark Cieliebak](http://www.zhaw.ch/=ciel) | Mobile sound processing, Natural language technologies |
-| [Oliver Dürr](http://www.zhaw.ch/=dueo) | Deep learning for sound & speech analysis |
 | [Sven Hirsch](http://www.zhaw.ch/=hirc) | Audio fingerprinting & music classification, Sound installations |
 | [Hans-Peter Hutter](http://www.zhaw.ch/=huhp) | Automatic speech recognition, Handset & channel normalization |
 | [Matthias Rosenthal](http://www.zhaw.ch/=rosn) | 3D audio algorithms, Development of embedded hardware for signal processing |
