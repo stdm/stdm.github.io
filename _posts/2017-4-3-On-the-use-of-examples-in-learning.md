@@ -5,7 +5,7 @@ title: On the use of examples in learning
 
 Once in a while in a discussion on education or science, the topic of the perceived opposition of theory and practice comes up. It is usually raised by one party with a strong view on either a theory- or an application focus, with the goal of discrediting the other viewpoint: _“This is just theory (and thus worthless), because what we need is to make it run”_. In a classroom setting, you sometimes hear it from students complaining about too much abstract knowledge and too less examples.
 
-The same argument is also used the other way round. I came to the conclusion that both is shortsighted thinking, robbing the holder of such a viewpoint from the very benefit the other view can grant him or her. Let me explain this using the example of the classroom setting above, and using an analogy from machin learning:
+The same argument is also used the other way round. I came to the conclusion that both is shortsighted thinking, robbing the holder of such a viewpoint from the very benefit the other view can grant him or her. Let me explain this using the example of the classroom setting above, and using an analogy from machine learning:
 
 
 In a supervised classification setting in machine learning, you provide an algorithm with samples of possible input data, together with the expected output per data point (a “class label”). The goal of the machine learning algorithm is to come up with an internal model (also called a “theory”) that generalizes beyond the concrete input-output tuples it has seen, to previously unseen data. In fact, the only way such a model can ever be useful is if it can generalize:

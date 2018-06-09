@@ -5,6 +5,14 @@ title: Lesenswert
 
 Again, a collection of links. This time to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title).
 
+* [Die Diktatur des Bauchgefühls](https://www.zeit.de/kultur/2018-06/emotionen-gefuehle-diskurs-verantwortung-10nach8) by Heike-Melba Fendel, June 08, 2018.
+
+   Subject: Emotionen
+   
+   Key words: diskurs, gefühl vs. verstand
+   
+   Abstract: Ob Mitleid für heulende Torhüter, Rührung über heiratende Adelige oder Zorn über pöbelnde Rechte: Wer fühlt, hat recht. So schaffen wir Verantwortung ab.
+
 * [Ingenieure braucht die Welt – oder?](http://www.faz.net/aktuell/wirtschaft/digitalisierung-braucht-die-welt-wirklich-noch-ingenieure-15583701.html) by Alexander Armbruster, May 05, 2018.
 
    Subject: Technik-Kommentar
