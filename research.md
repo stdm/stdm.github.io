@@ -3,7 +3,7 @@ title: Research
 layout: page
 ---
 
-My academic profile including a CV, list of grants (projects) and bibliography can also be found on my [ZHAW profile page](http://www.zhaw.ch/=stdm). A preserved version of my research at the University of Marburg can be found at my [Phillips University profile page](http://www.informatik.uni-marburg.de/~stadelmann/research.html).
+This page is dedicated to the research of me and my group. My academic profile including a CV, list of grants (projects) and bibliography can also be found on my [ZHAW profile page](http://www.zhaw.ch/=stdm). A preserved version of my research at the University of Marburg can be found at my [Phillips University profile page](http://www.informatik.uni-marburg.de/~stadelmann/research.html).
 
 ### TOC
 1. [Statement of purpose](#purpose)
@@ -91,6 +91,22 @@ If you are intgerested in a collaboration, please [contact](http://www.zhaw.ch/=
 
 <a name="publications"></a>
 ## Publications
+
+Kurt Stockinger, Martin Braschler, and Thilo Stadelmann. "Lessons Learned from Challenging Data Science Case Studies". In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). Springer, 2018. To appear.
+
+Lukas Hollenstein, Lukas Lichtensteiger, Thilo Stadelmann, Mohammadreza Amirian, Lukas Budde, Jürg Meierhofer, Rudolf M. Füchslin, and Thomas Friedli. "Unsupervised Learning and Simulation for Complexity Management in Business Operations". In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). Springer, 2018. To appear.
+
+Thilo Stadelmann, Vasily Tolkachev, Beate Sick, Jan Stampfli, and Oliver Dürr. "Beyond ImageNet - Deep Learning in Industrial Practice". In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). Springer, 2018. To appear.
+
+Jürg Meierhofer, Thilo Stadelmann, and Mark Cieliebak. "Data Products". In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). Springer, 2018. To appear.
+
+Thilo Stadelmann, Kurt Stockinger, Gundula Heinatz-Bürki, and Martin Braschler. "Data Scientists". In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). Springer, 2018. To appear.
+
+Martin Braschler, Thilo Stadelmann, and Kurt Stockinger. "Data Science". In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). Springer, 2018. To appear.
+
+Thilo Stadelmann, Martin Braschler, and Kurt Stockinger. "Introduction". In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). Springer, 2018. To appear.
+
+Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). Springer, 2018. To appear.
 
 Lukas Tuggener, Ismail Elezi, Jürgen Schmidhuber, and Thilo Stadelmann. ["Deep watershed detector for music object recognition"](https://stdm.github.io/downloads/papers/ISMIR_2018.pdf). In: Proceedings of the 19th International Society for Music Information Retrieval Conference. 19th International Society for Music Information Retrieval Conference, Paris, 23. - 27. September 2018. Paris: Society for Music Information Retrieval. [DOI](https://doi.org/10.21256/zhaw-3760).
 
