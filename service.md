@@ -3,10 +3,15 @@ title: Service
 layout: page
 ---
 
-Here you find [talks](#talks) and [offices](#offices).
+Much to the suprise of my younger self, I became a very active networker, public speaker and community builder, involved in the leadership of organizations like the [ZHAW Datalab](http://www.zhaw.ch/datalab), [SGAICO](https://sgaico.swissinformatics.org/) and the [¨Swiss Alliance for Data-Intenaive Services](http://www.data-service-alliance.ch).
+
+### TOC
+1. [Talks & interviews](#talks)
+2. [Community offices](#offices)
+
 
 <a name="talks"></a>
-## Talks
+## Talks & interviews
 
 ### 2018
   * Invited talk at **ANNPR 2018**,
@@ -175,7 +180,7 @@ See my [Marburgian page](http://www.informatik.uni-marburg.de/~stadelmann/resear
 
 
 <a name="offices"></a>
-## Offices
+## Community offices
 
   * Member of program committee, [8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018/Program%20committee.html), Siena, Italy, September 19-21, 2018
 
