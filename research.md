@@ -3,12 +3,22 @@ title: Research
 layout: page
 ---
 
-My academic profile including a CV, list of grants (projects) and bibliography can be found on my [ZHAW profile page](http://www.zhaw.ch/=stdm). A preserved version of my research at the University of Marburg can be found at my [Phillips University profile page](http://www.informatik.uni-marburg.de/~stadelmann/research.html).
+My academic profile including a CV, list of grants (projects) and bibliography can also be found on my [ZHAW profile page](http://www.zhaw.ch/=stdm). A preserved version of my research at the University of Marburg can be found at my [Phillips University profile page](http://www.informatik.uni-marburg.de/~stadelmann/research.html).
 
+### TOC
+1. [Statement of purpose](#purpose)
+2. [Recent work](#recent)
+3. [Collaborations](#collaborations)
+4. [Publications](#publications)
+
+
+<a name="purpose"></a>
 ## Statement of purpose
 
 I am a **pattern recognition** researcher working on a wide variety of tasks on image, audio or generally "signal" data. I come from the tradition of the field of **artificial intelligence**, and my tool is **machine learning**. My research interest is to discover and understand how intelligent behaviour can be evoked through self-learning, including practical (robustness, generalization) and ethical (algorithmic bias) side effects. I focus on **deep learning** methodology, inspired by biological learning. Each task that I study has its own learning target (e.g., detection, classification, clustering, segmentation, novelty detection, control) and use case (e.g., predictive maintenance, multimedia indexing, document analysis, optical music recognition, industrial quality control, automated machine learning, automated game play), which in turn sheds light on different aspects of the learning process. 
 
+
+<a name="recent"></a>
 ## Recent work
 
 ### Robust and practical deep learning
@@ -69,8 +79,77 @@ I helped in creating one of Europe's first dedicated research centers for data s
 [<img alt="The data science skill set map" src="http://stdm.github.io/images/skillset.jpg"/>](http://stdm.github.io/images/skillset.jpg)
 
 
+<a name="collaborations"></a>
 ## Collaborations
 
 I frequently collaborate with industry to work on exciting pattern recognition use cases. Partners from start-ups, SMEs and multi-national enterprises alike. 
 
-In academia, I work together with the **Machine Learning and Optimization Lab** of [Martin Jaggi](https://mlo.epfl.ch/) at **EPFL**, [Marcello Pelillo](http://www.dsi.unive.it/~pelillo/) of the **Ca'Foscari University of Venice**, [Juergen Schmidhuber](http://people.idsia.ch/~juergen/)'s group at **IDSIA**, and [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/mitarbeiter/f-schwenker/) of **Ulm University, Insitute of Neural Information Processing**. We have joint research projects and/or co-supervise PhD students.
+In academia, I frequently work together with the **Machine Learning and Optimization Lab** of [Martin Jaggi](https://mlo.epfl.ch/) at **EPFL**, [Marcello Pelillo](http://www.dsi.unive.it/~pelillo/) of the **Ca'Foscari University of Venice**, [Juergen Schmidhuber](http://people.idsia.ch/~juergen/)'s group at **IDSIA**, and [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/mitarbeiter/f-schwenker/) of **Ulm University, Insitute of Neural Information Processing**. We have joint research projects and/or co-supervise PhD students.
+
+If you are intgerested in a collaboration, please [contact](http://www.zhaw.ch/=stdm) me.
+
+
+<a name="publications"></a>
+## Publications
+
+Lukas Tuggener, Ismail Elezi, Jürgen Schmidhuber, and Thilo Stadelmann. ["Deep watershed detector for music object recognition"](https://stdm.github.io/downloads/papers/ISMIR_2018.pdf). In: Proceedings of the 19th International Society for Music Information Retrieval Conference. 19th International Society for Music Information Retrieval Conference, Paris, 23. - 27. September 2018. Paris: Society for Music Information Retrieval. [DOI](https://doi.org/10.21256/zhaw-3760).
+
+Feliks Hibraj, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. ["Speaker clustering using dominant sets"](https://stdm.github.io/downloads/papers/ICPR_2018b.pdf). In: Proceedings of the 24th International Conference on Pattern Recognition (ICPR 2018). 24th International Conference on Pattern Recognition (ICPR 2018), Beijing, China, 20-28 August 2018. Beijing: IAPR. [DOI](https://doi.org/10.21256/zhaw-4254).
+
+Lukas Tuggener, Ismail Elezi, Jürgen Schmidhuber, Marcello Pelillo, and Thilo Stadelmann. ["DeepScores : a dataset for segmentation, detection and classification of tiny objects"](https://stdm.github.io/downloads/papers/ICPR_2018a.pdf). In: Proceedings of the 24th International Conference on Pattern Recognition. 24th International Conference on Pattern Recognition (ICPR 2018), Beijing, China, 20-28 August 2018. Beijing: IAPR. 1-6. [DOI](https://doi.org/10.21256/zhaw-4255).
+
+Benjamin Meier, Thilo Stadelmann, Jan Stampfli, Marek Arnold, and Mark Cieliebak. ["Fully convolutional neural networks for newspaper article segmentation"](https://stdm.github.io/downloads/papers/ICDAR_2017.pdf). In: Proceedings of the 14th IAPR International Conference on Document Analysis and Recognition (ICDAR). 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), Kyoto Japan, November 13-15, 2017. Kyoto, Japan: CPS. [DOI](https://doi.org/10.21256/zhaw-1533).
+
+Yanick X. Lukic, Carlo Vogt, Oliver Dürr, and Thilo Stadelmann. ["Learning Embeddings for Speaker Clustering Based on Voice Equality"](https://stdm.github.io/downloads/papers/MLSP_2017.pdf). In: Proceedings of the 27th IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2017). Roppongi, Tokyo, Japan: IEEE. [DOI](https://doi.org/10.21256/zhaw-3762).
+
+Yanick Lukic, Carlo Vogt, Oliver Dürr, and Thilo Stadelmann. ["Speaker Identification and Clustering using Convolutional Neural Networks"](https://stdm.github.io/downloads/papers/MLSP_2016.pdf). In: Proceedings of IEEE International Workshop on Machine Learning for Signal Processing (MLSP 2016). Salerno: IEEE. [DOI](https://doi.org/10.21256/zhaw-3761).
+
+Kurt Stockinger, Thilo Stadelmann, and Andreas Ruckstuhl. ["Data Scientist als Beruf"](https://stdm.github.io/downloads/papers/HMD_2016.pdf). Big Data – Grundlagen, Systeme und Nutzungspotenziale, Springer Verlag, Edition HMD 59-81, 2016. [DOI](https://doi.org/10.1007/978-3-658-11589-0_4).
+
+Jean-Daniel Dessimoz, Jana Koehler, and Thilo Stadelmann. ["AI in Switzerland"](https://stdm.github.io/downloads/papers/AIMAG_2015.pdf). AI Magazine. 36(2), S. 102-105, 2015. [DOI](https://doi.org/10.21256/zhaw-3642).
+
+Thilo Stadelmann, Mark Cieliebak, and Kurt Stockinger. ["Toward automatic data curation for open data"](https://stdm.github.io/downloads/papers/ERCIM_2015.pdf). ERCIM News. 2015(100), S. 32-33. [DOI](https://doi.org/10.21256/zhaw-3643).
+
+Kurt Stockinger, and Thilo Stadelmann. ["Data Science für Lehre, Forschung und Praxis"](https://stdm.github.io/downloads/papers/HMD_2014.pdf). HMD Praxis der Wirtschaftsinformatik. 51(4), S. 469-479, 2014. [DOI](https://doi.org/10.21256/zhaw-3759).
+
+Thilo Stadelmann, Kurt Stockinger, Martin Braschler, Mark Cieliebak, Gerold Baudinot, Oliver Dürr, and Andreas Ruckstuhl. ["Applied data science in Europe : challenges for academia in keeping up with a highly demanded topic"](ECSS_2013.pdf). In: Proceedings of the 9th European Computer Science Summit. 9th European Computer Science Summit, Amsterdam, October 8–9, 2013. 
+
+Thilo Stadelmann, Sven Johr, Michael Ditze, Florian Dittman, and Viktor Fässler. ["FABELHAFT - Fahrerablenkung: Entwicklung eines Meta-Fahrerassistenzsystems durch Echtzeit-Audioklassifikation"](https://stdm.github.io/downloads/papers/VDIFASIS_2012.pdf). In Proceedings of 28. VDI-VW Gemeinschaftstagung Fahrerassistenzsysteme und Integrierte Sicherheit, Wolfsburg, Germany, October 10.-11., 2012. VDI Wissensforum.
+
+Thilo Stadelmann. ["Voice Modeling Methods for Automatic Speaker Recognition"](https://stdm.github.io/downloads/papers/PhdThesis_2010.pdf). Dissertation, Philipps-Universität Marburg. [Available online, 2010](http://archiv.ub.uni-marburg.de/diss/z2010/0465/view.html).
+
+Christian Beecks, Thilo Stadelmann, Bernd Freisleben, and Thomas Seidl. ["Visual Speaker Model Exploration"](https://stdm.github.io/downloads/papers/ICME_2010.pdf), In Proceedings of the IEEE International Conference on Multimedia and Expo (ICME'2010), pages 727-728, Singapore, July 19-23, 2010, IEEE. 
+
+Thilo Stadelmann, Yinghui Wang, Matthew Smith, Ralph Ewerth, and Bernd Freisleben. ["Rethinking Algorithm Development and Design in Speech Processing"](https://stdm.github.io/downloads/papers/ICPR_2010b.pdf). In Proceedings of the 20th International Conference on Pattern Recognition (ICPR'10), pages 4476-4479, Istanbul, Turkey, August 2010a. IAPR. 
+
+Thilo Stadelmann and Bernd Freisleben. "On the MixMax Model and Cepstral Features for Noise-Robust Voice Recognition". Technical Report, Marburg University, July 2010. 
+
+Thilo Stadelmann and Bernd Freisleben. ["Dimension-Decoupled Gaussian Mixture Model for Short Utterance Speaker Recognition"](https://stdm.github.io/downloads/papers/ICPR_2010a.pdf). In Proceedings of the 20th International Conference on Pattern Recognition (ICPR'10), pages 1602-1605, Istanbul, Turkey, August 2010a. IAPR. 
+
+Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bing Shi, and Bernd Freisleben. ["University of Marburg at TRECVID 2009: High-Level Feature Extraction"](https://stdm.github.io/downloads/papers/TRECVID_2009.pdf). In Proceedings of TREC Video Retrieval Evaluation Workshop (TRECVid'09). [Available online, 2009](http://www-nlpir.nist.gov/projects/tvpubs/tv.pubs.org.htm). 
+
+Ernst Juhnke, Dominik Seiler, Thilo Stadelmann, Tim Dörnemann, and Bernd Freisleben. ["LCDL: An Extensible Framework for Wrapping Legacy Code"](https://stdm.github.io/downloads/papers/ERPAS_2009.pdf). In Proceedings of International Workshop on @WAS Emerging Research Projects, Applications and Services (ERPAS'09), pages 638-642, Kuala Lumpur, Malaysia, December 2009. 
+
+Dominik Seiler, Ralph Ewerth, Steffen Heinzl, Thilo Stadelmann, Markus Mühling, Bernd Freisleben, and Manfred Grauer. ["Eine Service-Orientierte Grid-Infrastruktur zur Unterstützung Medienwissenschaftlicher Filmanalyse"](https://stdm.github.io/downloads/papers/GeNeMe_2009.pdf). In Proceedings of the Workshop on Gemeinschaften in Neuen Medien (GeNeMe'09), pages 79-89, Dresden, Germany, September 2009. 
+
+Thilo Stadelmann and Bernd Freisleben. ["Unfolding Speaker Clustering Potential: A Biomimetic Approach"](https://stdm.github.io/downloads/papers/ACMMM_2009.pdf). In Proceedings of the ACM International Conference on Multimedia (ACMMM'09), pages 185-194, Beijing, China, October 2009. ACM. 
+
+Thilo Stadelmann, Steffen Heinzl, Markus Unterberger, and Bernd Freisleben. ["WebVoice: A Toolkit for Perceptual Insights into Speech Processing"](https://stdm.github.io/downloads/papers/CISP_2009.pdf). In Proceedingsof the 2nd International Congress on Image and Signal Processing (CISP'09), pages 4358-4362, Tianjin, China, October 2009. 
+
+Steffen Heinzl, Markus Mathes, Thilo Stadelmann, Dominik Seiler, Marcel Diegelmann, Helmut Dohmann, and Bernd Freisleben. ["The Web Service Browser: Automatic Client Generation and Efficient Data Transfer for Web Services"](https://stdm.github.io/downloads/papers/ICWS_2009.pdf). In Proceedings of the 7th IEEE International Conference on Web Services (ICWS'09), pages 743-750, Los Angeles, CA, USA, July 2009a. IEEE Press. 
+
+Steffen Heinzl, Dominik Seiler, Ernst Juhnke, Thilo Stadelmann, Ralph Ewerth, Manfred Grauer, and Bernd Freisleben. ["A Scalable Service-Oriented Architecture for Multimedia Analysis, Synthesis, and Consumption"](https://stdm.github.io/downloads/papers/IJWGS_2009.pdf). International Journal of Web and Grid Services, 5(3):219-260, 2009. Inderscience Publishers. 
+
+Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bing Shi, and Bernd Freisleben. ["University of Marburg at TRECVID 2008: High-Level Feature Extraction"](https://stdm.github.io/downloads/papers/TRECVID_2008.pdf). In Proceedings of TREC Video Retrieval Evaluation Workshop (TRECVid'08). [Available online, 2008](http://www-nlpir.nist.gov/projects/tvpubs/tv.pubs.org.htm).
+
+Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bing Shi, Christian Zöfel, and Bernd Freisleben. ["University of Marburg at TRECVID 2007: Shot Boundary Detection and High-Level Feature Extraction"](https://stdm.github.io/downloads/papers/TRECVID_2007.pdf). In Proceedings of TREC Video Retrieval Evaluation Workshop (TRECVid'07). [Available online, 2007](http://www-nlpir.nist.gov/projects/tvpubs/tv.pubs.org.htm). 
+
+Ralph Ewerth, Markus Mühling, Thilo Stadelmann, Julinda Gllavata, Manfred Grauer, and Bernd Freisleben. ["Videana: A Software Toolkit for Scientific Film Studies"](https://stdm.github.io/downloads/papers/DTiMS_2007.pdf). In Proceedings of the International Workshop on Digital Tools in Film Studies, pages 1-16, Siegen, Germany, 2007. Transcript Verlag. 
+
+Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bernd Freisleben, Rene Weber, and Klaus Mathiak. ["Semantic Video Analysis for Psychological Research on Violence in Computer Games"](https://stdm.github.io/downloads/papers/CIVR_2007.pdf). In Proceedings of the ACM International Conference on Image and Video Retrieval (CIVR'07), pages 611-618, Amsterdam, The Netherlands, July 2007. ACM. 
+
+Ralph Ewerth, Markus Mühling, Thilo Stadelmann, Ermir Qeli, Björn Agel, Dominik Seiler, and Bernd Freisleben. ["University of Marburg at TRECVID 2006: Shot Boundary Detection and Rushes Task Results"](https://stdm.github.io/downloads/papers/TRECVID_2006.pdf). In Proceedings of TREC Video Retrieval Evaluation Workshop (TRECVid'06). [Available online, 2006](http://www-nlpir.nist.gov/projects/tvpubs/tv.pubs.org.htm). 
+
+Thilo Stadelmann and Bernd Freisleben. ["Fast and Robust Speaker Clustering Using the Earth Mover's Distance and MixMax Models"](https://stdm.github.io/downloads/papers/ICASSP_2006.pdf). In Proceedings of the 31st IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP'06), volume 1, pages 989-992, Toulouse, France, April 2006. IEEE. 
+
+Ralph Ewerth, Christian Behringer, Tobias Kopp, Michael Niebergall, Thilo Stadelmann, and Bernd Freisleben. ["University of Marburg at TRECVID 2005: Shot Boundary Detection and Camera Motion Estimation Results"](https://stdm.github.io/downloads/papers/TRECVID_2005.pdf). In Proceedings of TREC Video Retrieval Evaluation Workshop (TRECVid'05). [Available online, 2005](http://www-nlpir.nist.gov/projects/tvpubs/tv.pubs.org.htm).

@@ -11,8 +11,6 @@ All views expressed are mine and not necessarily shared by ZHAW, InIT or the Dat
 
 I am a computer scientist by training, an AI guy by passion, and a Machine Learning researcher by research area. My research interests revolve around general principles for learning algorithms. I approach these by means of use cases from very diverse areas, e.g. multimedia analysis, speech and audio processing, optical music recognition, predictive maintenance, automated game playing, data mining, driving assistants, computer vision, face recognition, ...
 
-My current research interests revolve around deep neural networks for pattern recognition problems, and reinforcement learning for general control.
+My current [research interests](https://stdm.github.io/research/) revolve around deep neural networks for pattern recognition problems, and reinforcement learning for general control.
 
-### CV, publications, etc.
-
-Please have a look at my [personal profile at my university's website](http://www.zhaw.ch/=stdm) for a publication list, CV, contact data and the like.
+Please have a look at my [personal profile at my university's website](http://www.zhaw.ch/=stdm) for a CV, contact data and the like.
