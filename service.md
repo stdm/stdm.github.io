@@ -5,7 +5,7 @@ layout: page
 
 Much to the suprise of my younger self, I have become a very active networker, public speaker and community builder, involved in the leadership of organizations like the [ZHAW Datalab](http://www.zhaw.ch/datalab), [SGAICO](https://sgaico.swissinformatics.org/) and the [Swiss Alliance for Data-Intensive Services](http://www.data-service-alliance.ch).
 
-### TOC
+### TOC 
 1. [Talks](#talks)
 2. [Community offices](#offices)
 3. [In the press](#press) 
