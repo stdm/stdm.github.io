@@ -6,12 +6,13 @@ layout: page
 Much to the suprise of my younger self, I have become a very active networker, public speaker and community builder, involved in the leadership of organizations like the [ZHAW Datalab](http://www.zhaw.ch/datalab), [SGAICO](https://sgaico.swissinformatics.org/) and the [Swiss Alliance for Data-Intensive Services](http://www.data-service-alliance.ch).
 
 ### TOC
-1. [Talks & interviews](#talks)
+1. [Talks](#talks)
 2. [Community offices](#offices)
+3. [In the press](#press)
 
 
 <a name="talks"></a>
-## Talks & interviews
+## Talks
 
 ### 2018
   * Invited talk at **ANNPR 2018**,
@@ -220,3 +221,10 @@ See my [Marburgian page](http://www.informatik.uni-marburg.de/~stadelmann/resear
   * Organizer & member of program committee, <a title="SDS|2014 Website" href="http://www.zhaw.ch/de/zhaw/institute-zentren/uebergreifende-institute-zentren/dlab/sds2014.html" target="_blank">SDS|2014 &#8211; 1st Swiss Workshop on Data Science</a>, 21.03.2014, Winterthur/Switzerland
   
   * Scientific partner, <a title="Big Data Roadshow " href="http://www.bigdata.ch/" target="_blank">Big data roadshow</a>, 06/2013-06/2014
+  
+
+<a name="press"></a>
+## In the press
+
+
+  
