@@ -13,13 +13,13 @@ A group of scientists from different backgrounds is involved in audio processing
 
 | Name | Competencies | 
 | --- | --- |
-| [<img alt="Philipp Ackermann" src="http://stdm.github.io/images/acke.jpg"/>](http://www.zhaw.ch/=acke)[Philipp Ackermann](http://www.zhaw.ch/=acke) | Digital mixing consoles, Digital music, Human computer interaction |
-| [<img alt="Mark Cieliebak" src="http://stdm.github.io/images/ciel.jpg"/>](http://www.zhaw.ch/=ciel)[Mark Cieliebak](http://www.zhaw.ch/=ciel) | Mobile sound processing, Natural language technologies |
-| [<img alt="Sven Hirsch" src="http://stdm.github.io/images/hirc.jpg"/>](http://www.zhaw.ch/=hirc)[Sven Hirsch](http://www.zhaw.ch/=hirc) | Audio fingerprinting & music classification, Sound installations |
-| [<img alt="Hans-Peter Hutter" src="http://stdm.github.io/images/huhp.jpg"/>](http://www.zhaw.ch/=huhp)[Hans-Peter Hutter](http://www.zhaw.ch/=huhp) | Automatic speech recognition, Handset & channel normalization |
-| [<img alt="Matthias Rosenthal" src="http://stdm.github.io/images/rosn.jpg"/>](http://www.zhaw.ch/=rosn)[Matthias Rosenthal](http://www.zhaw.ch/=rosn) | 3D audio algorithms, Development of embedded hardware for signal processing |
-| [<img alt="Thilo Stadelmann" src="http://stdm.github.io/images/stdm.jpg"/>](http://www.zhaw.ch/=stdm)[Thilo Stadelmann](http://www.zhaw.ch/=stdm) | Automatic speaker recognition & clustering (diarization), Music & multimedia information retrieval, Sound classification and segmentation |
-| [<img alt="Sigisbert Wyrsch" src="http://stdm.github.io/images/wyrs.jpg"/>](http://www.zhaw.ch/=wyrs)[Sigisbert Wyrsch](http://www.zhaw.ch/=wyrs) | Active noise reduction /cancellation, Digital audio signal processing, Hearing aid engineering |
+| [<img alt="Philipp Ackermann" src="http://stdm.github.io/images/acke.jpg" height="150" width="150"/>](http://www.zhaw.ch/=acke) <br> [Philipp Ackermann](http://www.zhaw.ch/=acke) | Digital mixing consoles, Digital music, Human computer interaction |
+| [<img alt="Mark Cieliebak" src="http://stdm.github.io/images/ciel.jpg" height="150" width="150"/>](http://www.zhaw.ch/=ciel) <br> [Mark Cieliebak](http://www.zhaw.ch/=ciel) | Mobile sound processing, Natural language technologies |
+| [<img alt="Sven Hirsch" src="http://stdm.github.io/images/hirc.jpg" height="150" width="150"/>](http://www.zhaw.ch/=hirc) <br> [Sven Hirsch](http://www.zhaw.ch/=hirc) | Audio fingerprinting & music classification, Sound installations |
+| [<img alt="Hans-Peter Hutter" src="http://stdm.github.io/images/huhp.jpg" height="150" width="150"/>](http://www.zhaw.ch/=huhp) <br> [Hans-Peter Hutter](http://www.zhaw.ch/=huhp) | Automatic speech recognition, Handset & channel normalization |
+| [<img alt="Matthias Rosenthal" src="http://stdm.github.io/images/rosn.jpg" height="150" width="150"/>](http://www.zhaw.ch/=rosn) <br> [Matthias Rosenthal](http://www.zhaw.ch/=rosn) | 3D audio algorithms, Development of embedded hardware for signal processing |
+| [<img alt="Thilo Stadelmann" src="http://stdm.github.io/images/stdm.jpg" height="150" width="150"/>](http://www.zhaw.ch/=stdm) <br> [Thilo Stadelmann](http://www.zhaw.ch/=stdm) | Automatic speaker recognition & clustering (diarization), Music & multimedia information retrieval, Sound classification and segmentation |
+| [<img alt="Sigisbert Wyrsch" src="http://stdm.github.io/images/wyrs.jpg" height="150" width="150"/>](http://www.zhaw.ch/=wyrs) <br> [Sigisbert Wyrsch](http://www.zhaw.ch/=wyrs) | Active noise reduction /cancellation, Digital audio signal processing, Hearing aid engineering |
 | ...to be continued | (please get in touch)! |
 
 ## Research directions
