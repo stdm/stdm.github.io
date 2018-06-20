@@ -176,10 +176,11 @@ Much to the suprise of my younger self, I have become a very active networker, p
 ### Boards & leadership
 
   * 09/2016-ongoing: Co-founder and member of the board of the [Swiss Alliance for Data-Intensive Services](www.data-service-alliance.ch), a Innosuisse-funded [National Thematic Network](https://www.kti.admin.ch/kti/en/home/unsere-foerderangebote/fuer-forschende/vernetzungsmoeglichkeiten.html)
- 
+    [<img alt="Data+Service" src="http://stdm.github.io/images/data+service.png"/>](http://stdm.github.io/images/data+service.png)
   * 11/2014-ongoing: Vice president & member of the board of [SGAICO](https://sgaico.swissinformatics.org/), the Swiss Group for Artificial Intelligence & Cognitive Science
-    
+    [<img alt="SGAICO" src="http://stdm.github.io/images/sgaico.jpg"/>](http://stdm.github.io/images/sgaico.jpg)
   * 05/2013-ongoing: Co-Founder, head & member of the board of the [ZHAW Datalab](www.zhaw.ch/datalab), the ZHAW Data Science Laboratory
+    [<img alt="ZHAW Datalab" src="http://stdm.github.io/images/datalab.png"/>](http://stdm.github.io/images/datalab.png)
 
 
 ### Conferences & events
