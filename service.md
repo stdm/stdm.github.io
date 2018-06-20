@@ -244,6 +244,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * June 2017, [ZHAW Impact](https://stdm.github.io/downloads/press/2017-06-01_ZHAW-Impact_Datalab.pdf): "ZHAW Datalab - Innovative Lösungen gegen Krebs, Geldwäsche oder Fehlalarm"
   
   * September 26, 2016, [Radio 1](https://stdm.github.io/downloads/press/2016-09-26_Radio1_KuenstlicheIntelligenzI.mp3) [part II](https://stdm.github.io/downloads/press/2016-09-26_Radio1_KuenstlicheIntelligenzII.mp3) [part III](https://stdm.github.io/downloads/press/2016-09-26_Radio1_KuenstlicheIntelligenzIII.mp3): "Künstliche Intelligenz"
+
+  * Decepmer 2015, [ZHAW Impact](https://stdm.github.io/downloads/press/2015-12-01_ZHAW-Impact.pdf): "Data Science kann Routen aufzeigen, fahren dürfen wir selber"
   
   * January 05, 2014, [Berner Zeitung](https://stdm.github.io/downloads/press/2014-01-05_Berner-Zeitung.pdf): "Das Erdöl der nächsten Revolution"
   
