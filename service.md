@@ -39,7 +39,6 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
   * [**Was kann Künstliche Intelligenz leisten?**](https://stdm.github.io/downloads/talks/2018-03-02_Was_kann_KI_leisten.pdf) 
     Key note at [CAS Digitale Transformation und Innovation](https://weiterbildung.zhaw.ch/de/school-of-management-and-law/programm/cas-digitale-technologien-und-innovation.html), Winterthur, Switzerland, March 02, 2018
-    [<img alt="Slides" src="http://stdm.github.io/images/was-kann-ki-leisten-2018.jpg"/>](https://stdm.github.io/downloads/talks/2018-03-02_Was_kann_KI_leisten.pdf)
     
   * Panelist at the **AI Applied to Structured Data** workshop, 
     IBM Research, Rüschlikon, Switzerland, April 11, 2018
@@ -103,7 +102,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
     
   * [**Der Wert von Daten in Zeiten von Big Data** ](https://stdm.github.io/downloads/talks/2016-01-21_Der_Wert_von_Daten_in_Zeiten_von_Big_Data.pdf)
     Microsoft Vision Days, Wallisellen, Switzerland, January 21, 2016
-    [<img alt="Slides" src="http://stdm.github.io/images/wert-big-date-2016.jpg"/>](https://stdm.github.io/downloads/talks/2016-01-21_Der_Wert_von_Daten_in_Zeiten_von_Big_Data.pdf)
+    [<img alt="Slides" src="http://stdm.github.io/images/wert-big-data-2016.jpg"/>](https://stdm.github.io/downloads/talks/2016-01-21_Der_Wert_von_Daten_in_Zeiten_von_Big_Data.pdf)
     
     [Slideshare](http://www.slideshare.net/thilo_stadelmann/der-wert-von-daten-in-zeiten-von-big-data)
 
