@@ -29,6 +29,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
   * [**Report form the Front Lines of Deep Learning**](https://stdm.github.io/downloads/talks/2018-06-06_DL-report-from-the-fron-lines.pdf)
     Invited talk at [**Deep Learning Workshop**](https://sds2018.ch/deep-learning-workshop), SDS|2018 Pre-Confernece Event, Bern, Switzerland, June 06, 2018
+    [<img alt="Slides" src="http://stdm.github.io/images/dl-frontlines-2018.jpg"/>](https://stdm.github.io/downloads/talks/2018-06-06_DL-report-from-the-fron-lines.pdf)
     
   * Invited talk at [**Informatiktage 2018**](https://informatiktage.ch/), 
     Winterthur, Switzerland, June 01, 2018
@@ -38,6 +39,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
   * [**Was kann Künstliche Intelligenz leisten?**](https://stdm.github.io/downloads/talks/2018-03-02_Was_kann_KI_leisten.pdf) 
     Key note at [CAS Digitale Transformation und Innovation](https://weiterbildung.zhaw.ch/de/school-of-management-and-law/programm/cas-digitale-technologien-und-innovation.html), Winterthur, Switzerland, March 02, 2018
+    [<img alt="Slides" src="http://stdm.github.io/images/was-kann-ki-leisten-2018.jpg"/>](https://stdm.github.io/downloads/talks/2018-03-02_Was_kann_KI_leisten.pdf)
     
   * Panelist at the **AI Applied to Structured Data** workshop, 
     IBM Research, Rüschlikon, Switzerland, April 11, 2018
@@ -56,8 +58,9 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * [**Wie denken denkende Maschinen?**](https://stdm.github.io/downloads/talks/2017-11-14_Wie_denken_denkende_Maschinen.pdf)  
     Swiss ICT Symposium 2017, Lucerne, Switzerland, November 14, 2017 
  
-  * [**Wissenschaftliches Vorgehen: Der beste Weg zu guter Praxis**](2017-09-06_BestTeaching-BestPractices_ScienceApplied.pdf)
+  * [**Wissenschaftliches Vorgehen: Der beste Weg zu guter Praxis**](https://stdm.github.io/downloads/talks/2017-09-06_BestTeaching-BestPractices_ScienceApplied.pdf)
     Tagung "Best Teaching - Best Practices", Wädenswil, Switzerland, September 6, 2017
+    [<img alt="Slides" src="http://stdm.github.io/images/best-teaching-2017.jpg"/>](https://stdm.github.io/downloads/talks/2017-09-06_BestTeaching-BestPractices_ScienceApplied.pdf)
     
     [Slideshare](https://de.slideshare.net/thilo_stadelmann/wissenschaftliches-vorgehen-der-beste-weg-zu-guter-praxis)
   * [**Beyond ImageNet - Deep Learning in Industrial Practice**](https://stdm.github.io/downloads/talks/2017-06-16_DL_in_industrial_practice.pdf) (together with Oliver Duerr) 
@@ -76,8 +79,9 @@ Much to the suprise of my younger self, I have become a very active networker, p
   
 ### 2016
 
-  * [**Erfolg im 21. Jahrhundert: Daten entscheiden. Wie die Swiss Alliance for Data-Intensive Services datenbasierte Mehrwerte schafft**](2016-11-17_Datenbasierte_Mehrwerte_schaffen.pdf) 
+  * [**Erfolg im 21. Jahrhundert: Daten entscheiden. Wie die Swiss Alliance for Data-Intensive Services datenbasierte Mehrwerte schafft**](https://stdm.github.io/downloads/talks/2016-11-17_Datenbasierte_Mehrwerte_schaffen.pdf) 
     Innovation Apéro of the Technopark Winterthur, Switzerland, November 17, 2016
+    [<img alt="Slides" src="http://stdm.github.io/images/mehrwert-schaffen-2017.jpg"/>](https://stdm.github.io/downloads/talks/2016-11-17_Datenbasierte_Mehrwerte_schaffen.pdf)
     
     [Slideshare](http://www.slideshare.net/thilo_stadelmann/wie-die-swiss-alliance-for-dataintensive-services-datenbasierte-mehrwerte-schafft)
   * **Data Science made in Switzerland** 
@@ -95,9 +99,11 @@ Much to the suprise of my younger self, I have become a very active networker, p
   
   * [**The Winterthur Perspective on Data Science and Machine Learning**](https://stdm.github.io/downloads/talks/2016-01-29_Winterthur_Perspective.pdf) 
     [Seminar of the European Centre for Living Technologies](http://www.unive.it/nqcontent.cfm?a_id=199041), Venice, Italy, January 29, 2016
+    [<img alt="Slides" src="http://stdm.github.io/images/winterthur-perspective-2016.jpg"/>](https://stdm.github.io/downloads/talks/2016-01-29_Winterthur_Perspective.pdf)
     
   * [**Der Wert von Daten in Zeiten von Big Data** ](https://stdm.github.io/downloads/talks/2016-01-21_Der_Wert_von_Daten_in_Zeiten_von_Big_Data.pdf)
     Microsoft Vision Days, Wallisellen, Switzerland, January 21, 2016
+    [<img alt="Slides" src="http://stdm.github.io/images/wert-big-date-2016.jpg"/>](https://stdm.github.io/downloads/talks/2016-01-21_Der_Wert_von_Daten_in_Zeiten_von_Big_Data.pdf)
     
     [Slideshare](http://www.slideshare.net/thilo_stadelmann/der-wert-von-daten-in-zeiten-von-big-data)
 
@@ -123,10 +129,12 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
   * [**Data Science - (k)eine Teenagerliebe**](https://stdm.github.io/downloads/talks/2014-11-02_(K)eineTeenagerLiebe_SwissICT.pdf)
     34th Swiss ICT Symposium, Lucerne, Switzerland, November 05, 2014
+    [<img alt="Slides" src="http://stdm.github.io/images/teenagerliebe-2014.jpg"/>](https://stdm.github.io/downloads/talks/2014-11-02_(K)eineTeenagerLiebe_SwissICT.pdf)
     
     [Slideshare](https://de.slideshare.net/thilo_stadelmann/data-science-keine-teenagerliebe)
   * [**Chocolate Flavoured Data Science** ](https://stdm.github.io/downloads/talks/2014-04-28_Chocolate_Flavoured_Data_Science.pdf)
     Colloquium of the [Research Group Data- and Web-Science](http://dws.informatik.uni-mannheim.de/), University of Mannheim, Mannheim, Germany, April 28, 2014
+    [<img alt="Slides" src="http://stdm.github.io/images/chocolate-flavoured-ds-2014.jpg"/>](https://stdm.github.io/downloads/talks/2014-04-28_Chocolate_Flavoured_Data_Science.pdf)
     
     [Slideshare](https://de.slideshare.net/thilo_stadelmann/chocolateflavoured-data-science)
   * **Educating Data Scientists of the Future** (deputizing Kurt Stockinger) 
@@ -229,6 +237,9 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="press"></a>
 ## In the press 
 
+  * May 2018, [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6408037670907367424): "A list of academic leaders in the field of Data Science in Switzerland"
+    [<img alt="Screenshot" src="http://stdm.github.io/images/linkedin-2018.jpg"/>](https://www.linkedin.com/feed/update/urn:li:activity:6408037670907367424)
+  
   * May 15, 2018, [20 Minuten](https://stdm.github.io/downloads/press/2018-05-15_20-Minuten.pdf): "Was Google hier zeigt, ist absolut faszinierend"
   
   * January 25, 2018, [Nidwaldener Zeitung](https://stdm.github.io/downloads/press/2018-01-25_Nidwaldner-Zeitung.pdf): "Robotik interessiert am meisten"
