@@ -27,7 +27,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * Invited talk at [**Berner Architektentreffen**](http://www.berner-architekten-treffen.ch), 
     Bern, Switzerland, June 29, 2018
 
-  * [**Report form the Front Lines of Deep Learning**](https://stdm.github.io/downloads/papers/2018-06-06_DL-report-from-the-fron-lines.pdf)
+  * [**Report form the Front Lines of Deep Learning**](https://stdm.github.io/downloads/talks/2018-06-06_DL-report-from-the-fron-lines.pdf)
     Invited talk at [**Deep Learning Workshop**](https://sds2018.ch/deep-learning-workshop), SDS|2018 Pre-Confernece Event, Bern, Switzerland, June 06, 2018
     
   * Invited talk at [**Informatiktage 2018**](https://informatiktage.ch/), 
@@ -36,7 +36,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * [Discussion ("Coreferat")](2018-05-16_Discussion_IssuesInAnalytics.pdf) on Bart Custers' **Discrimination, privacy and related issues in predictive big data analytics**,
     Law & Robots Workshop 2018, University of Basel, Switzerland, May 16, 2018
 
-  * [**Was kann Künstliche Intelligenz leisten?**](https://stdm.github.io/downloads/papers/2018-03-02_Was_kann_KI_leisten.pdf) 
+  * [**Was kann Künstliche Intelligenz leisten?**](https://stdm.github.io/downloads/talks/2018-03-02_Was_kann_KI_leisten.pdf) 
     Key note at [CAS Digitale Transformation und Innovation](https://weiterbildung.zhaw.ch/de/school-of-management-and-law/programm/cas-digitale-technologien-und-innovation.html), Winterthur, Switzerland, March 02, 2018
     
   * Panelist at the **AI Applied to Structured Data** workshop, 
@@ -50,17 +50,17 @@ Much to the suprise of my younger self, I have become a very active networker, p
     Konferenz Digitale Schweiz, Biel, Switzerland, November 20, 2017
     
     [Blog post](https://www.data-service-alliance.ch/single-post/2018/01/16/Digitization-Innovation-through-cooperation-Glimpses-from-the-Digitization-Innovation-Workshop-at-%E2%80%9CKonferenz-Digitale-Schweiz%E2%80%9D)
-  * [**Big Data Forschung aus der Perspektive des ZHAW Datalab**](https://stdm.github.io/downloads/papers/2017-11-17_Digitalisierung_BigData_Forschung.pdf)
+  * [**Big Data Forschung aus der Perspektive des ZHAW Datalab**](https://stdm.github.io/downloads/talks/2017-11-17_Digitalisierung_BigData_Forschung.pdf)
     Strategietagung „Digitization“ of the Council of the Universities of Applied Sciences of the Canton of Zurich, November 17, 2017
 
-  * [**Wie denken denkende Maschinen?**](https://stdm.github.io/downloads/papers/2017-11-14_Wie_denken_denkende_Maschinen.pdf)  
+  * [**Wie denken denkende Maschinen?**](https://stdm.github.io/downloads/talks/2017-11-14_Wie_denken_denkende_Maschinen.pdf)  
     Swiss ICT Symposium 2017, Lucerne, Switzerland, November 14, 2017 
  
   * [**Wissenschaftliches Vorgehen: Der beste Weg zu guter Praxis**](2017-09-06_BestTeaching-BestPractices_ScienceApplied.pdf)
     Tagung "Best Teaching - Best Practices", Wädenswil, Switzerland, September 6, 2017
     
     [Slideshare](https://de.slideshare.net/thilo_stadelmann/wissenschaftliches-vorgehen-der-beste-weg-zu-guter-praxis)
-  * [**Beyond ImageNet - Deep Learning in Industrial Practice**](https://stdm.github.io/downloads/papers/2017-06-16_DL_in_industrial_practice.pdf) (together with Oliver Duerr) 
+  * [**Beyond ImageNet - Deep Learning in Industrial Practice**](https://stdm.github.io/downloads/talks/2017-06-16_DL_in_industrial_practice.pdf) (together with Oliver Duerr) 
     4th Swiss Conference on Data Science, SDS|2017, Bern, Switzerland, June 16, 2017
     
     [Youtube](https://youtu.be/mRis4rBxXg0)
@@ -83,7 +83,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * **Data Science made in Switzerland** 
     Interview with Steffen Lukesch at Hochschultag ZHAW, Zurich, Switzerland, November 09, 2016
     
-  * [**Was denken denkende Maschinen**](https://stdm.github.io/downloads/papers/2016-10-20_Was_denken_denkende_Maschinen.pdf)
+  * [**Was denken denkende Maschinen**](https://stdm.github.io/downloads/talks/2016-10-20_Was_denken_denkende_Maschinen.pdf)
     WI Awards 2016, Zurich, Switzerland, October 20, 2016
   	
     [Slideshare](www.slideshare.net/thilo_stadelmann/was-denken-denkende-maschinen)
@@ -93,10 +93,10 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * **Der Wert von Daten in Zeiten von Big Data**     
     Sitic Topic Forum, Horgen, Switzerland, March 17, 2016
   
-  * [**The Winterthur Perspective on Data Science and Machine Learning**](https://stdm.github.io/downloads/papers/2016-01-29_Winterthur_Perspective.pdf) 
+  * [**The Winterthur Perspective on Data Science and Machine Learning**](https://stdm.github.io/downloads/talks/2016-01-29_Winterthur_Perspective.pdf) 
     [Seminar of the European Centre for Living Technologies](http://www.unive.it/nqcontent.cfm?a_id=199041), Venice, Italy, January 29, 2016
     
-  * [**Der Wert von Daten in Zeiten von Big Data** ](https://stdm.github.io/downloads/papers/2016-01-21_Der_Wert_von_Daten_in_Zeiten_von_Big_Data.pdf)
+  * [**Der Wert von Daten in Zeiten von Big Data** ](https://stdm.github.io/downloads/talks/2016-01-21_Der_Wert_von_Daten_in_Zeiten_von_Big_Data.pdf)
     Microsoft Vision Days, Wallisellen, Switzerland, January 21, 2016
     
     [Slideshare](www.slideshare.net/thilo_stadelmann/der-wert-von-daten-in-zeiten-von-big-data)
@@ -121,11 +121,11 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * **Dialogue on AI Education in Switzerland** 
     SGAICO Annual Assembly and Workshop "Intelligent Systems & Applications", Basel, Switzerland, November 18, 2014
 
-  * [**Data Science - (k)eine Teenagerliebe**](https://stdm.github.io/downloads/papers/2014-11-02_(K)eineTeenagerLiebe_SwissICT.pdf)
+  * [**Data Science - (k)eine Teenagerliebe**](https://stdm.github.io/downloads/talks/2014-11-02_(K)eineTeenagerLiebe_SwissICT.pdf)
     34th Swiss ICT Symposium, Lucerne, Switzerland, November 05, 2014
     
     [Slideshare](https://de.slideshare.net/thilo_stadelmann/data-science-keine-teenagerliebe)
-  * [**Chocolate Flavoured Data Science** ](https://stdm.github.io/downloads/papers/2014-04-28_Chocolate_Flavoured_Data_Science.pdf)
+  * [**Chocolate Flavoured Data Science** ](https://stdm.github.io/downloads/talks/2014-04-28_Chocolate_Flavoured_Data_Science.pdf)
     Colloquium of the [Research Group Data- and Web-Science](http://dws.informatik.uni-mannheim.de/), University of Mannheim, Mannheim, Germany, April 28, 2014
     
     [Slideshare](https://de.slideshare.net/thilo_stadelmann/chocolateflavoured-data-science)
@@ -167,33 +167,35 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 ### Pre-2012
 
-See my [Marburgian page](http://www.informatik.uni-marburg.de/~stadelmann/research.html#talks) for some of the previous talks I gave (mostly on audio and speech processing topics).
+  * See my [Marburgian page](http://www.informatik.uni-marburg.de/~stadelmann/research.html#talks) for some of the previous talks I gave (mostly on audio and speech processing topics).
 
 
 <a name="offices"></a>
 ## Community offices
 
+### Boards & leadership
+
+  * 09/2016-ongoing: Co-founder and member of the board of the [Swiss Alliance for Data-Intensive Services](www.data-service-alliance.ch), a Innosuisse-funded [National Thematic Network](https://www.kti.admin.ch/kti/en/home/unsere-foerderangebote/fuer-forschende/vernetzungsmoeglichkeiten.html)
+ 
+  * 11/2014-ongoing: Vice president & member of the board of [SGAICO](https://sgaico.swissinformatics.org/), the Swiss Group for Artificial Intelligence & Cognitive Science
+    
+  * 05/2013-ongoing: Co-Founder, head & member of the board of the [ZHAW Datalab](www.zhaw.ch/datalab), the ZHAW Data Science Laboratory
+
+
+### Conferences & events
+
   * Member of program committee, [8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018/Program%20committee.html), Siena, Italy, September 19-21, 2018
 
-  * Co-chair, [Workshop "NLP Clinic" at SwisText 2018](https://www.swisstext.org/workshops/2018/NLP_Clinic.html), Winterthur, Switzerland, June 13, 2018
+  * Co-chair & moderator, [Workshop "NLP Clinic" at SwisText 2018](https://www.swisstext.org/workshops/2018/NLP_Clinic.html), Winterthur, Switzerland, June 13, 2018
 
   * Member of program committee, [5th Swiss Conference on Data Science](http://www.sds2018.ch), Bern, Switzerland, June 07, 2018
   
   * Thesenschreiber & workshop concept, [Workshop Digitalisierung und Innovation @ Konferenz Digitale Schweiz](https://www.digitaldialog.swiss/), Biel, November 20, 2017
   
     [Youtube](https://www.youtube.com/watch?v=unpSRhgnO4s#t=3h01m59)
-  * Co-founder and member of the board of the [Swiss Alliance for Data-Intensive Services](www.data-service-alliance.ch), a Innosuisse-funded [National Thematic Network](https://www.kti.admin.ch/kti/en/home/unsere-foerderangebote/fuer-forschende/vernetzungsmoeglichkeiten.html)
- 
-    09/2016-ongoing
   * Co-Organizer, [Zurich Machine Learning & Data Science Meetup](www.meetup.com/de-DE/Zurich-Machine-Learning/)
   
     04/2015 - 02/2017
-  * Vice president & member of the board of [SGAICO](https://sgaico.swissinformatics.org/), the Swiss Group for Artificial Intelligence & Cognitive Science
-    
-    11/2014 - ongoing
-  * Co-Founder, head & member of the board of the [ZHAW Datalab](www.zhaw.ch/datalab), the ZHAW Data Science Laboratory
-    
-    05/2013 - ongoing
   * Co-organizer & member of program committee: Deep Learning and Beyond, 16.11.2016, Rotkreuz/Switzerland
   
   * General chair: SDS\|2016, the [3rd Swiss Conference on Data Science](www.zhaw.ch/datalab/sds2016), 16.09.2016, Winterthur, Switzerland
@@ -216,21 +218,21 @@ See my [Marburgian page](http://www.informatik.uni-marburg.de/~stadelmann/resear
 <a name="press"></a>
 ## In the press
 
-  * May 15, 2018, [20 Minuten](https://stdm.github.io/downloads/papers/2018-05-15_20-Minuten.pdf): "Was Google hier zeigt, ist absolut faszinierend"
+  * May 15, 2018, [20 Minuten](https://stdm.github.io/downloads/press/2018-05-15_20-Minuten.pdf): "Was Google hier zeigt, ist absolut faszinierend"
   
-  * January 25, 2018, [Nidwaldener Zeitung](https://stdm.github.io/downloads/papers/2018-01-25_Nidwaldner-Zeitung.pdf): "Robotik interessiert am meisten"
+  * January 25, 2018, [Nidwaldener Zeitung](https://stdm.github.io/downloads/press/2018-01-25_Nidwaldner-Zeitung.pdf): "Robotik interessiert am meisten"
   
-  * November 2017, [Aktuelle Technik](https://stdm.github.io/downloads/papers/2017-11-01_Aktuelle-Technik.pdf): "Es geht weniger um Intelligenz als um das Lösen komplexer Probleme mit dem Computer"
+  * November 2017, [Aktuelle Technik](https://stdm.github.io/downloads/press/2017-11-01_Aktuelle-Technik.pdf): "Es geht weniger um Intelligenz als um das Lösen komplexer Probleme mit dem Computer"
   
-  * October 05, 2017, [ZHAW School of Engineering newsletter](https://stdm.github.io/downloads/papers/2017-10-05_ZHAW-School-of-Engineering-Newsletter.pdf): "Wenn Maschinen durch Kreativität, Neugier und Empathie überraschen, dann ist das starke Künstliche Intelligenz"
+  * October 05, 2017, [ZHAW School of Engineering newsletter](https://stdm.github.io/downloads/press/2017-10-05_ZHAW-School-of-Engineering-Newsletter.pdf): "Wenn Maschinen durch Kreativität, Neugier und Empathie überraschen, dann ist das starke Künstliche Intelligenz"
   
-  * August 2017, [Aktuelle Technik](https://stdm.github.io/downloads/papers/2017-08-01_Aktuelle-Technik.pdf): "Innovative Lösungen gegen Krebs, Geldwäsche oder Fehlalarm"
+  * August 2017, [Aktuelle Technik](https://stdm.github.io/downloads/press/2017-08-01_Aktuelle-Technik.pdf): "Innovative Lösungen gegen Krebs, Geldwäsche oder Fehlalarm"
   
-  * June 2017, [ZHAW Impact](https://stdm.github.io/downloads/papers/2017-06-01_ZHAW-Impact_KI.pdf): "Hype um Künstliche Intelligenz"
+  * June 2017, [ZHAW Impact](https://stdm.github.io/downloads/press/2017-06-01_ZHAW-Impact_KI.pdf): "Hype um Künstliche Intelligenz"
   
-  * June 2017, [ZHAW Impact](https://stdm.github.io/downloads/papers/2017-06-01_ZHAW-Impact_Datalab.pdf): "ZHAW Datalab - Innovative Lösungen gegen Krebs, Geldwäsche oder Fehlalarm"
+  * June 2017, [ZHAW Impact](https://stdm.github.io/downloads/press/2017-06-01_ZHAW-Impact_Datalab.pdf): "ZHAW Datalab - Innovative Lösungen gegen Krebs, Geldwäsche oder Fehlalarm"
   
-  * September 26, 2016, [Radio 1](https://stdm.github.io/downloads/papers/2016-09-26_Radio1_KuenstlicheIntelligenzI.mp3) [part II](https://stdm.github.io/downloads/papers/2016-09-26_Radio1_KuenstlicheIntelligenzII.mp3) [part III](https://stdm.github.io/downloads/papers/2016-09-26_Radio1_KuenstlicheIntelligenzIII.mp3): "Künstliche Intelligenz"
+  * September 26, 2016, [Radio 1](https://stdm.github.io/downloads/press/2016-09-26_Radio1_KuenstlicheIntelligenzI.mp3) [part II](https://stdm.github.io/downloads/press/2016-09-26_Radio1_KuenstlicheIntelligenzII.mp3) [part III](https://stdm.github.io/downloads/press/2016-09-26_Radio1_KuenstlicheIntelligenzIII.mp3): "Künstliche Intelligenz"
   
-  * January 05, 2014, [Berner Zeitung](https://stdm.github.io/downloads/papers/2014-01-05_Berner-Zeitung.pdf): "Das Erdöl der nächsten Revolution"
+  * January 05, 2014, [Berner Zeitung](https://stdm.github.io/downloads/press/2014-01-05_Berner-Zeitung.pdf): "Das Erdöl der nächsten Revolution"
   
