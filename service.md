@@ -8,7 +8,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
 ### TOC
 1. [Talks](#talks)
 2. [Community offices](#offices)
-3. [In the press](#press)
+3. [In the press](#press) 
 
 
 <a name="talks"></a>
