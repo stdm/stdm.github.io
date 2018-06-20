@@ -227,7 +227,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   
 
 <a name="press"></a>
-## In the press
+## In the press 
 
   * May 15, 2018, [20 Minuten](https://stdm.github.io/downloads/press/2018-05-15_20-Minuten.pdf): "Was Google hier zeigt, ist absolut faszinierend"
   
