@@ -11,6 +11,8 @@ This page is dedicated to the research of me and my group. My academic profile i
 3. [Collaborations](#collaborations)
 4. [Publications](#publications)
 
+[<img alt="Collaboration" src="http://stdm.github.io/images/thilo-lasse-rheinfall.jpg"/>](http://stdm.github.io/images/thilo-lasse-rheinfall.jpg)
+
 
 <a name="purpose"></a>
 ## Statement of purpose
