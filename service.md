@@ -10,6 +10,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
 2. [Community offices](#offices)
 3. [In the press](#press) 
 
+[<img alt="Interview" src="http://stdm.github.io/images/stdm-konferenz-digitale-schweiz.png"/>](http://stdm.github.io/images/stdm-konferenz-digitale-schweiz.png)
+
 
 <a name="talks"></a>
 ## Talks 
