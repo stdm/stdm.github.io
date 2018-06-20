@@ -3,10 +3,15 @@ title: Audio Processing @ ZHAW
 layout: page
 ---
 
-## Abstract
- 
 This page collects information and resources on audio processing research at ZHAW. If you are interested in (or need) audio processing research at/from ZHAW (as a colleague or potential project partner), please contact us.
 
+### TOC
+1. [People](#people)
+2. [Research directions](#research)
+3. [Resources](#resources) 
+
+
+<a name="people"></a>
 ## People
 
 A group of scientists from different backgrounds is involved in audio processing research here at ZHAW (in alphabetical order):
@@ -22,6 +27,8 @@ A group of scientists from different backgrounds is involved in audio processing
 | [Sigisbert Wyrsch](http://www.zhaw.ch/=wyrs) | Active noise reduction /cancellation, Digital audio signal processing, Hearing aid engineering |
 | ...to be continued | (please get in touch)! |
 
+
+<a name="research"></a>
 ## Research directions
 
 #### Speaker clustering
@@ -58,6 +65,8 @@ We work on [media segmentation and classification](https://www.eurospider.com/de
 * Bachelor Thesis ("BA") on "Erkennung von Hintergrundmusik in Broadcast Audio" (FS 2015)
 * Project [Talkalyzer - Mobile App for Share-in-Speech Analysis via Real-Time Speaker Classification](http://www.zhaw.ch/fileadmin/php_includes/popup/projekt-detail.php?projektnr=1799) (09/2013 - 12/2014)
 
+
+<a name="resources"></a>
 ## Resources
 
   * [Code](https://github.com/stdm/ZHAW_deep_voice) for the [speaker clustering using deep learning](https://www.zhaw.ch/no_cache/de/forschung/personen-publikationen-projekte/detailansicht-publikation/publikation/210537/) line of research 
