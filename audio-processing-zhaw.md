@@ -4,7 +4,7 @@ layout: page
 ---
 
 ## Abstract
-
+ 
 This page collects information and resources on audio processing research at ZHAW. If you are interested in (or need) audio processing research at/from ZHAW (as a colleague or potential project partner), please contact us.
 
 ## People
