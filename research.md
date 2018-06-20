@@ -21,7 +21,7 @@ I am a **pattern recognition** researcher working on a wide variety of tasks on 
 <a name="recent"></a>
 ## Recent work
 
-### Robust and practical deep learning
+#### Robust and practical deep learning
 
 Deep learning has reached the point of practical applicability in solving day-to-day tasks in many non-AI businesses, for instance manufacturing SMEs. Specific challenges arise and are tackled in our [applied research projects](http://stdm.github.io/downloads/papers/Beyond_ImageNet_preprint_2018.pdf), ranging from data quality and quantity issues to higher requirements on robustness and resilience of the models. For instance, segmenting newspaper pages into articles that semantically belong together is a necessary prerequisite for article-based information retrieval on print media collections like e.g. archives and libraries. It is challenging due to vastly differing layouts of papers, various content types and different languages, but commercially very relevant for e.g. media monitoring.
 
@@ -38,7 +38,7 @@ on large-scale models trained on ImageNet.
 [<img alt="Detecting adversarial examples using local spatial entropy on feature response maps" src="http://stdm.github.io/images/adversarial_detection.jpg"/>](http://stdm.github.io/images/adversarial_detection.jpg)
 
 
-### Learning to learn
+##### Learning to learn
 
 [<img alt="Example clusterings" src="http://stdm.github.io/images/l2c_clustering.jpg"/>](http://stdm.github.io/images/l2c_clustering.jpg)
 
@@ -48,7 +48,7 @@ supervised fashion to group data by any perceptual similarity criterion based on
 [<img alt="Learning to cluster model architecture" src="http://stdm.github.io/images/l2c_architecture.jpg"/>](http://stdm.github.io/images/l2c_architecture.jpg)
 
 
-### Optical music recognition (OMR)
+#### Optical music recognition (OMR)
 
 [<img alt="Detection & recognition confidedences overlayed on a piece of handwritten music" src="http://stdm.github.io/images/MUSCIMA++.jpg"/>](http://stdm.github.io/images/MUSCIMA++.jpg)
 
@@ -61,7 +61,7 @@ We introduced a novel object detection method, based on synthetic energy maps an
 [<img alt="Deep Watershed Detector architecture" src="http://stdm.github.io/images/dwd.jpg"/>](http://stdm.github.io/images/dwd.jpg)
  
 
-### Voice recognition
+#### Voice recognition
 
 [My PhD research](http://stdm.github.io/downloads/papers/PhdThesis_2010) focused on the task of speaker clustering: grouping speech segments by speaker identity without prior knowledge of the number or identity of speakers (a prerequisite for e.g. content-based media indexing). While speaker identification usually achieved accuracy percentages in their high nineties, the state of the art for the more complex task of clustering performed an order of magnitude worse. 
 
@@ -72,7 +72,7 @@ My 2009 ACM Multimedia paper on [Unfolding Speaker Clustering Potential – a Bi
 [<img alt="Architecture of the successful RNN model for speaker clustering" src="http://stdm.github.io/images/RNN_architecture.jpg"/>](http://stdm.github.io/images/RNN_architecture.jpg)
 
 
-### Data science
+#### Data science
 
 I helped in creating one of Europe's first dedicated research centers for data science, the [ZHAW Datalab](http://www.zhaw.ch/datalab), and lead it since. Subsequently, my colleagues and I created one of Switzerland's first continuing education programs in data science, the [MAS Data Science](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/mas-data-science.html), where I teach machine learning. In 2015, we started rolling out the successful Datalab collaboration model country-wide in founding the [Swiss Alliance for Data-Intensive Services](https://www.data-service-alliance.ch/), a network of industrial and academic partner institutions that also furthered the [Swiss Conference on Data Science](https://sds2018.ch/) series of events that [started in Winterthur](https://www.zhaw.ch/en/research/inter-school-cooperation/datalab-the-zhaw-data-science-laboratory/sds2014/). The experience gained in these activities, together with the feedback from the applied research projects described above, lead to a [book](https://stdm.github.io/data-science-book/) I am co-editing together with my colleagues [Martin Braschler](www.zhaw.ch/=bram) and [Kurt Stockinger](www.zhaw.ch/=stog).
 

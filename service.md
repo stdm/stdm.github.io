@@ -14,7 +14,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="talks"></a>
 ## Talks 
 
-### 2018
+#### 2018
   * Invited talk at **ANNPR 2018**,
     [8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018), Siena, Italy, September 19-21, 2018
 
@@ -47,7 +47,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * **Science Talk** & **Wie denken denkende Maschinen?**
     SATW TecNight Sarnen, Kantonsschule Obwalden, Switzerland, January 23, 2018
     
-### 2017
+#### 2017
   * Presentation of **Digitalisierung und Innovation ** workshop results
     Konferenz Digitale Schweiz, Biel, Switzerland, November 20, 2017
     
@@ -78,8 +78,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * **The ZHAW Data Science Laboratory** 
     Departementstag of the faculty of the ZHAW School of Engineering, Winterthur, Switzerland, January 13, 2017
   
-### 2016
-
+#### 2016
   * [**Erfolg im 21. Jahrhundert: Daten entscheiden. Wie die Swiss Alliance for Data-Intensive Services datenbasierte Mehrwerte schafft**](https://stdm.github.io/downloads/talks/2016-11-17_Datenbasierte_Mehrwerte_schaffen.pdf) 
     Innovation Apéro of the Technopark Winterthur, Switzerland, November 17, 2016
     
@@ -111,8 +110,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
     
     [Slideshare](http://www.slideshare.net/thilo_stadelmann/der-wert-von-daten-in-zeiten-von-big-data)
 
-### 2015
-
+#### 2015
   * **Learning End to End** 
     [Datalab Seminar](https://home.zhaw.ch/~dueo/bbs/), Zurich University of Applied Sciences, Winterthur, Switzerland, July 01, 2015
     
@@ -126,8 +124,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
     
     [Slideshare](https://de.slideshare.net/thilo_stadelmann/deep-learning-zhaw-datalab)
 
-### 2014
-
+#### 2014
   * **Dialogue on AI Education in Switzerland** 
     SGAICO Annual Assembly and Workshop "Intelligent Systems & Applications", Basel, Switzerland, November 18, 2014
 
@@ -146,8 +143,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * **Educating Data Scientists of the Future** (deputizing Kurt Stockinger) 
     [10th Swiss Big Data User Group Meeting](http://www.bigdata-usergroup.ch/item/565118), Zurich, Switzerland, February 03, 2014
  
-### 2013
-
+#### 2013
   * **Datalab - The Data Science Group at ZHAW School of Engineering** 
     SGAICO Annual Assembly and Workshop, Swiss Group for Artificial Intelligence and Cognitive Science, Lausanne, Switzerland, November 27, 2013
   
@@ -165,8 +161,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * **Textanalyse im Business** 
     [Business Analytics Day](http://www.bigdata.ch/de/business-analytics-veranstaltung/), Serwise Group, Winterthur, Switzerland, September 13, 2013
 
-### 2012
-
+#### 2012
   * Keynote at Absolventenfeier of TH Mittelhessen, Giessen, Germany, November 2012 
   
   * **Herausforderungen im Data Warehousing** 
@@ -179,16 +174,14 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * **Das audiophile Fahrzeug** 
     [TWT Forum](https://www.twt-gmbh.de/forschung/twt-forum/twt-foren-2006-2014.html), Neuhausen, Germany, March 2012
 
-### Pre-2012
-
+#### Pre-2012
   * See my [Marburgian page](http://www.informatik.uni-marburg.de/~stadelmann/research.html#talks) for some of the previous talks I gave (mostly on audio and speech processing topics).
 
 
 <a name="offices"></a>
 ## Community offices
 
-### Boards & leadership
-
+#### Boards & leadership
   * 09/2016-ongoing: Co-founder and member of the board of the [Swiss Alliance for Data-Intensive Services](http://www.data-service-alliance.ch), a Innosuisse-funded [National Thematic Network](https://www.kti.admin.ch/kti/en/home/unsere-foerderangebote/fuer-forschende/vernetzungsmoeglichkeiten.html)
     
     [<img alt="Data+Service" src="http://stdm.github.io/images/data+service.png"/>](http://www.data-service-alliance.ch)
@@ -200,8 +193,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
     [<img alt="ZHAW Datalab" src="http://stdm.github.io/images/datalab.png"/>](http://www.zhaw.ch/datalab)
 
 
-### Conferences & events
-
+#### Conferences & events
   * Member of program committee, [8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018/Program%20committee.html), Siena, Italy, September 19-21, 2018
     
     [<img alt="ANNPR 2018" src="http://stdm.github.io/images/annpr-2018.jpg"/>](http://clem.diism.unisi.it/~annpr2018)
