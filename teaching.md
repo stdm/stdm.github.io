@@ -9,6 +9,8 @@ My main teaching revolves around [AI](https://olat.zhaw.ch/auth/RepositoryEntry/
 1. [Supervised thesis projects (all levels)](#theses)
 2. [Lectures & curriculae](#lectures)
 
+[<img alt="Classroom" src="http://stdm.github.io/images/classroom.jpg"/>](http://stdm.github.io/images/classroom.jpg)
+
 
 <a name="theses"></a>
 ## Supervised thesis projects (all levels)
