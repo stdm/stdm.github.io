@@ -79,16 +79,16 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * [**Erfolg im 21. Jahrhundert: Daten entscheiden. Wie die Swiss Alliance for Data-Intensive Services datenbasierte Mehrwerte schafft**](2016-11-17_Datenbasierte_Mehrwerte_schaffen.pdf) 
     Innovation Apéro of the Technopark Winterthur, Switzerland, November 17, 2016
     
-    [Slideshare](www.slideshare.net/thilo_stadelmann/wie-die-swiss-alliance-for-dataintensive-services-datenbasierte-mehrwerte-schafft)
+    [Slideshare](http://www.slideshare.net/thilo_stadelmann/wie-die-swiss-alliance-for-dataintensive-services-datenbasierte-mehrwerte-schafft)
   * **Data Science made in Switzerland** 
     Interview with Steffen Lukesch at Hochschultag ZHAW, Zurich, Switzerland, November 09, 2016
     
   * [**Was denken denkende Maschinen**](https://stdm.github.io/downloads/talks/2016-10-20_Was_denken_denkende_Maschinen.pdf)
     WI Awards 2016, Zurich, Switzerland, October 20, 2016
   	
-    [Slideshare](www.slideshare.net/thilo_stadelmann/was-denken-denkende-maschinen)
+    [Slideshare](http://www.slideshare.net/thilo_stadelmann/was-denken-denkende-maschinen)
   * **Opening** 
-    [3rd Swiss Conference on Data Science](www.zhaw.ch/datalab/sds2016), SDS|2016, Winterthur, Switzerland, September 16, 2016
+    [3rd Swiss Conference on Data Science](http://www.zhaw.ch/datalab/sds2016), SDS|2016, Winterthur, Switzerland, September 16, 2016
     
   * **Der Wert von Daten in Zeiten von Big Data**     
     Sitic Topic Forum, Horgen, Switzerland, March 17, 2016
@@ -99,7 +99,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * [**Der Wert von Daten in Zeiten von Big Data** ](https://stdm.github.io/downloads/talks/2016-01-21_Der_Wert_von_Daten_in_Zeiten_von_Big_Data.pdf)
     Microsoft Vision Days, Wallisellen, Switzerland, January 21, 2016
     
-    [Slideshare](www.slideshare.net/thilo_stadelmann/der-wert-von-daten-in-zeiten-von-big-data)
+    [Slideshare](http://www.slideshare.net/thilo_stadelmann/der-wert-von-daten-in-zeiten-von-big-data)
 
 ### 2015
 
@@ -175,43 +175,53 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 ### Boards & leadership
 
-  * 09/2016-ongoing: Co-founder and member of the board of the [Swiss Alliance for Data-Intensive Services](www.data-service-alliance.ch), a Innosuisse-funded [National Thematic Network](https://www.kti.admin.ch/kti/en/home/unsere-foerderangebote/fuer-forschende/vernetzungsmoeglichkeiten.html)
-    [<img alt="Data+Service" src="http://stdm.github.io/images/data+service.png"/>](http://stdm.github.io/images/data+service.png)
+  * 09/2016-ongoing: Co-founder and member of the board of the [Swiss Alliance for Data-Intensive Services](http://www.data-service-alliance.ch), a Innosuisse-funded [National Thematic Network](https://www.kti.admin.ch/kti/en/home/unsere-foerderangebote/fuer-forschende/vernetzungsmoeglichkeiten.html)
+    [<img alt="Data+Service" src="http://stdm.github.io/images/data+service.png"/>](http://www.data-service-alliance.ch)
   * 11/2014-ongoing: Vice president & member of the board of [SGAICO](https://sgaico.swissinformatics.org/), the Swiss Group for Artificial Intelligence & Cognitive Science
-    [<img alt="SGAICO" src="http://stdm.github.io/images/sgaico.jpg"/>](http://stdm.github.io/images/sgaico.jpg)
-  * 05/2013-ongoing: Co-Founder, head & member of the board of the [ZHAW Datalab](www.zhaw.ch/datalab), the ZHAW Data Science Laboratory
-    [<img alt="ZHAW Datalab" src="http://stdm.github.io/images/datalab.png"/>](http://stdm.github.io/images/datalab.png)
+    [<img alt="SGAICO" src="http://stdm.github.io/images/sgaico.jpg"/>](https://sgaico.swissinformatics.org/)
+  * 05/2013-ongoing: Co-Founder, head & member of the board of the [ZHAW Datalab](http://www.zhaw.ch/datalab), the ZHAW Data Science Laboratory
+    [<img alt="ZHAW Datalab" src="http://stdm.github.io/images/datalab.png"/>](http://www.zhaw.ch/datalab)
 
 
 ### Conferences & events
 
   * Member of program committee, [8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018/Program%20committee.html), Siena, Italy, September 19-21, 2018
+    [<img alt="ANNPR 2018" src="http://stdm.github.io/images/annpr-2018.jpg"/>](http://clem.diism.unisi.it/~annpr2018)
 
   * Co-chair & moderator, [Workshop "NLP Clinic" at SwisText 2018](https://www.swisstext.org/workshops/2018/NLP_Clinic.html), Winterthur, Switzerland, June 13, 2018
+    [<img alt="SwissText 2018" src="http://stdm.github.io/images/swisstext-2018.jpg"/>](https://www.swisstext.org)
 
   * Member of program committee, [5th Swiss Conference on Data Science](http://www.sds2018.ch), Bern, Switzerland, June 07, 2018
+    [<img alt="SDS|2018" src="http://stdm.github.io/images/sds2018.png"/>](https://www.sds2018.ch)
   
   * Thesenschreiber & workshop concept, [Workshop Digitalisierung und Innovation @ Konferenz Digitale Schweiz](https://www.digitaldialog.swiss/), Biel, November 20, 2017
+    [<img alt="Konferenz Digitale Schweiz" src="http://stdm.github.io/images/ditiale-schweiz-2017.jpg"/>](https://www.digitaldialog.swiss/)
   
     [Youtube](https://www.youtube.com/watch?v=unpSRhgnO4s#t=3h01m59)
-  * Co-Organizer, [Zurich Machine Learning & Data Science Meetup](www.meetup.com/de-DE/Zurich-Machine-Learning/)
+  * Member of program committee, [4th Swiss Conference on Data Science](http://www.sds2017.ch), Bern, Switzerland, June 16, 2017
+    [<img alt="SDS|2017" src="http://stdm.github.io/images/sds2017.jpg"/>](https://www.sds2017.ch)
+
+  * Co-Organizer, [Zurich Machine Learning & Data Science Meetup](http://www.meetup.com/de-DE/Zurich-Machine-Learning/)
   
     04/2015 - 02/2017
   * Co-organizer & member of program committee: Deep Learning and Beyond, 16.11.2016, Rotkreuz/Switzerland
   
-  * General chair: SDS\|2016, the [3rd Swiss Conference on Data Science](www.zhaw.ch/datalab/sds2016), 16.09.2016, Winterthur, Switzerland
+  * General chair: SDS\|2016, the [3rd Swiss Conference on Data Science](http://www.zhaw.ch/datalab/sds2016), 16.09.2016, Winterthur, Switzerland
+    [<img alt="SDS|2016" src="http://stdm.github.io/images/sds2016.png"/>](http://www.zhaw.ch/datalab/sds2016)
   
   * Member of program committee, <a href="https://www.twt-gmbh.de/en/cpsdata.html" target="_blank">CPSData </a>@ <a href="http://www.cpsweek.org/2016/" target="_blank">CPSWeek 2016 Vienna</a>: &#8220;Second International Workshop on modeling, analysis and control of complex Cyber-Physical Systems&#8221;, 11.04.2016, Vienna/Austria
   
   * Co-organizer & member of program committee: Cognitive Science, Neurorobotics & Artificial Intelligence, 12.11.2015, Geneva/Switzerland
   
   * General chair: <a href="https://www.zhaw.ch/en/research/inter-school-cooperation/datalab-the-zhaw-data-science-laboratory/sds2015/" target="_blank">SDS|2015 &#8211; 2nd Swiss Workshop on Data Science</a>, 12.06.2015, Winterthur/Switzerland
+    [<img alt="SDS|2015" src="http://stdm.github.io/images/sds2015.png"/>](https://www.zhaw.ch/en/research/inter-school-cooperation/datalab-the-zhaw-data-science-laboratory/sds2015/)
   
   * Co-organizer & member of program committee: <a title="SGAICO Annual Assembly 2014, Basel" href="http://www.s-i.ch/sgaico/veranstaltungen/archiv/?tx_cpevents_pi1[event]=321&tx_cpevents_pi1[action]=show&tx_cpevents_pi1[controller]=Event&cHash=81ca4d167d9dc79f2e9bacf8859a9b95" target="_blank">Intelligent Systems and Applications</a>, 18.11.2014, Basel/Switzerland
   
   * Member of program committee, <a href="https://www.twt-gmbh.de/cpsdata.html" target="_blank">CPSData </a>@ <a href="http://www.informatik2014.de/" target="_blank">INFORMATIK 2014</a>: &#8220;Technologien zur Analyse und Steuerung komplexer cyber-physischer Systeme&#8221;, 23.09.2014, Stuttgart/Germany
   
   * Organizer & member of program committee, <a title="SDS|2014 Website" href="https://www.zhaw.ch/en/research/inter-school-cooperation/datalab-the-zhaw-data-science-laboratory/sds2014" target="_blank">SDS|2014 &#8211; 1st Swiss Workshop on Data Science</a>, 21.03.2014, Winterthur/Switzerland
+    [<img alt="SDS|20146" src="http://stdm.github.io/images/sds2014.png"/>](https://www.zhaw.ch/en/research/inter-school-cooperation/datalab-the-zhaw-data-science-laboratory/sds2014)
   
   * Scientific partner, <a title="Big Data Roadshow " href="http://www.bigdata.ch/" target="_blank">Big data roadshow</a>, 06/2013-06/2014
   
