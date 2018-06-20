@@ -232,6 +232,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * May 15, 2018, [20 Minuten](https://stdm.github.io/downloads/press/2018-05-15_20-Minuten.pdf): "Was Google hier zeigt, ist absolut faszinierend"
   
   * January 25, 2018, [Nidwaldener Zeitung](https://stdm.github.io/downloads/press/2018-01-25_Nidwaldner-Zeitung.pdf): "Robotik interessiert am meisten"
+    [<img alt="Discussions" src="http://stdm.github.io/images/nidwaldener-zeitung.jpg"/>](https://stdm.github.io/downloads/press/2018-01-25_Nidwaldner-Zeitung.pdf)
   
   * November 2017, [Aktuelle Technik](https://stdm.github.io/downloads/press/2017-11-01_Aktuelle-Technik.pdf): "Es geht weniger um Intelligenz als um das Lösen komplexer Probleme mit dem Computer"
   
@@ -242,10 +243,12 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * June 2017, [ZHAW Impact](https://stdm.github.io/downloads/press/2017-06-01_ZHAW-Impact_KI.pdf): "Hype um Künstliche Intelligenz"
   
   * June 2017, [ZHAW Impact](https://stdm.github.io/downloads/press/2017-06-01_ZHAW-Impact_Datalab.pdf): "ZHAW Datalab - Innovative Lösungen gegen Krebs, Geldwäsche oder Fehlalarm"
+    [<img alt="ZHAW Datalab founders" src="http://stdm.github.io/images/impact-06-2017.png"/>](https://stdm.github.io/downloads/press/2017-06-01_ZHAW-Impact_Datalab.pdf)
   
   * September 26, 2016, [Radio 1](https://stdm.github.io/downloads/press/2016-09-26_Radio1_KuenstlicheIntelligenzI.mp3) [part II](https://stdm.github.io/downloads/press/2016-09-26_Radio1_KuenstlicheIntelligenzII.mp3) [part III](https://stdm.github.io/downloads/press/2016-09-26_Radio1_KuenstlicheIntelligenzIII.mp3): "Künstliche Intelligenz"
 
   * Decepmer 2015, [ZHAW Impact](https://stdm.github.io/downloads/press/2015-12-01_ZHAW-Impact.pdf): "Data Science kann Routen aufzeigen, fahren dürfen wir selber"
+    [<img alt="Cover Impact" src="http://stdm.github.io/images/impact-2015.jpg"/>](https://stdm.github.io/downloads/press/2015-12-01_ZHAW-Impact.pdf)
   
   * January 05, 2014, [Berner Zeitung](https://stdm.github.io/downloads/press/2014-01-05_Berner-Zeitung.pdf): "Das Erdöl der nächsten Revolution"
   
