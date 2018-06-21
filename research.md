@@ -39,6 +39,7 @@ on large-scale models trained on ImageNet.
 
 [<img alt="Detecting adversarial examples using local spatial entropy on feature response maps" src="http://stdm.github.io/images/adversarial_detection.jpg"/>](http://stdm.github.io/images/adversarial_detection.jpg)
 
+&nbsp;
 
 #### Learning to learn
 
@@ -49,6 +50,7 @@ supervised fashion to group data by any perceptual similarity criterion based on
 
 [<img alt="Learning to cluster model architecture" src="http://stdm.github.io/images/l2c_architecture.jpg"/>](http://stdm.github.io/images/l2c_architecture.jpg)
 
+&nbsp;
 
 #### Optical music recognition (OMR)
 
@@ -62,6 +64,7 @@ We introduced a novel object detection method, based on synthetic energy maps an
 
 [<img alt="Deep Watershed Detector architecture" src="http://stdm.github.io/images/dwd.jpg"/>](http://stdm.github.io/images/dwd.jpg)
  
+&nbsp;
 
 #### Voice recognition
 
@@ -73,6 +76,7 @@ My 2009 ACM Multimedia paper on [Unfolding Speaker Clustering Potential – a Bi
 
 [<img alt="Architecture of the successful RNN model for speaker clustering" src="http://stdm.github.io/images/RNN_architecture.jpg"/>](http://stdm.github.io/images/RNN_architecture.jpg)
 
+&nbsp;
 
 #### Data science
 
@@ -80,6 +84,9 @@ I helped in creating one of Europe's first dedicated research centers for data s
 
 [<img alt="The data science skill set map" src="http://stdm.github.io/images/skillset.jpg"/>](http://stdm.github.io/images/skillset.jpg)
 
+&nbsp;
+
+&nbsp;
 
 <a name="collaborations"></a>
 ## Collaborations
@@ -90,6 +97,9 @@ In academia, I frequently work together with the **Machine Learning and Optimiza
 
 If you are intgerested in a collaboration, please [contact](http://www.zhaw.ch/=stdm) me.
 
+&nbsp;
+
+&nbsp;
 
 <a name="publications"></a>
 ## Publications

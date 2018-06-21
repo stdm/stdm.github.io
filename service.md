@@ -182,6 +182,9 @@ Much to the suprise of my younger self, I have become a very active networker, p
 #### Pre-2012
   * See my [Marburgian page](http://www.informatik.uni-marburg.de/~stadelmann/research.html#talks) for some of the previous talks I gave (mostly on audio and speech processing topics).
 
+&nbsp;
+
+&nbsp;
 
 <a name="offices"></a>
 ## Community offices
@@ -197,6 +200,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
     
     [<img alt="ZHAW Datalab" src="http://stdm.github.io/images/datalab.png"/>](http://www.zhaw.ch/datalab)
 
+&nbsp;
 
 #### Conferences & events
   * Member of program committee, [8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018/Program%20committee.html), Siena, Italy, September 19-21, 2018
@@ -246,7 +250,10 @@ Much to the suprise of my younger self, I have become a very active networker, p
     [<img alt="SDS|20146" src="http://stdm.github.io/images/sds2014.png"/>](https://www.zhaw.ch/en/research/inter-school-cooperation/datalab-the-zhaw-data-science-laboratory/sds2014)
   
   * Scientific partner, <a title="Big Data Roadshow " href="http://www.bigdata.ch/" target="_blank">Big data roadshow</a>, 06/2013-06/2014
-  
+
+&nbsp;
+
+&nbsp;  
 
 <a name="press"></a>
 ## In the press 
