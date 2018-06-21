@@ -87,7 +87,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * [**Erfolg im 21. Jahrhundert: Daten entscheiden. Wie die Swiss Alliance for Data-Intensive Services datenbasierte Mehrwerte schafft**](https://stdm.github.io/downloads/talks/2016-11-17_Datenbasierte_Mehrwerte_schaffen.pdf) 
     Innovation Apéro of the Technopark Winterthur, Switzerland, November 17, 2016
     
-    [<img alt="Slides" src="http://stdm.github.io/images/mehrwert-schaffen-2017.jpg"/>](https://stdm.github.io/downloads/talks/2016-11-17_Datenbasierte_Mehrwerte_schaffen.pdf)
+    [<img alt="Slides" src="http://stdm.github.io/images/mehrwert-schaffen-2016.jpg"/>](https://stdm.github.io/downloads/talks/2016-11-17_Datenbasierte_Mehrwerte_schaffen.pdf)
     
     [Slideshare](http://www.slideshare.net/thilo_stadelmann/wie-die-swiss-alliance-for-dataintensive-services-datenbasierte-mehrwerte-schafft)
   * **Data Science made in Switzerland** 
