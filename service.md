@@ -17,11 +17,14 @@ Much to the suprise of my younger self, I have become a very active networker, p
 ## Talks 
 
 #### 2018
-  * Invited talk at **ANNPR 2018**,
-    [8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018), Siena, Italy, September 19-21, 2018
+  * Invited talk at [**ANNPR 2018**, the 8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018), 
+    Siena, Italy, September 19-21, 2018
 
   * Invited talk at [**FHNW Institute for Data Science**](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-for-data-science), 
     Windisch, Switzerland, July 10, 2018
+
+  * Panelist for the topic _"Künstliche Intelligenz – Wann übernehmen Maschinen in Journalismus und Organisationskommunikation?"_ 
+    at [**Columni**](http://www.columni.ch/index.php/agenda) annual meeting, Zürich, Switzerland, July 09, 2018
 
   * Invited talk at [**IDIAP**](https://www.idiap.ch/en), 
     Martigny, Switzerland, July 02, 2018
