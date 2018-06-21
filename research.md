@@ -19,9 +19,6 @@ This page is dedicated to the research of me and my group. My academic profile i
 
 I am a **pattern recognition** researcher working on a wide variety of tasks on image, audio or generally "signal" data. I come from the tradition of the field of **artificial intelligence**, and my tool is **machine learning**. My research interest is to discover and understand how intelligent behaviour can be evoked through self-learning, including practical (robustness, generalization) and ethical (algorithmic bias) side effects. I focus on **deep learning** methodology, inspired by biological learning. Each task that I study has its own learning target (e.g., detection, classification, clustering, segmentation, novelty detection, control) and use case (e.g., predictive maintenance, multimedia indexing, document analysis, optical music recognition, industrial quality control, automated machine learning, automated game play), which in turn sheds light on different aspects of the learning process. 
 
-&nbsp;
-
-&nbsp;
 
 <a name="recent"></a>
 ## Recent work
@@ -31,8 +28,6 @@ I am a **pattern recognition** researcher working on a wide variety of tasks on 
 3. [Optical music recognition (OMR)](#OMR)
 4. [Voice recognition](#voice)
 5. [Data science](#datascience)
-
-&nbsp;
 
 <a name="robust"></a>
 #### Robust and practical deep learning
