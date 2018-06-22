@@ -5,12 +5,11 @@ layout: default
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
-
 			<div class="date">
 				{% if post.modified %}
-    			{{ post.date }} (Last modified: {{ post.modified }})
+    			{{ post.date | date: '%B %d, %Y' }} (Last modified: {{ post.modified | date: '%B %d, %Y' }})
     		{% else %}
-    			{{ post.date }}
+    			{{ post.date | date: '%B %d, %Y' }}
 				{% endif %}
 			</div>
 
@@ -23,6 +22,7 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       
       <div class="category">
+      	font-size: smaller;
       	{% if post.category %}
       		Category: {{ post.category }}
 				{% endif %}
