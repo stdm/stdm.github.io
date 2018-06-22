@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-[<img style="float:right" src="http://stdm.github.io/images/thilo_sds2015.jpg"/>](http://stdm.github.io/images/thilo_sds2015.jpg)
+[<img src="http://stdm.github.io/images/thilo_sds2015.jpg"/>](http://stdm.github.io/images/thilo_sds2015.jpg)
 
 This is the personal website of [Thilo Stadelmann](http://www.zhaw.ch/=stdm), senior lecturer at [ZHAW](https://www.zhaw.ch/en/university/) [School of Engineering](https://www.zhaw.ch/en/engineering/), deputy head of [InIT‘s](https://www.zhaw.ch/en/engineering/institutes-centres/init/) [Information Engineering Group](https://www.zhaw.ch/de/engineering/institute-zentren/init/information-engineering/) and head of the [ZHAW Datalab](www.zhaw.ch/datalab).
 
