@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Some bits of theory to better understand deep learning
+date: 2017-11-22
+modified: 2018-06-06
+category: research, deep learning
 ---
 
 This is a collection of links to some interesting recent theoretical advances in order to better understand deep learning. It is not complete, not even comprehensive. It is more of a reading list for the upcoming Christmas holidays. More on the topic of deep learning theory can be found in [this new MOOC](https://www.researchgate.net/project/Theories-of-Deep-Learning) by Stanford professors Hatef Monajemi, David Donoho and Vardan Papyan, in [this DL theory class](http://mitliagkas.github.io/ift6085-dl-theory-class/) by Ioannis Mitliagkas of U Montreal, and in [this overview blogpost](https://medium.com/mlreview/modern-theory-of-deep-learning-why-does-it-works-so-well-9ee1f7fb2808) by Dmytrii S. on why deep neural nets generalize so well. A good collection of links is also included in [this blog post](https://www.kdnuggets.com/2017/05/two-phases-gradient-descent-deep-learning.html ) by Carlos Perez.

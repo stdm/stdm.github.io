@@ -1,6 +1,8 @@
 ---
 title: Great methodology delivers great theses
 layout: post
+date: 2018-05-03
+category: education, doing research, mentoring
 ---
 
 ![Adam Savage on science](http://d2rormqr1qwzpz.cloudfront.net/photos/2015/12/15/55-83986-83931-05-mythbusters-expressions-1450161563.jpg)

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Doing applied science
+date: 2017-07-17
+category: education, mentoring, starting research
 ---
 
 How to do science is a huge topic. I intent to treat it utterly wrong here by not giving it the depth it deserves. Rather, I want to summarize some key points that might be beneficial for students facing the challenge of writing a first scholarly thesis (“wissenschaftliche Arbeit”). As some of these students will have German as their first language, I will translate some important phrases.

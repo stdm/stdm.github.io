@@ -1,13 +1,10 @@
 ---
 title: Things a computer scientist rarely talks about
 layout: post
-categories:
-  - Readings
-  - Thoughts
-tags:
-  - computer science
-  - faith
+date: 2014-08-04
+category: readings, faith, computer science
 ---
+
 I just finished reading Donald Knuth's "Things a computer scientist rarely talks about"; and thought it fits nicely into this series of literature-related posts. The book is a transcription of 6 lectures Don Knuth gave at MIT about "God and Computers".
 
 Knuth is  surely best-known to most of us for working on the ingenious "The Art of Computer Programming" volumes. But he is also a Lutheran Christian, occasional bible teacher and author of "3:16 Bible Texts Illuminated", in which he writes about using a random sample of bible verses that he studied in depth in order to gain more insight into the scriptures. In the book at hand he mainly reports on how and why he undertook that project and then expands on what else his studies in computer science (mainly math and algorithms) have taught him about his faith.

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Science, applied. Die wissenschaftliche Methode im Kern des Produktentwicklungsprozesses
+date: 2018-04-06
+category: education, teaching, scientific method
 ---
 
 ![ZHAW Lehrpreis 2017](https://www.zhaw.ch/storage/_processed_/7/1/csm_zhaw-impact-33-kompetenz_004952c25a.jpg)
@@ -21,7 +23,7 @@ Ich bin Informatiker, Hochschullehrender und Forscher aus Leidenschaft. Beide Fr
 
 ## 1. Mein Verständnis von Wissenschaftlichkeit
 
-Als Forscher bin ich in der experimentellen Informatik beheimatet, konkret in der künstlichen Intelli-genz (KI) und dem maschinellen Lernen (ML), eingebettet in das interdisziplinäre Feld der Data Science. Eine der wichtigsten Erkenntnisse dieser Disziplin ist das sog. "No free lunch theorem" [Wolpert & Macready, 1997]: Es postuliert die generelle Äquivalenz aller selbstlernenden Algorithmen unter der Prämisse, dass über das konkrete Einsatzszenario noch keine Erkenntnisse vorliegen. Dies macht KI und ML zu einer empirischen Wissenschaft: Ohne kontrollierte, wiederholbare Experimente lässt sich keine Aussage über die Leistungsfähigkeit einer Entwicklung treffen.
+Als Forscher bin ich in der experimentellen Informatik beheimatet, konkret in der künstlichen Intelligenz (KI) und dem maschinellen Lernen (ML), eingebettet in das interdisziplinäre Feld der Data Science. Eine der wichtigsten Erkenntnisse dieser Disziplin ist das sog. "No free lunch theorem" [Wolpert & Macready, 1997]: Es postuliert die generelle Äquivalenz aller selbstlernenden Algorithmen unter der Prämisse, dass über das konkrete Einsatzszenario noch keine Erkenntnisse vorliegen. Dies macht KI und ML zu einer empirischen Wissenschaft: Ohne kontrollierte, wiederholbare Experimente lässt sich keine Aussage über die Leistungsfähigkeit einer Entwicklung treffen.
 
 Entsprechend fusst mein Verständnis von Wissenschaftlichkeit in der Anwendung der wissenschaftlichen Methode [Newton, 1687]. Dieser Zyklus von Experimentieren und Theoriebildung führt zur Erlangung neuer Erkenntnisse [Vardi, 2010]: Das Experiment zeigt potentiell verblüffende Ergebnisse, deren Verständnis und Einordnung ein Update des eignen Modells (Theorie) bedingt. Anhand des neuen Modells gepaart mit der Kreativität eines Forschers (einer "guten Idee") können neue Hypothesen formuliert werden, welche wiederum in nachfolgenden Experimenten Bestätigung finden müssen, um das Modell zu verifizieren. 
 
@@ -33,7 +35,7 @@ Ziel sei die optische Qualitätskontrolle industrieller Erzeugnisse, basierend r
 
 Das Experimentieren ist so integraler Bestandteil jeder Arbeit in der experimentellen Informatik. Die Herausforderung für Studierende ist, dies von anderen Paradigmen in der Informatik zu unterscheiden, etwa vom Prozess der Softwareentwicklung (der geprägt ist vom möglichst fehlerfreien Einhalten einer gegebenen Spezifikation). Neu hinzu kommt für die Studierenden also der Aspekt der Theoriebildung: Welche Schlüsse lassen sich aus den Beobachtungen ziehen? Was wird hierdurch belegt – und was nicht? Welche gezogenen Konsequenzen waren zwingend – und welche vielleicht eine gute Idee, jedoch vom experimentellen Ergebnis noch nicht einmal impliziert? 
 
-Es ist ein Kernanliegen meiner Lehre, den Studierenden diese bislang ungewohnte Denkweise nicht nur einmal nahezubringen, sondern sie so weit zu bringen, diese aufgrund ihrer hohen Relevanz für praktische Ergebnisse auch im Alltag nicht zu vernachlässigen. Dies bedeutet für die meisten Stu-dierenden einen Wechsel der Denkweise, der keinesfalls trivial ist.
+Es ist ein Kernanliegen meiner Lehre, den Studierenden diese bislang ungewohnte Denkweise nicht nur einmal nahezubringen, sondern sie so weit zu bringen, diese aufgrund ihrer hohen Relevanz für praktische Ergebnisse auch im Alltag nicht zu vernachlässigen. Dies bedeutet für die meisten Studierenden einen Wechsel der Denkweise, der keinesfalls trivial ist.
 
 
 ## 2. Kompetenzen wissenschaftlicher Fachpersonen

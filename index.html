@@ -6,6 +6,14 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
+			<div class="date">
+				{% if post.modified %}
+    			{{ post.date }} (Last modified: {{ post.modified }})
+    		{% else %}
+    			{{ post.date }}
+				{% endif %}
+			</div>
+
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
@@ -13,6 +21,12 @@ layout: default
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      
+      <div class="category">
+      	{% if post.category %}
+      		Category: {{ post.category }}
+				{% endif %}
+      </div>
     </article>
   {% endfor %}
 </div>

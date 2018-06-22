@@ -1,10 +1,10 @@
 ---
 title: 'The ENJOY Project: Enjoying Public Speeches despite Hearing Impairment'
 layout: post
-categories:
-  - Ethics
-  - Research
+date: 2015-04-14
+categories: research, ethics
 ---
+
 During my spare time in the last year and ongoing, I have been involved in a very intersting project bringing together computer science expertise and charity: The ENJOY project (my term for it).
 
 **Abstract.** Hearing-impaired attendants of large public events often find it impossible to follow speeches delivered via a loudspeaker/PA system even if they can follow normal conversations in small groups easily due to the aid of hearing implants. A possible remedy is simultaneous speech-to-text synthesis (speech recognition), so that the speech can be followed in reading live and on a private communication device like a tablet computer or smartphone.

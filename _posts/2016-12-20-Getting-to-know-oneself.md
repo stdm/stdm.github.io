@@ -1,14 +1,10 @@
 ---
 title: Getting to know oneself
 layout: post
-categories:
-  - Allgemein
-  - Education
-  - Thoughts
-tags:
-  - personality check
-  - psychologische tests
+date: 2016-12-20
+category: education, mentoring, personality check, phsychological tests
 ---
+
 Over the last 15 years, I've got to value certain personality tests (yes, the very thing <a href="https://www.dasmagazin.ch/2016/12/03/ich-habe-nur-gezeigt-dass-es-die-bombe-gibt/" target="_blank">Cambridge Analytica just reported to be able to create out of 10 of your social media likes</a>; but potential ethical drawbacks of big data or the topic of another post).
 
 I like such tests because you can easily learn a lot about yourself by just answering 20-100 carefully designed questions quickly and truthfully, and it never stops to amaze me how accurate I find myself described after taking such a test (offline, of course, with pen&paper). The take home messages I get from these results easily outperform what I had a hard time figuring out introspecting myself over extended amounts of time. They show me my potential in certain areas, but also certain weaknesses that is good to be aware of (and be it only to be less annoying to fellow people).

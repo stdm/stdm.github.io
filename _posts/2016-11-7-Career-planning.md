@@ -1,16 +1,8 @@
 ---
 title: Career planning
 layout: post
-categories:
-  - Education
-  - Opinion
-  - Thoughts
-tags:
-  - apprenticeship
-  - career
-  - education
-  - Master
-  - Ph.D.
+date: 2016-11-07
+category: opinion, education, mentoring, politics, safety vs. potential
 ---
 
 ![Advertisement](http://stdm.github.io/images/coiffeur_biologe.jpg)

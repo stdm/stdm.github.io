@@ -1,14 +1,8 @@
 ---
 title: Writing a draft
 layout: post
-categories:
-  - Education
-  - Writing
-tags:
-  - draft
-  - proposal
-  - text sample
-  - thesis
+date: 2017-01-19
+category: education, writing
 ---
 Every once in a while you have to write a draft for some sort of text, as a starting point for somebody to give feedback or improve upon it &#8211; maybe a short abstract, a chapter for a thesis or paper, an important email or a proposal. So, what makes up a _good_ draft?
 

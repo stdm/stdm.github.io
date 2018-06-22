@@ -1,8 +1,8 @@
 ---
 title: 'Data scientists type A &#038; B? Nonsense.'
 layout: post
-categories:
-  - Opinion
+date: 2016-09-05
+category: opinion, data science
 ---
 I <a href="http://www.kdnuggets.com/2016/08/become-type-a-data-scientist.html" target="_blank">recently came about the notion</a> of &#8220;type A&#8221; and &#8220;type B&#8221; data scientists. While the &#8220;type A&#8221; is basically a trained statistician that has broadened his field towards modern use cases (&#8220;data science for people&#8221;), the same is true for &#8220;type B&#8221; (B for &#8220;build&#8221;, &#8220;data science for software&#8221;) that has his roots in programming and contributes stronger to code and systems in the backend.
 

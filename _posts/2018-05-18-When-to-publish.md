@@ -1,6 +1,8 @@
 ---
 title: When to publish one's work
 layout: post
+date: 2018-05-18
+category: education, writing, mentoring
 ---
 
 Coming to the end of a writing-heavy week with 5 paper deadlines, the experience from these publishing processes reinforced the three necessary conditions to me on when to publish (and on what to focus in the paper, besides the story line). When is my work advanced enough that I can publish it? When can I attempt not only writing it down (you should always do it as it clears one's thoughts), but also making it accessible for the rest of the world (being aware of your responsibility for the body of human knowledge, the valuable time of potential readers, and your future reputation)?

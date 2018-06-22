@@ -1,6 +1,8 @@
 ---
 title: Faith and science
 layout: post
+date: 2018-05-24
+category: research, faith, scientific conduct
 ---
 
 There is a whole body of literature on the topic of faith and science (and a [good example](https://en.wikipedia.org/wiki/Mere_Christianity) is the work of C.S. Lewis, even if it is a rather onorthodox specimen). Here's another one, unorthodox in not attempting apologetics, but merely relaying a testimony in the sphere of science.

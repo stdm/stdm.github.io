@@ -1,12 +1,8 @@
 ---
 title: Favourite Books (1)
 layout: post
-categories:
-  - Education
-  - Readings
-  - Thoughts
-tags:
-  - books
+date: 2014-07-11
+category: education, readings, mentoring
 ---
 I love books; I enjoy reading them, and I recently learend ([here](https://www.simplypsychology.org/learning-kolb.html)) that reading books is even the best way I can learn (that might be different for you, though).
 

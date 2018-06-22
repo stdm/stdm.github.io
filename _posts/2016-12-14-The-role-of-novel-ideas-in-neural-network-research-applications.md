@@ -1,11 +1,10 @@
 ---
 title: 'The role of novel ideas in neural network research &#038; applications'
 layout: post
-categories:
-  - Opinion
-  - Research
-  - Thoughts
+date: 2016-12-14
+category: research, reasons for the rise of deep learning
 ---
+
 Public opinion has it that the current success of deep learning is built upon ideas from the 1970s and 1980s, enhanced by the availability of (a) increased computational power and (b) &#8220;big&#8221; data. Some add that a few minor algorithmic improvements also have been involved (e.g. <a href="https://arxiv.org/abs/1511.06856" target="_blank">BatchNorm</a> weight initialization [see also explanation <a href="http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html" target="_blank">here</a>], <a href="https://www.cs.toronto.edu/~hinton/absps/reluICML.pdf" target="_blank">ReLU</a> [rectified linear unit] nonlinearities, <a href="https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf" target="_blank">dropout</a> regularization, or the <a href="https://arxiv.org/abs/1412.6980" target="_blank">ADAM</a> optimizer). Building deep neural networks, the legend goes on, then boils down to clever engineering of the knobs and faders of these &#8220;black boxes&#8221;; and nobody really understands why they work or how they produce results: Pure black magic at worst, empiricism instead of science at best.
 
 A prime example, on first glance, seems be Google&#8217;s <a href="https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html" target="_blank">famous</a> inception <a href="https://arxiv.org/pdf/1409.4842v1.pdf" target="_blank">architecture</a>: A very wide & deep CNN that won the <a href="http://image-net.org/challenges/LSVRC/2014/" target="_blank">ImageNet ILSVRC&#8217;14 competition</a> by using an ensemble of 7(!) 22-layer(!) networks. Sounds like raw computational power (as ownly Google can have it), thrown at a huge pile of data, and thus winning by brute force.
