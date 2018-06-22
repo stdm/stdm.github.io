@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img style="float:right" src="http://stdm.github.io/images/thilo_sds2015.jpg" />
+<img style="float:left" src="http://stdm.github.io/images/thilo_sds2015.jpg" />
 This is the personal website of [Thilo Stadelmann](http://www.zhaw.ch/=stdm), senior lecturer at [ZHAW](https://www.zhaw.ch/en/university/) [School of Engineering](https://www.zhaw.ch/en/engineering/), deputy head of [InIT‘s](https://www.zhaw.ch/en/engineering/institutes-centres/init/) [Information Engineering Group](https://www.zhaw.ch/de/engineering/institute-zentren/init/information-engineering/) and head of the [ZHAW Datalab](www.zhaw.ch/datalab).
 
 All views expressed are mine and not necessarily shared by ZHAW, InIT or the Datalab.
@@ -13,4 +13,4 @@ I am a computer scientist by training, an AI guy by passion, and a machine perce
 
 My current [research interests](https://stdm.github.io/research/) revolve around deep neural networks for pattern recognition problems, and reinforcement learning for general control.
 
-Please have a look at my [personal profile at my university's website](http://www.zhaw.ch/=stdm) for a CV, contact data and the like.
+Please also have a look at my [personal profile at my university's website](http://www.zhaw.ch/=stdm) for a CV, contact data and the like.
