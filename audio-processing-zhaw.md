@@ -10,6 +10,8 @@ This page collects information and resources on audio processing research at ZHA
 2. [Research directions](#research)
 3. [Resources](#resources) 
 
+[<img alt="Instrument recognition" src="http://stdm.github.io/images/instrument-recognition.jpg"/>](http://stdm.github.io/images/instrument-recognition.jpg)
+
 
 <a name="people"></a>
 ## People
