@@ -3,6 +3,7 @@ title: Faith and science
 layout: post
 date: 2018-05-24
 category: research, faith, scientific conduct
+comments: true
 ---
 
 There is a whole body of literature on the topic of faith and science (and a [good example](https://en.wikipedia.org/wiki/Mere_Christianity) is the work of C.S. Lewis, even if it is a rather onorthodox specimen). Here's another one, unorthodox in not attempting apologetics, but merely relaying a testimony in the sphere of science.
@@ -14,3 +15,4 @@ I wanted to have this paper. I admired the story of it, but no longer could show
 Sunday evening came, now more relaxed, when suddenly and unexpectedly an email arrived that the deadline will be extended by a couple days. The next days, one of the students could reproduce the experiments again (it was an anomaly in the data loading that resulted in an unintended random ordering of inputs); against our worst assumptions, this didn't pose a fundamental problem in the argument of the paper; correct experiments actually looked very good and could be done quickly. Today we submitted the final paper.
 
 Let's wait for the reviewers' feedback. If this submission becomes a publication, it is due to a good god with a faible for science. I had absolutely no natural hope left for it. Thank you, Jesus.
+                            
