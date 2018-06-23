@@ -10,10 +10,10 @@ layout: default
   </div>
 
   <div class="date">
- 		{% if post.modified %}
-    	Written on {{ post.date | date: '%B %e, %Y' }} (last modified: {{ post.modified | date: '%B %e, %Y' }})
+ 		{% if page.modified %}
+    	Written on {{ page.date | date: '%B %e, %Y' }} (last modified: {{ page.modified | date: '%B %e, %Y' }})
     {% else %}
-    	{{ post.date | date: '%B %e, %Y' }}
+    	{{ page.date | date: '%B %e, %Y' }}
 		{% endif %}
   </div>
 
