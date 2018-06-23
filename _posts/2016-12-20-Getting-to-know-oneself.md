@@ -3,6 +3,7 @@ title: Getting to know oneself
 layout: post
 date: 2016-12-20
 category: education, mentoring, personality check, phsychological tests
+comments: true
 ---
 
 Over the last 15 years, I've got to value certain personality tests (yes, the very thing <a href="https://www.dasmagazin.ch/2016/12/03/ich-habe-nur-gezeigt-dass-es-die-bombe-gibt/" target="_blank">Cambridge Analytica just reported to be able to create out of 10 of your social media likes</a>; but potential ethical drawbacks of big data or the topic of another post).

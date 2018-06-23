@@ -3,6 +3,7 @@ title: Career planning
 layout: post
 date: 2016-11-07
 category: opinion, education, mentoring, politics, safety vs. potential
+comments: true
 ---
 
 ![Advertisement](http://stdm.github.io/images/coiffeur_biologe.jpg)

@@ -3,6 +3,7 @@ title: Things a computer scientist rarely talks about
 layout: post
 date: 2014-08-04
 category: readings, faith, computer science
+comments: true
 ---
 
 I just finished reading Donald Knuth's "Things a computer scientist rarely talks about"; and thought it fits nicely into this series of literature-related posts. The book is a transcription of 6 lectures Don Knuth gave at MIT about "God and Computers".

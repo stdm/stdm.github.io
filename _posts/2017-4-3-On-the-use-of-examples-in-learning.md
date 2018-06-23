@@ -3,6 +3,7 @@ layout: post
 title: On the use of examples in learning
 date: 2017-04-03
 category: education, teaching, theory vs. practice
+comments: true
 ---
 
 Once in a while in a discussion on education or science, the topic of the perceived opposition of theory and practice comes up. It is usually raised by one party with a strong view on either a theory- or an application focus, with the goal of discrediting the other viewpoint: _“This is just theory (and thus worthless), because what we need is to make it run”_. In a classroom setting, you sometimes hear it from students complaining about too much abstract knowledge and too less examples.

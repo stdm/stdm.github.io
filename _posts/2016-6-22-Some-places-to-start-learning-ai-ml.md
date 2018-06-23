@@ -4,6 +4,7 @@ layout: post
 date: 2016-06-22
 modified: 2018-04-11
 category: education, research, mentoring, MOOCs, ML, RL, CNNs, RNNs
+comments: true
 ---
 
 Here are some links to my favourite [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course)s and other ressources on learning or deepen Artificial Intelligence and in particular Machine Learning / Deep Learning skills (original post: Jun 22, 2016; last update: Apr 11, 2018):

@@ -4,6 +4,7 @@ layout: post
 date: 2016-11-30
 modified: 2018-02-18
 category: education, research, GANs
+comments: true
 ---
 
 Recently, I got intrigued by so-called Generative Adversarial Nets or GANs (see <a href="https://arxiv.org/abs/1406.2661" target="_blank">the original paper</a>, <a href="https://arxiv.org/abs/1511.06434" target="_blank">the important improvement</a> to make it practical, an <a href="https://medium.com/@awjuliani/generative-adversarial-networks-explained-with-a-classic-spongebob-squarepants-episode-54deab2fce39#.x3strdv31" target="_blank">easy to underastand implementation</a> and a <a href="https://bamos.github.io/2016/08/09/deep-completion/" target="_blank">nice application</a> here). So much so that I derusted my <a href="https://gist.github.com/awjuliani/8ebf356d03ffee139659807be7fa2611#file-dcgan-ipynb" target="_blank">programming </a>and <a href="https://rumorscity.com/wp-content/uploads/2014/08/10-Best-VIM-Cheat-Sheet-04.jpg" target="_blank">linux command line operation</a> skills, learned <a href="https://www.dataquest.io/blog/docker-data-science/" target="_blank">docker</a>, and started playing around myself for the first time in several month.

@@ -3,6 +3,7 @@ title: 'The role of novel ideas in neural network research &#038; applications'
 layout: post
 date: 2016-12-14
 category: research, reasons for the rise of deep learning
+comments: true
 ---
 
 Public opinion has it that the current success of deep learning is built upon ideas from the 1970s and 1980s, enhanced by the availability of (a) increased computational power and (b) &#8220;big&#8221; data. Some add that a few minor algorithmic improvements also have been involved (e.g. <a href="https://arxiv.org/abs/1511.06856" target="_blank">BatchNorm</a> weight initialization [see also explanation <a href="http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html" target="_blank">here</a>], <a href="https://www.cs.toronto.edu/~hinton/absps/reluICML.pdf" target="_blank">ReLU</a> [rectified linear unit] nonlinearities, <a href="https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf" target="_blank">dropout</a> regularization, or the <a href="https://arxiv.org/abs/1412.6980" target="_blank">ADAM</a> optimizer). Building deep neural networks, the legend goes on, then boils down to clever engineering of the knobs and faders of these &#8220;black boxes&#8221;; and nobody really understands why they work or how they produce results: Pure black magic at worst, empiricism instead of science at best.

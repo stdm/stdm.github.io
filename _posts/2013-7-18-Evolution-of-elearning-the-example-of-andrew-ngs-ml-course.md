@@ -3,6 +3,7 @@ title: Explanations that appeal to intuition have a big effect on learning
 layout: post
 date: 2013-07-18
 category: education, teaching
+comments: true
 ---
 
 The <a title="CS229 Videolectures from Stanford, 2008" href="http://see.stanford.edu/see/lecturelist.aspx?coll=348ca38a-3a6d-4052-937d-cb017338d7b1" target="_blank">CS229 Machine Learning video lectures</a> are one of the most popular online courses that helped to start the MOOC phenomenon as well as Coursera as a company (Instructor Andrew Ng is Coursera&#8217;s co-founder). They are a very good resource to learn about machine learning even for people with already some training in ML.

@@ -4,6 +4,7 @@ title: Lesenswert
 date: 2018-02-12
 modified: 2018-06-09
 category: society, readings
+comments: true
 ---
 
 Again, a collection of links. This time to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title).

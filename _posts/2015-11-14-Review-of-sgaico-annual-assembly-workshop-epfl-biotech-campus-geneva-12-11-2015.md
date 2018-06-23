@@ -3,6 +3,7 @@ title: 'Review of SGAICO Annual Assembly &#038; Workshop, EPFL Biotech Campus, G
 layout: post
 date: 2015-11-14
 category: conference review, ethics, SGAICO, AI, Human Brain Project, NLP
+comments: true
 ---
 
 [<img class="size-medium wp-image-297 alignleft" alt="IMG_0692" src="http://stdm.github.io/images/IMG_0692.jpg" width="225" height="300" />](http://stdm.github.io/images/IMG_0692.jpg)

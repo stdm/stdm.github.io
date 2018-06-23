@@ -3,6 +3,7 @@ layout: post
 title: Scientific disciplines are foremost communities
 date: 2017-10-17
 catgeory: education, mentoring, academic career
+comments: true
 ---
 
 For a young researcher the diversification in the academic landscape can be a huge challenge: am I interested / proficient in machine learning - or pattern recognition? Am I a computer vision guy (because I work mainly on images), or in the field of predictive maintenance (because I also worked on such tasks)? Am I a data miner because I mine data, and can I also add artificial intelligence to the list of my research interests just because I have published on its sub-field of machine learning?

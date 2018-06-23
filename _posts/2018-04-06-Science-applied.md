@@ -3,6 +3,7 @@ layout: post
 title: Science, applied. Die wissenschaftliche Methode im Kern des Produktentwicklungsprozesses
 date: 2018-04-06
 category: education, teaching, scientific method
+comments: true
 ---
 
 ![ZHAW Lehrpreis 2017](https://www.zhaw.ch/storage/_processed_/7/1/csm_zhaw-impact-33-kompetenz_004952c25a.jpg)

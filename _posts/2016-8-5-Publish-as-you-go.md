@@ -3,6 +3,7 @@ title: 'Release your thoughts: publish as you go'
 layout: post
 date: 2016-08-05
 category: education, research, mentoring, writing
+comments: true
 ---
 
 I really like the attitude of some people regarding leveraging their work &#8211; for example, <a style="line-height: 1.71429; font-size: 1rem;" href="http://tech.marksblogg.com/tensorflow-nvidia-gtx-1080.html" target="_blank">here</a>: Mark Litwintschik reports on how he installed TensorFlow and executed a simple but instructional and funny &#8220;Hello World&#8221; model (based on Joel Grus&#8217; hilarious post <a style="line-height: 1.71429; font-size: 1rem;" href="http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/" target="_blank">here</a>). Mark&#8217;s article is easy to read, helpful, and sure to find its audience.

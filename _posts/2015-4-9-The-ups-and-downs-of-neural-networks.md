@@ -3,6 +3,7 @@ title: The ups and downs of Neural Networks
 layout: post
 date: 2015-04-09
 category: research, readings, neural network history
+comments: true
 ---
 
 Interesting enough, the current hype topic (rightly so!) in Machine Learning is Deep Learning &#8211; which is largely the current term for ongoing research in Neural Networks.

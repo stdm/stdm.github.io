@@ -3,6 +3,7 @@ title: 'The ENJOY Project: Enjoying Public Speeches despite Hearing Impairment'
 layout: post
 date: 2015-04-14
 category: research, ethics
+comments: true
 ---
 
 During my spare time in the last year and ongoing, I have been involved in a very intersting project bringing together computer science expertise and charity: The ENJOY project (my term for it).
