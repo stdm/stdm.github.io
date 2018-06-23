@@ -1,6 +1,7 @@
 ---
 title: Research
 layout: page
+comments: true
 ---
 
 This page is dedicated to the research of me and my group. My academic profile including a CV, list of grants (projects) and bibliography can also be found on my [ZHAW profile page](http://www.zhaw.ch/=stdm). A preserved version of my research at the University of Marburg can be found at my [Phillips University profile page](http://www.informatik.uni-marburg.de/~stadelmann/research.html).

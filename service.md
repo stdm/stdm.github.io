@@ -1,6 +1,7 @@
 ---
 title: Service
 layout: page
+comments: true
 ---
 
 Much to the suprise of my younger self, I have become a very active networker, public speaker and community builder, involved in the leadership of organizations like the [ZHAW Datalab](http://www.zhaw.ch/datalab), [SGAICO](https://sgaico.swissinformatics.org/) and the [Swiss Alliance for Data-Intensive Services](http://www.data-service-alliance.ch).
