@@ -7,7 +7,7 @@ layout: default
     <article class="post">
 			<div class="date">
 				{% if post.modified %}
-    			{{ post.date | date: '%B %d, %Y' }} (Last modified: {{ post.modified | date: '%B %d, %Y' }})
+    			{{ post.date | date: '%B %d, %Y' }} (last modified: {{ post.modified | date: '%B %d, %Y' }})
     		{% else %}
     			{{ post.date | date: '%B %d, %Y' }}
 				{% endif %}
