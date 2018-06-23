@@ -17,4 +17,4 @@ Sunday evening came, now more relaxed, when suddenly and unexpectedly an email a
 
 Let's wait for the reviewers' feedback. If this submission becomes a publication, it is due to a good god with a faible for science. I had absolutely no natural hope left for it. Thank you, Jesus.
 
-Update (June 22, 2018): The paper got accepted!
+Update (June 22, 2018): The paper got accepted! 
