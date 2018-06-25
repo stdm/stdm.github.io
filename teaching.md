@@ -30,18 +30,18 @@ My main teaching revolves around [AI](https://olat.zhaw.ch/auth/RepositoryEntry/
 | Fall 2017 | MSc | MT | **Reinforcement Learning to Play 'Doom'** |
 | Spring 2017 | MSc | VT2 | **Deep Learning for End-to-End Voice Conversion - a Survey** |
 | Spring 2017 | MSc | VT1 | **Evaluating OMR Systems** |
-| Spring 2017 | BSc | BA | **Machine Learning for Speaker Clustering** |
+| Spring 2017 | BSc | BA | [**Machine Learning for Speaker Clustering**](https://stdm.github.io/downloads/papers/ANNPR_2018b.pdf) |
 | Spring 2017 | MSc | BA | **Speaker Clustering with Metric Embeddings** |
 | Fall 2016 | BSc | PA | **Recurrent Neural Networks for Speaker Recognition** |
 | Fall 2016 | BSc | PA | **Pinball Wizard II: Using Deep Reinforcement Learning to Train a Pinball Wizard** |
 | Fall 2016 | BSc | PA | **Deep OMR: New Ways for Optical Music Recognition** |
-| Fall 2016 | MSc | VT1 | [**Fully Convolutional Neural Networks for newspaper Article Segmentation**](https://www.zhaw.ch/no_cache/de/forschung/personen-publikationen-projekte/detailansicht-publikation/publikation/212962/) |
+| Fall 2016 | MSc | VT1 | [**Fully Convolutional Neural Networks for newspaper Article Segmentation**](https://stdm.github.io/downloads/papers/ICPR_2017.pdf) |
 | Spring 2016 | MSc | VT1 | **Reinforcement Learning for Building Control** |
 | Spring 2016 | BSc | BA | **Instrumentenerkennung in Single-Source Audio Streams** 
-| Spring 2016 | BSc | BA | [ **Automatische Stimmerkennung mit Deep Learning (Neuronalen Netzen)**](https://www.zhaw.ch/no_cache/de/forschung/personen-publikationen-projekte/detailansicht-publikation/publikation/212963/) |
+| Spring 2016 | BSc | BA | [ **Automatische Stimmerkennung mit Deep Learning (Neuronalen Netzen)**](https://stdm.github.io/downloads/papers/MLSP_2017.pdf) |
 | Spring 2016 | BSc | BA | **Künstliche Intelligenz für das Zahlenpuzzle 2048** |
 | Fall 2015 | BSc | PA | **Künstliche Intelligenz für 'Super Mario' durch Neuroevolution** |
-| Fall 2015 | BSc | PA | [**Sprechererkennung mit Deep Neural Networks**](https://www.zhaw.ch/no_cache/de/forschung/personen-publikationen-projekte/detailansicht-publikation/publikation/210537/) |
+| Fall 2015 | BSc | PA | [**Sprechererkennung mit Deep Neural Networks**](https://stdm.github.io/downloads/papers/MLSP_2016.pdf) |
 | Fall 2015 | BSc | PA | **Automatische Erkennung der Akkordfolge in Popmusik** |
 | Spring 2015 | BSc | BA | **Erkennung von Hintergrundmusik in Broadcast Audio** |
 | Spring 2015 | BSc | BA | **Entwicklung einer Android-App zur Erkennung von Redeanteilen im Unterricht** |
