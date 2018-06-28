@@ -27,10 +27,12 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * Panelist for the topic _"Künstliche Intelligenz – Wann übernehmen Maschinen in Journalismus und Organisationskommunikation?"_ 
     at [**Columni**](http://www.columni.ch/index.php/agenda) annual meeting, Zürich, Switzerland, July 09, 2018
 
-  * Invited talk at [**IDIAP**](https://www.idiap.ch/en), 
+  * **Machine Learning for Pattern Recognition at ZHAW** - Deep Learning Nuggets for e.g. Speaker Diarization, End-to-End Neural Clustering & OMR,
+    Invited talk at [IDIAP Research Institute](https://www.idiap.ch/en), 
     Martigny, Switzerland, July 02, 2018
 
-  * Invited talk at [**Berner Architektentreffen**](http://www.berner-architekten-treffen.ch), 
+  * **Deep Learning-based Pattern Recognition in Business**,
+    Invited talk at [**Berner Architektentreffen**](http://www.berner-architekten-treffen.ch), 
     Bern, Switzerland, June 29, 2018
 
   * [**Report form the Front Lines of Deep Learning**](https://stdm.github.io/downloads/talks/2018-06-06_DL-report-from-the-fron-lines.pdf)
@@ -44,11 +46,15 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * [Discussion ("Coreferat")](2018-05-16_Discussion_IssuesInAnalytics.pdf) on Bart Custers' **Discrimination, privacy and related issues in predictive big data analytics**,
     Law & Robots Workshop 2018, University of Basel, Switzerland, May 16, 2018
 
-  * [**Was kann Künstliche Intelligenz leisten?**](https://stdm.github.io/downloads/talks/2018-03-02_Was_kann_KI_leisten.pdf) 
-    Key note at [CAS Digitale Transformation und Innovation](https://weiterbildung.zhaw.ch/de/school-of-management-and-law/programm/cas-digitale-technologien-und-innovation.html), Winterthur, Switzerland, March 02, 2018
+  * [**Applied Data Science Research**: a ZHAW Datalab perspective on the driver of digitization](https://stdm.github.io/downloads/talks/2018-04-13_Forschung_DataScience.pdf), 
+    Invited talk at Kick-off PhD Network in Data Science (deputized by [Kurt Stockinger](http://www.zhaw.ch/=stog)),
+    Winterthur, Switzerland, April 13, 2018
     
   * Panelist at the **AI Applied to Structured Data** workshop, 
     IBM Research, Rüschlikon, Switzerland, April 11, 2018
+
+  * [**Was kann Künstliche Intelligenz leisten?**](https://stdm.github.io/downloads/talks/2018-03-02_Was_kann_KI_leisten.pdf) 
+    Key note at [CAS Digitale Transformation und Innovation](https://weiterbildung.zhaw.ch/de/school-of-management-and-law/programm/cas-digitale-technologien-und-innovation.html), Winterthur, Switzerland, March 02, 2018
 
   * **Science Talk** & **Wie denken denkende Maschinen?**
     SATW TecNight Sarnen, Kantonsschule Obwalden, Switzerland, January 23, 2018
