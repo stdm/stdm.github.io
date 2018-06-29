@@ -36,8 +36,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
     Invited talk at [IDIAP Research Institute](https://www.idiap.ch/en), 
     Martigny, Switzerland, July 02, 2018
 
-  * **Deep Learning-based Pattern Recognition in Business**,
-    Invited talk at [**Berner Architektentreffen**](http://www.berner-architekten-treffen.ch), 
+  * [**Deep Learning-based Pattern Recognition in Business**]((https://stdm.github.io/downloads/talks/2018-06-29_DL-based-pattern-recognition-in-business.pdf),
+    Invited talk at [Berner Architektentreffen](http://www.berner-architekten-treffen.ch), 
     Bern, Switzerland, June 29, 2018
 
   * [**Report form the Front Lines of Deep Learning**](https://stdm.github.io/downloads/talks/2018-06-06_DL-report-from-the-fron-lines.pdf)
