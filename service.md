@@ -22,6 +22,14 @@ Much to the suprise of my younger self, I have become a very active networker, p
     Invited talk at [**ANNPR 2018**, the 8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018), 
     Siena, Italy, September 19-21, 2018
     
+  * **Learning Neural Models for End-to-End Clustering**,
+    Paper presentation at [**ANNPR 2018**, the 8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018), 
+    Siena, Italy, September 19-21, 2018
+    
+  * **Capturing Suprasegmental Features of a Voice with RNNs for Improved Speaker Clustering**,
+    Paper presentation at [**ANNPR 2018**, the 8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018), 
+    Siena, Italy, September 19-21, 2018
+    
   * **Lessons Learned from Deep Learning in Industry**, 
     Invited talk at [3rd European COST Conference on Mathematics for Industry in Switzerland](https://www.zhaw.ch/en/engineering/institutes-centres/iamp/events/3rd-european-cost-conference-on-mathematics-for-industry-in-switzerland/),
     Winterthur, Switzerland, September 06, 2018
@@ -32,7 +40,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * Panelist for the topic _"Künstliche Intelligenz – Wann übernehmen Maschinen in Journalismus und Organisationskommunikation?"_ 
     at [**Columni**](http://www.columni.ch/index.php/agenda) annual meeting, Zürich, Switzerland, July 09, 2018
 
-  * **Machine Learning for Pattern Recognition at ZHAW - Deep Learning Nuggets for e.g. Speaker Diarization, End-to-End Neural Clustering & OMR**,
+  * [**Machine Learning for Pattern Recognition at ZHAW - Deep Learning Nuggets for e.g. Speaker Diarization, End-to-End Neural Clustering & OMR**](https://stdm.github.io/downloads/talks/2018-07-02_ML-for_pattern-recognition-at-ZHAW.pdf),
     Invited talk at [IDIAP Research Institute](https://www.idiap.ch/en), 
     Martigny, Switzerland, July 02, 2018
 
