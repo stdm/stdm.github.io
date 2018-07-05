@@ -3,51 +3,47 @@ layout: default
 ---
 
 <div class="row">
-<div class="column">
+	<div class="column">
 
+		<div class="date">
+			News
+		</div>
+		<!-- <a class="twitter-timeline" data-height="450" data-link-color="#2B7BB9" href="https://twitter.com/thilo_on_data?ref_src=twsrc%5Etfw">News</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+		<a class="twitter-timeline" href="https://twitter.com/thilo_on_data/likes?ref_src=twsrc%5Etfw">Tweets Liked by @thilo_on_data</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		<!-- data-height="700" -->
 
-<div class="date">
-News
-</div>
-<!-- <a class="twitter-timeline" data-height="450" data-link-color="#2B7BB9" href="https://twitter.com/thilo_on_data?ref_src=twsrc%5Etfw">News</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-<a class="twitter-timeline" href="https://twitter.com/thilo_on_data/likes?ref_src=twsrc%5Etfw">Tweets Liked by @thilo_on_data</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<!-- data-height="700" -->
+		<!-- <hr> -->
 
-<!-- <hr> -->
+	</div>
+	<div class="column">
 
+		<div class="posts">
+		  {% for post in site.posts %}
+		    <article class="post">
+					<div class="date">
+						{% if post.modified %}
+		    			{{ post.date | date: '%B %d, %Y' }} (last modified: {{ post.modified | date: '%B %d, %Y' }})
+		    		{% else %}
+		    			{{ post.date | date: '%B %d, %Y' }}
+						{% endif %}
+					</div>
 
-</div>
-<div class="column">
+		      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
+		      <div class="entry">
+		        {{ post.excerpt }}
+		      </div>
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-			<div class="date">
-				{% if post.modified %}
-    			{{ post.date | date: '%B %d, %Y' }} (last modified: {{ post.modified | date: '%B %d, %Y' }})
-    		{% else %}
-    			{{ post.date | date: '%B %d, %Y' }}
-				{% endif %}
-			</div>
+		      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+		      
+		      <div class="category">
+		      	{% if post.category %}
+		      		<font size="2" color="grey">Category: {{ post.category }}</font>
+						{% endif %}
+		      </div>
+		    </article>
+		  {% endfor %}
+		</div>
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-      
-      <div class="category">
-      	{% if post.category %}
-      		<font size="2" color="grey">Category: {{ post.category }}</font>
-				{% endif %}
-      </div>
-    </article>
-  {% endfor %}
-</div>
-
-
-</div>
+	</div>
 </div>
