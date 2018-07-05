@@ -24,11 +24,12 @@ body {
   color: $darkGray;
 }
 
-/* Create two equal columns that floats next to each other */
+.row {
+    display: flex;
+}
+
 .column {
-    float: left;
-    width: 500px;
-    padding: 10px;
+    flex: 50%;
 }
 
 .container {
@@ -254,7 +255,7 @@ img {
 }
 
 nav {
-  float: right;
+  float: left;
   margin-top: 23px; // @TODO: Vertically middle align
 //  font-family: $helveticaNeue;
   font-family: monospace;
