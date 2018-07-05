@@ -24,9 +24,30 @@ body {
   color: $darkGray;
 }
 
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 500px;
+    padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 840px;
   padding: 0 10px;
   width: 100%;
 }
@@ -318,27 +339,6 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
-}
-
-/* Create two equal columns that floats next to each other */
-.column {
-    float: left;
-    width: 65%;
-    padding: 10px;
-}
-
-/* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-    .column {
-        width: 100%;
-    }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
