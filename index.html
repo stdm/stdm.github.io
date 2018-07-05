@@ -2,20 +2,8 @@
 layout: default
 ---
 
-<div class="row">
-	<div class="column">
-
-		<div class="date">
-			News
-		</div>
-		<!-- <a class="twitter-timeline" data-height="450" data-link-color="#2B7BB9" href="https://twitter.com/thilo_on_data?ref_src=twsrc%5Etfw">News</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-		<a class="twitter-timeline" href="https://twitter.com/thilo_on_data/likes?ref_src=twsrc%5Etfw">Tweets Liked by @thilo_on_data</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-		<!-- data-height="700" -->
-
-		<!-- <hr> -->
-
-	</div>
-	<div class="column">
+<div class="content">
+	<div class="blog">
 
 		<div class="posts">
 		  {% for post in site.posts %}
@@ -44,6 +32,17 @@ layout: default
 		    </article>
 		  {% endfor %}
 		</div>
+
+	</div>
+	<div class="twitter">
+
+		<div class="date">
+			News
+		</div>
+		<!-- <a class="twitter-timeline" data-height="450" data-link-color="#2B7BB9" href="https://twitter.com/thilo_on_data?ref_src=twsrc%5Etfw">News</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+		<a class="twitter-timeline" href="https://twitter.com/thilo_on_data/likes?ref_src=twsrc%5Etfw">Tweets Liked by @thilo_on_data</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		<!-- data-height="700" -->
+		<!-- <hr> -->
 
 	</div>
 </div>

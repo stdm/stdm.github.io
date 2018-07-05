@@ -24,17 +24,24 @@ body {
   color: $darkGray;
 }
 
-.row {
+.content {
     display: flex;
+    flex-wrap: wrap-reverse;
 }
 
-.column {
-    flex: 50%;
+.blog {
+    flex: 2 0 300px;
+    padding: 10px;
+}
+
+.twitter {
+    flex: 0 0 300px;
+    padding: 10px;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 840px;
+  max-width: 740px;
   padding: 0 10px;
   width: 100%;
 }
