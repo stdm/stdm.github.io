@@ -280,6 +280,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="press"></a>
 ## In the press 
 
+  * July 06, 2018, [Netzwoche](https://www.netzwoche.ch/news/2018-06-19/europaeische-ki-forscher-schliessen-sich-zusammen): "Europäische KI-Forscher schliessen sich zusammen"
+
   * May 2018, [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6408037670907367424): "A list of academic leaders in the field of Data Science in Switzerland"
     
     [<img alt="Screenshot" src="http://stdm.github.io/images/linkedin-2018.jpg"/>](https://www.linkedin.com/feed/update/urn:li:activity:6408037670907367424)
