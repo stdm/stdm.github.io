@@ -2,7 +2,7 @@
 title: 'Some places to start learning AI, ML & data science (continually expanded)'
 layout: post
 date: 2016-06-22
-modified: 2018-04-11
+modified: 2018-07-10
 category: education, research, mentoring, MOOCs, ML, RL, CNNs, RNNs
 comments: true
 ---
@@ -10,14 +10,13 @@ comments: true
 Here are some links to my favourite [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course)s and other ressources on learning or deepen Artificial Intelligence and in particular Machine Learning / Deep Learning skills (original post: Jun 22, 2016; last update: Apr 11, 2018):
 
   * [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng, Stanford
+  * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by Andrew Ng's deeplearning.ai
   * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) by Andrej Karpathy, Stanford ([video lectures](https://www.youtube.com/watch?v=2uiulzZxmGg&index=10&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA))
   * [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets) by Geoffrey Hinton, U Toronto (also on <a href="https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9" target="_blank">youtube</a>)
-  * [Advanced Topics: Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Silver, University College London ([video lectures](http://videolectures.net/rldm2015_silver_reinforcement_learning/))
-  * [Machine Learning: Reinforcement Learning](https://www.udacity.com/course/machine-learning-reinforcement-learning--ud820) by Charles Isbell & Michael Littman, GeorgiaTech
-  * [Neural Networks](http://info.usherbrooke.ca/hlarochelle/cours/ift725_A2013/contenu.html) by Hugo Larochelle, U Sherbrooke ([video lectures](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
-  * [Deep Learning: Take machine learning to the next level](https://www.udacity.com/course/deep-learning--ud730) by Vincent Vanhoucke, Google
   * [Theories of Deep Learning](https://www.researchgate.net/project/Theories-of-Deep-Learning) by Hatef Monajemi, David Donoho and Vardan Papyan, Stanford
   * [Deep Reinforcement Learning Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) by Pieter Abbeel et al., UC Berkeley
+  * [Advanced Topics: Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Silver, University College London ([video lectures](http://videolectures.net/rldm2015_silver_reinforcement_learning/))
+  * [Machine Learning: Reinforcement Learning](https://www.udacity.com/course/machine-learning-reinforcement-learning--ud820) by Charles Isbell & Michael Littman, GeorgiaTech
 
 These reading resources might also be of interest (use cases, deep dives into specific methods):
 
@@ -48,7 +47,7 @@ These reading resources might also be of interest (use cases, deep dives into sp
 Generally: If you want to make AI/ML (or more broadly, data science) a career, check out the following guides:
 
   * [How to Become a Data Scientist](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-1-3) by Alex Smith (also [part 2](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-2-3))
-  * [Data Scientist als Beruf](http://stdm.github.io/downloads/HMD_2016.pdf) by my colleagues Kurt, Andreas and myself (in German)
+  * [Data Scientist als Beruf](http://stdm.github.io/downloads/HMD_2016.pdf) by my colleagues Kurt, Andreas and myself (in German -> updated and revised version in English coming soon as a [book](https://stdm.github.io/data-science-book/))
   * [A survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/) by Andrej Karpathy
 
 Additionally, try attending events of the [Swiss Alliance for Data-Intensive Services](http://www.data-service-alliance.ch), think about joining [SGAICO](http://www.s-i.ch/sgaico/), and subscribe to the [Data Machina newsletter](https://www.getrevue.co/profile/datamachina).
