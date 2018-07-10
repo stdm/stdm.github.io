@@ -34,7 +34,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
     Invited talk at [3rd European COST Conference on Mathematics for Industry in Switzerland](https://www.zhaw.ch/en/engineering/institutes-centres/iamp/events/3rd-european-cost-conference-on-mathematics-for-industry-in-switzerland/),
     Winterthur, Switzerland, September 06, 2018
 
-  * Invited talk at [**FHNW Institute for Data Science**](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-for-data-science), 
+  * [**Data Science @ ZHAW**](https://stdm.github.io/downloads/talks/2018-07-10_Data-Science-at-ZHAW.pdf), 
+    Invited talk at [FHNW Institute for Data Science](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-for-data-science), 
     Windisch, Switzerland, July 10, 2018
 
   * Panelist for the topic _"Künstliche Intelligenz – Wann übernehmen Maschinen in Journalismus und Organisationskommunikation?"_ 
