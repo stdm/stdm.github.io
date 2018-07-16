@@ -2,14 +2,14 @@
 title: 'Some places to start learning AI, ML & data science (continually expanded)'
 layout: post
 date: 2016-06-22
-modified: 2018-07-10
+modified: 2018-07-16
 category: education, research, mentoring, MOOCs, ML, RL, CNNs, RNNs
 comments: true
 ---
 
 Here are some links to my favourite [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course)s and other ressources on learning or deepen Artificial Intelligence and in particular Machine Learning / Deep Learning skills (original post: Jun 22, 2016; last update: Apr 11, 2018):
 
-  * [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng, Stanford
+  * [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng, Stanford (very intuitive and practical, includes the basics)
   * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by Andrew Ng's deeplearning.ai
   * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) by Andrej Karpathy, Stanford ([video lectures](https://www.youtube.com/watch?v=2uiulzZxmGg&index=10&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA))
   * [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets) by Geoffrey Hinton, U Toronto (also on <a href="https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9" target="_blank">youtube</a>)
@@ -17,6 +17,7 @@ Here are some links to my favourite [MOOC](https://en.wikipedia.org/wiki/Massive
   * [Deep Reinforcement Learning Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) by Pieter Abbeel et al., UC Berkeley
   * [Advanced Topics: Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Silver, University College London ([video lectures](http://videolectures.net/rldm2015_silver_reinforcement_learning/))
   * [Machine Learning: Reinforcement Learning](https://www.udacity.com/course/machine-learning-reinforcement-learning--ud820) by Charles Isbell & Michael Littman, GeorgiaTech
+  * [Foundations of Machine Learning](https://bloomberg.github.io/foml) by David Rosenberg, Bloomberg (more geared towards math and statistical learning than Andrew's course above)
 
 These reading resources might also be of interest (use cases, deep dives into specific methods):
 
