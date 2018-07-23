@@ -2,7 +2,7 @@
 title: 'Some places to start learning AI, ML & data science (continually expanded)'
 layout: post
 date: 2016-06-22
-modified: 2018-07-16
+modified: 2018-07-23
 category: education, research, mentoring, MOOCs, ML, RL, CNNs, RNNs
 comments: true
 ---
@@ -16,7 +16,7 @@ Here are some links to my favourite [MOOC](https://en.wikipedia.org/wiki/Massive
   * [Theories of Deep Learning](https://www.researchgate.net/project/Theories-of-Deep-Learning) by Hatef Monajemi, David Donoho and Vardan Papyan, Stanford
   * [Deep Reinforcement Learning Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) by Pieter Abbeel et al., UC Berkeley
   * [Advanced Topics: Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Silver, University College London ([video lectures](http://videolectures.net/rldm2015_silver_reinforcement_learning/))
-  * [Machine Learning: Reinforcement Learning](https://www.udacity.com/course/machine-learning-reinforcement-learning--ud820) by Charles Isbell & Michael Littman, GeorgiaTech
+  * [Reinforcement Learning](https://de.udacity.com/course/reinforcement-learning--ud600) by Charles Isbell & Michael Littman, GeorgiaTech (funny and gentle)
   * [Foundations of Machine Learning](https://bloomberg.github.io/foml) by David Rosenberg, Bloomberg (more geared towards math and statistical learning than Andrew's course above)
 
 These reading resources might also be of interest (use cases, deep dives into specific methods):
