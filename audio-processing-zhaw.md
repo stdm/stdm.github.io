@@ -48,16 +48,18 @@ We work on [media segmentation and classification](https://www.eurospider.com/de
 
 #### Selected projects and theses
 
+* Paper at [ANNPR 2018](http://annpr2018.diism.unisi.it/) on ["Capturing Suprasegmental Features of a Voice with RNNs for Improved Speaker Clustering"](https://stdm.github.io/downloads/papers/ANNPR_2018b.pdf) (09/2018)
+* Paper at [ANNPR 2018](http://annpr2018.diism.unisi.it/) on ["Learning Neural Models for End-to-End Clustering"](https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf) (09/2018)
 * Bachelor Thesis ("BA") on Speaker Diarization (FS 2018)
 * 2 Project Theses ("BA") on Voice Conversion and Speaker Clustering (HS 2017)
 * Master Thesis ("MT") on "Learning to Cluster" (HS 2017)
-* Paper at [IEEE MLSP 2017](http://mlsp2017.conwiz.dk/home.htm) on ["Learning Embeddings for Speaker Clustering Based on Voice Equality"](https://www.zhaw.ch/no_cache/de/forschung/personen-publikationen-projekte/detailansicht-publikation/publikation/212963/) (09/2017)
+* Paper at [IEEE MLSP 2017](http://mlsp2017.conwiz.dk/home.htm) on ["Learning Embeddings for Speaker Clustering Based on Voice Equality"](https://stdm.github.io/downloads/papers/MLSP_2017.pdf) (09/2017)
 * Project [Key Word Spider - System to Support Segmentation, Content Analysis and Labelling of Audiovisual Content](https://www.eurospider.com/de/know-how/medienanalyse/168-key-word-spider) (04/2017 - 02/2018)
 * 2 Bachelor Theses ("BA") and a graduate (PhD) project on "Machine Learning for Speaker Clustering" (FS 2017)
 * Project [DeLLA - Deep-Learning-basierter Spracherkenner mit beschränkten Trainingsdaten](https://www.zhaw.ch/no_cache/de/forschung/personen-publikationen-projekte/detailansicht-projekt/projekt/3012/) (09/2016 - 12/2017)
 * Hackathon ("M.Sc. EVA") on "RNNs for Speaker Clustering" (HS 2016)
 * Project Thesis ("B.Sc. PA") on "Recurrent Neural networks for Speaker Recognition" (HS 2016)
-* Paper at [IEEE MLSP 2016](http://mlsp2016.conwiz.dk/home.htm) on ["Speaker Identification and Clustering using Convolutional Neural Networks"](https://www.zhaw.ch/no_cache/de/forschung/personen-publikationen-projekte/detailansicht-publikation/publikation/210537/) (09/2016)
+* Paper at [IEEE MLSP 2016](http://mlsp2016.conwiz.dk/home.htm) on ["Speaker Identification and Clustering using Convolutional Neural Networks"](https://stdm.github.io/downloads/papers/MLSP_2016.pdf) (09/2016)
 * CTI project 18338.1 PFEN-NM "Audio Processing in OpenCL" (March 2016 - October 2017)
 * Bachelor Thesis ("BA") on "Instrument Recognition in Single-Source Audio Streams" (FS 2016)
 * Bachelor Thesis ("BA") on "Automatic Voice Recognition with Deep Learning" (FS 2016)

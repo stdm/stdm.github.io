@@ -26,7 +26,7 @@ My main teaching revolves around [AI](https://olat.zhaw.ch/auth/RepositoryEntry/
 | Fall 2017 | BSc | PA | **Deep Learning Verfahren das Malen beibringen: Optimiertes Training für GANs** |
 | Fall 2017 | BSc | PA | **Deep Learning for Speaker Clustering** |
 | Fall 2017 | BSc | PA | **Deep Learning-basierte Voice Conversion mittels problemspezifischer Loss-Funktion** |
-| Fall 2017 | MSc | MT | **Learning to Cluster** |
+| Fall 2017 | MSc | MT | [**Learning to Cluster**](https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf) |
 | Fall 2017 | MSc | MT | **Reinforcement Learning to Play 'Doom'** |
 | Spring 2017 | MSc | VT2 | **Deep Learning for End-to-End Voice Conversion - a Survey** |
 | Spring 2017 | MSc | VT1 | **Evaluating OMR Systems** |
@@ -65,7 +65,7 @@ My main teaching revolves around [AI](https://olat.zhaw.ch/auth/RepositoryEntry/
 
 | Tag | Name | Format | Type | Content | Did what? | When? |
 | --- | --- | --- | --- | --- | --- | --- |
-| [KI1](https://olat.zhaw.ch/auth/RepositoryEntry/219152410/CourseNode/95069693647358) | **Künstliche Intelligenz 1** | lecture & lab | final year BSc computer science elective course | practical AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017 |
+| [KI1](https://olat.zhaw.ch/auth/RepositoryEntry/219152410/CourseNode/95069693647358) | **Künstliche Intelligenz 1** | lecture & lab | final year BSc computer science elective course | practical AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017-2018 |
 | KI2 | **Künstliche Intelligenz 2** | lecture & lab | finale year BSc computer science elective course | AI applications with a focus on neural networks | responsible, co-initiate, co-create | Fall 2017 |
 | [TSM_MachLe](https://www.msengineering.ch/en/course-structure/theory-modules/tsm-modules.html) | **Machine Learning** | lecture & lab | MSc computer science & engineering elective course | mid-level course on practical machine learning with a focus on deep learning | responsible, initiate, co-create, co-teach | Spring 2017-2018 |
 | EVA MI LAB | **Machine Intelligence Lab** | MOOC, colloquia & hackathon | MSc extended advanced module (EVA) | experience an online course on an advanced machine learning topic | responsible, initiate, co-create, (co-)teach | Fall 2015-2017 |
