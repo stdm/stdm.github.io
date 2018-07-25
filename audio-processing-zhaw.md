@@ -48,6 +48,7 @@ We work on [media segmentation and classification](https://www.eurospider.com/de
 
 #### Selected projects and theses
 
+* 2 Project Theses ("PA") on Radio Signal Analysis and Speaker Diarization on Realistic Data (HS 2018)
 * Paper at [ANNPR 2018](http://annpr2018.diism.unisi.it/) on ["Capturing Suprasegmental Features of a Voice with RNNs for Improved Speaker Clustering"](https://stdm.github.io/downloads/papers/ANNPR_2018b.pdf) (09/2018)
 * Paper at [ANNPR 2018](http://annpr2018.diism.unisi.it/) on ["Learning Neural Models for End-to-End Clustering"](https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf) (09/2018)
 * Bachelor Thesis ("BA") on Speaker Diarization (FS 2018)
