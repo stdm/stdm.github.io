@@ -118,6 +118,8 @@ If you are intgerested in a collaboration, please [contact](http://www.zhaw.ch/=
 
 Counters: 1 book, 2 invited papers, 1 journal paper, 9 book chapters, 20 conference papers, 8 workshop papers, 1 position paper, 1 tech report, 2 theses.
 
+Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?user=6U6ZXzUAAAAJ&hl=en).
+
 | Year | Tag | Type| Publication |
 | --- | --- | --- | --- |
 | to appear | data science | chapter | Kurt Stockinger, Martin Braschler, and Thilo Stadelmann. "**Lessons Learned from Challenging Data Science Case Studies**". In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). Springer, 2018. To appear. |
