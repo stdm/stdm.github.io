@@ -4,6 +4,7 @@
     {% include analytics.html %}
 
   	<title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+		
 		{% include meta.html %}
 
     <!--[if lt IE 9]>
@@ -14,6 +15,7 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+ 		{% seo %}
   </head>
 
   <body>
