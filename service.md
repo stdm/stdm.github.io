@@ -54,10 +54,10 @@ Much to the suprise of my younger self, I have become a very active networker, p
     
     [<img alt="Slides" src="http://stdm.github.io/images/dl-frontlines-2018.jpg"/>](https://stdm.github.io/downloads/talks/2018-06-06_DL-report-from-the-fron-lines.pdf)
     
-  * Invited talk at [**Informatiktage 2018**](https://informatiktage.ch/), 
+  * Invited talk on explaining neural networks for a general public audience at [**Informatiktage 2018**](https://informatiktage.ch/), 
     Winterthur, Switzerland, June 01, 2018
   
-  * [Discussion ("Coreferat")](2018-05-16_Discussion_IssuesInAnalytics.pdf) on Bart Custers' **Discrimination, privacy and related issues in predictive big data analytics**,
+  * [Discussion ("Coreferat")](https://stdm.github.io/downloads/talks/2018-05-16_Discussion_IssuesInAnalytics.pdf) on Bart Custers' **Discrimination, privacy and related issues in predictive big data analytics**,
     Law & Robots Workshop 2018, University of Basel, Switzerland, May 16, 2018
 
   * [**Applied Data Science Research**: a ZHAW Datalab perspective on the driver of digitization](https://stdm.github.io/downloads/talks/2018-04-13_Forschung_DataScience.pdf), 
@@ -280,6 +280,10 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 <a name="press"></a>
 ## In the press 
+
+  * August 15, 2018, [SRF 10vor10](https://www.srf.ch/play/tv/10vor10/video/maschinen-unter-uns-ki-beim-bewerbungsverfahren?id=fa3bf1a4-a30d-4031-906a-33e0616626b1&startTime=6.089776&station=69e8ac16-4327-4af4-b873-fd5cd6e895a7): "'Maschinen unter uns' - KI beim Bewerbungsverfahren" (starting at min. 04:37)
+  
+    [<img alt="SRF 10vor10 @ ZHAW" src="http://stdm.github.io/images/10vor10_KI_hiring.jpg"/>](http://stdm.github.io/downloads/press/2018-08-15_10vor10.mp4)
 
   * July 06, 2018, [Netzwoche](https://www.netzwoche.ch/news/2018-06-19/europaeische-ki-forscher-schliessen-sich-zusammen): "Europäische KI-Forscher schliessen sich zusammen"
 
