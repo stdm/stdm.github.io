@@ -230,6 +230,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
     
     [<img alt="ANNPR 2018" src="http://stdm.github.io/images/annpr-2018.jpg"/>](http://clem.diism.unisi.it/~annpr2018)
 
+  * Reviewer for ICRP'2018, the [24th International Conference on Pattern Recognition](http://www.icpr2018.org/), Beijing, China, August 20-24, 2018
+
   * Co-chair & moderator, [Workshop "NLP Clinic" at SwisText 2018](https://www.swisstext.org/workshops/2018/NLP_Clinic.html), Winterthur, Switzerland, June 13, 2018
     
     [<img alt="SwissText 2018" src="http://stdm.github.io/images/swisstext-2018.jpg"/>](https://www.swisstext.org)
