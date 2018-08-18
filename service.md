@@ -74,8 +74,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
     SATW TecNight Sarnen, Kantonsschule Obwalden, Switzerland, January 23, 2018
     
 #### 2017
-  * Presentation of **Digitalisierung und Innovation ** workshop results
-    Konferenz Digitale Schweiz, Biel, Switzerland, November 20, 2017
+  * Presentation of **Digitalisierung und Innovation** workshop results
+    [Konferenz Digitale Schweiz](https://www.digitaldialog.swiss/), Biel, Switzerland, November 20, 2017
     
     [Blog post](https://www.data-service-alliance.ch/single-post/2018/01/16/Digitization-Innovation-through-cooperation-Glimpses-from-the-Digitization-Innovation-Workshop-at-%E2%80%9CKonferenz-Digitale-Schweiz%E2%80%9D)
   * [**Big Data Forschung aus der Perspektive des ZHAW Datalab**](https://stdm.github.io/downloads/talks/2017-11-17_Digitalisierung_BigData_Forschung.pdf)
