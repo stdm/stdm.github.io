@@ -17,7 +17,20 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="talks"></a>
 ## Talks 
 
+#### 2019
+  * **Wie maschinelles Lernen den Markt verändert**
+    Invited talk at Forum Christlicher Wirtschaftswissenschaftler (link to come),
+    Giessen, Germany, March 29, 2019
+
 #### 2018
+  * **Was Sie von KI erwarten können**
+    Invited talk at [Studerus Technology Forum 2018](https://www.tefo.ch/),
+    Zurich, Switzerland, November 22, 2018
+  
+  * **Lessons learned from 17 applied data science (meta) case studies**
+    Talk at the [FTAL scientific conference 2018 on Industrial Applied Data Science](http://www.ftal.net/de/scientific-conference), 
+    Lugano, Switzerland, October 18-19, 2018
+  
   * **Deep Learning in the Wild**,
     Invited talk at [**ANNPR 2018**, the 8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018), 
     Siena, Italy, September 19-21, 2018
@@ -33,6 +46,10 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * **Lessons Learned from Deep Learning in Industry**, 
     Invited talk at [3rd European COST Conference on Mathematics for Industry in Switzerland](https://www.zhaw.ch/en/engineering/institutes-centres/iamp/events/3rd-european-cost-conference-on-mathematics-for-industry-in-switzerland/),
     Winterthur, Switzerland, September 06, 2018
+    
+  * **What kind of digitalisation support can Innosuisse offer to SMEs?**,
+    Invited input talk at [Innosuisse Plnary 2018](https://www.innosuisse.ch/inno/de/home/ueber-uns/organisation/innosuisse_plenary.html), breakout session "SMEs and Digitalization",
+    CERN, Meyrin, Switzerland, August 29, 2018
 
   * [**Data Science @ ZHAW**](https://stdm.github.io/downloads/talks/2018-07-10_Data-Science-at-ZHAW.pdf), 
     Invited talk at [FHNW Institute for Data Science](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-for-data-science), 
@@ -225,6 +242,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 #### Conferences & events
   * Member of the scientific committee, [FTAL Scientific Conference on Industrial Applied Data Science](http://www.ftal.net/de/scientific-conference), Lugano, Switzerland, October 18-19, 2018
+
+  * Moderator at [Euro-CASE 2018: How AI will shape our future](https://euro-case.ch/), Rueschlikon, Switzerland, September 24, 2018
 
   * Member of program committee, [8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018/Program%20committee.html), Siena, Italy, September 19-21, 2018
     
