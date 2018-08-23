@@ -14,7 +14,8 @@ layout: default
 						{% assign published = post.date | convert: 'date' %}
 						{% assign updated = post.modified | convert: 'date' %}
 												
-						{% if post.modified %}
+						<!-- {% if post.modified %} -->
+						{% if updated > published %}
 		    			{{ post.date | date: '%B %d, %Y' }} (last modified: {{ post.modified | date: '%B %d, %Y' }})
 		    		{% else %}
 		    			{{ post.date | date: '%B %d, %Y' }}
