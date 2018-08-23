@@ -11,6 +11,9 @@ layout: default
 		    <article class="post">
 					<div class="date">
 	    			{{ post.modified | date: '%B %d, %Y' }}
+	    			{% if post.date != post.modified %}
+	    				(updated)
+	    			{% endif %}
 					</div>
 
 		      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
