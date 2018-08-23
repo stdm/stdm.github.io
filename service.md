@@ -17,7 +17,20 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="talks"></a>
 ## Talks 
 
+#### 2019
+  * **Wie maschinelles Lernen den Markt verändert**
+    Invited talk at Forum Christlicher Wirtschaftswissenschaftler (link to come),
+    Giessen, Germany, March 29, 2019
+
 #### 2018
+  * **Was Sie von KI erwarten können**
+    Invited talk at [Studerus Technology Forum 2018](https://www.tefo.ch/),
+    Zurich, Switzerland, November 22, 2018
+  
+  * **Lessons learned from 17 applied data science (meta) case studies**
+    Talk at the [FTAL scientific conference 2018 on Industrial Applied Data Science](http://www.ftal.net/de/scientific-conference), 
+    Lugano, Switzerland, October 18-19, 2018
+  
   * **Deep Learning in the Wild**,
     Invited talk at [**ANNPR 2018**, the 8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018), 
     Siena, Italy, September 19-21, 2018
@@ -33,8 +46,13 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * **Lessons Learned from Deep Learning in Industry**, 
     Invited talk at [3rd European COST Conference on Mathematics for Industry in Switzerland](https://www.zhaw.ch/en/engineering/institutes-centres/iamp/events/3rd-european-cost-conference-on-mathematics-for-industry-in-switzerland/),
     Winterthur, Switzerland, September 06, 2018
+    
+  * **What kind of digitalisation support can Innosuisse offer to SMEs?**,
+    Invited input talk at [Innosuisse Plnary 2018](https://www.innosuisse.ch/inno/de/home/ueber-uns/organisation/innosuisse_plenary.html), breakout session "SMEs and Digitalization",
+    CERN, Meyrin, Switzerland, August 29, 2018
 
-  * Invited talk at [**FHNW Institute for Data Science**](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-for-data-science), 
+  * [**Data Science @ ZHAW**](https://stdm.github.io/downloads/talks/2018-07-10_Data-Science-at-ZHAW.pdf), 
+    Invited talk at [FHNW Institute for Data Science](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-for-data-science), 
     Windisch, Switzerland, July 10, 2018
 
   * Panelist for the topic _"Künstliche Intelligenz – Wann übernehmen Maschinen in Journalismus und Organisationskommunikation?"_ 
@@ -44,7 +62,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
     Invited talk at [IDIAP Research Institute](https://www.idiap.ch/en), 
     Martigny, Switzerland, July 02, 2018
 
-  * [**Deep Learning-based Pattern Recognition in Business**]((https://stdm.github.io/downloads/talks/2018-06-29_DL-based-pattern-recognition-in-business.pdf),
+  * [**Deep Learning-based Pattern Recognition in Business**](https://stdm.github.io/downloads/talks/2018-06-29_DL-based-pattern-recognition-in-business.pdf),
     Invited talk at [Berner Architektentreffen](http://www.berner-architekten-treffen.ch), 
     Bern, Switzerland, June 29, 2018
 
@@ -53,10 +71,10 @@ Much to the suprise of my younger self, I have become a very active networker, p
     
     [<img alt="Slides" src="http://stdm.github.io/images/dl-frontlines-2018.jpg"/>](https://stdm.github.io/downloads/talks/2018-06-06_DL-report-from-the-fron-lines.pdf)
     
-  * Invited talk at [**Informatiktage 2018**](https://informatiktage.ch/), 
+  * Invited talk on explaining neural networks for a general public audience at [**Informatiktage 2018**](https://informatiktage.ch/), 
     Winterthur, Switzerland, June 01, 2018
   
-  * [Discussion ("Coreferat")](2018-05-16_Discussion_IssuesInAnalytics.pdf) on Bart Custers' **Discrimination, privacy and related issues in predictive big data analytics**,
+  * [Discussion ("Coreferat")](https://stdm.github.io/downloads/talks/2018-05-16_Discussion_IssuesInAnalytics.pdf) on Bart Custers' **Discrimination, privacy and related issues in predictive big data analytics**,
     Law & Robots Workshop 2018, University of Basel, Switzerland, May 16, 2018
 
   * [**Applied Data Science Research**: a ZHAW Datalab perspective on the driver of digitization](https://stdm.github.io/downloads/talks/2018-04-13_Forschung_DataScience.pdf), 
@@ -73,8 +91,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
     SATW TecNight Sarnen, Kantonsschule Obwalden, Switzerland, January 23, 2018
     
 #### 2017
-  * Presentation of **Digitalisierung und Innovation ** workshop results
-    Konferenz Digitale Schweiz, Biel, Switzerland, November 20, 2017
+  * Presentation of **Digitalisierung und Innovation** workshop results
+    [Konferenz Digitale Schweiz](https://www.digitaldialog.swiss/), Biel, Switzerland, November 20, 2017
     
     [Blog post](https://www.data-service-alliance.ch/single-post/2018/01/16/Digitization-Innovation-through-cooperation-Glimpses-from-the-Digitization-Innovation-Workshop-at-%E2%80%9CKonferenz-Digitale-Schweiz%E2%80%9D)
   * [**Big Data Forschung aus der Perspektive des ZHAW Datalab**](https://stdm.github.io/downloads/talks/2017-11-17_Digitalisierung_BigData_Forschung.pdf)
@@ -223,11 +241,15 @@ Much to the suprise of my younger self, I have become a very active networker, p
 &nbsp;
 
 #### Conferences & events
-	* Member of the scientific committee, [FTAL Scientific Conference on "Industrial Applied Data Science"](http://www.ftal.net/de/scientific-conference), Lugano, Switzerland, October 18-19, 2018.
+  * Member of the scientific committee, [FTAL Scientific Conference on Industrial Applied Data Science](http://www.ftal.net/de/scientific-conference), Lugano, Switzerland, October 18-19, 2018
+
+  * Moderator at [Euro-CASE 2018: How AI will shape our future](https://euro-case.ch/), Rueschlikon, Switzerland, September 24, 2018
 
   * Member of program committee, [8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018/Program%20committee.html), Siena, Italy, September 19-21, 2018
     
     [<img alt="ANNPR 2018" src="http://stdm.github.io/images/annpr-2018.jpg"/>](http://clem.diism.unisi.it/~annpr2018)
+
+  * Reviewer for ICRP'2018, the [24th International Conference on Pattern Recognition](http://www.icpr2018.org/), Beijing, China, August 20-24, 2018
 
   * Co-chair & moderator, [Workshop "NLP Clinic" at SwisText 2018](https://www.swisstext.org/workshops/2018/NLP_Clinic.html), Winterthur, Switzerland, June 13, 2018
     
@@ -279,6 +301,12 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 <a name="press"></a>
 ## In the press 
+
+  * August 15, 2018, [SRF 10vor10](https://www.srf.ch/play/tv/10vor10/video/maschinen-unter-uns-ki-beim-bewerbungsverfahren?id=fa3bf1a4-a30d-4031-906a-33e0616626b1&startTime=6.089776&station=69e8ac16-4327-4af4-b873-fd5cd6e895a7): "'Maschinen unter uns' - KI beim Bewerbungsverfahren" (starting at min. 04:37)
+  
+    [<img alt="SRF 10vor10 @ ZHAW" src="http://stdm.github.io/images/10vor10_KI_hiring.jpg"/>](http://stdm.github.io/downloads/press/2018-08-15_10vor10.avi)
+
+  * July 06, 2018, [Netzwoche](https://www.netzwoche.ch/news/2018-06-19/europaeische-ki-forscher-schliessen-sich-zusammen): "Europäische KI-Forscher schliessen sich zusammen"
 
   * May 2018, [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6408037670907367424): "A list of academic leaders in the field of Data Science in Switzerland"
     

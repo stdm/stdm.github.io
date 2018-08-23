@@ -2,12 +2,20 @@
 layout: post
 title: Lesenswert
 date: 2018-02-12
-modified: 2018-06-09
+modified: 2018-08-21
 category: society, readings
 comments: true
 ---
 
 Again, a collection of links. This time to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title).
+
+* [Fatale Fehler](https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/service/fatale-fehler) by Peter Laudenbach, Brandeins 07/2018.
+
+  Subject: Wolfgang Seibel im Interview
+  
+  Key words: regeln vs. einzelfall, berufsethos
+  
+  Abstract: Warum es gefährlich werden kann, wenn sich Behörden eher der Politik als dem Bürger verpflichtet fühlen, erklärt der Verwaltungswissenschaftler Wolfgang Seibel.
 
 * [Die Diktatur des Bauchgefühls](https://www.zeit.de/kultur/2018-06/emotionen-gefuehle-diskurs-verantwortung-10nach8) by Heike-Melba Fendel, June 08, 2018.
 

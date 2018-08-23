@@ -2,6 +2,7 @@
 layout: post
 title: On the use of examples in learning
 date: 2017-04-03
+modified: 2017-04-03
 category: education, teaching, theory vs. practice
 comments: true
 ---

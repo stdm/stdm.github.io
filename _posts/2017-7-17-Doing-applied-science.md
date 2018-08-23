@@ -2,6 +2,7 @@
 layout: post
 title: Doing applied science
 date: 2017-07-17
+modified: 2017-07-17
 category: education, mentoring, starting research
 comments: true
 ---

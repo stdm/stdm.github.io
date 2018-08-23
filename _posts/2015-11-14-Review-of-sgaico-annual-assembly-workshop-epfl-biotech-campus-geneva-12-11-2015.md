@@ -2,6 +2,7 @@
 title: 'Review of SGAICO Annual Assembly &#038; Workshop, EPFL Biotech Campus, Geneva, 12.11.2015'
 layout: post
 date: 2015-11-14
+modified: 2015-11-14
 category: conference review, ethics, SGAICO, AI, Human Brain Project, NLP
 comments: true
 ---

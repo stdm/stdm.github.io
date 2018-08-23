@@ -24,20 +24,20 @@ body {
   color: $darkGray;
 }
 
+//2-column layout
 .content {
     display: flex;
-    flex-wrap: wrap-reverse;
+    //flex-wrap: wrap-reverse;
 }
-
 .blog {
-    flex: 2 0 300px;
+    flex: 1;
     padding: 10px;
 }
-
 .twitter {
-    flex: 0 0 300px;
+    flex: 0 0 240px;
     padding: 10px;
 }
+//end 2-col
 
 .container {
   margin: 0 auto;

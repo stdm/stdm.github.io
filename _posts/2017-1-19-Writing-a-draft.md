@@ -2,6 +2,7 @@
 title: Writing a draft
 layout: post
 date: 2017-01-19
+modified: 2017-01-19
 category: education, writing
 comments: true
 ---

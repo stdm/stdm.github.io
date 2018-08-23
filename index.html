@@ -6,6 +6,8 @@ layout: default
 	<div class="blog">
 
 		<div class="posts">
+			<!-- {% assign sorted_posts = site.posts | sort: 'modified' | reverse %} -->
+
 		  {% for post in site.posts %}
 		    <article class="post">
 					<div class="date">

@@ -2,6 +2,7 @@
 title: Explanations that appeal to intuition have a big effect on learning
 layout: post
 date: 2013-07-18
+modified: 2013-07-18
 category: education, teaching
 comments: true
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: Science, applied. Die wissenschaftliche Methode im Kern des Produktentwicklungsprozesses
 date: 2018-04-06
+modified: 2018-04-06
 category: education, teaching, scientific method
 comments: true
 ---

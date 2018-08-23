@@ -18,15 +18,18 @@ My main teaching revolves around [AI](https://olat.zhaw.ch/auth/RepositoryEntry/
 
 | When | Level | Type | Title |
 | --- | --- | --- | --- |
+| Fall 2018 | BSc | PA | **Speaker Recognition & Diarization on Realistic Data** |
+| Fall 2018 | BSc | PA | **Reinforcement Learning Challenge: Compete in Automatic Game Playing for e.g. Doom or Bomberman** |
+| Fall 2018 | BSc | PA | **Machine Learning to Support Artists** |
 | Spring 2018 | BSc | BA | **Recognizing birds by voice - the BirdCLEF 2018 challenge** |
 | Spring 2018 | BSc | BA | **Speaker Diarization of Media Archives with Deep Neural Networks** |
 | Spring 2018 | BSc | BA | **PinballWizard II: Using Reinforcement Learning to Control a Pinball Automaton** |
 | Spring 2018 | BSc | BA | **Understanding Deep Neural Networks** |
 | Fall 2017 | BSc | PA | **Are final grades predictable from resume photos? Debugging deep neural networks based on a controversial claim** |
 | Fall 2017 | BSc | PA | **Deep Learning Verfahren das Malen beibringen: Optimiertes Training für GANs** |
-| Fall 2017 | BSc | PA | **Deep Learning for Speaker Clustering** |
+| Fall 2017 | BSc | PA | [**Deep Learning for Speaker Clustering**](https://github.com/stdm/ZHAW_deep_voice) |
 | Fall 2017 | BSc | PA | **Deep Learning-basierte Voice Conversion mittels problemspezifischer Loss-Funktion** |
-| Fall 2017 | MSc | MT | **Learning to Cluster** |
+| Fall 2017 | MSc | MT | [**Learning to Cluster**](https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf) |
 | Fall 2017 | MSc | MT | **Reinforcement Learning to Play 'Doom'** |
 | Spring 2017 | MSc | VT2 | **Deep Learning for End-to-End Voice Conversion - a Survey** |
 | Spring 2017 | MSc | VT1 | **Evaluating OMR Systems** |
@@ -37,7 +40,7 @@ My main teaching revolves around [AI](https://olat.zhaw.ch/auth/RepositoryEntry/
 | Fall 2016 | BSc | PA | **Deep OMR: New Ways for Optical Music Recognition** |
 | Fall 2016 | MSc | VT1 | [**Fully Convolutional Neural Networks for newspaper Article Segmentation**](https://stdm.github.io/downloads/papers/ICPR_2017.pdf) |
 | Spring 2016 | MSc | VT1 | **Reinforcement Learning for Building Control** |
-| Spring 2016 | BSc | BA | **Instrumentenerkennung in Single-Source Audio Streams** 
+| Spring 2016 | BSc | BA | **Instrumentenerkennung in Single-Source Audio Streams** |
 | Spring 2016 | BSc | BA | [ **Automatische Stimmerkennung mit Deep Learning (Neuronalen Netzen)**](https://stdm.github.io/downloads/papers/MLSP_2017.pdf) |
 | Spring 2016 | BSc | BA | **Künstliche Intelligenz für das Zahlenpuzzle 2048** |
 | Fall 2015 | BSc | PA | **Künstliche Intelligenz für 'Super Mario' durch Neuroevolution** |
@@ -65,15 +68,15 @@ My main teaching revolves around [AI](https://olat.zhaw.ch/auth/RepositoryEntry/
 
 | Tag | Name | Format | Type | Content | Did what? | When? |
 | --- | --- | --- | --- | --- | --- | --- |
-| [KI1](https://olat.zhaw.ch/auth/RepositoryEntry/219152410/CourseNode/95069693647358) | **Künstliche Intelligenz 1** | lecture & lab | final year BSc computer science elective course | practical AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017 |
+| [KI1](https://olat.zhaw.ch/auth/RepositoryEntry/219152410/CourseNode/95069693647358) | **Künstliche Intelligenz 1** | lecture & lab | final year BSc computer science elective course | practical AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017-2018 |
 | KI2 | **Künstliche Intelligenz 2** | lecture & lab | finale year BSc computer science elective course | AI applications with a focus on neural networks | responsible, co-initiate, co-create | Fall 2017 |
 | [TSM_MachLe](https://www.msengineering.ch/en/course-structure/theory-modules/tsm-modules.html) | **Machine Learning** | lecture & lab | MSc computer science & engineering elective course | mid-level course on practical machine learning with a focus on deep learning | responsible, initiate, co-create, co-teach | Spring 2017-2018 |
-| EVA MI LAB | **Machine Intelligence Lab** | MOOC, colloquia & hackathon | MSc extended advanced module (EVA) | experience an online course on an advanced machine learning topic | responsible, initiate, co-create, (co-)teach | Fall 2015-2017 |
-| EVA AI Seminar | **Artificial Intelligence Semniar** | seminar, blog posts, talk | MSc extended advanced module (EVA) | read, understand and write scientific literature | initiate, create, create, teach | Spring 2017 |
+| EVA MI LAB | **Machine Intelligence Lab** | MOOC, colloquia & hackathon | MSc extended advanced module (EVA) | experience an online course on an advanced machine learning topic | responsible, initiate, co-create, (co-)teach | Fall 2015-2018 |
+| EVA AI Seminar | **Artificial Intelligence Semniar** | seminar, blog posts, talk | MSc extended advanced module (EVA) | read, understand and write scientific literature | initiate, create, create, teach | Spring 2017-2018 |
 | ML | **Machine Learning** | lecture & lab | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Machine Intelligence](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-machine-intelligence.html) | practical machine learning for data scientists | responsible, initiate, create, teach | Fall 2015-2016, spring 2017-2018 |
 | DPD | **Data Product Design** | lecture, lab, guest appearances, video pitch | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Data Product Design](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-product-design.html) | business basics for techie data scientists | initiate, co-create, co-teach | Fall 2015-2017 |
 | Scripting | **Scripting** | lecture & lab | continuing education module in [CAS Information Engineering](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-information-engineering.html) | foundations of scripting for analytics with Python for data scientists | initiate, create, teach | Fall 2014-2015 |
-| MAS Data Science| **Master of Advanced Studies in Data Science** | continuing education program | technically oriented data science education for university alumnis | co-initiate, co-create | Spring 2014-2015 |  
+| MAS Data Science| **Master of Advanced Studies in Data Science** | on-premise multi-year programme | continuing education program | technically oriented data science education for university alumnis | co-initiate, co-create | Spring 2014-2015 |  
 | IE1 | **Information Engineering 1** | lecture & lab | last year BSc computer science elective course | introduction to information retrieval | co-teach | Fall 2015 |
 | PROG2 | **Programmieren 2** | lecture & lab | BSc computer science foundational module | advanced Java programming & tooling | co-create, teach | Spring 2014-2017 |
 | Big Data | **Big Data** | lecture & lab | continuing education module in [CAS Information Engineering](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-information-engineering.html) | foundations and tools of processing at scale for data scientists | co-teach | Spring 2015 |

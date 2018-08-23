@@ -1,6 +1,7 @@
 ---
 title: Applied Data Science - Lessons Learned for the Data-Driven Business 
 layout: page
+comments: true
 ---
 
 ### Braschler, Stadelmann, Stockinger (Eds.)
@@ -35,10 +36,11 @@ The book aims at learners and professionals in the academic and business sector:
 
 Part I introcuces the main topic: What is applied data science? What is a data product? And what traits do successful data scientists have? It then approaches important aspects of societal integration of data science, namely legal aspects as well as risks and side effects. 
 
-  * *Introduction* by Stadelmann et al.
-  * *Data Science* by Braschler et al.
-  * *Data Scientists* by Stadelmann et al.
-  * *Data Products* by Meierhofer et al.
+  * [*Preface*](https://stdm.github.io/downloads/papers/ADS_2018_Preface.pdf) by the editors
+  * [*Introduction*](https://stdm.github.io/downloads/papers/ADS_2018_Introduction.pdf) by Stadelmann et al.
+  * [*Data Science*](https://stdm.github.io/downloads/papers/ADS_2018_DataScience.pdf) by Braschler et al.
+  * [*Data Scientists*](https://stdm.github.io/downloads/papers/ADS_2018_DataScientists.pdf) by Stadelmann et al.
+  * [*Data Products*](https://stdm.github.io/downloads/papers/ADS_2018_DataProducts.pdf) by Meierhofer et al.
   * *Legal Aspects* by Hegy et al.
   * *Risks and Side Effects* by Cap
 
@@ -51,12 +53,12 @@ Part II is a curated collection of guest contributions emphasizing the "lessons 
   * *On developing Data Science* by Brodie
   * *The ethics of Big Data applications in the consumer sector* by Christen et al.
   * *Statistical Modelling* by Ruckstuhl & Dettling
-  * *Beyond ImageNet - Deep Learning in Industrial Practice* by Stadelmann et al.
+  * [*Beyond ImageNet - Deep Learning in Industrial Practice*](https://stdm.github.io/downloads/papers/ADS_2018_DeepLearning.pdf) by Stadelmann et al.
   * *The Beauty of Small Data – an Information Retrieval Perspective* by Braschler
   * *Narrative Visualization of Open Data* by Ackermann & Stockinger
   * *Security of Data Science and Data Science for Security* by Tellenbach et al.
   * *Online Anomaly Detection over Big Data Streams* by Rettig et al.
-  * *Modeling and Simulation for Complexity Management in Business Operations* by Hollenstein et al.
+  * [*Modeling and Simulation for Complexity Management in Business Operations*](https://stdm.github.io/downloads/papers/ADS_2018_Complexity.pdf) by Hollenstein et al.
   * *Data Warehousing and Exploratory Analysis for Market Monitoring* by Geiger & Stockinger
   * *Mining Human Behavior Datasets for Insight, Prediction, and Planning* by Leidig & Wolffe
   * *Economic Measures of Forecast Accuracy for Demand Planning - A Case-Based Discussion* by Ott et al.
@@ -79,7 +81,7 @@ At ZHAW, the Institute of Applied Information Technology has covered topics at t
 Prof. Dr. Martin Braschler is deputy director of the Institute of Applied Information Technology (InIT) at Zurich University of Applied Sciences and leads the Information Engineering research group. His main research interests are in the field of information retrieval (IR) evaluation, multilingual IR, and natural language processing. He is well-known in the academic community as one of the original initiators of the CLEF campaigns for IR evaluation. Drawing from a strong background in industry, Martin Braschler also has extensive experience in the transfer of IR technology to the commercial marketplace.
 
 **Thilo Stadelmann**
-Thilo Stadelmann is senior lecturer of computer science at ZHAW School of Engineering in Winterthur. He received his doctor of science degree from Marburg University in 2010, where he worked on multimedia analysis and voice recognition. Thilo joined the automotive industry for 3 years prior to switching back to academia. His current research focuses on applications of machine learning, especially deep learning, to diverse kinds of data. He is head of the ZHAW Datalab and vice president of SGAICO, the Swiss Group for Artificial Intelligence and Cognitive Sciences.
+Prof. Dr. Thilo Stadelmann is professor of computer science at ZHAW School of Engineering in Winterthur. He received his doctor of science degree from Marburg University in 2010, where he worked on multimedia analysis and voice recognition. Thilo joined the automotive industry for 3 years prior to switching back to academia. His current research focuses on applications of machine learning, especially deep learning, to diverse kinds of data. He is head of the ZHAW Datalab and vice president of SGAICO, the Swiss Group for Artificial Intelligence and Cognitive Sciences.
 
 **Kurt Stockinger**
 Prof. Dr. Kurt Stockinger is a Professor of Computer Science and Director of Studies in Data Science at Zurich University of Applied Sciences. His research focuses on Data Science, i.e. Big Data, data warehousing, business intelligences and advanced analytics. He is also on the Advisory Board of Callista Group AG. Previously Kurt Stockinger worked at Credit Suisse in Zurich, at Lawrence Berkeley National Laboratory in Berkeley, California, as well as at CERN in Geneva. He holds a Ph.D. in computer science from CERN / University of Vienna.
