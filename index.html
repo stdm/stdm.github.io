@@ -9,6 +9,9 @@ layout: default
 		  {% for post in site.posts %}
 		    <article class="post">
 					<div class="date">
+						{% assign published = post.date | convert: 'date' %}
+						{% assign updated = post.modified | convert: 'date' %}
+												
 						{% if post.modified %}
 		    			{{ post.date | date: '%B %d, %Y' }} (last modified: {{ post.modified | date: '%B %d, %Y' }})
 		    		{% else %}
