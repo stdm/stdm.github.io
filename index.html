@@ -6,11 +6,16 @@ layout: default
 	<div class="blog">
 
 		<div class="posts">
+			{% assign sorted_posts = site.posts | sort: "modified" | reverse %}
 		  {% for post in site.posts %}
 		    <article class="post">
 					<div class="date">
 						{% if post.modified %}
-		    			{{ post.date | date: '%B %d, %Y' }} (last modified: {{ post.modified | date: '%B %d, %Y' }})
+							{% if post.modified > post.date %}
+			    			{{ post.date | date: '%B %d, %Y' }} (last modified: {{ post.modified | date: '%B %d, %Y' }})
+			    		{% else %}
+			    		  {{ post.date | date: '%B %d, %Y' }}
+			    		{% endif%}
 		    		{% else %}
 		    			{{ post.date | date: '%B %d, %Y' }}
 						{% endif %}
