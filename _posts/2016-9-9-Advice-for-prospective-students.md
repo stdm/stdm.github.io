@@ -2,14 +2,14 @@
 title: Advice for (prospective) students
 layout: post
 date: 2016-09-09
-modified: 2018-05-19
+modified: 2018-08-23
 category: education, research, mentoring, writing
 comments: true
 ---
 
 Dear (prospective) ZHAW student, a very warm welcome to academia! You may just have entered the bachelor's programme or "Fachstudium", or you are already a mature engineer, ready to start your master's or PhD studies - chances are you haven't been exposed much yet to our setting of learning within an applied research and development context.
 
-This blog post is meant to point you to a few resources helpful in
+This blog post is meant to point you to a few (regularly updated) resources helpful in
 
   * shaping your mindset as being rooted in research and geared towards applications
   * giving you advice on how to aproach thesis work and writing in general
@@ -34,6 +34,3 @@ Related, here are a couple of links to blog posts of myself that pertain to succ
   * [Career planning](../Career-planning) on how to not stop short in your career in order to make the most of your potential.
   * [Doing applied science](../Doing-applied-science) on what it means to do applied research, and an how to pick / limit down your research problem ("Forschungsfrage") for e.g. your thesis project.
   * [Science, applied](../Science-applied) (in German) on my concept of teaching the scientific method as the basis for good (machine learning) engineering and product development.
-  
-  
-(Original post from September 09, 2016; extended March 16, 2018; Mai 03, 2018; May 19, 2018)

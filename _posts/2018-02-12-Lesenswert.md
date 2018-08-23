@@ -7,7 +7,7 @@ category: society, readings
 comments: true
 ---
 
-Again, a collection of links. This time to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title).
+Again, a (regularly updated) collection of links. This time to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title).
 
 * [Fatale Fehler](https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/service/fatale-fehler) by Peter Laudenbach, Brandeins 07/2018.
 
