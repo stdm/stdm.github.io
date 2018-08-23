@@ -10,11 +10,7 @@ layout: default
 		  {% for post in sorted_posts %}
 		    <article class="post">
 					<div class="date">
-						{% if post.modified != post.date %}
-		    			{{ post.date | date: '%B %d, %Y' }} (last modified: {{ post.modified | date: '%B %d, %Y' }})
-		    		{% else %}
-		    			{{ post.date | date: '%B %d, %Y' }}
-						{% endif %}
+	    			{{ post.modified | date: '%B %d, %Y' }}
 					</div>
 
 		      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
