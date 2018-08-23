@@ -12,8 +12,8 @@ layout: default
 		    <article class="post">
 					<div class="date">
 						{% assign published = post.date | convert: "date" %}
-						{% assign modified = post.modified | convert: "date" %}
-						{% if modified > published %}
+						{% assign updated = post.modified | convert: "date" %}
+						{% if updated > published %}
 		    			{{ post.date | date: '%B %d, %Y' }} (last modified: {{ post.modified | date: '%B %d, %Y' }})
 		    		{% else %}
 		    			{{ post.date | date: '%B %d, %Y' }}
