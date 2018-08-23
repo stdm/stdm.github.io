@@ -2,6 +2,7 @@
 title: 'The role of novel ideas in neural network research &#038; applications'
 layout: post
 date: 2016-12-14
+modified: 2016-12-14
 category: research, reasons for the rise of deep learning
 comments: true
 ---

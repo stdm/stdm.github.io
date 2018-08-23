@@ -2,6 +2,7 @@
 title: 'The origin of the term &#8220;Big Data&#8221;'
 layout: post
 date: 2014-05-05
+modified: 2014-05-05
 category: thoughts, philosophy
 comments: true
 ---

@@ -2,6 +2,7 @@
 title: Getting to know oneself
 layout: post
 date: 2016-12-20
+modified: 2016-12-20
 category: education, mentoring, personality check, phsychological tests
 comments: true
 ---

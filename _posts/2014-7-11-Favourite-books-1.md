@@ -2,6 +2,7 @@
 title: Favourite Books (1)
 layout: post
 date: 2014-07-11
+modified: 2014-07-11
 category: education, readings, mentoring
 comments: true
 ---

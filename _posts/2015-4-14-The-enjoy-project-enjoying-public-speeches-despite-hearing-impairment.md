@@ -2,6 +2,7 @@
 title: 'The ENJOY Project: Enjoying Public Speeches despite Hearing Impairment'
 layout: post
 date: 2015-04-14
+modified: 2015-04-14
 category: research, ethics
 comments: true
 ---

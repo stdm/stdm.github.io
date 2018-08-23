@@ -2,6 +2,7 @@
 title: The ups and downs of Neural Networks
 layout: post
 date: 2015-04-09
+modified: 2015-04-09
 category: research, readings, neural network history
 comments: true
 ---

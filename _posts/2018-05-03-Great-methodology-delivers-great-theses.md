@@ -2,6 +2,7 @@
 title: Great methodology delivers great theses
 layout: post
 date: 2018-05-03
+modified: 2018-05-03
 category: education, doing research, mentoring
 comments: true
 ---

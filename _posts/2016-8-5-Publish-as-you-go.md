@@ -2,6 +2,7 @@
 title: 'Release your thoughts: publish as you go'
 layout: post
 date: 2016-08-05
+modified: 2016-08-05
 category: education, research, mentoring, writing
 comments: true
 ---

@@ -2,6 +2,7 @@
 title: When to publish one's work
 layout: post
 date: 2018-05-18
+modified: 2018-05-18
 category: education, writing, mentoring
 comments: true
 ---

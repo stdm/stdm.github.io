@@ -2,6 +2,7 @@
 title: Things a computer scientist rarely talks about
 layout: post
 date: 2014-08-04
+modified: 2014-08-04
 category: readings, faith, computer science
 comments: true
 ---

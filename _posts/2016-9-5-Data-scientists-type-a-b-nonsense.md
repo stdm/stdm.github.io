@@ -2,6 +2,7 @@
 title: 'Data scientists type A &#038; B? Nonsense.'
 layout: post
 date: 2016-09-05
+modified: 2016-09-05
 category: opinion, data science
 comments: true
 ---
