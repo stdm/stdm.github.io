@@ -1,8 +1,8 @@
 ---
-title: 'Some places to start learning AI, ML & data science'
+title: 'Some places to start learning AI & ML'
 layout: post
 date: 2016-06-22
-modified: 2018-08-23
+modified: 2018-08-24
 category: education, research, mentoring, MOOCs, ML, RL, CNNs, RNNs
 comments: true
 ---
