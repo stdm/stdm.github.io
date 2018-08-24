@@ -10,7 +10,6 @@ layout: default
 		  {% for post in sorted_posts %}
 		    <article class="post">
 					<div class="date">
-	    			{{ post.modified | date: '%B %d, %Y' }}
 	    			{% assign date_modified = post.modified | date: '%B %d, %Y' %}
 	    			{% assign date_created = post.date | date: '%B %d, %Y' %}
 	    			{% if date_modified != date_created %}
