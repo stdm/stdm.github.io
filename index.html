@@ -13,8 +13,7 @@ layout: default
 	    			{{ post.modified | date: '%B %d, %Y' }}
 	    			{% assign date_new = post.modified | date: '%B %d, %Y' %}
 	    			{% assign date_old = post.date | date: '%B %d, %Y' %}
-	    			({{ date_new }}, {{ date_old }})
-	    			{% if post.date != post.modified %}
+	    			{% if date_new != date_old %}
 	    				(updated)
 	    			{% endif %}
 					</div>
