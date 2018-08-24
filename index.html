@@ -11,8 +11,8 @@ layout: default
 		    <article class="post">
 					<div class="date">
 	    			{{ post.modified | date: '%B %d, %Y' }}
-	    			{% assign date_new = post.modified %}
-	    			{% assign date_old = post.date %}
+	    			{% assign date_new = post.modified | date: '%B %d, %Y' %}
+	    			{% assign date_old = post.date | date: '%B %d, %Y' %}
 	    			({{ date_new }}, {{ date_old }})
 	    			{% if post.date != post.modified %}
 	    				(updated)
