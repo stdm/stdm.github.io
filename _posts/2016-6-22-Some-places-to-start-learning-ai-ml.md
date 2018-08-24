@@ -1,5 +1,5 @@
 ---
-title: 'Some places to start learning AI, ML & data science (continually expanded)'
+title: 'Some places to start learning AI, ML & data science'
 layout: post
 date: 2016-06-22
 modified: 2018-08-23
