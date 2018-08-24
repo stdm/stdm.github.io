@@ -11,6 +11,8 @@ layout: default
 		    <article class="post">
 					<div class="date">
 	    			{{ post.modified | date: '%B %d, %Y' }}
+	    			{% assign date_new = post.modified %}
+	    			{{ date_new }}
 	    			{% if post.date != post.modified %}
 	    				(updated)
 	    			{% endif %}
