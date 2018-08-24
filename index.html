@@ -11,10 +11,12 @@ layout: default
 		    <article class="post">
 					<div class="date">
 	    			{{ post.modified | date: '%B %d, %Y' }}
-	    			{% assign date_new = post.modified | date: '%B %d, %Y' %}
-	    			{% assign date_old = post.date | date: '%B %d, %Y' %}
-	    			{% if date_new != date_old %}
-	    				(updated)
+	    			{% assign date_modified = post.modified | date: '%B %d, %Y' %}
+	    			{% assign date_created = post.date | date: '%B %d, %Y' %}
+	    			{% if date_modified != date_created %}
+	    			  Updated {{ date_modified }} (created: {{ date_created }})
+	    			{% else %}
+	    				Created {{ date_created }}
 	    			{% endif %}
 					</div>
 
