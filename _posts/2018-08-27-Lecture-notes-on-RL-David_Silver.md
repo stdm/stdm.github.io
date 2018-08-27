@@ -48,7 +48,7 @@ Slide numbers refer to the [downloadbale slides](http://www0.cs.ucl.ac.uk/staff/
     * It is a MP with value judgments (how good it is to be in a state): [S, P, R, gamma] with reward function R (immediate reward for being in a state) and discount factor
     * In RL, we actually care about the total (cumulated, discounted) reward, called the return (or goal) G
     * gamma is to quantify the present value of future rewards (i.e., because of uncertainty: now they are not yet fully sure, also because our model not being perfect; also because it is just mathematically convenient to do so)
-    * Value function: the long-term value of being in a state (the thing we care about in RL) V(s)=E[G_t|S_t=s] (expectation because we are not talking here about one concrete sample from the MRP, but about the stochastic process as a whole, i.e. the average over all possible episodes from s to the end)
+    * Value function: the long-term value of being in a state (the thing we care about in RL) V(s)=E[G_t¦S_t=s] (expectation because we are not talking here about one concrete sample from the MRP, but about the stochastic process as a whole, i.e. the average over all possible episodes from s to the end)
     * Great example -> slide 17
     * Bellman equation for MRPs: to break up the value function into two parts: immediate reward R_{t+1} and discounted future reward gamma*v(S_{t+1})
     * The Bellman euqation is not just for estimating the value function; it is an identity: every proper value function has to obey this decompositon into immediate reward and discounted averaged one-step look-ahead
@@ -62,8 +62,8 @@ Slide numbers refer to the [downloadbale slides](http://www0.cs.ucl.ac.uk/staff/
     * Bellman equations can be constructed exactly the same way as above for v_{pi} and q_{pi}: immediate reward plus particular value function of where you end up
     * Bellman euqations for both need a 2-step lookahead: over the (stochastic) policy, and over the (stochastic) dynamics of the environment
   * What we really care about: finding the best behaviour in an MDP
-    * the optimal value function is the maximum v/q over all pi
-    * when you know q*, you are done: you have everything to behave optimally within your MDP -> the optimal policy follows directly from it
+    * The optimal value function is the maximum v/q over all pi
+    * When you know q*, you are done: you have everything to behave optimally within your MDP -> the optimal policy follows directly from it
     * There is always at least one deterministic optimal policy (greater or equal value v(s) for each s, compared to all other policies) -> we don't need combinations of policies for doing well on different parts of the MDP
     * How arrive at q*? Take Bellman equation for q and "work backwards" from terminal state
     * (before we looked at Bellman expectation equations; what now follows are the Bellman optimality equations, or just "Bellman equations" in the literature)
@@ -75,35 +75,35 @@ Slide numbers refer to the [downloadbale slides](http://www0.cs.ucl.ac.uk/staff/
 ## Lecture 3: Planning by Dynamic Programming
 
   * Dynamic programming:
-    * dynamic (it is about a sequence/temporal problem), programming (about optimizing a program/policy)
-    * method: solve complex problems by divide&conquer
-    * works if subproblems come up again and again, and their solution tells us something about the optimal overall solution (MDPs satisfy both properties, see Bellman equation [decomposition] and value function [cache for recurring solutions])
+    * Dynamic (it is about a sequence/temporal problem), programming (about optimizing a program/policy)
+    * Method: solve complex problems by divide&conquer
+    * Works if subproblems come up again and again, and their solution tells us something about the optimal overall solution (MDPs satisfy both properties, see Bellman equation [decomposition] and value function [cache for recurring solutions])
   * Planning: 
-    * prediction: not the full RL problem, but when we are given the full reward function + dynamics of system + policy -> output is the corresponding value function
-    * control: no policy given -> output is optimal value function
-    * we care about control, so we use prediction as an inner loop to solve control
+    * Prediction: not the full RL problem, but when we are given the full reward function + dynamics of system + policy -> output is the corresponding value function
+    * Control: no policy given -> output is optimal value function
+    * We care about control, so we use prediction as an inner loop to solve control
   * Policy evaluation: if I am given a policy, how good is it?
-    * each iteration (synchronous update): update every state (we know the dynamics, it is planning!) in the value function using the Bellman expectation equation and the lookahead (just one step, not recursively!)
-    * good example on slide 9/10: the value function helps us finding better policies (e.g., greedy according to the value function), even if it is created using a different policy (e.g., random)
+    * Each iteration (synchronous update): update every state (we know the dynamics, it is planning!) in the value function using the Bellman expectation equation and the lookahead (just one step, not recursively!)
+    * Good example on slide 9/10: the value function helps us finding better policies (e.g., greedy according to the value function), even if it is created using a different policy (e.g., random)
   * Policy iteration: improve a given policy to get the best one
-    * how to improve a policy: 2 steps (a little related to EM)
-      * evaluate the policy (i.e., compute its value function)
-      * act greedily w.r.t. the computed value function
+    * How to improve a policy: 2 steps (a little related to EM)
+      * Evaluate the policy (i.e., compute its value function)
+      * Act greedily w.r.t. the computed value function
       * => will always converge to optimal policy (after usually many iterations)
-    * this works, because acting greedily for one step using the current q is at least as good (or better) than just following the current policy immediately -> see slide 19
-    * if it is only equally good, the current policy is already optimal
-    * acting greedily doesn't mean to greedily look for instantaneous rewards: we only (greedily) take the best current action and then look at the value function, which sums up all expected future rewards
-    * policy evaluation has not to be done until convergence -> a few steps suffice to arrive at an estimate that will improve the policy in the next policy improvement step (if k=1, this is just called "value iteration" or "modified policy iteration")
+    * This works, because acting greedily for one step using the current q is at least as good (or better) than just following the current policy immediately -> see slide 19
+    * If it is only equally good, the current policy is already optimal
+    * Acting greedily doesn't mean to greedily look for instantaneous rewards: we only (greedily) take the best current action and then look at the value function, which sums up all expected future rewards
+    * Policy evaluation has not to be done until convergence -> a few steps suffice to arrive at an estimate that will improve the policy in the next policy improvement step (if k=1, this is just called "value iteration" or "modified policy iteration")
   * Value iteration (i.e., policy iteration with early stopping [just one iteration] on policy evaluation)
-    * this uses the Bellman optimality equation
-    * intuition: think you have been told the optimal value of the states next to the goal state, and you are figuring out the other states' values from there on backwards
-    * no explicit policy (intermediate value functions might not be achievable by any real policy, only in the end the policy will be optimal)
+    * This uses the Bellman optimality equation
+    * Intuition: think you have been told the optimal value of the states next to the goal state, and you are figuring out the other states' values from there on backwards
+    * No explicit policy (intermediate value functions might not be achievable by any real policy, only in the end the policy will be optimal)
     * Summary so far: -> slide 30 (using v instead of q so far is less complex, but only possible because we know the dynamics [it is still planning]; and doing value iteration is a simplification of policy iteration)
   * Extensions to make DP more practical
-    * asynchronous backup: in each iteration, update just one state (saves computation and works as long as all states are still selected for update [in any order])
-    * prioritised sweeping: in which order to update states? those first that change their value the most (as it has largest influence on result)
-    * real-time DP: update only those states that a real agent using the current policy visits
-    * biggest problem with DP are the full-width backups (consider all possible next actions and states) -> use sampling instead
+    * Asynchronous backup: in each iteration, update just one state (saves computation and works as long as all states are still selected for update [in any order])
+    * Prioritised sweeping: in which order to update states? those first that change their value the most (as it has largest influence on result)
+    * Real-time DP: update only those states that a real agent using the current policy visits
+    * Biggest problem with DP are the full-width backups (consider all possible next actions and states) -> use sampling instead
   
   
 ## Lecture 4: Model-Free Prediction
@@ -112,9 +112,9 @@ Slide numbers refer to the [downloadbale slides](http://www0.cs.ucl.ac.uk/staff/
     * Last lecture was estimating/optimizing the value function of a known MDP; now we estimate for an unknown MDP (no dynamics / reward function given) -> from interaction (with environment) to value function
     * Planning is model-based (dynamics given), RL is model-free (no one tells); prediction is evaluating a known policy, control is finding new policy  
   * Monte-Carlo Learning
-    * learn directly from complete episodes (i.e., update every state after the end of an episode)
-    * basic idea: replace the expectation in v_{pi}(s)=E_{pi}[G_t|S_t=s] with the empirical mean
-    * problem: how to deal with getting into a state we already have been in, again (to create several values to average over), and how to visit all states just from trajectories -> by following policy pi
+    * Learn directly from complete episodes (i.e., update every state after the end of an episode)
+    * Basic idea: replace the expectation in v_{pi}(s)=E_{pi}[G_t¦S_t=s] with the empirical mean
+    * Problem: how to deal with getting into a state we already have been in, again (to create several values to average over), and how to visit all states just from trajectories -> by following policy pi
     * Blackjack example: only consider states with an interesting decision to make (i.e., do not learn actions for the sum of cards below 12, as you would always twist then as no risk is attached to it)
     * Slide 11: axes of value function diagrams are two of the three values in the state; the third (usable ace) is displayed by the 2 rows of figures
   * TD Learning
@@ -123,9 +123,9 @@ Slide numbers refer to the [downloadbale slides](http://www0.cs.ucl.ac.uk/staff/
     * MC converges to minimum MSE between estimated v and return; TD(0) converges to solution of maximum likelihood MDP that best fits the observed episodes (implicitly)
     * TD(0) exploits the Markov property, thus it is more efficient in Markov environments (otherwise MC is more efficient)
   * TD(lambda): unification of Monte-Carlo and TD
-    * we can map all of RL on two axes: whether the algorithm does full backups vs. samples (i.e. averages over all possible actions/successor states [e.g., dynamic programming, exhaustive search]), or just uses samples (e.g., TD(0), MC), and whether backups are shallow (i.e., 1-step lookahead [e.g., TD(0)]) or deep (full trajectories [e.g., MC]) -> see Fig. 3 in [survey paper](https://ieeexplore.ieee.org/document/8103164/) by Arulkumaran et al., 2017
+    * We can map all of RL on two axes: whether the algorithm does full backups vs. samples (i.e. averages over all possible actions/successor states [e.g., dynamic programming, exhaustive search]), or just uses samples (e.g., TD(0), MC), and whether backups are shallow (i.e., 1-step lookahead [e.g., TD(0)]) or deep (full trajectories [e.g., MC]) -> see Fig. 3 in [survey paper](https://ieeexplore.ieee.org/document/8103164/) by Arulkumaran et al., 2017
     * lambda enables us to target the continuum on the "shallow/deep backups" axis
-    * the optimal lookahead depends on the problem, which is dissatisfactory; thus, the lambda-return averages all n-step returns, weighted by look-ahead (more look-ahead, less weight) -> slide 39
+    * The optimal lookahead depends on the problem, which is dissatisfactory; thus, the lambda-return averages all n-step returns, weighted by look-ahead (more look-ahead, less weight) -> slide 39
     * TD(lambda) comes at the same computational cost as TD(0), thanks to the (memoryless) geometric weighting
 
 
@@ -148,17 +148,17 @@ Slide numbers refer to the [downloadbale slides](http://www0.cs.ucl.ac.uk/staff/
 
 ## Lecture 6: Value Function Approximation
 
-  * it is not supervised learning: iid training methods usually don't work well because of the correlation in the samples of the same trajectory
-  * incremental prediction methods: do everything online, after each step in the environment (no collection of a larger "data set")
-    * how "close" to optimum TD(0) with linear value function approximation converges depends on things like the discount factor -> slide 18
-    * in TD we are always pushing things to "later" because we trust in our estimate of later return
-  * incremental control methods: never converge to true q*, usually oscillate around it but come close
-    * in continuous control, you ofton don't need to account for the differnces between maximum and minimum (say) acceleration -> so it becomes discrete again
-    * bootstrapping (using lambda>0 in TD(lambda)) usually helps, need to find a sweet spot (lambda=1 usually is very bad) 
+  * It is not supervised learning: iid training methods usually don't work well because of the correlation in the samples of the same trajectory
+  * Incremental prediction methods: do everything online, after each step in the environment (no collection of a larger "data set")
+    * How "close" to optimum TD(0) with linear value function approximation converges depends on things like the discount factor -> slide 18
+    * In TD we are always pushing things to "later" because we trust in our estimate of later return
+  * Incremental control methods: never converge to true q*, usually oscillate around it but come close
+    * In continuous control, you ofton don't need to account for the differnces between maximum and minimum (say) acceleration -> so it becomes discrete again
+    * Bootstrapping (using lambda>0 in TD(lambda)) usually helps, need to find a sweet spot (lambda=1 usually is very bad) 
     * TD is not stable per se (isn't guaranteed to converge) -> slide 30 shows when it is safe to use (for prediction), even when it practice it often works well
-    * for control, we basically have no guarantee that we will make progress (best case that it oscillates around the true q*)
-  * batch methods: gradient-based methods are not sample-efficient (don't make best use of the data because of mini steps); gradient methods want to find best fit to all of the data
-    * experience replay is an easy way to converge to the least squares solution over the complete data set of experience (that we didn't have in the online case considered above)
+    * For control, we basically have no guarantee that we will make progress (best case that it oscillates around the true q*)
+  * Batch methods: gradient-based methods are not sample-efficient (don't make best use of the data because of mini steps); gradient methods want to find best fit to all of the data
+    * Experience replay is an easy way to converge to the least squares solution over the complete data set of experience (that we didn't have in the online case considered above)
     * DQN is off-policy TD learning with non-linear function approximation -> it is anyhow stable because of experience replay and fixed (instead of non-stable, because of coming from a changing Q network) Q updates (by means of a fixed, saved few-thousand steps [hyperparameter!] older version of our Q network to which we bootstrap) that together hinder the convergence to diverge ("spiral out of control")
 
 
@@ -169,8 +169,8 @@ Slide numbers refer to the [downloadbale slides](http://www0.cs.ucl.ac.uk/staff/
     * Policy-based methods tend to be more stable (better convergence properties) and are especially good in continious or high-dimensional action spaces (because of the max() over actions in value-based methods like Q-learning or SARSA)
     * Policy-based methods can learn a stochastic policy, that can find the goal much quicker if there is doubt (aliasing) about the state of the world (i.e., partial observability) -> slide 9
   * Monte-Carlo policy gradient
-    * the score function is a very familiar term from ML (maximum likelihood) and tells you in which direction to go to get "more" of something -> slide 16
-    * the whole point of the likelihood ratio trick is to get an expectation again for the gradient -> slide 19
+    * The score function is a very familiar term from ML (maximum likelihood) and tells you in which direction to go to get "more" of something -> slide 16
+    * The whole point of the likelihood ratio trick is to get an expectation again for the gradient -> slide 19
     * REINFORCE is the most straightforward approach to policy gradient
     * MC policy gradient methods have nice learning curves but are very slow (very high variance because we plug in samples of the return [that vary a lot]) -> slide 22
   * Actor Critic methods: bring in a critic (estimate of value function) again to retain nice stability properties of policy gradient methods while reducing variance
@@ -241,6 +241,6 @@ Slide numbers refer to the [downloadbale slides](http://www0.cs.ucl.ac.uk/staff/
   * RL in imperfect information games:
     * Naively applying MCTS/UCT etc. (that are so effective in fully observable gams like Go) to games of imperfect information usually "blows up"/diverges
     * Need a search tree per player built by smooth-UCT search (that remembers the average policy of the opponent by counting avery action they ever played during self-play)
-  * Games & RL: recipe:
+  * Games & RL - a recipe:
     * v: often binary linear, in future more NN
     * RL: TD(lambda) with self-play and search (crucial, for tactics)
