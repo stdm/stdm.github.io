@@ -9,6 +9,8 @@ comments: true
 
 I recently took David Silver's online class on reinforcement learning ([syllabus & slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) and [video lectures](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)) to get a more solid understanding of his work at DeepMind on AlphaZero ([paper](https://arxiv.org/abs/1712.01815) and more explanatory [blog post](https://web.stanford.edu/~surag/posts/alphazero.html)) etc. I enjoyed it as a very accessible yet practical introduction to RL. Here are the notes I took during the class.
 
+![David Silver in action](http://stdm.github.io/images/david-silver-rl.jpg)
+
 Slide numbers refer to the [downloadbale slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) (might differ slightly from those in the videos), and therein to the page number in parantheses (like e.g. "15" for "[15 of 47]").
 
 
@@ -48,7 +50,7 @@ Slide numbers refer to the [downloadbale slides](http://www0.cs.ucl.ac.uk/staff/
     * It is a MP with value judgments (how good it is to be in a state): [S, P, R, gamma] with reward function R (immediate reward for being in a state) and discount factor
     * In RL, we actually care about the total (cumulated, discounted) reward, called the return (or goal) G
     * gamma is to quantify the present value of future rewards (i.e., because of uncertainty: now they are not yet fully sure, also because our model not being perfect; also because it is just mathematically convenient to do so)
-    * Value function: the long-term value of being in a state (the thing we care about in RL) V(s)=E[G_t¦S_t=s] (expectation because we are not talking here about one concrete sample from the MRP, but about the stochastic process as a whole, i.e. the average over all possible episodes from s to the end)
+    * Value function: the long-term value of being in a state (the thing we care about in RL) V(s)=E[G_t\|S_t=s] (expectation because we are not talking here about one concrete sample from the MRP, but about the stochastic process as a whole, i.e. the average over all possible episodes from s to the end)
     * Great example -> slide 17
     * Bellman equation for MRPs: to break up the value function into two parts: immediate reward R_{t+1} and discounted future reward gamma*v(S_{t+1})
     * The Bellman euqation is not just for estimating the value function; it is an identity: every proper value function has to obey this decompositon into immediate reward and discounted averaged one-step look-ahead
@@ -113,7 +115,7 @@ Slide numbers refer to the [downloadbale slides](http://www0.cs.ucl.ac.uk/staff/
     * Planning is model-based (dynamics given), RL is model-free (no one tells); prediction is evaluating a known policy, control is finding new policy  
   * Monte-Carlo Learning
     * Learn directly from complete episodes (i.e., update every state after the end of an episode)
-    * Basic idea: replace the expectation in v_{pi}(s)=E_{pi}[G_t¦S_t=s] with the empirical mean
+    * Basic idea: replace the expectation in v_{pi}(s)=E_{pi}[G_t\|S_t=s] with the empirical mean
     * Problem: how to deal with getting into a state we already have been in, again (to create several values to average over), and how to visit all states just from trajectories -> by following policy pi
     * Blackjack example: only consider states with an interesting decision to make (i.e., do not learn actions for the sum of cards below 12, as you would always twist then as no risk is attached to it)
     * Slide 11: axes of value function diagrams are two of the three values in the state; the third (usable ace) is displayed by the 2 rows of figures
