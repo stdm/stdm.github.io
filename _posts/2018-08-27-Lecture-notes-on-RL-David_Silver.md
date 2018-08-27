@@ -1,5 +1,5 @@
 ---
-title: "Lecture notes on Reinforcement Learning (David Silver's course at UCL 2015)"
+title: 'Lecture notes on Reinforcement Learning'
 layout: post
 date: 2018-08-27
 modified: 2018-08-27
