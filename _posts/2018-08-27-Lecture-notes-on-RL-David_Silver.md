@@ -7,9 +7,9 @@ category: education, MOOCs, reinforcement learing, RL, MCTS, AlphaZero
 comments: true
 ---
 
-I recently took David Silver's online class on reinforcement learning ([syllabus & slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) and [video lectures](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)) to get a more solid understanding of his work at DeepMind on AlphaZero ([paper](https://arxiv.org/abs/1712.01815) and more explanatory [blog post](https://web.stanford.edu/~surag/posts/alphazero.html)) etc. I enjoyed it as a very accessible yet practical introduction to RL. Here are the notes I took during the class.
-
 ![David Silver in action](http://stdm.github.io/images/david-silver-rl.jpg)
+
+I recently took David Silver's online class on reinforcement learning ([syllabus & slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) and [video lectures](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)) to get a more solid understanding of his work at DeepMind on AlphaZero ([paper](https://arxiv.org/abs/1712.01815) and more explanatory [blog post](https://web.stanford.edu/~surag/posts/alphazero.html)) etc. I enjoyed it as a very accessible yet practical introduction to RL. Here are the notes I took during the class.
 
 Slide numbers refer to the [downloadbale slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) (might differ slightly from those in the videos), and therein to the page number in parantheses (like e.g. "15" for "[15 of 47]").
 
