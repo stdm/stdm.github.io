@@ -39,10 +39,6 @@ Much to the suprise of my younger self, I have become a very active networker, p
     Invited talk at [**ANNPR 2018**, the 8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018), 
     Siena, Italy, September 19-21, 2018
     
-  * **Learning Neural Models for End-to-End Clustering**,
-    Paper presentation at [**ANNPR 2018**, the 8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018), 
-    Siena, Italy, September 19-21, 2018
-    
   * **Capturing Suprasegmental Features of a Voice with RNNs for Improved Speaker Clustering**,
     Paper presentation at [**ANNPR 2018**, the 8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018), 
     Siena, Italy, September 19-21, 2018
