@@ -48,7 +48,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
     Winterthur, Switzerland, September 06, 2018
     
   * [**What kind of digitalisation support can Innosuisse offer to SMEs?**](https://stdm.github.io/downloads/talks/2018-08-29_SMEs_Digitalization.pdf),
-    Invited input talk at [Innosuisse Plnary 2018](https://www.innosuisse.ch/inno/de/home/ueber-uns/organisation/innosuisse_plenary.html), breakout session "SMEs and Digitalization",
+    Invited input talk at [Innosuisse Plenary 2018](https://www.innosuisse.ch/inno/de/home/ueber-uns/organisation/innosuisse_plenary.html), breakout session "SMEs and Digitalization",
     CERN, Meyrin, Switzerland, August 29, 2018
 
     [<img alt="Video" src="http://stdm.github.io/images/innosuisse-plenary-2018.jpg"/>](https://youtu.be/SQRVSB6Rpsk)
