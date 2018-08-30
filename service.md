@@ -21,6 +21,10 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * **Wie maschinelles Lernen den Markt verändert**
     Invited talk at Forum Christlicher Wirtschaftswissenschaftler (link to come),
     Giessen, Germany, March 29, 2019
+  
+  * **Industrielle Anwendungsmöglichkeiten für Deep Learning-basierte Künstliche Intelligenz**
+    Invited talk at [Endress+Hauser](https://www.de.endress.com/en) Technologieforum on "Künstliche Intelligenz",
+    Sternenhof, Reinach, Switzerland, February 01, 2019
 
 #### 2018
   * **Was Sie von KI erwarten können**
