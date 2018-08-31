@@ -19,7 +19,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 #### 2019
   * **Wie maschinelles Lernen den Markt verändert**
-    Invited talk at Forum Christlicher Wirtschaftswissenschaftler (link to come),
+    Invited talk at [Forum Christlicher Wirtschaftswissenschaftler](https://www.ethikinstitut.de/index.php?id=266),
     Giessen, Germany, March 29, 2019
   
   * **Industrielle Anwendungsmöglichkeiten für Deep Learning-basierte Künstliche Intelligenz**
