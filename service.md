@@ -47,7 +47,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
     Paper presentation at [**ANNPR 2018**, the 8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018), 
     Siena, Italy, September 19-21, 2018
     
-  * **Lessons Learned from Deep Learning in Industry**, 
+  * [**Lessons Learned from Deep Learning in Industry**](https://stdm.github.io/downloads/talks/2018-09-06_Lessons-learned-DL-in-industry.pdf),
     Invited talk at [3rd European COST Conference on Mathematics for Industry in Switzerland](https://www.zhaw.ch/en/engineering/institutes-centres/iamp/events/3rd-european-cost-conference-on-mathematics-for-industry-in-switzerland/),
     Winterthur, Switzerland, September 06, 2018
     
