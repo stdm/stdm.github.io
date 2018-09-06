@@ -51,6 +51,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
     Invited talk at [3rd European COST Conference on Mathematics for Industry in Switzerland](https://www.zhaw.ch/en/engineering/institutes-centres/iamp/events/3rd-european-cost-conference-on-mathematics-for-industry-in-switzerland/),
     Winterthur, Switzerland, September 06, 2018
     
+    [Video on youtube](https://youtu.be/-TuDwRh2fU4)
+    
   * [**What kind of digitalisation support can Innosuisse offer to SMEs?**](https://stdm.github.io/downloads/talks/2018-08-29_SMEs_Digitalization.pdf),
     Invited input talk at [Innosuisse Plenary 2018](https://www.innosuisse.ch/inno/de/home/ueber-uns/organisation/innosuisse_plenary.html), breakout session "SMEs and Digitalization",
     CERN, Meyrin, Switzerland, August 29, 2018
