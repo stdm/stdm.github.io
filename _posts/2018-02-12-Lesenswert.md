@@ -2,12 +2,28 @@
 layout: post
 title: Lesenswert
 date: 2018-02-12
-modified: 2018-08-21
+modified: 2018-09-10
 category: society, readings
 comments: true
 ---
 
-Again, a (regularly updated) collection of links. This time to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title).
+This is a regularly updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title).
+
+* [Weniger Moral, mehr Politik!](https://www.zeit.de/2018/37/moral-hypermoral-ideologiekritik-arnold-gehlen/komplettansicht) by Bernd Ulrich, Sep 09, 2018. 
+
+  Subject: Debattenkultur
+  
+  Key words: hypermoral, fernstenliebe, moral vs. verantwortung, reden vs. handeln
+  
+  Abstract: Die einen regen sich über undankbare Flüchtlinge auf, die anderen über SUV-Fahrer. Empörung von allen Seiten. Aber es gibt einen Ausweg aus dieser Übermoral.
+
+* [Verführte Physiker](http://www.faz.net/aktuell/wissen/physik-mehr/krise-in-naturwissenschaft-verfuehrte-physiker-15667988.html) by Ulf von Rauchhaupt, Jul 10, 2018.
+
+  Subject: Krise der Physik; Interview with Sabine Hossenfelder.
+  
+  Key words: theory vs. reality, wrong incentives for science, work on what is publishable vs. work on pressing questions
+  
+  Abstract: Die theoretische Physik tritt seit Jahrzehnten auf der Stelle. Sabine Hossenfelder forscht über Quantengravitation und hat einen überraschenden Grund für die Krise ausgemacht.
 
 * [Fatale Fehler](https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/service/fatale-fehler) by Peter Laudenbach, Brandeins 07/2018.
 
@@ -17,7 +33,7 @@ Again, a (regularly updated) collection of links. This time to valuable reads fr
   
   Abstract: Warum es gefährlich werden kann, wenn sich Behörden eher der Politik als dem Bürger verpflichtet fühlen, erklärt der Verwaltungswissenschaftler Wolfgang Seibel.
 
-* [Die Diktatur des Bauchgefühls](https://www.zeit.de/kultur/2018-06/emotionen-gefuehle-diskurs-verantwortung-10nach8) by Heike-Melba Fendel, June 08, 2018.
+* [Die Diktatur des Bauchgefühls](https://www.zeit.de/kultur/2018-06/emotionen-gefuehle-diskurs-verantwortung-10nach8) by Heike-Melba Fendel, Jun 08, 2018.
 
    Subject: Emotionen
    
