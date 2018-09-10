@@ -58,6 +58,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
     CERN, Meyrin, Switzerland, August 29, 2018
 
     [<img alt="Video" src="http://stdm.github.io/images/innosuisse-plenary-2018.jpg"/>](https://youtu.be/SQRVSB6Rpsk)
+    [Blogpost on main points](https://data-service-alliance.ch/blog/blog/what-kind-of-digitalization-support-do-smes-need)
 
   * [**Data Science @ ZHAW**](https://stdm.github.io/downloads/talks/2018-07-10_Data-Science-at-ZHAW.pdf), 
     Invited talk at [FHNW Institute for Data Science](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-for-data-science), 
