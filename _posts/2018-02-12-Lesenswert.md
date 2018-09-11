@@ -2,12 +2,20 @@
 layout: post
 title: Lesenswert
 date: 2018-02-12
-modified: 2018-09-10
+modified: 2018-09-11
 category: society, readings
 comments: true
 ---
 
 This is a regularly updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title).
+
+* [Jedes Wort setzt einen Rahmen](https://www.zeit.de/kultur/2018-09/framing-deutung-hetzjagd-chemnitz-hans-georg-maassen/komplettansicht) by Houssam Hamade & Viola Nordsieck, Sep 11, 2018.
+
+  Subject: Framing
+  
+  Key words: debatte, framing, journalism, truthful reports, realiyt vs. presentation, Chemnitz, foreigners, fascism
+  
+  Abstract: Hetzjagd oder nicht, das ist keine triviale Frage. Wir erleben, wie die Politik sich in einen Kampf um Deutungen verwandelt. Es geht um das "Framing" von Wirklichkeit.
 
 * [Weniger Moral, mehr Politik!](https://www.zeit.de/2018/37/moral-hypermoral-ideologiekritik-arnold-gehlen/komplettansicht) by Bernd Ulrich, Sep 09, 2018. 
 
