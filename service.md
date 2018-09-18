@@ -39,11 +39,11 @@ Much to the suprise of my younger self, I have become a very active networker, p
     Talk at the [FTAL scientific conference 2018 on Industrial Applied Data Science](http://www.ftal.net/de/scientific-conference), 
     Lugano, Switzerland, October 18-19, 2018
   
-  * **Deep Learning in the Wild**,
+  * [**Deep Learning in the Wild**](https://stdm.github.io/downloads/talks/2018-09-21_DL-in-the-wild.pdf),
     Invited talk at [**ANNPR 2018**, the 8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018), 
     Siena, Italy, September 19-21, 2018
     
-  * **Capturing Suprasegmental Features of a Voice with RNNs for Improved Speaker Clustering**,
+  * [**Capturing Suprasegmental Features of a Voice with RNNs for Improved Speaker Clustering**](https://stdm.github.io/downloads/talks/2018-09-21_Speaker-clustering-with-RNNs.pdf),
     Paper presentation at [**ANNPR 2018**, the 8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018), 
     Siena, Italy, September 19-21, 2018
     
