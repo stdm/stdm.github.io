@@ -256,8 +256,6 @@ Much to the suprise of my younger self, I have become a very active networker, p
 #### Conferences & events
   * Member of the scientific committee, [FTAL Scientific Conference on Industrial Applied Data Science](http://www.ftal.net/de/scientific-conference), Lugano, Switzerland, October 18-19, 2018
 
-  * Moderator at [Euro-CASE 2018: How AI will shape our future](https://euro-case.ch/), Rueschlikon, Switzerland, September 24, 2018
-
   * Member of program committee, [8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018/Program%20committee.html), Siena, Italy, September 19-21, 2018
     
     [<img alt="ANNPR 2018" src="http://stdm.github.io/images/annpr-2018.jpg"/>](http://clem.diism.unisi.it/~annpr2018)
