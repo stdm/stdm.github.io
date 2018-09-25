@@ -38,10 +38,14 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * **Lessons learned from 17 applied data science (meta) case studies**
     Talk at the [FTAL scientific conference 2018 on Industrial Applied Data Science](http://www.ftal.net/de/scientific-conference), 
     Lugano, Switzerland, October 18-19, 2018
+    
+  * Moderated session on **AI services and business applications** at SATW's [EuroCASE'2018](https://euro-case.ch/), Rüschlikon, Switzerland, September 24, 2018
   
   * [**Deep Learning in the Wild**](https://stdm.github.io/downloads/talks/2018-09-21_DL-in-the-wild.pdf),
     Invited talk at [**ANNPR 2018**, the 8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://annpr2018.diism.unisi.it/), 
     Siena, Italy, September 19-21, 2018
+    
+    [Video on youtube](https://youtu.be/efCyLhSACoU)
     
   * [**Capturing Suprasegmental Features of a Voice with RNNs for Improved Speaker Clustering**](https://stdm.github.io/downloads/talks/2018-09-21_Speaker-clustering-with-RNNs.pdf),
     Paper presentation at [**ANNPR 2018**, the 8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://annpr2018.diism.unisi.it/), 
