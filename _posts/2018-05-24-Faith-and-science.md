@@ -7,7 +7,7 @@ category: research, faith, scientific conduct
 comments: true
 ---
 
-There is a whole body of literature on the topic of faith and science (and a [good example](https://en.wikipedia.org/wiki/Mere_Christianity) is the work of C.S. Lewis, even if it is a rather onorthodox specimen). Here's another one, unorthodox in not attempting apologetics, but merely relaying a testimony in the sphere of science.
+There is a whole body of literature on the topic of faith and science (and a [good example](https://en.wikipedia.org/wiki/Mere_Christianity) is the work of C.S. Lewis, even if it is a rather unorthodox specimen). Here's another one, unorthodox in not attempting apologetics, but merely relaying a testimony in the sphere of science.
 
 I was working towards a paper deadline last week together with a colleague and students. Work had already been going on for months to turn a very successful thesis project into a condensed conference paper, and we all - students and supervisors - had invested considerably into the writeup and additional experiments - evenings, weekends, even a week of precious holidays for some. Then, three days before the deadline, while doing a last sanity check experiment, we discovered anomalies in our experimental setup: some things couldn't be reproduced the way we described them in the paper. Non-reproducible research is a no-go, and consciously reporting wrong results is scientific misconduct. We pushed very hard on Friday and Saturday, but with no conclusive result on Sunday and - even worse - no clue what or where the bug or inherent problem might lie, a decision had to be taken. 
 
