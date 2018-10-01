@@ -7,7 +7,8 @@ comments: true
 ### Braschler, Stadelmann, Stockinger (Eds.)
 **Springer, 2018 (to appear)**
 
-Companion website to the upcoming book *Applied Data Science - Lessons Learned for the Data-Driven Business*, to appear summer 2018.
+Companion website to the upcoming book *Applied Data Science - Lessons Learned for the Data-Driven Business*, to appear late 2018.
+_Update_: The manuscript has been submitted to the publisher as of end of September, 2018.
 
 ## Synopsis
 
@@ -68,7 +69,7 @@ Part II is a curated collection of guest contributions emphasizing the "lessons 
 
 #### Part III - Lessons learned
 
-Part III, written by the editors, collects reflection on the major data science technologies and their relations to the subdisciplines and application fields, together with a summary of the "lessons learned" from all contributed chapters. Based on these, it highlights future directions  and emerging application areas.
+Part III, written by the editors, collects reflection on the major data science technologies and their relations to the subdisciplines and application fields, together with a summary of the "lessons learned" from all contributed chapters. Based on these, the chapter [*Lessons Learned from Challenging Data Science Case Studies*](https://stdm.github.io/downloads/papers/ADS_2018_LessonsLearned.pdf) it highlights future directions and emerging application areas.
 
 
 ## About the authors
