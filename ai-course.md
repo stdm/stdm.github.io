@@ -6,7 +6,7 @@ comments: true
 
 This is the companies website to my one semester course on Artificial Intelligence at ZHAW (and under construction). The course is part of the bachelor of computer science curriculm at ZHAW School of Engineering as the elective course "KI1" during the last year of study. 
 
-[<img alt="Lecturing" src="http://stdm.github.io/images/KI1-recording.jpg"/>](http://stdm.github.io/images/KI1-recording.jpg)
+[<img alt="Lecturing" src="http://stdm.github.io/images/ai-recording.jpg"/>](http://stdm.github.io/images/ai-recording.jpg)
 
 ## Syllabus
  * V01: Introduction
