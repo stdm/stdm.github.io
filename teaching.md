@@ -4,7 +4,7 @@ layout: page
 comments: true
 ---
 
-My main teaching revolves around [AI](https://olat.zhaw.ch/auth/RepositoryEntry/219152410/CourseNode/95069693647358) and [Machine Learning](https://moodle.msengineering.ch/course/view.php?id=670) on different levels. The course materials are on the pages of my university (partly accessible freely; partly with audio recordings; check links above). I was awarded a final round nomination for the "Best Teaching - Best Practices" award of my university in 2017 for [my contribution](https://stdm.github.io/Science-applied) under the topic "Wissenschaftlichkeit" ("scientific characater"). My shorter teaching statement [from 2008](http://www.informatik.uni-marburg.de/~stadelmann/teaching.html) is still valid: "I love teaching. To initiate inside someone the vision of an idea, to see understanding grow, these are moments I greatly enjoy."
+My main teaching revolves around [AI](http://stdm.github.io/ai-course) and [Machine Learning](https://moodle.msengineering.ch/course/view.php?id=670) on different levels. The course materials are on the pages of my university (partly accessible freely; partly with audio recordings; check links above). I was awarded a final round nomination for the "Best Teaching - Best Practices" award of my university in 2017 for [my contribution](https://stdm.github.io/Science-applied) under the topic "Wissenschaftlichkeit" ("scientific characater"). My shorter teaching statement [from 2008](http://www.informatik.uni-marburg.de/~stadelmann/teaching.html) is still valid: "I love teaching. To initiate inside someone the vision of an idea, to see understanding grow, these are moments I greatly enjoy."
 
 ### TOC
 1. [Supervised thesis projects (all levels)](#theses)
