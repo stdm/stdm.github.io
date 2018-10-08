@@ -7,10 +7,20 @@ comments: true
 My main teaching revolves around [AI](http://stdm.github.io/ai-course) and [Machine Learning](https://moodle.msengineering.ch/course/view.php?id=670) on different levels. The course materials are on the pages of my university (partly accessible freely; partly with audio recordings; check links above). I was awarded a final round nomination for the "Best Teaching - Best Practices" award of my university in 2017 for [my contribution](https://stdm.github.io/Science-applied) under the topic "Wissenschaftlichkeit" ("scientific characater"). My shorter teaching statement [from 2008](http://www.informatik.uni-marburg.de/~stadelmann/teaching.html) is still valid: "I love teaching. To initiate inside someone the vision of an idea, to see understanding grow, these are moments I greatly enjoy."
 
 ### TOC
-1. [Supervised thesis projects (all levels)](#theses)
-2. [Lectures & curriculae](#lectures)
+1. [Online courses](#courses)
+2. [Supervised thesis projects (all levels)](#theses)
+3. [Lectures & curriculae](#lectures)
 
 [<img alt="Classroom" src="http://stdm.github.io/images/classroom.jpg"/>](http://stdm.github.io/images/classroom.jpg)
+
+
+<a name="courses"></a>
+## Online courses
+
+I try to make my main courses available as free online ressources as a best effort offer.
+
+  * [Artificial Intelligence](http://stdm.github.io/ai-course) (KI1): final year elective course in the Bachelor of Computer Science degree program of ZHAW. Available online with full course material, videos (currently shot: HS 2018) and audio-only recordings. Taught in German, material in English.
+  * Machine Learning (TSM_MachLe): elective technical scientific specialization module on the Master of Science in Engineering program, focus area ICT / Data Science (planned FS 2019). Material & lectures in English.
 
 
 <a name="theses"></a>
