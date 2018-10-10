@@ -18,7 +18,7 @@ This is the companion website to my one semester course on Artificial Intelligen
 
 <a name="syllabus"></a>  
 ## Syllabus
-**What is it all about?** Computer opponents in games, fastest route in navigation devices, optimized flight schedules, decision support in hospitals, design of pharmaceutical proteins to fight cancer – the foundation of all these fascinating application is "Artificial Intelligence" (AI).
+**What is it all about?** Computer opponents in games, fastest route in navigation devices, optimized flight schedules, decision support in hospitals, design of pharmaceutical proteins to fight cancer - the foundation of all these fascinating application is "Artificial Intelligence" (AI).
 
 **Why is it relevant?** Since the 1960s, AI is about developing solutions for complex problems that could formerly only be solved by humans. AI is a classical subdiscipline of computer science. Its methods are so universally used that our text book for this course is among the 25 most-cited scientific publications on Citeseer!
 
@@ -47,7 +47,7 @@ This is the companion website to my one semester course on Artificial Intelligen
  * Slides, lab descriptions, terms & conditions: see [OLAT](https://olat.zhaw.ch/auth/RepositoryEntry/219152410/CourseNode/95069693647358) (you can login as guest even without a ZHAW account)
  * Video recordings: see YouTube playlist for [fall 2018](https://www.youtube.com/watch?v=tvN09avji_Y&list=PLdUGLyqPtOZoaW4xBWMpDA37vIlbsh2xY) term
  * Audio-only recordings: see Collecture for [fall 2017](https://collecture.io/groups/65dda3ed-4946-4f40-8af8-ba55e964b140?autosub=true) and [spring 2017](https://collecture.io/groups/99275ecf-ae1a-4aaa-8375-0f484fa352ef?autosub=true) terms
- * Book: Russell, Norvig, ["Artificial Intelligence – A Modern Approach"](http://aima.cs.berkeley.edu/), 3rd Edition, Pearson, 2010.
+ * Book: Russell, Norvig, ["Artificial Intelligence - A Modern Approach"](http://aima.cs.berkeley.edu/), 3rd Edition, Pearson, 2010.
 
 
 <a name="objectives"></a>  
