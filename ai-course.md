@@ -4,27 +4,62 @@ layout: page
 comments: true
 ---
 
-This is the companies website to my one semester course on Artificial Intelligence at ZHAW (and under construction). The course is part of the bachelor of computer science curriculm at ZHAW School of Engineering as the elective course "KI1" during the last year of study. 
+This is the companion website to my one semester course on Artificial Intelligence. The course is part of the bachelor of computer science curriculm at ZHAW School of Engineering as the elective course "KI1" during the last year of study. It reflects the status quo of the fall term 2018.
+
+### TOC
+1. [Syllabus](#syllabus)
+2. [Resources](#resources)
+3. [Educational objectives](#objectives)
+4. [Prerequisites](#prerequisites)
+
 
 [<img alt="Lecturing" src="http://stdm.github.io/images/ai-recording.jpg"/>](http://stdm.github.io/images/ai-recording.jpg)
 
+
+<a name="syllabus"></a>  
 ## Syllabus
- * V01: Introduction
- * V02: Intelligent agents
- * V03: Problem solving through search
- * V04: Local and adversarial search
- * V05: Constraint satisfaction problems
- * V06a: Knowledge, reasoning & logic
- * V06b: Datalog
- * V07: Planning
- * V08: Learning agents
- * V09: Ensemble learning
- * V10: Probabilistic learning
- * V11: Generative modeling with neural nets
- * V12: AI & society
+**What is it all about?** Computer opponents in games, fastest route in navigation devices, optimized flight schedules, decision support in hospitals, design of pharmaceutical proteins to fight cancer – the foundation of all these fascinating application is "Artificial Intelligence" (AI).
+
+**Why is it relevant?** Since the 1960s, AI is about developing solutions for complex problems that could formerly only be solved by humans. AI is a classical subdiscipline of computer science. Its methods are so universally used that our text book for this course is among the 25 most-cited scientific publications on Citeseer!
+
+**Who should attend?** This is a very much practice-oriented course on selected foundations of AI and Machine Learning (ML), aiming at hands-on problem solving competency for everyday software challenges. It is geared towards everyone who is curious for smart software and is especially relevant for software engineers, would-be data scientists and as a foundation for further interdisciplinary studies in areas like information engineering, speech processing, computer vision or robotics.
+
+**Content:**
+| Topic | Lecture | Lab | AIMA book |
+| --- | --- | --- | --- |
+| Introduction | V01: Introduction | P01: Reading assignment | ch. 1 |
+| | V02: Intelligent agents	| P02: 2048 game playing agent | ch. 2 |
+| Search | V03: Problem solving through search | | ch. 3 |
+| | V04: Local and adversarial search | | ch. 5 (+4) |
+| | V05: Constraint satisfaction problems	| P03: Constraint satisfaction problems & Datalog | ch. 6 |
+| Planning | V06a: Knowledge, reasoning & logic | | ch. 7 |
+| | V06b: Datalog | | ch. 8 (+9) |
+| | V07: Planning | | ch. 10 (+11) |
+| Learning | V08: Learning agents	| P04: Decision trees | ch. 18.1-18.6 |
+| | V09: Ensemble learning | | ch. 18.10-18.12 |
+| | V10: Probabilistic learning	| P05: Multimedia analysis | ch. 20 |
+| | V11: Generative modeling with neural nets | | ch. 18.7 |
+| Selected chapters | V12: AI & society	| P01b: Reading assignment, revisited | ch. 26 |
 
 
+<a name="resources"></a>  
 ## Resources
  * Slides, lab descriptions, terms & conditions: see [OLAT](https://olat.zhaw.ch/auth/RepositoryEntry/219152410/CourseNode/95069693647358) (you can login as guest even without a ZHAW account)
- * Video recordings (HS 2018): see [YouTube](https://www.youtube.com/watch?v=tvN09avji_Y&list=PLdUGLyqPtOZoaW4xBWMpDA37vIlbsh2xY) (not listed, you need this link)
- * Audio-only recordings (HS 2017, FS 2017): also available via link on [OLAT](https://olat.zhaw.ch/auth/RepositoryEntry/219152410/CourseNode/95069693647358)
+ * Video recordings: see YouTube playlist for [fall 2018](https://www.youtube.com/watch?v=tvN09avji_Y&list=PLdUGLyqPtOZoaW4xBWMpDA37vIlbsh2xY) term
+ * Audio-only recordings: see Collecture for [fall 2017](https://collecture.io/groups/65dda3ed-4946-4f40-8af8-ba55e964b140?autosub=true) and [spring 2017](https://collecture.io/groups/99275ecf-ae1a-4aaa-8375-0f484fa352ef?autosub=true) terms
+ * Book: Russell, Norvig, ["Artificial Intelligence – A Modern Approach"](http://aima.cs.berkeley.edu/), 3rd Edition, Pearson, 2010.
+
+
+<a name="objectives"></a>  
+## Educational objectives
+
+1. You know the breadth of AI problem solving strategies
+  * ...thus identify such challenges in practice
+  * ...and develop corresponding solutions on your own.
+2. You can explain the discussed algorithms and methodologies
+  * ...and are able to transfer it to the real world.
+  
+<a name="prerequisites"></a>  
+## Prerequisites
+
+Successfully completed assessment phase (i.e., foundations of computer science: good command of programming, linear algebra, probability, algorithms & data structures), affinity towards algorithms, enjoying the topic.
