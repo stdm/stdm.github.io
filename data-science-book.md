@@ -69,7 +69,7 @@ Part II is a curated collection of guest contributions emphasizing the "lessons 
 
 #### Part III - Lessons learned
 
-Part III, written by the editors, collects reflection on the major data science technologies and their relations to the subdisciplines and application fields, together with a summary of the "lessons learned" from all contributed chapters. Based on these, the chapter [*Lessons Learned from Challenging Data Science Case Studies*](https://stdm.github.io/downloads/papers/ADS_2018_LessonsLearned.pdf) it highlights future directions and emerging application areas.
+Part III, written by the editors, reflects on the major data science technologies and their relations to the subdisciplines and application fields, together with a summary of the "lessons learned" from all contributed chapters. Based on these, the chapter [*Lessons Learned from Challenging Data Science Case Studies*](https://stdm.github.io/downloads/papers/ADS_2018_LessonsLearned.pdf) highlights future directions for the field and society at large.
 
 
 ## About the authors
