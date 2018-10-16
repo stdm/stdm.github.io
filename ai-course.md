@@ -19,12 +19,12 @@ This is the companion website to my one semester course on Artificial Intelligen
 <a name="syllabus"></a>  
 ## Syllabus
 
-| Topic | Lecture | Lab | AIMA book |
+| Topic | Lecture (videos) | Lab | AIMA book |
 | --- | --- | --- | --- |
-| Introduction | V01: Introduction | P01: Reading assignment | ch. 1 |
-| | V02: Intelligent agents	| P02: 2048 game playing agent | ch. 2 |
-| Search | V03: Problem solving through search | | ch. 3 |
-| | V04: Local and adversarial search | | ch. 5 (+4) |
+| Introduction | [V01: Introduction](http://stdm.github.io/downloads/courses/AI/V01_Introduction.pdf) ([a](https://youtu.be/tvN09avji_Y), [b](https://youtu.be/93A9-nyMBVE)) | [P01: Reading assignment](http://stdm.github.io/downloads/courses/AI/P01_ReadingAssignment.zip) | ch. 1 |
+| | [V02: Intelligent agents](http://stdm.github.io/downloads/courses/AI/V02_IntelligentAgents.pdf)	([a](https://youtu.be/YKe-XPa2r-s), [b](https://youtu.be/5oB9TmzflQc)) | [P02: 2048 game playing agent](http://stdm.github.io/downloads/courses/AI/P02_2048.zip) | ch. 2 |
+| Search | [V03: Problem solving through search](http://stdm.github.io/downloads/courses/AI/V03_ProblemSolvingThroughSearch.pdf) ([a](https://youtu.be/ozgIDsWvRVU), [b](https://youtu.be/naOEvcKT77g)) | | ch. 3 |
+| | [V04: Local and adversarial search](http://stdm.github.io/downloads/courses/AI/V04_LocalAndAdversarialSearch.pdf) ([a](https://youtu.be/pLquR8LvWJ4), [b](https://youtu.be/Y9K7b0k5kxo)) | | ch. 5 (+4) |
 | | V05: Constraint satisfaction problems	| P03: Constraint satisfaction problems & Datalog | ch. 6 |
 | Planning | V06a: Knowledge, reasoning & logic | | ch. 7 |
 | | V06b: Datalog | | ch. 8 (+9) |
@@ -35,11 +35,13 @@ This is the companion website to my one semester course on Artificial Intelligen
 | | V11: Generative modeling with neural nets | | ch. 18.7 |
 | Selected chapters | V12: AI & society	| P01b: Reading assignment, revisited | ch. 26 |
 
+All links lead to documents as of fall term 2018.
+
 
 <a name="resources"></a>  
 ## Resources
 
-**Slides, lab descriptions, terms & conditions:** see [OLAT](https://olat.zhaw.ch/auth/RepositoryEntry/219152410/CourseNode/95069693647358) (you can login as guest even without a ZHAW account)
+**Current slides, lab descriptions, terms & conditions:** see [OLAT](https://olat.zhaw.ch/auth/RepositoryEntry/219152410/CourseNode/95069693647358) (you can login as guest even without a ZHAW account)
 
 **Video recordings:** see YouTube playlist for [fall 2018](https://www.youtube.com/watch?v=tvN09avji_Y&list=PLdUGLyqPtOZoaW4xBWMpDA37vIlbsh2xY) term
 
