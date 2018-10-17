@@ -41,13 +41,18 @@ We have developed a [semantic segmentation approach](http://stdm.github.io/downl
 
 [<img alt="Newspaper article segmentation architecture" src="http://stdm.github.io/images/fcnn_architecture.jpg"/>](http://stdm.github.io/images/fcnn_architecture.jpg)
 
-Additionally, the existence of adversarial attacks on convolutional neural networks (CNN) questions the fitness of such models for serious applications. Such attacks manipulate an input image such that misclassification is evoked while still looking normal to a human observer - they are thus not easily detectable. In a different context, backpropagated activations
-of CNN hidden layers - "feature responses" to a given input - have been helpful to visualize for a human "debugger" what the CNN "looks at" while computing its output. We have proposed a novel [detection method for adversarial examples](http://stdm.github.io/downloads/papers/ANNPR_2018c.pdf) to prevent attacks. We do so by tracking adversarial perturbations in feature responses, allowing for automatic detection using average local spatial entropy. The method does not alter the original network architecture and is fully human-interpretable. Experiments confirm the validity of our approach for state-of-the-art attacks
-on large-scale models trained on ImageNet.
+Additionally, the existence of adversarial attacks on convolutional neural networks (CNN) questions the fitness of such models for serious applications. Such attacks manipulate an input image such that misclassification is evoked while still looking normal to a human observer - they are thus not easily detectable. In a different context, backpropagated activations of CNN hidden layers - "feature responses" to a given input - have been helpful to visualize for a human "debugger" what the CNN "looks at" while computing its output. We have proposed a novel [detection method for adversarial examples](http://stdm.github.io/downloads/papers/ANNPR_2018c.pdf) to prevent attacks. We do so by tracking adversarial perturbations in feature responses, allowing for automatic detection using average local spatial entropy. The method does not alter the original network architecture and is fully human-interpretable. Experiments confirm the validity of our approach for state-of-the-art attacks on large-scale models trained on ImageNet.
 
 [<img alt="Detecting adversarial examples using local spatial entropy on feature response maps" src="http://stdm.github.io/images/adversarial_detection.jpg"/>](http://stdm.github.io/images/adversarial_detection.jpg)
 
+**References (see also [below](#publications)):**
+
+  * [Stadelmann, T., Amirian, M., Arabaci, I., Arnold, M., Duivesteijn, G.F., Elezi, I., Geiger, M., Lörwald, S., Meier, B.B., Rombach, K. and Tuggener, L., 2018, September. Deep Learning in the Wild. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 17-38). Springer, Cham.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=10271253292885532857)
+
+  * [Stadelmann, T., Tolkachev, V., Sick, B., Stampfli, J. and Dürr, O., 2018. Beyond ImageNet-deep learning in industrial practice. _Applied Data Science-Lessons Learned for the Data-Driven Business_. Springer.](https://scholar.google.ch/scholar?hl=en&as_sdt=0%2C5&q=Beyond+ImageNet-deep+learning+in+industrial+practice&btnG=)
+
 &nbsp;
+
 
 <a name="l2l"></a>
 #### Learning to learn
@@ -59,7 +64,12 @@ supervised fashion to group data by any perceptual similarity criterion based on
 
 [<img alt="Learning to cluster model architecture" src="http://stdm.github.io/images/l2c_architecture.jpg"/>](http://stdm.github.io/images/l2c_architecture.jpg)
 
+**References (see also [below](#publications)):**
+
+  * [Meier, B.B., Elezi, I., Amirian, M., Dürr, O. and Stadelmann, T., 2018, September. Learning Neural Models for End-to-End Clustering. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 126-138). Springer, Cham.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=10223989052804093264)
+
 &nbsp;
+
 
 <a name="OMR"></a>
 #### Optical music recognition (OMR)
@@ -73,8 +83,15 @@ To facilitate deep learning for OMR, we built the [DeepScores](http://stdm.githu
 We introduced a novel object detection method, based on synthetic energy maps and the watershed transform, called [Deep Watershed Detector (DWD)](http://stdm.github.io/downloads/papers/ISMIR_2018.pdf). Our method is specifically tailored to deal with high resolution images that contain a large number of very small objects and is therefore able to process full pages of written music. We present state-of-the-art detection results of common music symbols and show DWD’s ability to work with synthetic scores equally well as on handwritten music.
 
 [<img alt="Deep Watershed Detector architecture" src="http://stdm.github.io/images/dwd.jpg"/>](http://stdm.github.io/images/dwd.jpg)
+
+**References (see also [below](#publications)):**
+
+  * [Tuggener, L., Elezi, I., Schmidhuber, J., Pelillo, M. and Stadelmann, T., 2018. DeepScores: a dataset for segmentation, detection and classification of tiny objects. In _24th International Conference on Pattern Recognition (ICPR 2018)_, Beijing, China, 20-28 August 2018 (pp. 1-6). IAPR.](https://scholar.google.ch/scholar?cluster=8414070931663211049&hl=en&as_sdt=0,5)
+  
+  * [Tuggener, L., Elezi, I., Schmidhuber, J. and Stadelmann, T., 2018. Deep watershed detector for music object recognition. In _19th International Society for Music Information Retrieval Conference_, Paris, 23.-27. September 2018. Society for Music Information Retrieval.](https://scholar.google.ch/scholar?cluster=15201184947089209442&hl=en&as_sdt=0,5)
  
 &nbsp;
+
 
 <a name="voice"></a>
 #### Voice recognition
@@ -87,7 +104,16 @@ My 2009 ACM Multimedia paper on [Unfolding Speaker Clustering Potential – a Bi
 
 [<img alt="Architecture of the successful RNN model for speaker clustering" src="http://stdm.github.io/images/RNN_architecture.jpg"/>](http://stdm.github.io/images/RNN_architecture.jpg)
 
+**References (see also [below](#publications)):**
+
+  * [Stadelmann, T. and Freisleben, B., 2009, October. Unfolding speaker clustering potential: a biomimetic approach. In _Proceedings of the 17th ACM international conference on Multimedia_ (pp. 185-194). ACM.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=18337079226826578816)
+
+  * [Lukic, Y., Vogt, C., Dürr, O. and Stadelmann, T., 2016. Speaker identification and clustering using convolutional neural networks. In _2016 IEEE 26th International Workshop on Machine Learning for Signal Processing (MLSP)_, Vietri sul Mare, Italy, 13-16 Sept. 2016. IEEE.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=8378514520107037777)
+  
+  * [Stadelmann, T., Glinski-Haefeli, S., Gerber, P. and Dürr, O., 2018, September. Capturing Suprasegmental Features of a Voice with RNNs for Improved Speaker Clustering. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 333-345). Springer, Cham.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=9694244880148272626)
+
 &nbsp;
+
 
 <a name="datascience"></a>
 #### Data science
@@ -96,7 +122,14 @@ I helped in creating one of Europe's first dedicated research centers for data s
 
 [<img alt="The data science skill set map" src="http://stdm.github.io/images/skillset.jpg"/>](http://stdm.github.io/images/skillset.jpg)
 
+**References (see also [below](#publications)):**
+
+  * [Braschler, M., Stadelmann, T., and Stockinger, K., (Eds.), 2018 (to appear). _Applied Data Science - Lessons Learned for the Data-Driven Business_. Springer.](https://stdm.github.io/data-science-book/)
+
+  * [Stadelmann, T., Stockinger, K., Braschler, M., Cieliebak, M., Baudinot, G., Dürr, O. and Ruckstuhl, A., 2013. Applied data science in Europe: challenges for academia in keeping up with a highly demanded topic. In _9th European Computer Science Summit_, Amsterdam, October 8–9, 2013.](https://scholar.google.ch/scholar?hl=en&as_sdt=0%2C5&q=Applied+data+science+in+Europe%3A+challenges+for+academia+in+keeping+up+with+a+highly+demanded+topic&btnG=)
+
 &nbsp;
+
 
 &nbsp;
 
@@ -115,8 +148,6 @@ If you are intgerested in a collaboration, please [contact](http://www.zhaw.ch/=
 
 <a name="publications"></a>
 ## Publications
-
-Counters: 1 book, 2 invited papers, 1 journal paper, 9 book chapters, 20 conference papers, 8 workshop papers, 1 position paper, 1 tech report, 2 theses.
 
 Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?user=6U6ZXzUAAAAJ&hl=en).
 
