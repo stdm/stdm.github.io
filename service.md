@@ -45,6 +45,9 @@ Much to the suprise of my younger self, I have become a very active networker, p
     Talk at the [FTAL scientific conference 2018 on Industrial Applied Data Science](http://www.ftal.net/de/scientific-conference), 
     Lugano, Switzerland, October 18-19, 2018
     
+  * [**4 Years of Deep Learning Research at ZHAW: an Information Engineering Perspective**](https://stdm.github.io/downloads/talks/2018-10-17_4-years-of-DL-at-ZHAW.pdf)
+    Talk at InIT Meeting, Winterthur, Switzerland, October 17, 2018
+    
   * Moderated session on **AI services and business applications** at SATW's [EuroCASE'2018](https://euro-case.ch/), Rüschlikon, Switzerland, September 24, 2018
   
   * [**Deep Learning in the Wild**](https://stdm.github.io/downloads/talks/2018-09-21_DL-in-the-wild.pdf),
