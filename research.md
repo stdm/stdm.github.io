@@ -31,7 +31,7 @@ I am a **pattern recognition** researcher working on a wide variety of tasks on 
 5. [Data science](#datascience)
 
 <a name="robust"></a>
-#### Robust and practical deep learning
+### Robust and practical deep learning
 
 Deep learning has reached the [point of practical applicability](https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf) in solving day-to-day tasks in many non-AI businesses, for instance manufacturing SMEs. Specific challenges arise and are tackled in our [applied research projects](http://stdm.github.io/downloads/papers/ADS_2018_DeepLearning.pdf), ranging from data quality and quantity issues to higher requirements on robustness and resilience of the models. For instance, segmenting newspaper pages into articles that semantically belong together is a necessary prerequisite for article-based information retrieval on print media collections like e.g. archives and libraries. It is challenging due to vastly differing layouts of papers, various content types and different languages, but commercially very relevant for e.g. media monitoring.
 
@@ -45,7 +45,7 @@ Additionally, the existence of adversarial attacks on convolutional neural netwo
 
 [<img alt="Detecting adversarial examples using local spatial entropy on feature response maps" src="http://stdm.github.io/images/adversarial_detection.jpg"/>](http://stdm.github.io/images/adversarial_detection.jpg)
 
-**References (see also [below](#publications)):**
+#### Selected references (see also [below](#publications))
 
   * [Stadelmann, T., Amirian, M., Arabaci, I., Arnold, M., Duivesteijn, G.F., Elezi, I., Geiger, M., Lörwald, S., Meier, B.B., Rombach, K. and Tuggener, L., 2018, September. Deep Learning in the Wild. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 17-38). Springer, Cham.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=10271253292885532857)
 
@@ -55,7 +55,7 @@ Additionally, the existence of adversarial attacks on convolutional neural netwo
 
 
 <a name="l2l"></a>
-#### Learning to learn
+### Learning to learn
 
 [<img alt="Example clusterings" src="http://stdm.github.io/images/l2c_clustering.jpg"/>](http://stdm.github.io/images/l2c_clustering.jpg)
 
@@ -64,7 +64,7 @@ supervised fashion to group data by any perceptual similarity criterion based on
 
 [<img alt="Learning to cluster model architecture" src="http://stdm.github.io/images/l2c_architecture.jpg"/>](http://stdm.github.io/images/l2c_architecture.jpg)
 
-**References (see also [below](#publications)):**
+#### Selected references (see also [below](#publications))
 
   * [Meier, B.B., Elezi, I., Amirian, M., Dürr, O. and Stadelmann, T., 2018, September. Learning Neural Models for End-to-End Clustering. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 126-138). Springer, Cham.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=10223989052804093264)
 
@@ -72,7 +72,7 @@ supervised fashion to group data by any perceptual similarity criterion based on
 
 
 <a name="OMR"></a>
-#### Optical music recognition (OMR)
+### Optical music recognition (OMR)
 
 [<img alt="Detection & recognition confidedences overlayed on a piece of handwritten music" src="http://stdm.github.io/images/MUSCIMA++.jpg"/>](http://stdm.github.io/images/MUSCIMA++.jpg)
 
@@ -84,7 +84,7 @@ We introduced a novel object detection method, based on synthetic energy maps an
 
 [<img alt="Deep Watershed Detector architecture" src="http://stdm.github.io/images/dwd.jpg"/>](http://stdm.github.io/images/dwd.jpg)
 
-**References (see also [below](#publications)):**
+#### Selected references (see also [below](#publications))
 
   * [Tuggener, L., Elezi, I., Schmidhuber, J., Pelillo, M. and Stadelmann, T., 2018. DeepScores: a dataset for segmentation, detection and classification of tiny objects. In _24th International Conference on Pattern Recognition (ICPR 2018)_, Beijing, China, 20-28 August 2018 (pp. 1-6). IAPR.](https://scholar.google.ch/scholar?cluster=8414070931663211049&hl=en&as_sdt=0,5)
   
@@ -94,7 +94,7 @@ We introduced a novel object detection method, based on synthetic energy maps an
 
 
 <a name="voice"></a>
-#### Voice recognition
+### Voice recognition
 
 [My PhD research](http://stdm.github.io/downloads/papers/PhdThesis_2010) focused on the task of speaker clustering: grouping speech segments by speaker identity without prior knowledge of the number or identity of speakers (a prerequisite for e.g. content-based media indexing). While speaker identification usually achieved accuracy percentages in their high nineties, the state of the art for the more complex task of clustering performed an order of magnitude worse. 
 
@@ -104,7 +104,7 @@ My 2009 ACM Multimedia paper on [Unfolding Speaker Clustering Potential – a Bi
 
 [<img alt="Architecture of the successful RNN model for speaker clustering" src="http://stdm.github.io/images/RNN_architecture.jpg"/>](http://stdm.github.io/images/RNN_architecture.jpg)
 
-**References (see also [below](#publications)):**
+#### Selected references (see also [below](#publications))
 
   * [Stadelmann, T. and Freisleben, B., 2009, October. Unfolding speaker clustering potential: a biomimetic approach. In _Proceedings of the 17th ACM international conference on Multimedia_ (pp. 185-194). ACM.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=18337079226826578816)
 
@@ -116,13 +116,13 @@ My 2009 ACM Multimedia paper on [Unfolding Speaker Clustering Potential – a Bi
 
 
 <a name="datascience"></a>
-#### Data science
+### Data science
 
 I helped in creating one of Europe's first dedicated research centers for data science, the [ZHAW Datalab](http://www.zhaw.ch/datalab), and lead it since. Subsequently, my colleagues and I created one of Switzerland's first continuing education programs in data science, the [MAS Data Science](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/mas-data-science.html), where I teach machine learning. In 2015, we started rolling out the successful Datalab collaboration model country-wide in founding the [Swiss Alliance for Data-Intensive Services](https://www.data-service-alliance.ch/), a network of industrial and academic partner institutions that also furthered the [Swiss Conference on Data Science](https://sds2018.ch/) series of events that [started in Winterthur](https://www.zhaw.ch/en/research/inter-school-cooperation/datalab-the-zhaw-data-science-laboratory/sds2014/). The experience gained in these activities, together with the feedback from the applied research projects described above, lead to a [book](https://stdm.github.io/data-science-book/) I am co-editing together with my colleagues [Martin Braschler](http://www.zhaw.ch/=bram) and [Kurt Stockinger](http://www.zhaw.ch/=stog).
 
 [<img alt="The data science skill set map" src="http://stdm.github.io/images/skillset.jpg"/>](http://stdm.github.io/images/skillset.jpg)
 
-**References (see also [below](#publications)):**
+#### Selected references (see also [below](#publications))
 
   * [Braschler, M., Stadelmann, T., and Stockinger, K., (Eds.), 2018 (to appear). _Applied Data Science - Lessons Learned for the Data-Driven Business_. Springer.](https://stdm.github.io/data-science-book/)
 
