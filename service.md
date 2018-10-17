@@ -41,12 +41,19 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * **Document Analysis with Deep Learning**
     Invited talk at 2nd Data+Service Use Case Talk, Technopark Zurich, October 31, 2018
   
-  * **Lessons learned from 17 applied data science (meta) case studies**
+  * [**Lessons learned from 17 applied data science (meta) case studies**](https://stdm.github.io/downloads/talks/2018-10-19_DS-Lessons-Learned.pdf)
+    Talk at the [FTAL scientific conference 2018 on Industrial Applied Data Science](http://www.ftal.net/de/scientific-conference), 
+    Lugano, Switzerland, October 18-19, 2018
+
+  * [**Industrial Applied Data Science @ ZHAW**](https://stdm.github.io/downloads/talks/2018-10-18_Industrial-Applied-DS-at-ZHAW.pdf)
     Talk at the [FTAL scientific conference 2018 on Industrial Applied Data Science](http://www.ftal.net/de/scientific-conference), 
     Lugano, Switzerland, October 18-19, 2018
     
   * [**4 Years of Deep Learning Research at ZHAW: an Information Engineering Perspective**](https://stdm.github.io/downloads/talks/2018-10-17_4-years-of-DL-at-ZHAW.pdf)
     Talk at InIT Meeting, Winterthur, Switzerland, October 17, 2018
+    
+  * **The potential of AI & ML, exemplified by pattern recognition using deep learning**
+    Invited talk, Bern, Switzerland, October 2018
     
   * Moderated session on **AI services and business applications** at SATW's [EuroCASE'2018](https://euro-case.ch/), Rüschlikon, Switzerland, September 24, 2018
   
