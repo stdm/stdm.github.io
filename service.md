@@ -319,6 +319,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="press"></a>
 ## In the press 
 
+  * October 10, 2018, [ZHAW Impact](https://stdm.github.io/downloads/press/2018-10-10_ZHAW-Impact_Columni.pdf): "KI bietet ganz neue Möglichkeiten"
+
   * August 15, 2018, [SRF 10vor10](https://www.srf.ch/play/tv/10vor10/video/maschinen-unter-uns-ki-beim-bewerbungsverfahren?id=fa3bf1a4-a30d-4031-906a-33e0616626b1&startTime=6.089776&station=69e8ac16-4327-4af4-b873-fd5cd6e895a7): "'Maschinen unter uns' - KI beim Bewerbungsverfahren" (starting at min. 04:37)
   
     [<img alt="SRF 10vor10 @ ZHAW" src="http://stdm.github.io/images/10vor10_KI_hiring.jpg"/>](http://stdm.github.io/downloads/press/2018-08-15_10vor10.avi)
