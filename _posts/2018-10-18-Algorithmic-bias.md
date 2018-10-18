@@ -1,5 +1,5 @@
 ---
-title: 'The problematic term "algorithmic bias"'
+title: 'Algorithmic bias: important topic, problematic term'
 layout: post
 date: 2018-10-18
 modified: 2018-10-18
