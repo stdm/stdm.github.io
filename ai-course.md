@@ -21,19 +21,19 @@ This is the companion website to my one semester course on Artificial Intelligen
 
 | Topic | Lecture (videos) | Lab | AIMA book |
 | --- | --- | --- | --- |
-| Introduction | [V01: Introduction](http://stdm.github.io/downloads/courses/AI/V01_Introduction.pdf) ([a](https://youtu.be/tvN09avji_Y), [b](https://youtu.be/93A9-nyMBVE)) | [P01: Reading assignment](http://stdm.github.io/downloads/courses/AI/P01_ReadingAssignment.zip) | ch. 1 |
+| **Introduction** | [V01: Introduction](http://stdm.github.io/downloads/courses/AI/V01_Introduction.pdf) ([a](https://youtu.be/tvN09avji_Y), [b](https://youtu.be/93A9-nyMBVE)) | [P01: Reading assignment](http://stdm.github.io/downloads/courses/AI/P01_ReadingAssignment.zip) | ch. 1 |
 | | [V02: Intelligent agents](http://stdm.github.io/downloads/courses/AI/V02_IntelligentAgents.pdf)	([a](https://youtu.be/YKe-XPa2r-s), [b](https://youtu.be/5oB9TmzflQc)) | [P02: 2048 game playing agent](http://stdm.github.io/downloads/courses/AI/P02_2048.zip) | ch. 2 |
-| Search | [V03: Problem solving through search](http://stdm.github.io/downloads/courses/AI/V03_ProblemSolvingThroughSearch.pdf) ([a](https://youtu.be/ozgIDsWvRVU), [b](https://youtu.be/naOEvcKT77g)) | | ch. 3 |
+| **Search** | [V03: Problem solving through search](http://stdm.github.io/downloads/courses/AI/V03_ProblemSolvingThroughSearch.pdf) ([a](https://youtu.be/ozgIDsWvRVU), [b](https://youtu.be/naOEvcKT77g)) | | ch. 3 |
 | | [V04: Local and adversarial search](http://stdm.github.io/downloads/courses/AI/V04_LocalAndAdversarialSearch.pdf) ([a](https://youtu.be/pLquR8LvWJ4), [b](https://youtu.be/Y9K7b0k5kxo)) | | ch. 5 (+4) |
 | | [V05: Constraint satisfaction problems](http://stdm.github.io/downloads/courses/AI/V05_ConstrainSatisfactionProblems.pdf)	| [P03: Constraint satisfaction problems & Datalog](http://stdm.github.io/downloads/courses/AI/P03_CSP_Datalog.zip) | ch. 6 |
-| Planning | V06a: Knowledge, reasoning & logic | | ch. 7 |
+| **Planning** | V06a: Knowledge, reasoning & logic | | ch. 7 |
 | | V06b: Datalog | | ch. 8 (+9) |
 | | V07: Planning | | ch. 10 (+11) |
-| Learning | V08: Learning agents	| P04: Decision trees | ch. 18.1-18.6 |
+| **Learning** | V08: Learning agents	| P04: Decision trees | ch. 18.1-18.6 |
 | | V09: Ensemble learning | | ch. 18.10-18.12 |
 | | V10: Probabilistic learning	| P05: Multimedia analysis | ch. 20 |
 | | V11: Generative modeling with neural nets | | ch. 18.7 |
-| Selected chapters | V12: AI & society	| P01b: Reading assignment, revisited | ch. 26 |
+| **Selected chapters** | V12: AI & society	| P01b: Reading assignment, revisited | ch. 26 |
 
 All links lead to documents as of fall term 2018.
 
