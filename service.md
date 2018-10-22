@@ -329,7 +329,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="press"></a>
 ## In the press 
 
-  * October 22, 2018, [TEFO Blog](https://www.tefo.ch/kuenstliche-intelligenz-wird-unser-zusammenleben-stark-veraendern/): "Experte zu Künstlicher Intelligenz: 'Sie wird unser Zusammenleben stark verändern'"
+  * October 22, 2018, [TEFO Blog](https://www.tefo.ch/kuenstliche-intelligenz-wird-unser-zusammenleben-stark-veraendern/): Interview zu künstlicher Intelligenz
 
   * October 10, 2018, [ZHAW Impact](https://stdm.github.io/downloads/press/2018-10-10_ZHAW-Impact_Columni.pdf): "KI bietet ganz neue Möglichkeiten"
 
