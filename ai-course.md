@@ -25,7 +25,7 @@ This is the companion website to my one semester course on Artificial Intelligen
 | | [V02: Intelligent agents](http://stdm.github.io/downloads/courses/AI/V02_IntelligentAgents.pdf)	([a](https://youtu.be/YKe-XPa2r-s), [b](https://youtu.be/5oB9TmzflQc)) | [P02: 2048 game playing agent](http://stdm.github.io/downloads/courses/AI/P02_2048.zip) | ch. 2 |
 | Search | [V03: Problem solving through search](http://stdm.github.io/downloads/courses/AI/V03_ProblemSolvingThroughSearch.pdf) ([a](https://youtu.be/ozgIDsWvRVU), [b](https://youtu.be/naOEvcKT77g)) | | ch. 3 |
 | | [V04: Local and adversarial search](http://stdm.github.io/downloads/courses/AI/V04_LocalAndAdversarialSearch.pdf) ([a](https://youtu.be/pLquR8LvWJ4), [b](https://youtu.be/Y9K7b0k5kxo)) | | ch. 5 (+4) |
-| | V05: Constraint satisfaction problems	| P03: Constraint satisfaction problems & Datalog | ch. 6 |
+| | [V05: Constraint satisfaction problems](http://stdm.github.io/downloads/courses/AI/V05_ConstrainSatisfactionProblems.pdf)	| [P03: Constraint satisfaction problems & Datalog](http://stdm.github.io/downloads/courses/AI/P03_CSP_Datalog.zip) | ch. 6 |
 | Planning | V06a: Knowledge, reasoning & logic | | ch. 7 |
 | | V06b: Datalog | | ch. 8 (+9) |
 | | V07: Planning | | ch. 10 (+11) |
