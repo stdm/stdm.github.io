@@ -260,6 +260,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * 09/2016-ongoing: Co-founder and member of the board of the [Swiss Alliance for Data-Intensive Services](http://www.data-service-alliance.ch), a Innosuisse-funded [National Thematic Network](https://www.kti.admin.ch/kti/en/home/unsere-foerderangebote/fuer-forschende/vernetzungsmoeglichkeiten.html)
     
     [<img alt="Data+Service" src="http://stdm.github.io/images/data+service.png"/>](http://www.data-service-alliance.ch)
+  * 08/2016-10/2018: Founder and academic co-lead of the Machine Learning Clinic, an Expert Group of the [Swiss Alliance for Data-Intensive Services](https://data-service-alliance.ch/expertise/expert-groups)
+    
   * 11/2014-ongoing: Vice president & member of the board of [SGAICO](https://sgaico.swissinformatics.org/), the Swiss Group for Artificial Intelligence & Cognitive Science
     
     [<img alt="SGAICO" src="http://stdm.github.io/images/sgaico.jpg"/>](https://sgaico.swissinformatics.org/)
