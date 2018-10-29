@@ -104,6 +104,8 @@ My 2009 ACM Multimedia paper on [Unfolding Speaker Clustering Potential – a Bi
 
 [<img alt="Architecture of the successful RNN model for speaker clustering" src="http://stdm.github.io/images/RNN_architecture.jpg"/>](http://stdm.github.io/images/RNN_architecture.jpg)
 
+This line of research has also lead to work on other audio processing tasks like media segmentation and classification, musical instrument recognition, audio fingerprinting, or voice transfer, mainly driven forward in student thesis projects.
+
 #### Selected references (see also [below](#publications))
 
   * [Stadelmann, T. and Freisleben, B., 2009, October. Unfolding speaker clustering potential: a biomimetic approach. In _Proceedings of the 17th ACM international conference on Multimedia_ (pp. 185-194). ACM.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=18337079226826578816)

@@ -15,4 +15,6 @@ I am a computer scientist by training, an AI guy by passion, and a machine perce
 
 My current [research interests](https://stdm.github.io/research/) revolve around deep neural networks for pattern recognition problems, and reinforcement learning for general control.
 
+Personally, I like kitesurfing and mountainbiking, enjoy playing music on stringed instruments (guitars, bass), and am a follower of [Jesus Christ](https://odb.org/). I try living by the following values (my closer colleagues know I am not there yet): excellence; wisdom; honor all people; mercy for failure; and courage.
+
 Please also have a look at my [personal profile at my university's website](http://www.zhaw.ch/=stdm) for a CV, contact data and the like.
