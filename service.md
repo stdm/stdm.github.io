@@ -35,8 +35,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
     Invited talk at [Studerus Technology Forum 2018](https://www.tefo.ch/),
     Zurich, Switzerland, November 22, 2018
     
-  * **Science Talk**
-    SATW TecNight Frauenfeld, Kantonsschule Frauenfeld, Switzerland, November 15, 2018
+  * [**Science Talk**](https://www.satw.ch/de/tecday/tecnights/tecnight-frauenfeld/programm/publication/big-data-kuenstliche-intelligenz-chancen-und-risiken/)
+    [SATW TecNight Frauenfeld](https://www.satw.ch/tecday/tecnights/tecnight-frauenfeld/), Kantonsschule Frauenfeld, Switzerland, November 15, 2018
     
   * **Document Analysis with Deep Learning**
     Invited talk at 2nd Data+Service Use Case Talk, Technopark Zurich, October 31, 2018
