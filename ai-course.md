@@ -27,7 +27,7 @@ This is the companion website to my one semester course on Artificial Intelligen
 | | [V04: Local and adversarial search](http://stdm.github.io/downloads/courses/AI/V04_LocalAndAdversarialSearch.pdf) ([a](https://youtu.be/pLquR8LvWJ4), [b](https://youtu.be/Y9K7b0k5kxo)) | | ch. 5 (+4) |
 | | [V05: Constraint satisfaction problems](http://stdm.github.io/downloads/courses/AI/V05_ConstrainSatisfactionProblems.pdf) ([a](https://youtu.be/q_I3FuSQTiE), [b](https://youtu.be/7m_o0X2zvog))	| [P03: Constraint satisfaction problems & Datalog](http://stdm.github.io/downloads/courses/AI/P03_CSP_Datalog.zip) | ch. 6 |
 | **Planning** | [V06a: Knowledge, reasoning & logic](http://stdm.github.io/downloads/courses/AI/V06a_KnowledgeReasoningLogic.pdf) ([a](https://youtu.be/aCJ7mJRQnCY), [b](https://youtu.be/xgIBhrtMe_w)) | (in-class: [P03b: Logic exercises](http://stdm.github.io/downloads/courses/AI/P03b_LogicExercises.pdf)) | ch. 7 |
-| | [V06b: Datalog](http://stdm.github.io/downloads/courses/AI/V06b_Datalog.pdf) ([a](), [b]()) | | ch. 8 (+9) |
+| | [V06b: Datalog](http://stdm.github.io/downloads/courses/AI/V06b_Datalog.pdf) | | ch. 8 (+9) |
 | | V07: Planning | | ch. 10 (+11) |
 | **Learning** | V08: Learning agents	| P04: Decision trees | ch. 18.1-18.6 |
 | | V09: Ensemble learning | | ch. 18.10-18.12 |
