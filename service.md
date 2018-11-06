@@ -78,6 +78,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
     CERN, Meyrin, Switzerland, August 29, 2018
 
     [<img alt="Video" src="http://stdm.github.io/images/innosuisse-plenary-2018.jpg"/>](https://youtu.be/SQRVSB6Rpsk)
+    [Video on youtube](https://youtu.be/SQRVSB6Rpsk)
     [Blogpost on main points](https://data-service-alliance.ch/blog/blog/what-kind-of-digitalization-support-do-smes-need)
 
   * [**What have the Front Lines of Deep Learning to do with the Future of Humanity?**](https://stdm.github.io/downloads/talks/2018-07-21_InauguralLecture.pdf)
