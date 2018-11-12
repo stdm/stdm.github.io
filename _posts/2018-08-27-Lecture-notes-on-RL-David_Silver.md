@@ -188,7 +188,7 @@ Slide numbers refer to the [downloadbale slides](http://www0.cs.ucl.ac.uk/staff/
     * Advantage: can be efficiently trained by supervised learning (helps in evironments with complicated policies [sharp/tactically decisive decisions like in chess where one move can decide winning or loosing] like games that need lookahead) -> it is a more compact/useful representation of the environment
   * Model-based RL
     * Sample-based planning: most simple yet powerful approach, uses learnt model only to sample simulated experience from it
-    * it helps because it breaks the curse of dimensionality (or rather branching factor for successive events): we sacrifice the detailed probabilities given by the learnt model and thus focus on the more likely stuff) -> slide 18
+    * it helps because it breaks the curse of dimensionality (or rather branching factor for successive events): we sacrifice the detailed probabilities given by the learnt model and thus focus on the more likely stuff -> slide 18
     * Slide 19: reasoning for our approach taken in the "Complexity 4.0" project & chapter (use a simulation model to learn an ML model)
     * How to trade off learning the model vs. learning the "real thing" (value function/policy)? you act everytime you have to (gives real experience, used to build best model possible), then plan (simulate trajectories form model to improve q/pi) as long as you have time to think before you have to act again
   * Integrated architectures
@@ -196,13 +196,12 @@ Slide numbers refer to the [downloadbale slides](http://www0.cs.ucl.ac.uk/staff/
   * Simulation-based search
     * Forward search: Key idea is to not explore the entire state space, but focus on what matters from the current state onwards (i.e., we only solve the sub-MDP starting from "now")
     * Simulation-based search: forward search using sample-based planning based on a model (i.e., not build/consider whole tree from now on, but sample trajectories, then apply model-free RL to them) -> slide 33
-    * Monte-Carlo search: idea from above using MC methods for the model-free RL part (otherwise TD search); evaluating actions in an MC way just means to take the means of the returns; simple MC search just evaluates the actions at the root (in contrast to MC tree search)
     * Monte-Carlo tree search: search tree is built from scratch starting from current state and contains all states we visit in the course of action together with the actions we took, together with MC evaluations (q-values)
     * MCTS process: repeat {evaluation (see above); improvement of tree (simulation) policy by methods from last lectures, e.g. epsilon-greedy} => this is just MC control (from previous lectures) applied to simulated experience -> slide 37
     * MCTS converges to q*
     * MCTS advantages: breaks "curse of dimensionality" by sampling; focuses on the "now" and the most likely successful actions through sampling; nice computational properties (parallelization, scaling, efficient)
     * TD search has the advantage to potentially reduce the variance and being more efficient (than MC; more so if choosing lambda well), thanks to bootstrapping
-    * Recap on TD/MC: instead of waiting until the end of each simulated episode and taking the final reward to build up statistics of the value of our "now" state by taking the average (MC), we bootstrap a new estimate of the value of each intermediate state by means of current reward plus discounted expectec reward according to current q estimate (TD)
+    * Recap on TD/MC: instead of waiting until the end of each simulated episode and taking the final reward to build up statistics of the value of our "now" state by taking the average (MC), we bootstrap a new estimate of the value of each intermediate state by means of current reward plus discounted expected reward according to current q estimate (TD)
     * TD is especially effective in environments where states can be reached from many different paths (so that you already might to know something about the next state and have it encoded in your current q estimate) => so only difference between MC and TD search is in how we update our q values -> slide 51
     * Slide 53: black is MCTS, blue is Dyna-2 (long-term memory from real experience, short-term memory from simulated experience)
     * Final word: tree helps to focus "imagination" (planning) on the relevant part of the state/action space, and thus learning from simulation is highly effective
