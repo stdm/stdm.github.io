@@ -37,6 +37,9 @@ Much to the suprise of my younger self, I have become a very active networker, p
     
   * [**Science Talk**](https://www.satw.ch/de/tecday/tecnights/tecnight-frauenfeld/programm/publication/big-data-kuenstliche-intelligenz-chancen-und-risiken/)
     [SATW TecNight Frauenfeld](https://www.satw.ch/tecday/tecnights/tecnight-frauenfeld/), Kantonsschule Frauenfeld, Switzerland, November 15, 2018
+  
+  * [**AlphaZero: Learning Games from Selfplay**](https://stdm.github.io/downloads/talks/2018-11-15_AlphaZero-LearningGamesFromSelfplay.pdf)
+    Talk at the [Datalab](https://zhaw.ch/datalab) Seminar, Winterthur, November 15, 2018  
     
   * [**Document Analysis with Deep Learning**](https://stdm.github.io/downloads/talks/2018-10-31_DocumentAnalysis-DeepLearning.pdf)
     Invited talk at 2nd Data+Service Use Case Talks, Zurich, October 31, 2018
@@ -78,7 +81,9 @@ Much to the suprise of my younger self, I have become a very active networker, p
     CERN, Meyrin, Switzerland, August 29, 2018
 
     [<img alt="Video" src="http://stdm.github.io/images/innosuisse-plenary-2018.jpg"/>](https://youtu.be/SQRVSB6Rpsk)
+    
     [Video on youtube](https://youtu.be/SQRVSB6Rpsk)
+    
     [Blogpost on main points](https://data-service-alliance.ch/blog/blog/what-kind-of-digitalization-support-do-smes-need)
 
   * [**What have the Front Lines of Deep Learning to do with the Future of Humanity?**](https://stdm.github.io/downloads/talks/2018-07-21_InauguralLecture.pdf)
