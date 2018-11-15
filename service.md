@@ -41,6 +41,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * [**AlphaZero: Learning Games from Selfplay**](https://stdm.github.io/downloads/talks/2018-11-15_AlphaZero-LearningGamesFromSelfplay.pdf)
     Talk at the [Datalab](https://zhaw.ch/datalab) Seminar, Winterthur, November 15, 2018  
     
+    [Video on youtube](https://youtu.be/_Z31-5D3RZg)
+    
   * [**Document Analysis with Deep Learning**](https://stdm.github.io/downloads/talks/2018-10-31_DocumentAnalysis-DeepLearning.pdf)
     Invited talk at 2nd Data+Service Use Case Talks, Zurich, October 31, 2018
   
