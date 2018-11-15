@@ -40,6 +40,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
   
   * [**AlphaZero: Learning Games from Selfplay**](https://stdm.github.io/downloads/talks/2018-11-15_AlphaZero-LearningGamesFromSelfplay.pdf)
     Talk at the [Datalab](https://zhaw.ch/datalab) Seminar, Winterthur, November 15, 2018  
+
+    [<img alt="Video" src="http://stdm.github.io/images/AlphaZero.jpg"/>](https://youtu.be/_Z31-5D3RZg)
     
     [Video on youtube](https://youtu.be/_Z31-5D3RZg)
     
