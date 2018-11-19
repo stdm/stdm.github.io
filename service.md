@@ -344,6 +344,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="press"></a>
 ## In the press 
 
+  * November 15, 2018, [SATW](https://stdm.github.io/downloads/press/2018-11-15_TecNight-Frauenfeld.pdf): "[...] Besonders grossen Anklang fand der Science Talk zum Thema 'Big Data und Künstliche Intelligenz', aber auch die übrigen Talks und Referate waren gut besucht [...]"
+
   * October 22, 2018, [TEFO Blog](https://www.tefo.ch/kuenstliche-intelligenz-wird-unser-zusammenleben-stark-veraendern/): Interview zu künstlicher Intelligenz
 
   * October 10, 2018, [ZHAW Impact](https://stdm.github.io/downloads/press/2018-10-10_ZHAW-Impact_Columni.pdf): "KI bietet ganz neue Möglichkeiten"
@@ -363,6 +365,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * January 25, 2018, [Nidwaldener Zeitung](https://stdm.github.io/downloads/press/2018-01-25_Nidwaldner-Zeitung.pdf): "Robotik interessiert am meisten"
     
     [<img alt="Discussions" src="http://stdm.github.io/images/nidwaldener-zeitung.jpg"/>](https://stdm.github.io/downloads/press/2018-01-25_Nidwaldner-Zeitung.pdf)
+  
+  * January 24, 2018, [SATW Blog](https://stdm.github.io/downloads/press/2018-01-24_TecNight-Sarnen.pdf): "[...] Im zweiten Talk wurde Thilo Stadelmann, ZHAW School of Engineering, gelöchert, der das Thema Big Data und Künstliche Intelligenz sehr kurzweilig vermittelte. [...]"
   
   * November 2017, [Aktuelle Technik](https://stdm.github.io/downloads/press/2017-11-01_Aktuelle-Technik.pdf): "Es geht weniger um Intelligenz als um das Lösen komplexer Probleme mit dem Computer"
   
