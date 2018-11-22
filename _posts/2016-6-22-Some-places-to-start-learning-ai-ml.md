@@ -2,7 +2,7 @@
 title: 'Some places to start learning AI & ML'
 layout: post
 date: 2016-06-22
-modified: 2018-08-24
+modified: 2018-11-22
 category: education, research, mentoring, MOOCs, ML, RL, CNNs, RNNs
 comments: true
 ---
@@ -16,6 +16,7 @@ Here's a (regularly updated) collection of links to my favourite [MOOC](https://
   * [Advanced Topics: Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Silver, University College London ([video lectures](http://videolectures.net/rldm2015_silver_reinforcement_learning/))
   * [Deep Reinforcement Learning Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) by Pieter Abbeel et al., UC Berkeley
   * [Foundations of Machine Learning](https://bloomberg.github.io/foml) by David Rosenberg, Bloomberg (more geared towards math and statistical learning than Andrew's course above)
+  * [KI1: Artificial Intelligence](https://stdm.github.io/ai-course/) by Thilo Stadelmann at ZHAW, based on the [AIMA book](http://aima.cs.berkeley.edu/)
 
 These reading resources might also be of interest (use cases, deep dives into specific methods):
 
@@ -31,11 +32,12 @@ These reading resources might also be of interest (use cases, deep dives into sp
       * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Chris Olah
       * [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/) by Chris Olah and Chan Carter
   * on Reinforcement Learning 
-      * [Simple AlphaZero](https://web.stanford.edu/~surag/posts/alphazero.html) by Surag Nair
+      * [Simple AlphaZero](https://web.stanford.edu/~surag/posts/alphazero.html) by Surag Nair (on MCTS with neural nets)
       * [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html) by Alex Irpan
       * [Lessons Learned Reproducing a Deep Reinforcement Learning Paper](http://amid.fish/reproducing-deep-rl) by Matthew Rahtz
-      * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Andrej Karpathy
-      * [Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/) by Tambet Matiisen
+      * [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Andrej Karpathy (on Policy Gradients)
+      * [Answer to "What is the way to understand Proximal Policy Optimization Algorithm in RL?"](https://stackoverflow.com/questions/46422845/what-is-the-way-to-understand-proximal-policy-optimization-algorithm-in-rl) by Matthew Wilson (on PPO)
+      * [Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/) by Tambet Matiisen (on DQN)
   * on meta learning
       * [Deep Learning-to-Learn Robotic Control](https://www.youtube.com/watch?v=TERCdog1ddE) by Pieter Abbeel
       * [Learning to learn](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/) by Chelsea Finn
