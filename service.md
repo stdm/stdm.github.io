@@ -31,9 +31,9 @@ Much to the suprise of my younger self, I have become a very active networker, p
     Invited talk at [IAM MediaLab](https://www.zhaw.ch/de/linguistik/forschung/medienlinguistik/iam-medialab/), 
     Winterthur, Switzerland, December 06, 2018
 
-  * **Was Sie von KI erwarten können**
+  * [**Was Sie von KI erwarten können**](https://stdm.github.io/downloads/talks/2018-11-22_Was-Sie-von-KI-erwarten-koennen.pdf)
     Invited talk at [Studerus Technology Forum 2018](https://www.tefo.ch/),
-    Zurich, Switzerland, November 22, 2018
+    Regensdorf, Switzerland, November 22, 2018
     
   * [**Science Talk**](https://www.satw.ch/de/tecday/tecnights/tecnight-frauenfeld/programm/publication/big-data-kuenstliche-intelligenz-chancen-und-risiken/)
     [SATW TecNight Frauenfeld](https://www.satw.ch/tecday/tecnights/tecnight-frauenfeld/), Kantonsschule Frauenfeld, Switzerland, November 15, 2018
