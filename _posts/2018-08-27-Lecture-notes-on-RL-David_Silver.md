@@ -240,7 +240,7 @@ Slide numbers refer to the [downloadbale slides](http://www0.cs.ucl.ac.uk/staff/
     * TD Leaf: update also the decisive leaf node and the rest of its branch (not just the root) in the tree of the search on s_t with the "winning" node's value in the minimax search of s_{t+1}
     * TreeStrap: different from TD Leaf, this is also effective in self play and from random weights (works by updating/learning to predict any value in the search tree; this doesn't mix the backup from search with the backup from randomly searching as previous ideas did and which is not effective)
   * RL in imperfect information games:
-    * Naively applying MCTS/UCT etc. (that are so effective in fully observable gams like Go) to games of imperfect information usually "blows up"/diverges
+    * Naively applying MCTS/UCT etc. (that are so effective in fully observable games like Go) to games of imperfect information usually "blows up"/diverges
     * Need a search tree per player built by smooth-UCT search (that remembers the average policy of the opponent by counting avery action they ever played during self-play)
   * Games & RL - a recipe:
     * v: often binary linear, in future more NN
