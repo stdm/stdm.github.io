@@ -5,10 +5,10 @@ comments: true
 ---
 
 ### Braschler, Stadelmann, Stockinger (Eds.)
-**Springer, 2018 (to appear)**
+**Springer, 2019 (to appear)**
 
-Companion website to the upcoming book *Applied Data Science - Lessons Learned for the Data-Driven Business*, to appear late 2018.
-_Update_: The manuscript has been submitted to the publisher as of end of September, 2018.
+Companion website to the upcoming book *Applied Data Science - Lessons Learned for the Data-Driven Business*, to appear June 2019.
+_Update_: The manuscript has been submitted to the publisher as of end of September, 2018. Production starts early December 2018.
 
 ## Synopsis
 
@@ -37,11 +37,11 @@ The book aims at learners and professionals in the academic and business sector:
 
 Part I introcuces the main topic: What is applied data science? What is a data product? And what traits do successful data scientists have? It then approaches important aspects of societal integration of data science, namely legal aspects as well as risks and side effects. 
 
-  * [*Preface*](https://stdm.github.io/downloads/papers/ADS_2018_Preface.pdf) by the editors
-  * [*Introduction*](https://stdm.github.io/downloads/papers/ADS_2018_Introduction.pdf) by Stadelmann et al.
-  * [*Data Science*](https://stdm.github.io/downloads/papers/ADS_2018_DataScience.pdf) by Braschler et al.
-  * [*Data Scientists*](https://stdm.github.io/downloads/papers/ADS_2018_DataScientists.pdf) by Stadelmann et al.
-  * [*Data Products*](https://stdm.github.io/downloads/papers/ADS_2018_DataProducts.pdf) by Meierhofer et al.
+  * [*Preface*](https://stdm.github.io/downloads/papers/ADS_2019_Preface.pdf) by the editors
+  * [*Introduction*](https://stdm.github.io/downloads/papers/ADS_2019_Introduction.pdf) by Stadelmann et al.
+  * [*Data Science*](https://stdm.github.io/downloads/papers/ADS_2019_DataScience.pdf) by Braschler et al.
+  * [*Data Scientists*](https://stdm.github.io/downloads/papers/ADS_2019_DataScientists.pdf) by Stadelmann et al.
+  * [*Data Products*](https://stdm.github.io/downloads/papers/ADS_2019_DataProducts.pdf) by Meierhofer et al.
   * *Legal Aspects* by Hegy et al.
   * *Risks and Side Effects* by Cap
 
@@ -54,12 +54,12 @@ Part II is a curated collection of guest contributions emphasizing the "lessons 
   * *On developing Data Science* by Brodie
   * *The ethics of Big Data applications in the consumer sector* by Christen et al.
   * *Statistical Modelling* by Ruckstuhl & Dettling
-  * [*Beyond ImageNet - Deep Learning in Industrial Practice*](https://stdm.github.io/downloads/papers/ADS_2018_DeepLearning.pdf) by Stadelmann et al.
+  * [*Beyond ImageNet - Deep Learning in Industrial Practice*](https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf) by Stadelmann et al.
   * *The Beauty of Small Data – an Information Retrieval Perspective* by Braschler
   * *Narrative Visualization of Open Data* by Ackermann & Stockinger
   * *Security of Data Science and Data Science for Security* by Tellenbach et al.
   * *Online Anomaly Detection over Big Data Streams* by Rettig et al.
-  * [*Modeling and Simulation for Complexity Management in Business Operations*](https://stdm.github.io/downloads/papers/ADS_2018_Complexity.pdf) by Hollenstein et al.
+  * [*Modeling and Simulation for Complexity Management in Business Operations*](https://stdm.github.io/downloads/papers/ADS_2019_Complexity.pdf) by Hollenstein et al.
   * *Data Warehousing and Exploratory Analysis for Market Monitoring* by Geiger & Stockinger
   * *Mining Human Behavior Datasets for Insight, Prediction, and Planning* by Leidig & Wolffe
   * *Economic Measures of Forecast Accuracy for Demand Planning - A Case-Based Discussion* by Ott et al.
@@ -69,7 +69,7 @@ Part II is a curated collection of guest contributions emphasizing the "lessons 
 
 #### Part III - Lessons learned
 
-Part III, written by the editors, reflects on the major data science technologies and their relations to the subdisciplines and application fields, together with a summary of the "lessons learned" from all contributed chapters. Based on these, the chapter [*Lessons Learned from Challenging Data Science Case Studies*](https://stdm.github.io/downloads/papers/ADS_2018_LessonsLearned.pdf) highlights future directions for the field and society at large.
+Part III, written by the editors, reflects on the major data science technologies and their relations to the subdisciplines and application fields, together with a summary of the "lessons learned" from all contributed chapters. Based on these, the chapter [*Lessons Learned from Challenging Data Science Case Studies*](https://stdm.github.io/downloads/papers/ADS_2019_LessonsLearned.pdf) highlights future directions for the field and society at large.
 
 
 ## About the authors
