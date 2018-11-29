@@ -19,7 +19,7 @@ This is the companion website to my one semester course on Artificial Intelligen
 <a name="syllabus"></a>  
 ## Syllabus
 
-| Topic | Lecture (videos) | Lab | AIMA book |
+| Topic | Lecture (videos in German) | Lab | AIMA book |
 | --- | --- | --- | --- |
 | **Introduction** | [V01: Introduction](http://stdm.github.io/downloads/courses/AI/V01_Introduction.pdf) ([a](https://youtu.be/tvN09avji_Y), [b](https://youtu.be/93A9-nyMBVE)) | [P01: Reading assignment](http://stdm.github.io/downloads/courses/AI/P01_ReadingAssignment.zip) | ch. 1 |
 | | [V02: Intelligent agents](http://stdm.github.io/downloads/courses/AI/V02_IntelligentAgents.pdf)	([a](https://youtu.be/YKe-XPa2r-s), [b](https://youtu.be/5oB9TmzflQc)) | [P02: 2048 game playing agent](http://stdm.github.io/downloads/courses/AI/P02_2048.zip) | ch. 2 |
@@ -36,6 +36,10 @@ This is the companion website to my one semester course on Artificial Intelligen
 | **Selected chapters** | V12: AI & society	| P01b: Reading assignment, revisited | ch. 26 |
 
 All links lead to documents as of fall term 2018.
+
+Additional material [optional]: 
+- [AlphaZero: Learning games from selfplay](http://stdm.github.io/downloads/talks/2018-11-15_AlphaZero-LearningGamesFromSelfplay.pdf) ([video](https://youtu.be/_Z31-5D3RZg) in English)
+- [Deep Learning in the wild](https://stdm.github.io/downloads/talks/2018-09-21_DL-in-the-wild.pdf) ([video](https://youtu.be/efCyLhSACoU) in English)
 
 
 <a name="resources"></a>  
