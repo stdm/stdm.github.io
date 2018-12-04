@@ -31,7 +31,7 @@ This is the companion website to my one semester course on Artificial Intelligen
 | | [V07: Planning](http://stdm.github.io/downloads/courses/AI/V07_Planning.pdf) ([a](https://youtu.be/g5AShEMANRA), [b](https://youtu.be/Dfc2QHGgO8k)) | | ch. 10 (+11) |
 | **Learning** | [V08: Learning agents](http://stdm.github.io/downloads/courses/AI/V08_LearningAgents.pdf) ([a](https://youtu.be/G1xk4-s4XT8), [b](https://youtu.be/rAXGU-KI9UU))	| [P04: Decision trees](http://stdm.github.io/downloads/courses/AI/P04_DecisionTrees.pdf) | ch. 18.1-18.6 |
 | | [V09: Ensemble learning](http://stdm.github.io/downloads/courses/AI/V09_EnsembleLearning.pdf) ([a](https://youtu.be/YLNzeJjNSW0), [b](https://youtu.be/6RwTjMDLwA8)) | | ch. 18.10-18.12 |
-| | V10: Probabilistic learning	| P05: Multimedia analysis | ch. 20 |
+| | [V10: Probabilistic learning](http://stdm.github.io/downloads/courses/AI/V10_ProbabilisticLearning.pdf)	| [P05: Multimedia analysis](http://stdm.github.io/downloads/courses/AI/P05_MultimediaAnalysis.zip) | ch. 20 |
 | | V11: Generative modeling with neural nets | | ch. 18.7 |
 | **Selected chapters** | V12: AI & society	| P01b: Reading assignment, revisited | ch. 26 |
 
