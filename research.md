@@ -13,7 +13,7 @@ This page is dedicated to the research of me and my group. My academic profile i
 4. [Publications](#publications)
 
 [<img alt="Team" src="http://stdm.github.io/images/AIML-team-2018.jpg"/>](http://stdm.github.io/images/AIML-team-2018.jpg)
-The AI/ML research team at [ZHAW Information Engineering group](https://www.zhaw.ch/de/engineering/institute-zentren/init/information-engineering/) 2018: [Dr. Frank-Peter Schilling](www.fp-schilling.de), [Mohammadreza Amirian](https://www.zhaw.ch/en/about-us/person/amir/), Prof. Dr. Thilo Stadelmann, [Ismail Elezi](https://github.com/TheRevanchist), [Lukas Tuggener](https://tuggeluk.github.io/), [Katharina Rombach](https://www.zhaw.ch/en/about-us/person/romc/), [Daniel Neururer](https://ba-pub.engineering.zhaw.ch/WebPublication/Flyer.pdf?version=Bachelorarbeit2018&code=BA18_wyrs_3&language=de) (missing on the picture: Stefan Huschauer).
+The AI/ML research team at [ZHAW Information Engineering group](https://www.zhaw.ch/de/engineering/institute-zentren/init/information-engineering/) 2018: [Dr. Frank-Peter Schilling](http://www.fp-schilling.de), [Mohammadreza Amirian](https://www.zhaw.ch/en/about-us/person/amir/), Prof. Dr. Thilo Stadelmann, [Ismail Elezi](https://github.com/TheRevanchist), [Lukas Tuggener](https://tuggeluk.github.io/), [Katharina Rombach](https://www.zhaw.ch/en/about-us/person/romc/), [Daniel Neururer](https://ba-pub.engineering.zhaw.ch/WebPublication/Flyer.pdf?version=Bachelorarbeit2018&code=BA18_wyrs_3&language=de) (missing on the picture: Stefan Huschauer).
 
 
 <a name="purpose"></a>
