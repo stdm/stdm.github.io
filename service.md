@@ -27,7 +27,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
     Sternenhof, Reinach, Switzerland, February 01, 2019
 
 #### 2018
-  * **Deep Learning und Medien**
+  * [**Deep Learning und Medien**](https://stdm.github.io/downloads/talks/2018-12-06_Deep-Learning-und-Medien.pdf)
     Invited talk at [IAM MediaLab](https://www.zhaw.ch/de/linguistik/forschung/medienlinguistik/iam-medialab/), 
     Winterthur, Switzerland, December 06, 2018
 
