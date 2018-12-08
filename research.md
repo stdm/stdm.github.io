@@ -4,24 +4,43 @@ layout: page
 comments: true
 ---
 
-This page is dedicated to the research of me and my group. My academic profile including a CV, list of grants (projects) and bibliography can also be found on my [ZHAW profile page](http://www.zhaw.ch/=stdm). A preserved version of my research at the University of Marburg can be found at my [Phillips University profile page](http://www.informatik.uni-marburg.de/~stadelmann/research.html). 1
+This page is dedicated to the research of me and my group. My academic profile including a CV and a list of grants (projects) can also be found on my [ZHAW profile page](http://www.zhaw.ch/=stdm). A preserved version of my research at the University of Marburg can be found at my [Phillips University profile page](http://www.informatik.uni-marburg.de/~stadelmann/research.html).
 
 ### TOC
-1. [Statement of purpose](#purpose)
+1. [The group](#group)
 2. [Recent work](#recent)
 3. [Collaborations](#collaborations)
 4. [Publications](#publications)
 
+
+<a name="group"></a>
+## The group
+
 [<img alt="Team" src="http://stdm.github.io/images/AIML-team-2018.jpg"/>](http://stdm.github.io/images/AIML-team-2018.jpg)
-The AI/ML research team at [ZHAW Information Engineering group](https://www.zhaw.ch/de/engineering/institute-zentren/init/information-engineering/) 2018: [Dr. Frank-Peter Schilling](http://www.fp-schilling.de), [Mohammadreza Amirian](https://www.zhaw.ch/en/about-us/person/amir/), Prof. Dr. Thilo Stadelmann, [Ismail Elezi](https://github.com/TheRevanchist), [Lukas Tuggener](https://tuggeluk.github.io/), [Katharina Rombach](https://www.zhaw.ch/en/about-us/person/romc/), [Daniel Neururer](https://ba-pub.engineering.zhaw.ch/WebPublication/Flyer.pdf?version=Bachelorarbeit2018&code=BA18_wyrs_3&language=de) (missing on the picture: Stefan Huschauer).
+The AI/ML research team at [ZHAW Information Engineering group](https://www.zhaw.ch/de/engineering/institute-zentren/init/information-engineering/), 2018: Frank-Peter Schilling, Mohammadreza Amirian, Thilo Stadelmann, Ismail Elezi, Lukas Tuggener, Katharina Rombach, Daniel Neururer (missing on the picture: Stefan Huschauer).
 
 
-<a name="purpose"></a>
-## Statement of purpose
+The AI/ML team performs **pattern recognition** research, working on a wide variety of tasks on image, audio or generally "signal" data. As a group, we focus on **deep learning** methodology and **reinforcement learning**, inspired by biological learning. Each task that we study has its own learning target (e.g., detection, classification, clustering, segmentation, novelty detection, control) and use case (e.g., **predictive maintenance**, **speaker diarization**  for multimedia indexing, **document analysis**, **optical music recognition**, **computer vision** for industrial quality control, **automated machine learning**, **deep reinforcement learning** for automated game play or building control), which in turn sheds light on different aspects of the learning process. 
 
-I am a **pattern recognition** researcher working on a wide variety of tasks on image, audio or generally "signal" data. I come from the tradition of the field of **artificial intelligence**, and my tool is **machine learning**. My research interest is to discover and understand how intelligent behaviour can be evoked through self-learning, including practical (robustness, generalization) and ethical (algorithmic bias) side effects. I focus on **deep learning** methodology, inspired by biological learning. Each task that I study has its own learning target (e.g., detection, classification, clustering, segmentation, novelty detection, control) and use case (e.g., **predictive maintenance**, **speaker diarization**  for multimedia indexing, **document analysis**, **optical music recognition**, **computer vision** for industrial quality control, **automated machine learning**, **deep reinforcement learning** for automated game play or building control), which in turn sheds light on different aspects of the learning process. 
+The group has very diverse backgrounds, which helps us complement each other's skills:
+  
+  * Prof. Dr. Thilo Stadelmann, team lead: I come from the tradition of the field of **artificial intelligence**, and my tool is **machine learning**. My research interest is to discover and understand how smart behaviour can be evoked through self-learning, including practical (robustness, generalization) and ethical (algorithmic bias) side effects. 
 
+  * [Lukas Tuggener](https://tuggeluk.github.io/), PhD student: B.Sc. (ZHAW) in industrial engineering, M.Sc. (ETH) in statistics, doctorate in conjunction with [Juergen Schmidhuber](http://people.idsia.ch/~juergen/) of the University of Lugano / Switzerland
 
+  * [Ismail Elezi](https://github.com/TheRevanchist), PhD student: B.Sc. & M.Sc. in computer science, doctorate in conjunction with [Marcello Pelillo](http://www.dsi.unive.it/~pelillo/) of Ca'Foscari Unversity of Venice / Italy
+
+  * [Mohammadreza Amirian](https://www.zhaw.ch/en/about-us/person/amir/), PhD student: B.Sc. & M.Sc. in electrical engineering, doctorate in conjunction with [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/institut/hidden/f-schwenker/) of Ulm University / Germany
+
+  * [Katharina Rombach](https://www.zhaw.ch/en/about-us/person/romc/), PhD student: B.Sc. & M.Sc. in mechanical engineering, focussing on reinforcement learning
+
+  * Stefan Huschauer, M.Sc. student: B.Sc. computer science, focussing on computer vision
+
+  * [Daniel Neururer](https://ba-pub.engineering.zhaw.ch/WebPublication/Flyer.pdf?version=Bachelorarbeit2018&code=BA18_wyrs_3&language=de), M.Sc. student: B.Sc. in computer science
+
+  * [Dr. Frank-Peter Schilling](http://www.fp-schilling.de), academic guest: PhD in physics, PostDoc at CERN
+  
+ 
 <a name="recent"></a>
 ## Recent work
 

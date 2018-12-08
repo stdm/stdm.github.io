@@ -4,6 +4,8 @@ layout: page
 comments: true
 ---
 
+[<img alt="Thilo & Lasse" src="http://stdm.github.io/images/thilo-lasse-rheinfall.jpg"/>](http://stdm.github.io/images/thilo-lasse-rheinfall.jpg)
+
 The staff prayer meeting at ZHAW takes place roughly biweekly at the premises of the [Stadtmission Winterthur](http://www.stadtmission-winterthur.ch/) (entry from the rear side at Neumarkt). The corner room Technikumstrasse/Neumarkt on the ground floor usually hosts staff and faculty members from different departments and all Christian denominations. Over lunchtime, we sing, hear a passage from the Bible, and split into smaller groups to pray for each other's needs as well as for our university, colleagues and students. Once a semester, we go out to lunch together afterwards. The meetings are lead by [Josef Adam](https://www.zhaw.ch/en/about-us/person/adjo/).
 
 Fall term 2018 meetings: Thursdays, 12:00-12:30
