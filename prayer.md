@@ -18,4 +18,4 @@ Fall term 2018 meetings: Thursdays, 12:00-12:30
   * Dec 06
   * Dec 20
 
-If you want to meet fellow Christian colleagues, be encouraged and prayed for, and make use of our privilege to ask God's blessing for our place of work, we cordially welcome you at any of our meetings. If you are a student, you might be interested in the [VBG Winterthur](http://winti.vbg.net/).
+If you want to meet fellow Christian colleagues, be encouraged and prayed for, and make use of our privilege to ask God's blessing for our place of work, we cordially welcome you at any of our meetings. If you are in Zurich, you might be interested in the [Dozentenforum](http://www.dozentenforum.ch/) of colleagues form ETH and UZH. If you are a student, you might be interested in the [VBG Winterthur](http://winti.vbg.net/).
