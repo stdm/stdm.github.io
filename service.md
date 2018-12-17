@@ -25,6 +25,10 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * **Industrielle Anwendungsmöglichkeiten für Deep Learning-basierte Künstliche Intelligenz**
     Invited talk at [Endress+Hauser](https://www.de.endress.com/en) Technologieforum on "Künstliche Intelligenz",
     Sternenhof, Reinach, Switzerland, February 01, 2019
+    
+  * **Learning games from selfplay**
+    Invited talk at [Reinforcement Learning Zurich Meetup](https://www.meetup.com/de-DE/Reinforcement-Learning-Zurich/events/257269115/), January 21, 2019
+    
 
 #### 2018
   * [**Deep Learning und Medien**](https://stdm.github.io/downloads/talks/2018-12-06_Deep-Learning-und-Medien.pdf)
