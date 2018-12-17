@@ -2,12 +2,20 @@
 layout: post
 title: Lesenswert
 date: 2018-02-12
-modified: 2018-09-11
+modified: 2018-12-17
 category: society, readings
 comments: true
 ---
 
 This is a regularly updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title).
+
+* [Der Krieg, den man nicht sehen kann](https://www.zeit.de/digital/internet/2018-12/likewar-russland-usa-europa-social-media-informationskrieg-fake-news-bots-medienmanipulation-buch/komplettansicht) by Peter W. Singer & Emerson T. Brooking, Dec 16, 2018.
+
+  Subject: LikeWar
+  
+  Key words: social media, information war, desinformation, asymmetric conflict
+  
+  Abstract: In sozialen Medien wird gerade der moderne Krieg geführt. Akteure sind einzelne Menschen, Terrorgruppen – und Staaten wie Russland. Ein Buch legt dar, wie sie vorgehen.
 
 * [Jedes Wort setzt einen Rahmen](https://www.zeit.de/kultur/2018-09/framing-deutung-hetzjagd-chemnitz-hans-georg-maassen/komplettansicht) by Houssam Hamade & Viola Nordsieck, Sep 11, 2018.
 
