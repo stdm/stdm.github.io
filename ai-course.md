@@ -33,7 +33,7 @@ This is the companion website to my one semester course on Artificial Intelligen
 | | [V09: Ensemble learning](http://stdm.github.io/downloads/courses/AI/V09_EnsembleLearning.pdf) ([a](https://youtu.be/YLNzeJjNSW0), [b](https://youtu.be/6RwTjMDLwA8)) | | ch. 18.10-18.12 |
 | | [V10: Probabilistic learning](http://stdm.github.io/downloads/courses/AI/V10_ProbabilisticLearning.pdf)	([a](https://youtu.be/T0TWEuNKJ0I), [b](https://youtu.be/DEh2HriZGUo)) | [P05: Multimedia analysis](http://stdm.github.io/downloads/courses/AI/P05_MultimediaAnalysis.zip) | ch. 20 |
 | | [V11: Generative modeling with neural nets](http://stdm.github.io/downloads/courses/AI/V11_NeuralGenerativeModeling.pdf) ([a](https://youtu.be/TLXBsmBBoAY), [b](https://youtu.be/KlOO7-FSeJU)) | (see [this blog post](https://stdm.github.io/Experimenting-with-generative-adversarial-nets/) for a code example) | ch. 18.7 |
-| **Selected chapters** | [V12: AI & society](http://stdm.github.io/downloads/courses/AI/V12_SocietalImpact.pdf)	| [P01b: Reading assignment, revisited](http://stdm.github.io/downloads/courses/AI/P01b_Revisited.zip) | ch. 26 |
+| **Selected chapters** | [V12: AI & society](http://stdm.github.io/downloads/courses/AI/V12_SocietalImpact.pdf) ([a](https://youtu.be/aryGTsyS-Ic), [b](https://youtu.be/lYuFc3MLm9s))	| [P01b: Reading assignment, revisited](http://stdm.github.io/downloads/courses/AI/P01b_Revisited.zip) | ch. 26 |
 
 All links lead to documents as of fall term 2018.
 
@@ -47,7 +47,7 @@ Additional material [optional]:
 
 **Current slides, lab descriptions, terms & conditions:** see [OLAT](https://olat.zhaw.ch/auth/RepositoryEntry/219152410/CourseNode/95069693647358) (you can login as guest even without a ZHAW account).
 
-**Video recordings:** see YouTube playlist for [fall 2018](https://www.youtube.com/watch?v=tvN09avji_Y&list=PLdUGLyqPtOZoaW4xBWMpDA37vIlbsh2xY) term.
+**Video recordings:** see YouTube playlist for [fall 2018](https://www.youtube.com/watch?v=tvN09avji_Y&list=PLdUGLyqPtOZoaW4xBWMpDA37vIlbsh2xY) term as well as [this video](https://youtu.be/_zLktk63ezM) for exam preparation.
 
 **Audio-only recordings:** see Collecture for [fall 2017](https://collecture.io/groups/65dda3ed-4946-4f40-8af8-ba55e964b140?autosub=true) and [spring 2017](https://collecture.io/groups/99275ecf-ae1a-4aaa-8375-0f484fa352ef?autosub=true) terms.
 
