@@ -9,6 +9,14 @@ comments: true
 
 This is a regularly updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title).
 
+* [Distanzkontrolle](https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/naehe-und-distanz/naehe-und-distanz-distanzkontrolle?utm_source=zeit&utm_medium=parkett) by Wolf Lotter, Dec 2018.
+
+  Subject: Nähe und Distanz
+  
+  Key words: anstand, sitte, höflichkeit als mittel zum finden des richtigen abstands, habitus, äquidistanz, stachelschweine, schopenhauer
+  
+  Abstract: Im Leben und im Geschäft zählt eines: der richtige Abstand. Über Nähe und Distanz und ihr richtiges Maß.
+
 * [Der Krieg, den man nicht sehen kann](https://www.zeit.de/digital/internet/2018-12/likewar-russland-usa-europa-social-media-informationskrieg-fake-news-bots-medienmanipulation-buch/komplettansicht) by Peter W. Singer & Emerson T. Brooking, Dec 16, 2018.
 
   Subject: LikeWar
