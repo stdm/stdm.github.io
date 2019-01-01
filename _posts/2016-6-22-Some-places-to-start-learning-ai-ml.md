@@ -34,6 +34,7 @@ These reading resources might also be of interest (use cases, deep dives into sp
       * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Chris Olah
       * [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/) by Chris Olah and Chan Carter
   * on Reinforcement Learning 
+      * [OpenAI Spinning Up](http://spinningup.openai.com/en/latest/index.html) by Josh Achiam of OpenAI (on how to start research in deep RL)
       * [Simple AlphaZero](https://web.stanford.edu/~surag/posts/alphazero.html) by Surag Nair (on MCTS with neural nets)
       * [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html) by Alex Irpan
       * [Lessons Learned Reproducing a Deep Reinforcement Learning Paper](http://amid.fish/reproducing-deep-rl) by Matthew Rahtz
