@@ -2,12 +2,20 @@
 layout: post
 title: Lesenswert
 date: 2018-02-12
-modified: 2018-12-17
+modified: 2019-01-01
 category: society, readings
 comments: true
 ---
 
 This is a regularly updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title).
+
+* [Was tun, wenn man die Weltformel gefunden hat?](https://www.faz.net/aktuell/feuilleton/was-tun-wenn-man-die-weltformel-gefunden-hat-15964493.html) by Sybille Anderl, Dec 31, 2018.
+
+  Subject: Erfolglose Theorieschöpfer
+  
+  Key words: layman science, credibility, paradigm shift, conspiracy theories
+  
+  Abstract: Den Kosmos nicht erklären zu können, kann schmerzhaft sein. Noch schlimmer ist aber, wenn man ihn versteht – und niemand einem glaubt. Ein Einblick in das Schicksal einsamer Welterkenner.
 
 * [Distanzkontrolle](https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2018/naehe-und-distanz/naehe-und-distanz-distanzkontrolle?utm_source=zeit&utm_medium=parkett) by Wolf Lotter, Dec 2018.
 
