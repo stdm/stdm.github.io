@@ -34,7 +34,7 @@ These reading resources might also be of interest (use cases, deep dives into sp
       * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Chris Olah
       * [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/) by Chris Olah and Chan Carter
   * on Reinforcement Learning 
-      * [OpenAI Spinning Up](http://spinningup.openai.com/en/latest/index.html) by Josh Achiam of OpenAI (on how to start research in deep RL)
+      * [OpenAI Spinning Up](http://spinningup.openai.com/en/latest/index.html) by Joshua Achiam of OpenAI (on how to start research in deep RL)
       * [Simple AlphaZero](https://web.stanford.edu/~surag/posts/alphazero.html) by Surag Nair (on MCTS with neural nets)
       * [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html) by Alex Irpan
       * [Lessons Learned Reproducing a Deep Reinforcement Learning Paper](http://amid.fish/reproducing-deep-rl) by Matthew Rahtz
@@ -51,8 +51,9 @@ These reading resources might also be of interest (use cases, deep dives into sp
 
 Generally: If you want to make AI/ML (or more broadly, data science) a career, check out the following guides:
 
+  * [Spinning Up as a Deep RL Researcher](http://spinningup.openai.com/en/latest/spinningup/spinningup.html) by Joshua Achiam
   * [How to Become a Data Scientist](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-1-3) by Alex Smith (also [part 2](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-2-3))
   * [Data Scientist als Beruf](http://stdm.github.io/downloads/HMD_2016.pdf) by my colleagues Kurt, Andreas and myself (in German -> updated and revised version in English coming soon as a [book](https://stdm.github.io/data-science-book/))
   * [A survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/) by Andrej Karpathy
 
-Additionally, try attending events of the [Swiss Alliance for Data-Intensive Services](http://www.data-service-alliance.ch), think about joining [SGAICO](http://www.s-i.ch/sgaico/), and subscribe to the [Data Machina newsletter](https://www.getrevue.co/profile/datamachina).
+Additionally, try attending events of the [Reinforcement Learning Zurich Meetup](https://www.meetup.com/de-DE/Reinforcement-Learning-Zurich/) and the [Swiss Alliance for Data-Intensive Services](http://www.data-service-alliance.ch), think about joining [SGAICO](http://www.s-i.ch/sgaico/), and subscribe to the [Data Machina newsletter](https://www.getrevue.co/profile/datamachina).
