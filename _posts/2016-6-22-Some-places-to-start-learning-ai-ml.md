@@ -2,7 +2,7 @@
 title: 'Some places to start learning AI & ML'
 layout: post
 date: 2016-06-22
-modified: 2018-12-02
+modified: 2019-01-01
 category: education, research, mentoring, MOOCs, ML, RL, CNNs, RNNs
 comments: true
 ---
