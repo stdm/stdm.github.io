@@ -24,7 +24,7 @@ These reading resources might also be of interest (use cases, deep dives into sp
 
   * on CNNs 
       * [Deep learning and neural networks](http://neuralnetworksanddeeplearning.com/index.html) by Michael Nielsen: a gentle introduction to neural networks in e-book form
-      * [Beyond ImageNet - Deep Learning Industrial Practice](https://stdm.github.io/downloads/papers/Beyond_ImageNet_preprint_2018.pdf) by me and some colleagues
+      * [Beyond ImageNet - Deep Learning Industrial Practice](https://stdm.github.io/downloads/papers/Beyond_ImageNet_preprint_2019.pdf) by me and some colleagues
   * on generative models
       * [Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/) by Brandon Amos (on DCGANs)
       * [Generative Models](https://openai.com/blog/generative-models/) by the OpenAI team (on DCGANs, VAEs and PixelRNNs)
