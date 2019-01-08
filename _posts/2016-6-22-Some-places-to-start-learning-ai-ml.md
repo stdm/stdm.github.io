@@ -2,7 +2,7 @@
 title: 'Some places to start learning AI & ML'
 layout: post
 date: 2016-06-22
-modified: 2019-01-01
+modified: 2019-01-08
 category: education, research, mentoring, MOOCs, ML, RL, CNNs, RNNs
 comments: true
 ---
@@ -19,6 +19,8 @@ Here's a (regularly updated) collection of links to my favourite [MOOC](https://
   * [KI1: Artificial Intelligence](https://stdm.github.io/ai-course/) by Thilo Stadelmann at ZHAW, based on the [AIMA book](http://aima.cs.berkeley.edu/)
 
 An [alternative collection](https://www.kdnuggets.com/2018/11/10-free-must-see-courses-machine-learning-data-science.html) of courses (partially overlapping, though) is curated by the KDnuggest team.
+
+If you are completely new to the topic of deep learning or even consider yourself a layperson in computer science, but want to get an introduction to some current frontiers of the state of the art, you can have a look at the excellent popular scientific compilation of (Spektrum der Wissenschaft kompakt 06.18: Künstliche Intelligenz - wie Maschinen lernen lernen)[https://www.spektrum.de/pdf/spektrum-kompakt-kuenstliche-intelligenz-maschinelles-lernen/1588356].
 
 These reading resources might also be of interest (use cases, deep dives into specific methods):
 
