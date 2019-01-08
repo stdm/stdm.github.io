@@ -20,7 +20,7 @@ Here's a (regularly updated) collection of links to my favourite [MOOC](https://
 
 An [alternative collection](https://www.kdnuggets.com/2018/11/10-free-must-see-courses-machine-learning-data-science.html) of courses (partially overlapping, though) is curated by the KDnuggest team.
 
-If you are completely new to the topic of deep learning or even consider yourself a layperson in computer science, but want to get an introduction to some current frontiers of the state of the art, you can have a look at the excellent popular scientific compilation of (Spektrum der Wissenschaft kompakt 06.18: Künstliche Intelligenz - wie Maschinen lernen lernen)[https://www.spektrum.de/pdf/spektrum-kompakt-kuenstliche-intelligenz-maschinelles-lernen/1588356].
+If you are completely new to the topic of deep learning or even consider yourself a layperson in computer science, but want to get an introduction to some current frontiers of the state of the art, you can have a look at the excellent popular scientific compilation of [Spektrum der Wissenschaft kompakt 06.18: Künstliche Intelligenz - wie Maschinen lernen lernen](https://www.spektrum.de/pdf/spektrum-kompakt-kuenstliche-intelligenz-maschinelles-lernen/1588356).
 
 These reading resources might also be of interest (use cases, deep dives into specific methods):
 
