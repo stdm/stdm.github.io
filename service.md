@@ -29,6 +29,10 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * **Learning games from selfplay**
     Invited talk at [Reinforcement Learning Zurich Meetup](https://www.meetup.com/de-DE/Reinforcement-Learning-Zurich/events/257269115/), January 21, 2019
     
+  * **AI Bootcamp** 
+    Invited 3-day block course version of the [AI Course](https://stdm.github.io/ai-course/) at [HAMK](https://www.hamk.fi/?lang=en), 
+    Hämeenlinna, Finland, January 14-16, 2019
+    
 
 #### 2018
   * [**Deep Learning und Medien**](https://stdm.github.io/downloads/talks/2018-12-06_Deep-Learning-und-Medien.pdf)
