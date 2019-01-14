@@ -279,7 +279,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
     [<img alt="Data+Service" src="http://stdm.github.io/images/data+service.png"/>](http://www.data-service-alliance.ch)
   * 08/2016-10/2018: Founder and academic co-lead of the Machine Learning Clinic, an Expert Group of the [Swiss Alliance for Data-Intensive Services](https://data-service-alliance.ch/expertise/expert-groups)
     
-  * 11/2014-ongoing: Vice president & member of the board of [SGAICO](https://sgaico.swissinformatics.org/), the Swiss Group for Artificial Intelligence & Cognitive Science
+  * 11/2014-06/2018: Vice president & member of the board of [SGAICO](https://sgaico.swissinformatics.org/), the Swiss Group for Artificial Intelligence & Cognitive Science
     
     [<img alt="SGAICO" src="http://stdm.github.io/images/sgaico.jpg"/>](https://sgaico.swissinformatics.org/)
   * 05/2013-ongoing: Co-Founder, head & member of the board of the [ZHAW Datalab](http://www.zhaw.ch/datalab), the ZHAW Data Science Laboratory
@@ -289,7 +289,11 @@ Much to the suprise of my younger self, I have become a very active networker, p
 &nbsp;
 
 #### Conferences & events
-  * Member of the scientific committee, [FTAL Scientific Conference on Industrial Applied Data Science](http://www.ftal.net/de/scientific-conference), Lugano, Switzerland, October 18-19, 2018
+  * Member of program committee, [28th International Joint Conference on Artificial Intelligence (IJCAI)](https://ijcai19.org/), Macao, China, August 10-16, 2019
+
+  * Member of steering board, [6th Swiss Conference on Data Science (IEEE technically co-sponsored)](https://sds2019.ch/), Bern, Switzerland, June 14, 2019
+  
+  * Member of scientific committee, [FTAL Scientific Conference on Industrial Applied Data Science](http://www.ftal.net/de/scientific-conference), Lugano, Switzerland, October 18-19, 2018
 
   * Member of program committee, [8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://clem.diism.unisi.it/~annpr2018/Program%20committee.html), Siena, Italy, September 19-21, 2018
     
