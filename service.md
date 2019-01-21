@@ -26,7 +26,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
     Invited talk at [Endress+Hauser](https://www.de.endress.com/en) Technologieforum on "Künstliche Intelligenz",
     Sternenhof, Reinach, Switzerland, February 01, 2019
     
-  * **Learning games from selfplay**
+  * [**Learning games from selfplay**](https://stdm.github.io/downloads/talks/2019-01-21_LearningGamesFromSelfplay.pdf)
     Invited talk at [Reinforcement Learning Zurich Meetup](https://www.meetup.com/de-DE/Reinforcement-Learning-Zurich/events/257269115/), January 21, 2019
     
   * **AI Bootcamp** 
