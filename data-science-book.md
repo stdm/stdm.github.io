@@ -9,11 +9,11 @@ comments: true
 
 Companion website to the upcoming book *Applied Data Science - Lessons Learned for the Data-Driven Business*, to appear June 2019.
 
-_Update_: Cover design is drafted and ISBN is out (978-3-030-11820-4) since January 29, 2019. Pre-order available e.g. at [Amazon](https://www.amazon.de/Applied-Data-Science-Data-Driven-Business/dp/3030118207/ref=sr_1_1?ie=UTF8&qid=1548749787&sr=8-1&keywords=9783030118204).
+_Update Jan 29, 2019_: Cover design is drafted and ISBN is out (978-3-030-11820-4). Pre-order available e.g. at [Amazon](https://www.amazon.de/Applied-Data-Science-Data-Driven-Business/dp/3030118207/ref=sr_1_1?ie=UTF8&qid=1548749787&sr=8-1&keywords=9783030118204).
 
-_Update_: Production started December 07, 2018.
+_Update Dec 07, 2018_: Production started.
 
-_Update_: The manuscript has been submitted to the publisher as of end of September, 2018. 
+_Update Sep 28, 2018_: The manuscript has been submitted to the publisher. 
 
 [<img alt="Book cover" src="http://stdm.github.io/images/apd-cover.jpg"/>](http://stdm.github.io/images/apd-cover.jpg)
 
