@@ -51,7 +51,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
     [<img alt="Video" src="http://stdm.github.io/images/AlphaZero.jpg"/>](https://youtu.be/_Z31-5D3RZg)
     
-    [Video on youtube](https://youtu.be/_Z31-5D3RZg)
+    [Youtube](https://youtu.be/_Z31-5D3RZg)
     
   * [**Document Analysis with Deep Learning**](https://stdm.github.io/downloads/talks/2018-10-31_DocumentAnalysis-DeepLearning.pdf)
     Invited talk at 2nd Data+Service Use Case Talks, Zurich, October 31, 2018
@@ -76,7 +76,9 @@ Much to the suprise of my younger self, I have become a very active networker, p
     Invited talk at [**ANNPR 2018**, the 8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://annpr2018.diism.unisi.it/), 
     Siena, Italy, September 19-21, 2018
     
-    [Video on youtube](https://youtu.be/efCyLhSACoU)
+    [<img alt="Video" src="http://stdm.github.io/images/dl-in-the-wild.jpg"/>](https://youtu.be/efCyLhSACoU)
+    
+    [Youtube](https://youtu.be/efCyLhSACoU)
     
   * [**Capturing Suprasegmental Features of a Voice with RNNs for Improved Speaker Clustering**](https://stdm.github.io/downloads/talks/2018-09-21_Speaker-clustering-with-RNNs.pdf),
     Paper presentation at [**ANNPR 2018**, the 8th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](http://annpr2018.diism.unisi.it/), 
@@ -86,7 +88,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
     Invited talk at [3rd European COST Conference on Mathematics for Industry in Switzerland](https://www.zhaw.ch/en/engineering/institutes-centres/iamp/events/3rd-european-cost-conference-on-mathematics-for-industry-in-switzerland/),
     Winterthur, Switzerland, September 06, 2018
     
-    [Video on youtube](https://youtu.be/-TuDwRh2fU4)
+    [Youtube](https://youtu.be/-TuDwRh2fU4)
     
   * [**What kind of digitalisation support can Innosuisse offer to SMEs?**](https://stdm.github.io/downloads/talks/2018-08-29_SMEs_Digitalization.pdf),
     Invited input talk at [Innosuisse Plenary 2018](https://www.innosuisse.ch/inno/de/home/ueber-uns/organisation/innosuisse_plenary.html), breakout session "SMEs and Digitalization",
@@ -94,7 +96,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
     [<img alt="Video" src="http://stdm.github.io/images/innosuisse-plenary-2018.jpg"/>](https://youtu.be/SQRVSB6Rpsk)
     
-    [Video on youtube](https://youtu.be/SQRVSB6Rpsk)
+    [Youtube](https://youtu.be/SQRVSB6Rpsk)
     
     [Blogpost on main points](https://data-service-alliance.ch/blog/blog/what-kind-of-digitalization-support-do-smes-need)
 
@@ -278,7 +280,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
 ## Community offices
 
 #### Boards & leadership
-  * 01/2019-ongoing: Fellow of the [European Centre for Living Technology ECLT](https://www.unive.it/pag/23664/)
+  * 01/2019-ongoing: Fellow of the [European Centre for Living Technology (ECLT)](https://www.unive.it/pag/23664/), Venice, Italy
   
     [<img alt="ECLT" src="http://stdm.github.io/images/eclt.png"/>](https://www.unive.it/pag/23664/)
 
