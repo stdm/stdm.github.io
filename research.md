@@ -38,7 +38,7 @@ The group has very diverse backgrounds, which helps us complement each other's s
 
   * [Daniel Neururer](https://ba-pub.engineering.zhaw.ch/WebPublication/Flyer.pdf?version=Bachelorarbeit2018&code=BA18_wyrs_3&language=de), M.Sc. student: B.Sc. in systems engineering (ZHAW)
 
-  * [Dr. Frank-Peter Schilling](http://www.fp-schilling.de), academic guest: Diplom & PhD (U. Heidelberg) in physics, PostDoc at CERN
+  * [Dr. Frank-Peter Schilling](http://www.fp-schilling.de), senior researcher: Diplom & PhD (U. Heidelberg) in physics, PostDoc at CERN
 
 &nbsp;
 
