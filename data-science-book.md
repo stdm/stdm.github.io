@@ -8,7 +8,11 @@ comments: true
 **Springer, 2019 (to appear)**
 
 Companion website to the upcoming book *Applied Data Science - Lessons Learned for the Data-Driven Business*, to appear June 2019.
+
 _Update_: The manuscript has been submitted to the publisher as of end of September, 2018. Production started December 07, 2018.
+
+[<img alt="Book cover" src="http://stdm.github.io/images/apd-cover.jpg"/>](http://stdm.github.io/images/apd-cover.jpg)
+
 
 ## Synopsis
 
