@@ -279,6 +279,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 #### Boards & leadership
   * 01/2019-ongoing: Fellow of the [European Centre for Living Technology ECLT](https://www.unive.it/pag/23664/)
+  
+    [<img alt="ECLT" src="http://stdm.github.io/images/eclt.png"/>](https://www.unive.it/pag/23664/)
 
   * 09/2016-ongoing: Co-founder and member of the board of the [Swiss Alliance for Data-Intensive Services](http://www.data-service-alliance.ch), a Innosuisse-funded [National Thematic Network](https://www.kti.admin.ch/kti/en/home/unsere-foerderangebote/fuer-forschende/vernetzungsmoeglichkeiten.html)
     
