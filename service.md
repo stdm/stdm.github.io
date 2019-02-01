@@ -22,7 +22,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
     Invited talk at [Forum Christlicher Wirtschaftswissenschaftler](https://www.ethikinstitut.de/index.php?id=266),
     Giessen, Germany, March 29, 2019
   
-  * **Industrielle Anwendungsmöglichkeiten für Deep Learning-basierte Künstliche Intelligenz**
+  * [**Industrielle Anwendungsmöglichkeiten für Deep Learning-basierte Künstliche Intelligenz**](https://stdm.github.io/downloads/talks/2019-02-01_Industrial-Applications-DL-AI.pdf)
     Invited talk at [Endress+Hauser](https://www.de.endress.com/en) Technologieforum on "Künstliche Intelligenz",
     Sternenhof, Reinach, Switzerland, February 01, 2019
     
