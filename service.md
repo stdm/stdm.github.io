@@ -4,7 +4,10 @@ layout: page
 comments: true
 ---
 
-Much to the suprise of my younger self, I have become a very active networker, public speaker and community builder, involved in the leadership of organizations like the [ZHAW Datalab](http://www.zhaw.ch/datalab), [SGAICO](https://sgaico.swissinformatics.org/) and the [Swiss Alliance for Data-Intensive Services](http://www.data-service-alliance.ch).
+Much to the suprise of my younger self, I have become a very active networker, public speaker, and involved in the leadership of different organizations. You find information related to such academic services below.
+
+**Booking:** I occasionally give **keynote talks at public or private events** outside of the academic sphere. Current topics are [what to expect from AI and deep learning](https://stdm.github.io/downloads/talks/2018-11-22_Was-Sie-von-KI-erwarten-koennen.pdf), including an introduction to the methodology for laypersons; a [showcase of current industrial applications of deep learning technology](https://stdm.github.io/downloads/talks/2019-02-01_Industrial-Applications-DL-AI.pdf); and discussions of specific lessons learned for businesses and society in the areas of [data science](https://stdm.github.io/downloads/talks/2018-10-19_DS-Lessons-Learned.pdf) and [digitalization](https://stdm.github.io/downloads/talks/2018-08-29_SMEs_Digitalization.pdf), including a risky forecast to [a future with AI](https://stdm.github.io/downloads/talks/2018-07-21_InauguralLecture.pdf). If you want to hire me as a speaker for your event, please get in touch [via email](https://stdm.github.io/about). 
+
 
 ### TOC 
 1. [Talks](#talks)
@@ -16,6 +19,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 <a name="talks"></a>
 ## Talks 
+
 
 #### 2019
   * **Wie maschinelles Lernen den Markt verändert**
