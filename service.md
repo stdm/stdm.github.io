@@ -306,6 +306,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 #### Journals, conferences & events
   * Reviewer for [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78), [EURASIP Journal on Audio, Speech, and Music Processing](https://asmp-eurasipjournals.springeropen.com/) and the [Science Media Center Germany](https://www.sciencemediacenter.de/)
+  
+  * Member of organizing committee, 9th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition, September 2019, Switzerland
 
   * Member of program committee, [28th International Joint Conference on Artificial Intelligence (IJCAI)](https://ijcai19.org/), Macao, China, August 10-16, 2019
 
@@ -369,6 +371,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 <a name="press"></a>
 ## In the press 
+
+  * February 08, 2019, [Luzerner Zeitung](https://stdm.github.io/downloads/press/2018-10-10_ZHAW-Impact_Columni.pdf2019-02-08_Luzerner-Zeitung.pdf): "[...] Im Anschluss an die Aufführung vom 23. Februar sprechen ein Historiker (Prof. Dr. Caspar Hirschi), Wirtschafts-Ethiker (Prof. Dr. Thomas Beschorner) und K.I.-Spezialist (Prof. Dr. Thilo Stadelmann) darüber, ob Maschinen ein menschliches Aussehen haben sollten oder nicht."
 
   * November 15, 2018, [SATW](https://stdm.github.io/downloads/press/2018-11-15_TecNight-Frauenfeld.pdf): "[...] Besonders grossen Anklang fand der Science Talk zum Thema 'Big Data und Künstliche Intelligenz', aber auch die übrigen Talks und Referate waren gut besucht [...]"
 
