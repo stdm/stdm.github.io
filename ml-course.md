@@ -4,7 +4,7 @@ layout: page
 comments: true
 ---
 
-This is the companion website to the one semester course on Machine Learning that I co-teach together with [Prof. Christoph Würsch](https://www.ntb.ch/mitarbeiter/christoph-wuersch/) of the NTB Buchs. The course is part of the [master of science in engineering](https://www.msengineering.ch/en/home.html) program / specialization in data science that is offered collaboratively by the engineering faculties of the Swiss universities of applied sciences. This website reflects the status quo as of spring term 2019.
+This is the companion website to the one semester course on Machine Learning that I co-teach with [Prof. Christoph Wuersch](https://www.ntb.ch/mitarbeiter/christoph-wuersch/). The course is part of the [Master of Science in Engineering](https://www.msengineering.ch/en/home.html) (MSE) program / specialization in data science that is offered collaboratively by the engineering faculties of the Swiss universities of applied sciences. This website reflects the status quo as of spring term 2019.
 
 ### TOC
 1. [Syllabus](#syllabus)
@@ -13,7 +13,7 @@ This is the companion website to the one semester course on Machine Learning tha
 4. [Prerequisites](#prerequisites)
 
 
-[<img alt="Lecturing" src="http://stdm.github.io/images/ai-recording.jpg"/>](http://stdm.github.io/images/ai-recording.jpg)
+[<img alt="a neuron" src="http://stdm.github.io/images/neuron.jpg"/>](http://stdm.github.io/images/neuron.jpg)
 
 
 <a name="syllabus"></a>  
@@ -43,7 +43,7 @@ Additional material [optional]:
 
 - G. James et al., ["An Introduction to Statistical Learning"](http://www-bcf.usc.edu/~gareth/ISL/), 2014
 
-- K. P. Murphy, ["Machine Learning – A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/), 2012
+- K. P. Murphy, ["Machine Learning - A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/), 2012
 
 - S. Raschka, ["Python Machine Learning"](https://sebastianraschka.com/books.html), 2017 (2nd Edition)
 
