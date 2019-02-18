@@ -77,11 +77,11 @@ This course builds upon basic knowledge in math, programming and analytics/stati
 
 Covered topics include cross-cutting concerns like ML system design and debugging (how to get intuition into learned models and results) as well as feature engineering; covered algorithms include (amongst others) Support Vector Machines (SVM) and ensemble methods.
 
-  
+
 <a name="prerequisites"></a>  
 ## Prerequisites
 
-**Math**: basic calculus / linear algebra / probability calculus (e.g., derivatives, matrix multiplication, normal distribution, Bayes’ theorem)
+**Math**: basic calculus / linear algebra / probability calculus (e.g., derivatives, matrix multiplication, normal distribution, Bayes' theorem)
 
 **Statistics**: basic descriptive statistics (e.g., mean, variance, co-variance, histograms, box plots)
 
