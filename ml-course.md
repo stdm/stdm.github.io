@@ -19,20 +19,20 @@ This is the companion website to the one semester course on Machine Learning tha
 <a name="syllabus"></a>  
 ## Syllabus
 
-| Topic | Lecture (& videos) | Lab | Self study | Lecturer |
-| Preparation |  |  | P01.1-5 | |
-| Introduction | V01: Introduction | P01: Discuss ML fundamentals | P01.6-7 | stdm |
+| **Topic** | **Lecture (& videos)** | **Lab** | **Self study** | **Lecturer** |
+| **Preparation** |  |  | P01.1-5 | |
+| **Introduction** | V01: Introduction | P01: Discuss ML fundamentals | P01.6-7 | stdm |
 | | V02: Formulating learning problems | P02.1: Linear regression from scratch | | stdm |
-| Supervised learning | V03: Model assessment & selection | P04.1: Analyzing cross validation| P03 | stdm |
+| **Supervised learning** | V03: Model assessment & selection | P04.1: Analyzing cross validation| P03 | stdm |
 | | V04: SVMs | P04.2: SVM in IPython | | stdm |
 | | V05: Ensembles | P04.3: Ensembles in practice | P05 | stdm |
-| | V06.3: Debugging ML algorithms; V07.1: System development - what to give priority to? | P06.2: Applying learning curves | Raschka ch. 6; P07 | wuerc |
+| | V06.3: Debugging ML algorithms; <br> V07.1: System development - what to give priority to? | P06.2: Applying learning curves | Raschka ch. 6; P07 | wuerc |
 | | V08: Feature engineering | Lab08 | | wuerc |
 | | V09a: Probabilistic reasoning, Gaussian distribution and Bayes' theorem | Lab09a | 09a reader | wuerc |
 | | V09b: Gaussian processes | Lab09b | Do, 2017 | wuerc |
-| Unsupervised learning | V10: Dimensionality reduction | Lab10 | Raschka ch. 5 | wuerc |
+| **Unsupervised learning** | V10: Dimensionality reduction | Lab10 | Raschka ch. 5 | wuerc |
 | | V11: Clustering | Lab11 | Raschka ch. 11; Ng| wuerc |
-| Selected chapters | V12a: Learning games from selfplay | P12: Selfplay for Tic-Tac-Toe | | stdm |
+| **Selected chapters** | V12a: Learning games from selfplay | P12: Selfplay for Tic-Tac-Toe | | stdm |
 
 All links lead to documents as of soring term 2019.
 
