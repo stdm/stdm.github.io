@@ -29,9 +29,8 @@ I try to make my main courses available as free online ressources as a best effo
 <a name="theses"></a>
 ## Supervised thesis projects (all levels)
 
-| When | Level | Type | Title |
+| **When** | **Level** | **Type** | **Title** |
 | --- | --- | --- | --- |
-
 | Spring 2019 | MSc | VT2 | **Baselines for the Flatland Renforcement Learning for Train Scheduling Challenge** |
 | Spring 2019 | MSc | VT1 | **Additive Angular Margin Loss for Speaker Clustering** |
 | Spring 2019 | BSc | BA | **Benchmarking of Classical and Deep Learning Speaker Clustering Approaches** |
