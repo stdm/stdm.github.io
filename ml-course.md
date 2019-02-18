@@ -33,7 +33,7 @@ Additional material [optional]:
 
 **Current slides, lab descriptions, terms & conditions:** see [Moodle](https://moodle.msengineering.ch/course/view.php?id=1076) (you need a valid account, though).
 
-**Video recordings:** see YouTube playlist for [fall 2019]().
+**Video recordings:** see YouTube playlist for [fall 2019](https://www.youtube.com/playlist?list=PLdUGLyqPtOZp1oAg-8MRlmIsveW3NE8SQ).
 
 **Books:**
 
