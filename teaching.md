@@ -35,7 +35,7 @@ I try to make my main courses available as free online ressources as a best effo
 | Spring 2019 | MSc | VT1 | **Additive Angular Margin Loss for Speaker Clustering** |
 | Spring 2019 | BSc | BA | **Benchmarking of Classical and Deep Learning Speaker Clustering Approaches** |
 | Spring 2019 | BSc | BA | **Speaker Clustering for Real-World Data using Deep Learning** |
-| Fall 2018 | MSc | VT1 | **Successive Zoom-in Classification for Musculoskeletal Radiograph Images** |
+| Fall 2018 | MSc | VT1 | **Deep Learning-based Classification of Musculoskeletal Radiographs - Learn to Zoom from Network Response** |
 | Fall 2018 | BSc | PA | **Speaker Recognition & Diarization on Realistic Data** |
 | Fall 2018 | BSc | PA | **Reinforcement Learning Challenge: Compete in Automatic Game Playing for e.g. Doom or Bomberman** |
 | Fall 2018 | BSc | PA | **Machine Learning to Support Artists** |
