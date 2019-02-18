@@ -4,7 +4,7 @@ layout: page
 comments: true
 ---
 
-This is the companion website to the one semester course on Machine Learning that I co-teach with [Prof. Christoph Wuersch](https://www.ntb.ch/mitarbeiter/christoph-wuersch/). The course is part of the [Master of Science in Engineering](https://www.msengineering.ch/en/home.html) (MSE) program / specialization in data science that is offered collaboratively by the engineering faculties of the Swiss universities of applied sciences. This website reflects the status quo as of spring term 2019.
+This is the companion website to my one semester course on machine learning, co-taught with [Prof. Christoph Würsch](https://www.ntb.ch/mitarbeiter/christoph-wuersch/) from the NTB Buchs. The course is part of the [Master of Science in Engineering](https://www.msengineering.ch/en/home.html) (MSE) program in computer science and data science, offered collaboratively by the engineering faculties of the Swiss universities of applied sciences. This website reflects the status quo as of spring term 2019.
 
 ### TOC
 1. [Syllabus](#syllabus)
@@ -21,7 +21,7 @@ This is the companion website to the one semester course on Machine Learning tha
 
 | **Topic** | **Lecture (& videos)** | **Lab** | **Self study** | **Lecturer** |
 | **Preparation** |  |  | P01.1-5 | |
-| **Introduction** | V01: Introduction | P01: Discuss ML fundamentals | P01.6-7 | stdm |
+| **Introduction** | [V01: Introduction](https://stdm.github.io/downloads/courses/ML/V01_Introduction_MSE.pdf) | [P01: Discuss ML fundamentals](https://stdm.github.io/downloads/courses/ML/P01_ReadingAssignment_1.pdf) | P01.6-7 | stdm |
 | | V02: Formulating learning problems | P02.1: Linear regression from scratch | | stdm |
 | **Supervised learning** | V03: Model assessment & selection | P04.1: Analyzing cross validation| P03 | stdm |
 | | V04: SVMs | P04.2: SVM in IPython | | stdm |
@@ -31,7 +31,7 @@ This is the companion website to the one semester course on Machine Learning tha
 | | V09a: Probabilistic reasoning, Gaussian distribution and Bayes' theorem | Lab09a | 09a reader | wuerc |
 | | V09b: Gaussian processes | Lab09b | Do, 2017 | wuerc |
 | **Unsupervised learning** | V10: Dimensionality reduction | Lab10 | Raschka ch. 5 | wuerc |
-| | V11: Clustering | Lab11 | Raschka ch. 11; Ng| wuerc |
+| | V11: Clustering | Lab11 | Raschka ch. 11; Ng | wuerc |
 | **Selected chapters** | V12a: Learning games from selfplay | P12: Selfplay for Tic-Tac-Toe | | stdm |
 
 All links lead to documents as of soring term 2019.
@@ -58,6 +58,8 @@ Additional material [optional]:
 - K. P. Murphy, ["Machine Learning - A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/), 2012
 
 - S. Raschka, ["Python Machine Learning"](https://sebastianraschka.com/books.html), 2017 (2nd Edition)
+
+- further [literature list](https://stdm.github.io/downloads/courses/ML/literature-guide.xlsx)
 
 
 <a name="objectives"></a>  
