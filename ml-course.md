@@ -4,7 +4,7 @@ layout: page
 comments: true
 ---
 
-This is the companion website to my one semester course on machine learning, co-taught with [Prof. Christoph Würsch](https://www.ntb.ch/mitarbeiter/christoph-wuersch/) from the NTB Buchs. The course is part of the [Master of Science in Engineering](https://www.msengineering.ch/en/home.html) (MSE) program in computer science and data science, offered collaboratively by the engineering faculties of the Swiss universities of applied sciences. This website reflects the status quo as of spring term 2019.
+This is the companion website to my one semester course on machine learning, co-taught with [Prof. Christoph Wuersch](https://www.ntb.ch/mitarbeiter/christoph-wuersch/) from the NTB Buchs. The course is part of the [Master of Science in Engineering](https://www.msengineering.ch/en/home.html) (MSE) program in computer science and data science, offered collaboratively by the engineering faculties of the Swiss universities of applied sciences. This website reflects the status quo as of spring term 2019.
 
 ### TOC
 1. [Syllabus](#syllabus)
