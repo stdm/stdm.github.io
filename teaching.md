@@ -4,7 +4,9 @@ layout: page
 comments: true
 ---
 
-My main teaching revolves around [AI](http://stdm.github.io/ai-course) and [Machine Learning](https://moodle.msengineering.ch/course/view.php?id=670) on different levels. The course materials are on the pages of my university (partly accessible freely; partly with audio recordings; check links above). I was awarded a final round nomination for the "Best Teaching - Best Practices" award of my university in 2017 for [my contribution](https://stdm.github.io/Science-applied) under the topic "Wissenschaftlichkeit" ("scientific characater"). My shorter teaching statement [from 2008](http://www.informatik.uni-marburg.de/~stadelmann/teaching.html) is still valid: "I love teaching. To initiate inside someone the vision of an idea, to see understanding grow, these are moments I greatly enjoy."
+My main teaching revolves around **Artificial Intelligence** and **Machine Learning** in different formats and for different audiences. I was awarded a final round nomination for the "Best Teaching - Best Practices" award of my university in 2017 for [my contribution](https://stdm.github.io/Science-applied) under the topic "Wissenschaftlichkeit" ("scientific characater"). My shorter teaching statement [from 2008](http://www.informatik.uni-marburg.de/~stadelmann/teaching.html) is still valid: "I love teaching. To initiate inside someone the vision of an idea, to see understanding grow, these are moments I greatly enjoy."
+
+**Video lectures**: [AI](http://stdm.github.io/ai-course) & [ML](http://stdm.github.io/ml-course)
 
 ### TOC
 1. [Online courses](#courses)
@@ -20,7 +22,7 @@ My main teaching revolves around [AI](http://stdm.github.io/ai-course) and [Mach
 I try to make my main courses available as free online ressources as a best effort offer.
 
   * [Artificial Intelligence](http://stdm.github.io/ai-course) (KI1): final year elective course in the Bachelor of Computer Science degree program of ZHAW. Available online with full course material, videos (currently shot: HS 2018) and audio-only recordings. Taught in German, material in English.
-  * Machine Learning (TSM_MachLe): elective technical scientific specialization module on the Master of Science in Engineering program, focus area ICT / Data Science (planned FS 2019). Material & lectures in English.
+  * [Machine Learning](http://stdm.github.io/ml-course) (TSM_MachLe): elective technical scientific specialization module on the [Master of Science in Engineering](https://www.msengineering.ch/en/home.html) program, focus area ICT / Data Science. Material & lectures in English.
 
 
 <a name="theses"></a>
@@ -28,6 +30,12 @@ I try to make my main courses available as free online ressources as a best effo
 
 | When | Level | Type | Title |
 | --- | --- | --- | --- |
+
+| Spring 2019 | MSc | VT2 | **Baselines for the Flatland Renforcement Learning for Train Scheduling Challenge** |
+| Spring 2019 | MSc | VT1 | **Additive Angular Margin Loss for Speaker Clustering** |
+| Spring 2019 | BSc | BA | **Benchmarking of Classical and Deep Learning Speaker Clustering Approaches** |
+| Spring 2019 | BSc | BA | **Speaker Clustering for Real-World Data using Deep Learning** |
+| Fall 2018 | MSc | VT1 | **Successive Zoom-in Classification for Musculoskeletal Radiograph Images** |
 | Fall 2018 | BSc | PA | **Speaker Recognition & Diarization on Realistic Data** |
 | Fall 2018 | BSc | PA | **Reinforcement Learning Challenge: Compete in Automatic Game Playing for e.g. Doom or Bomberman** |
 | Fall 2018 | BSc | PA | **Machine Learning to Support Artists** |
@@ -80,9 +88,9 @@ I try to make my main courses available as free online ressources as a best effo
 | --- | --- | --- | --- | --- | --- | --- |
 | [KI1](https://olat.zhaw.ch/auth/RepositoryEntry/219152410/CourseNode/95069693647358) | **Künstliche Intelligenz 1** | lecture & lab | final year BSc computer science elective course | practical AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017-2018 |
 | KI2 | **Künstliche Intelligenz 2** | lecture & lab | finale year BSc computer science elective course | AI applications with a focus on neural networks | responsible, co-initiate, co-create | Fall 2017 |
-| [TSM_MachLe](https://www.msengineering.ch/en/course-structure/theory-modules/tsm-modules.html) | **Machine Learning** | lecture & lab | MSc computer science & engineering elective course | mid-level course on practical machine learning with a focus on deep learning | responsible, initiate, co-create, co-teach | Spring 2017-2018 |
-| EVA MI LAB | **Machine Intelligence Lab** | MOOC, colloquia & hackathon | MSc extended advanced module (EVA) | experience an online course on an advanced machine learning topic | responsible, initiate, co-create, teach | Fall 2015-2018 |
-| EVA AI Seminar | **Artificial Intelligence Semniar** | seminar, blog posts, talk | MSc extended advanced module (EVA) | read, understand and write scientific literature | initiate, create, teach | Spring 2017-2018 |
+| [TSM_MachLe](https://www.msengineering.ch/en/course-structure/theory-modules/tsm-modules.html) | **Machine Learning** | lecture & lab | MSc computer science & engineering elective course | mid-level course on practical machine learning with a focus on deep learning | responsible, initiate, co-create, co-teach | Spring 2017-2019 |
+| EVA MI Lab | **Machine Intelligence Lab** | MOOC, colloquia & hackathon | MSc extended advanced module (EVA) | experience an online course on an advanced machine learning topic | responsible, initiate, co-create, teach | Fall 2015-2018 |
+| EVA AI Seminar | **Artificial Intelligence Semniar** | seminar, blog posts, talk | MSc extended advanced module (EVA) | read, understand and write scientific literature | initiate, create, teach | Spring 2017-2019 |
 | ML | **Machine Learning** | lecture & lab | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Machine Intelligence](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-machine-intelligence.html) | practical machine learning for data scientists | responsible, initiate, create, teach | Fall 2015-2016, spring 2017-2018 |
 | DPD | **Data Product Design** | lecture, lab, guest appearances, video pitch | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Data Product Design](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-product-design.html) | business basics for techie data scientists | initiate, co-create, co-teach | Fall 2015-2017 |
 | Scripting | **Scripting** | lecture & lab | continuing education module in [CAS Information Engineering](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-information-engineering.html) | foundations of scripting for analytics with Python for data scientists | initiate, create, teach | Fall 2014-2015 |
