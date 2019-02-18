@@ -8,6 +8,7 @@ My main teaching revolves around **Artificial Intelligence** and **Machine Learn
 
 **Video lectures**: [AI](http://stdm.github.io/ai-course) & [ML](http://stdm.github.io/ml-course)
 
+
 ### TOC
 1. [Online courses](#courses)
 2. [Supervised thesis projects (all levels)](#theses)
