@@ -13,7 +13,7 @@ This is the companion website to my one semester course on machine learning, co-
 4. [Prerequisites](#prerequisites)
 
 
-[<img alt="lecturing" src="http://stdm.github.io/images/AlphaZero.jpg"/>](http://stdm.github.io/images/TSM_MachLe.jpg)
+[<img alt="lecturing" src="http://stdm.github.io/images/TSM_MachLe.jpg"/>](http://stdm.github.io/images/TSM_MachLe.jpg)
 
 
 <a name="syllabus"></a>  
