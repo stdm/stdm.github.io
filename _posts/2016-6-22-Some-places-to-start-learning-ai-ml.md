@@ -2,7 +2,7 @@
 title: 'Some places to start learning AI & ML'
 layout: post
 date: 2016-06-22
-modified: 2019-01-08
+modified: 2019-02-20
 category: education, research, mentoring, MOOCs, ML, RL, CNNs, RNNs
 comments: true
 ---
@@ -55,7 +55,8 @@ Generally: If you want to make AI/ML (or more broadly, data science) a career, c
 
   * [Spinning Up as a Deep RL Researcher](http://spinningup.openai.com/en/latest/spinningup/spinningup.html) by Joshua Achiam
   * [How to Become a Data Scientist](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-1-3) by Alex Smith (also [part 2](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-2-3))
-  * [Data Scientist als Beruf](http://stdm.github.io/downloads/HMD_2016.pdf) by my colleagues Kurt, Andreas and myself (in German -> updated and revised version in English coming soon as a [book](https://stdm.github.io/data-science-book/))
+  * but also: [Data science is different now](https://veekaybee.github.io/2019/02/13/data-science-is-different/) by Vicki Boykis
+  * [Data Scientists](https://stdm.github.io/downloads/papers/ADS_2019_DataScientists.pdf) from our own upcoming [book](https://stdm.github.io/data-science-book/))
   * [A survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/) by Andrej Karpathy
 
 Additionally, try attending events of the [Reinforcement Learning Zurich Meetup](https://www.meetup.com/de-DE/Reinforcement-Learning-Zurich/) and the [Swiss Alliance for Data-Intensive Services](http://www.data-service-alliance.ch), think about joining [SGAICO](http://www.s-i.ch/sgaico/), and subscribe to the [Data Machina newsletter](https://www.getrevue.co/profile/datamachina).
