@@ -20,7 +20,7 @@ This is the companion website to my one semester course on machine learning, co-
 ## Syllabus
 
 | **Topic** | **Lecture (& videos)** | **Lab** | **Self study** | **Lecturer** |
-| **Preparation** |  |  | sP01.1-5 | |
+| **Preparation** |  |  | P01.1-5 | |
 | **Introduction** | [V01: Introduction](https://stdm.github.io/downloads/courses/ML/V01_Introduction.pdf) ([a](https://youtu.be/A2vd0kwjnBI), [b](https://youtu.be/GeJu8bRXvyM)) | [P01: Discuss ML fundamentals](https://stdm.github.io/downloads/courses/ML/P01_ReadingAssignment_1.pdf) | P01.6-7 | stdm |
 | | V02: Formulating learning problems | P02.1: Linear regression from scratch | | stdm |
 | **Supervised learning** | V03: Model assessment & selection | P04.1: Analyzing cross validation| P03 | stdm |
