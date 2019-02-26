@@ -34,7 +34,7 @@ This is the companion website to my one semester course on machine learning, co-
 | | V11: Clustering | Lab11 | Raschka ch. 11; Ng | wuerc |
 | **Selected chapters** | V12a: Learning games from selfplay | P12: Selfplay for Tic-Tac-Toe | | stdm |
 
-All links lead to documents as of soring term 2019.
+All links lead to documents as of spring term 2019.
 
 Additional material [optional]: 
 - [Deep Learning in the wild](https://stdm.github.io/downloads/talks/2018-09-21_DL-in-the-wild.pdf) ([video](https://youtu.be/efCyLhSACoU) in English)
