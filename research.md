@@ -175,7 +175,7 @@ If you are intgerested in a collaboration, please [contact](http://www.zhaw.ch/=
 <a name="publications"></a>
 ## Publications
 
-Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?user=6U6ZXzUAAAAJ&hl=en).
+Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?user=6U6ZXzUAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Thilo_Stadelmann2).
 
 | Year | Tag | Type| Publication |
 | --- | --- | --- | --- |
