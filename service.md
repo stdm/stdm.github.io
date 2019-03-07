@@ -25,6 +25,11 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * **Wie maschinelles Lernen den Markt verändert**
     Invited talk at [Forum Christlicher Wirtschaftswissenschaftler](https://www.ethikinstitut.de/index.php?id=266),
     Giessen, Germany, March 29, 2019
+    
+  * [**Was kann Künstliche Intelligenz leisten?**](https://stdm.github.io/downloads/talks/2019-03-07_Was-kann-KI-leisten.pdf) 
+    Invited guest lecture at [CAS Digitale Transformation und Innovation](https://weiterbildung.zhaw.ch/de/school-of-management-and-law/programm/cas-digitale-technologien-und-innovation.html), Winterthur, Switzerland, March 07, 2019
+  
+    [Youtube](https://youtu.be/Vxsddc9bGUE)
   
   * [**Industrielle Anwendungsmöglichkeiten für Deep Learning-basierte Künstliche Intelligenz**](https://stdm.github.io/downloads/talks/2019-02-01_Industrial-Applications-DL-AI.pdf)
     Invited talk at [Endress+Hauser](https://www.de.endress.com/en) Technologieforum on "Künstliche Intelligenz",
