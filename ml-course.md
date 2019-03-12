@@ -25,7 +25,7 @@ This is the companion website to my one semester course on machine learning, co-
 | | [V02: Formulating learning problems](https://stdm.github.io/downloads/courses/ML/V02_FormulatingLearningProblems.pdf) ([code](https://stdm.github.io/downloads/courses/ML/V02_FormulatingLearningProblems_Code.zip)) ([a](https://youtu.be/Nng1kJIEJdg), [b](https://youtu.be/9migPdNMPA8)) | [P02.1: Linear regression from scratch](https://stdm.github.io/downloads/courses/ML/P02_MachineLearningFromScratch.zip) | | stdm |
 | **Supervised learning** | [V03: Model assessment & selection](https://stdm.github.io/downloads/courses/ML/V03_ModelAssessment_and_Selection.pdf) ([a](https://youtu.be/wdKWlV4za_k), [b](https://youtu.be/WpyNmBtYbZ4)) | [P04.1: Analyzing cross validation](https://stdm.github.io/downloads/courses/ML/P04_SVM_ModelSelection.zip) | [P03](https://stdm.github.io/downloads/courses/ML/P03_ReadingAssignment_2.pdf) | stdm |
 | | V04: SVMs | [P04.2: SVM in IPython](https://stdm.github.io/downloads/courses/ML/P04_SVM_ModelSelection.zip) | | stdm |
-| | V05: Ensembles | [P04.3: Ensembles in practice](https://stdm.github.io/downloads/courses/ML/P04_SVM_ModelSelection.zip) | P05 | stdm |
+| | V05: Ensembles | [P04.3: Ensembles in practice](https://stdm.github.io/downloads/courses/ML/P04_SVM_ModelSelection.zip) | [P05](https://stdm.github.io/downloads/courses/ML/P05_ReadingAssignment_3.pdf) | stdm |
 | | V06.3: Debugging ML algorithms; <br> V07.1: System development - what to give priority to? | P06.2: Applying learning curves | Raschka ch. 6; P07 | wuerc |
 | | V08: Feature engineering | Lab08 | | wuerc |
 | | V09a: Probabilistic reasoning, Gaussian distribution and Bayes' theorem | Lab09a | 09a reader | wuerc |
