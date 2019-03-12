@@ -46,7 +46,7 @@ Additional material [optional]:
 
 **Current slides, lab descriptions, terms & conditions:** see [Moodle](https://moodle.msengineering.ch/course/view.php?id=1076) (you need a valid account as an inscribed student).
 
-**Video recordings:** see YouTube playlist for [fall 2019](https://www.youtube.com/playlist?list=PLdUGLyqPtOZp1oAg-8MRlmIsveW3NE8SQ).
+**Video recordings:** see YouTube playlist for [spring 2019](https://www.youtube.com/playlist?list=PLdUGLyqPtOZp1oAg-8MRlmIsveW3NE8SQ).
 
 **Audio-only recordings:** see Collecture for [spring 2018](https://collecture.io/groups/7325878c-845f-4827-8e1c-3f7c15092f4a?autosub=true) recordings (you need to create a free account).
 
