@@ -377,8 +377,10 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="press"></a>
 ## In the press 
 
-  * March 08, 2019, [ZHAW Almuni Engineering & Architecture](https://stdm.github.io/downloads/press/2019-03-08_Alumni_EA_Mitteilungen_69_2019.pdf): "Seit dem Frühjahrssemester 2017 findet [...] das Wahlmodul "Künstliche Intelligenz 1" statt. Es bietet [...] die Möglichkeit, Einblick in eines der heissesten Forschungs- und Anwendungsfelder überhaupt zu bekommen, sowie hands-on Erfahrung zu sammeln. [...] wie kann der Leser selber teilhaben?"
+  * March 08, 2019, [Netzwoche](https://www.netzwoche.ch/news/2019-03-06/deep-learning-in-medizinischer-diagnostik-und-qualitaetskontrolle): "Künstliche Intelligenz und maschinelles Lernen eröffnen vielversprechende Anwendungs­möglichkeiten in der Medizin. Insbesondere Deep-Learning-Algorithmen bieten neue Lösungsansätze sowohl in der bildgestützten medizinischen Diagnostik als auch in der Qualitätskontrolle von Medizinprodukten."
 
+  * March 08, 2019, [ZHAW Almuni Engineering & Architecture](https://stdm.github.io/downloads/press/2019-03-08_Alumni_EA_Mitteilungen_69_2019.pdf): "Seit dem Frühjahrssemester 2017 findet [...] das Wahlmodul "Künstliche Intelligenz 1" statt. Es bietet [...] die Möglichkeit, Einblick in eines der heissesten Forschungs- und Anwendungsfelder überhaupt zu bekommen, sowie hands-on Erfahrung zu sammeln. [...] wie kann der Leser selber teilhaben?"
+ 
   * February 08, 2019, [Luzerner Zeitung](https://stdm.github.io/downloads/press/2018-10-10_ZHAW-Impact_Columni.pdf2019-02-08_Luzerner-Zeitung.pdf): "[...] Im Anschluss an die Aufführung vom 23. Februar sprechen ein Historiker (Prof. Dr. Caspar Hirschi), Wirtschafts-Ethiker (Prof. Dr. Thomas Beschorner) und K.I.-Spezialist (Prof. Dr. Thilo Stadelmann) darüber, ob Maschinen ein menschliches Aussehen haben sollten oder nicht."
 
   * November 15, 2018, [SATW](https://stdm.github.io/downloads/press/2018-11-15_TecNight-Frauenfeld.pdf): "[...] Besonders grossen Anklang fand der Science Talk zum Thema 'Big Data und Künstliche Intelligenz', aber auch die übrigen Talks und Referate waren gut besucht [...]"
