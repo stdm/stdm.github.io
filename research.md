@@ -71,9 +71,9 @@ Additionally, the existence of adversarial attacks on convolutional neural netwo
 
 #### Selected references (see also [below](#publications))
 
-  * [Stadelmann, T., Amirian, M., Arabaci, I., Arnold, M., Duivesteijn, G.F., Elezi, I., Geiger, M., Lörwald, S., Meier, B.B., Rombach, K. and Tuggener, L., 2018, September. Deep Learning in the Wild. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 17-38). Springer, Cham.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=10271253292885532857)
+  * [Stadelmann, T., Amirian, M., Arabaci, I., Arnold, M., Duivesteijn, G.F., Elezi, I., Geiger, M., Lörwald, S., Meier, B.B., Rombach, K. and Tuggener, L., 2018, September. **Deep Learning in the Wild**. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 17-38). Springer, Cham.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=10271253292885532857)
 
-  * [Stadelmann, T., Tolkachev, V., Sick, B., Stampfli, J. and Dürr, O., 2019. Beyond ImageNet-deep learning in industrial practice. _Applied Data Science-Lessons Learned for the Data-Driven Business_. Springer.](https://scholar.google.ch/scholar?hl=en&as_sdt=0%2C5&q=Beyond+ImageNet-deep+learning+in+industrial+practice&btnG=)
+  * [Stadelmann, T., Tolkachev, V., Sick, B., Stampfli, J. and Dürr, O., 2019. **Beyond ImageNet-deep learning in industrial practice**. _Applied Data Science-Lessons Learned for the Data-Driven Business_. Springer.](https://scholar.google.ch/scholar?hl=en&as_sdt=0%2C5&q=Beyond+ImageNet-deep+learning+in+industrial+practice&btnG=)
 
 &nbsp;
 
@@ -89,9 +89,9 @@ We have built a novel end-to-end neural network architecture that, once trained,
 
 #### Selected references (see also [below](#publications))
 
-  * [Meier, B.B., Elezi, I., Amirian, M., Dürr, O. and Stadelmann, T., 2018, September. Learning Neural Models for End-to-End Clustering. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 126-138). Springer, Cham.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=10223989052804093264)
+  * [Meier, B.B., Elezi, I., Amirian, M., Dürr, O. and Stadelmann, T., 2018, September. **Learning Neural Models for End-to-End Clustering**. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 126-138). Springer, Cham.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=10223989052804093264)
   
-  * [Tuggener, L., Amirian, M., Rombach, K., Lörwald, S., Varlet, A., Westermann, C., and Stadelmann, T., 2019, June. Automated Machine Learning in Practice: State of the Art and Recent Results. In: _Proceedings of the 6th Swiss Conference on Data Science_ (SDS’19), Bern, Switzerland, June 14, 2019. IEEE.](https://stdm.github.io/downloads/papers/SDS_2019.pdf)
+  * [Tuggener, L., Amirian, M., Rombach, K., Lörwald, S., Varlet, A., Westermann, C., and Stadelmann, T., 2019, June. **Automated Machine Learning in Practice: State of the Art and Recent Results**. In: _Proceedings of the 6th Swiss Conference on Data Science_ (SDS’19), Bern, Switzerland, June 14, 2019. IEEE.](https://stdm.github.io/downloads/papers/SDS_2019.pdf)
 
 &nbsp;
 
@@ -111,9 +111,9 @@ We introduced a novel object detection method, based on synthetic energy maps an
 
 #### Selected references (see also [below](#publications))
 
-  * [Tuggener, L., Elezi, I., Schmidhuber, J., Pelillo, M. and Stadelmann, T., 2018. DeepScores: a dataset for segmentation, detection and classification of tiny objects. In _24th International Conference on Pattern Recognition (ICPR 2018)_, Beijing, China, 20-28 August 2018 (pp. 1-6). IAPR.](https://scholar.google.ch/scholar?cluster=8414070931663211049&hl=en&as_sdt=0,5)
+  * [Tuggener, L., Elezi, I., Schmidhuber, J., Pelillo, M. and Stadelmann, T., 2018. **DeepScores: a dataset for segmentation, detection and classification of tiny objects**. In _24th International Conference on Pattern Recognition (ICPR 2018)_, Beijing, China, 20-28 August 2018 (pp. 1-6). IAPR.](https://scholar.google.ch/scholar?cluster=8414070931663211049&hl=en&as_sdt=0,5)
   
-  * [Tuggener, L., Elezi, I., Schmidhuber, J. and Stadelmann, T., 2018. Deep watershed detector for music object recognition. In _19th International Society for Music Information Retrieval Conference_, Paris, 23.-27. September 2018. Society for Music Information Retrieval.](https://scholar.google.ch/scholar?cluster=15201184947089209442&hl=en&as_sdt=0,5)
+  * [Tuggener, L., Elezi, I., Schmidhuber, J. and Stadelmann, T., 2018. **Deep watershed detector for music object recognition**. In _19th International Society for Music Information Retrieval Conference_, Paris, 23.-27. September 2018. Society for Music Information Retrieval.](https://scholar.google.ch/scholar?cluster=15201184947089209442&hl=en&as_sdt=0,5)
  
 &nbsp;
 
@@ -133,11 +133,11 @@ This line of research has also lead to work on other audio processing tasks like
 
 #### Selected references (see also [below](#publications))
 
-  * [Stadelmann, T. and Freisleben, B., 2009, October. Unfolding speaker clustering potential: a biomimetic approach. In _Proceedings of the 17th ACM international conference on Multimedia_ (pp. 185-194). ACM.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=18337079226826578816)
+  * [Stadelmann, T. and Freisleben, B., 2009, October. **Unfolding speaker clustering potential: a biomimetic approach**. In _Proceedings of the 17th ACM international conference on Multimedia_ (pp. 185-194). ACM.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=18337079226826578816)
 
-  * [Lukic, Y., Vogt, C., Dürr, O. and Stadelmann, T., 2016. Speaker identification and clustering using convolutional neural networks. In _2016 IEEE 26th International Workshop on Machine Learning for Signal Processing (MLSP)_, Vietri sul Mare, Italy, 13-16 Sept. 2016. IEEE.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=8378514520107037777)
+  * [Lukic, Y., Vogt, C., Dürr, O. and Stadelmann, T., 2016. **Speaker identification and clustering using convolutional neural networks**. In _2016 IEEE 26th International Workshop on Machine Learning for Signal Processing (MLSP)_, Vietri sul Mare, Italy, 13-16 Sept. 2016. IEEE.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=8378514520107037777)
   
-  * [Stadelmann, T., Glinski-Haefeli, S., Gerber, P. and Dürr, O., 2018, September. Capturing Suprasegmental Features of a Voice with RNNs for Improved Speaker Clustering. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 333-345). Springer, Cham.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=9694244880148272626)
+  * [Stadelmann, T., Glinski-Haefeli, S., Gerber, P. and Dürr, O., 2018, September. **Capturing Suprasegmental Features of a Voice with RNNs for Improved Speaker Clustering**. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 333-345). Springer, Cham.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=9694244880148272626)
 
 &nbsp;
 
@@ -151,9 +151,9 @@ I helped in creating one of Europe's first dedicated research centers for data s
 
 #### Selected references (see also [below](#publications))
 
-  * [Braschler, M., Stadelmann, T., and Stockinger, K., (Eds.), 2019. _Applied Data Science - Lessons Learned for the Data-Driven Business_. Springer.](https://stdm.github.io/data-science-book/)
+  * [Braschler, M., Stadelmann, T., and Stockinger, K., (Eds.), 2019. _**Applied Data Science - Lessons Learned for the Data-Driven Business**_. Springer.](https://stdm.github.io/data-science-book/)
 
-  * [Stadelmann, T., Stockinger, K., Braschler, M., Cieliebak, M., Baudinot, G., Dürr, O. and Ruckstuhl, A., 2013. Applied data science in Europe: challenges for academia in keeping up with a highly demanded topic. In _9th European Computer Science Summit_, Amsterdam, October 8–9, 2013.](https://scholar.google.ch/scholar?hl=en&as_sdt=0%2C5&q=Applied+data+science+in+Europe%3A+challenges+for+academia+in+keeping+up+with+a+highly+demanded+topic&btnG=)
+  * [Stadelmann, T., Stockinger, K., Braschler, M., Cieliebak, M., Baudinot, G., Dürr, O. and Ruckstuhl, A., 2013. **Applied data science in Europe: challenges for academia in keeping up with a highly demanded topic**. In _9th European Computer Science Summit_, Amsterdam, October 8–9, 2013.](https://scholar.google.ch/scholar?hl=en&as_sdt=0%2C5&q=Applied+data+science+in+Europe%3A+challenges+for+academia+in+keeping+up+with+a+highly+demanded+topic&btnG=)
 
 &nbsp;
 
@@ -188,7 +188,7 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 | 2019 | data science | chapter | Martin Braschler, Thilo Stadelmann, and Kurt Stockinger. ["**Data Science**"](https://stdm.github.io/downloads/papers/ADS_2019_DataScience.pdf). In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). Springer, 2019. |
 | 2019 | data science | chapter | Thilo Stadelmann, Martin Braschler, and Kurt Stockinger. ["**Introduction to Applied Data Science**"](https://stdm.github.io/downloads/papers/ADS_2019_Introduction.pdf). In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). Springer, 2019. |
 | 2019 | data science | **book** | Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["**Applied Data Science - Lessons Learned for the Data-Driven Business**"](https://stdm.github.io/downloads/papers/ADS_2019_Preface.pdf). **Springer**, 2019. |
-| 2019 | automated ML | conf. paper | Lukas Tuggener, Mohammadreza Amirian, Katharina Rombach, Stefan Lörwald, Anastasia Varlet, Christian Westermann, and Thilo Stadelmann. ["**Automated Machine Learning in Practice: State of the Art and Recent Results**"](https://stdm.github.io/downloads/papers/SDS_2019.pdf). In: Proceedings of the 6th Swiss Conference on Data Science (**SDS'19**), Bern, Switzerland, June 14, 2019. |
+| 2019 | learning to learn | conf. paper | Lukas Tuggener, Mohammadreza Amirian, Katharina Rombach, Stefan Lörwald, Anastasia Varlet, Christian Westermann, and Thilo Stadelmann. ["**Automated Machine Learning in Practice: State of the Art and Recent Results**"](https://stdm.github.io/downloads/papers/SDS_2019.pdf). In: Proceedings of the 6th Swiss Conference on Data Science (**SDS'19**), Bern, Switzerland, June 14, 2019. |
 | 2018 | optical music recognition | workshop paper | Ismail Elezi, Lukas Tuggener, Marcello Pelillo, and Thilo Stadelmann. ["**DeepScores and Deep Watershed Detection: current state and open issues**"](https://stdm.github.io/downloads/papers/WoRMS_2018.pdf). In: Proceedings of the 1st International Workshop on Reading Music Systems (**WoRMS'18**), Paris, France, September 20, 2018. |
 | 2018 | robust deep learning | **invited paper** | Thilo Stadelmann, Mohammadreza Amirian, Ismail Arabaci, Marek Arnold, Gilbert François Duivesteijn, Ismail Elezi, Melanie Geiger, Stefan Lörwald, Benjamin Bruno Meier, Katharina Rombach, and Lukas Tuggener. ["**Deep Learning in the Wild**"](https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf). In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (**ANNPR'18**), Springer, LNAI 11081, pp. 17-38, Siena, Italy, September 19-21, 2018. |
 | 2018 | robust deep learning | conf. paper | Mohammadreza Amirian, Friedhelm Schwenker, and Thilo Stadelmann. ["**Trace and Detect Adversarial Attacks on CNNs using Feature Response Maps**"](https://stdm.github.io/downloads/papers/ANNPR_2018c.pdf). In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (**ANNPR'18**), Springer, LNAI 11081, pp. 346-358, Siena, Italy, September 19-21, 2018. |
