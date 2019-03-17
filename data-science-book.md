@@ -5,9 +5,9 @@ comments: true
 ---
 
 ### Braschler, Stadelmann, Stockinger (Eds.)
-**Springer, 2019 (to appear)**
+**Springer, 2019**
 
-Companion website to the upcoming book [*Applied Data Science - Lessons Learned for the Data-Driven Business*](https://www.springer.com/us/book/9783030118204), to appear spring 2019.
+Companion website to the book [*Applied Data Science - Lessons Learned for the Data-Driven Business*](https://www.springer.com/us/book/9783030118204).
 
 _Update Mar 12, 2019_: Final "good for print" proofreading until Mar 21.
 
@@ -48,7 +48,7 @@ The book aims at learners and professionals in the academic and business sector:
 Part I introcuces the main topic: What is applied data science? What is a data product? And what traits do successful data scientists have? It then approaches important aspects of societal integration of data science, namely legal aspects as well as risks and side effects. 
 
   * [*Preface*](https://stdm.github.io/downloads/papers/ADS_2019_Preface.pdf) by the editors
-  * [*Introduction*](https://stdm.github.io/downloads/papers/ADS_2019_Introduction.pdf) by Stadelmann et al.
+  * [*Introduction to Applied Data Science*](https://stdm.github.io/downloads/papers/ADS_2019_Introduction.pdf) by Stadelmann et al.
   * [*Data Science*](https://stdm.github.io/downloads/papers/ADS_2019_DataScience.pdf) by Braschler et al.
   * [*Data Scientists*](https://stdm.github.io/downloads/papers/ADS_2019_DataScientists.pdf) by Stadelmann et al.
   * [*Data Products*](https://stdm.github.io/downloads/papers/ADS_2019_DataProducts.pdf) by Meierhofer et al.
