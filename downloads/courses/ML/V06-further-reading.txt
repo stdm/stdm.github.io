@@ -1,0 +1,19 @@
+Further reading for ML-06
+--------------------------
+
+- Ch. 6 "Learning Best Practices for Model Evaluation and Hyperparameter Tuning" from Raschka, "Python Machine Learning", 2015
+- http://scott.fortmann-roe.com/docs/BiasVariance.html
+
+
+
+Optional literature
+--------------------
+
+- Domingos, "A Few Useful Things to Know about Machine Learning", 2012
+- Kotsiantis, Kanellopoulos and Pintelas, "Data Preprocessing for Supervised Leaning", 2006
+- Wu et al., "Top 10 algorithms in data mining", 2008
+- https://developers.google.com/machine-learning/guides/rules-of-ml/
+- https://www.quora.com/What-is-wrong-when-my-neural-networks-neterror-increases
+- https://www.kdnuggets.com/2014/03/data-mining-do-and-dont.html
+- https://www.kdnuggets.com/2015/01/clever-methods-overfitting-avoid.html
+- http://ml.posthaven.com/machine-learning-done-wrong
