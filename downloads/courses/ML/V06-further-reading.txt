@@ -1,5 +1,5 @@
-Further reading for ML-06
---------------------------
+Further reading for V06
+------------------------
 
 - Ch. 6 "Learning Best Practices for Model Evaluation and Hyperparameter Tuning" from Raschka, "Python Machine Learning", 2015
 - http://scott.fortmann-roe.com/docs/BiasVariance.html
