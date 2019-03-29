@@ -22,7 +22,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 
 #### 2019
-  * **Wie maschinelles Lernen den Markt verändert**
+  * [**Wie maschinelles Lernen den Markt verändert**](https://stdm.github.io/downloads/talks/2019-03-29_Wie-maschinelles-Lernen-den-Markt-verändert.pdf)
     Invited talk at [Forum Christlicher Wirtschaftswissenschaftler](https://www.ethikinstitut.de/index.php?id=266),
     Giessen, Germany, March 29, 2019
     
