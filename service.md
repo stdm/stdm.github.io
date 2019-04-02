@@ -22,13 +22,13 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 
 #### 2019
-	* Invited talk at the Workshop "Sprache und Algorithmen" of the network "Communication and Digitalization", [Vereinigung für Angewandte Linguistik Schweiz](http://www.vals-asla.ch),
+  * Invited talk at the Workshop "Sprache und Algorithmen" of the network "Communication and Digitalization", [Vereinigung für Angewandte Linguistik Schweiz](http://www.vals-asla.ch),
 	  Winterthur, Switzerland, October 17, 2019
-	
-	* **Loss to Love - Lessons Learned in Deep Learning Research**
+    
+  * **Loss to Love: Lessons Learned in Deep Learning Research**
 	  Invited talk at Hexagon Technology Forum,
 	  Heerbrugg, Switzerland, May 23, 2019
-	
+    
   * [**Wie maschinelles Lernen den Markt verändert**](https://stdm.github.io/downloads/talks/2019-03-29_Wie-maschinelles-Lernen-den-Markt-verändert.pdf)
     Invited talk at [Forum Christlicher Wirtschaftswissenschaftler](https://www.ethikinstitut.de/index.php?id=266),
     Giessen, Germany, March 29, 2019
