@@ -6,11 +6,9 @@ comments: true
 
 My main teaching revolves around **Artificial Intelligence** and **Machine Learning** in different formats and for different audiences. I was awarded a final round nomination for the "Best Teaching - Best Practices" award of my university in 2017 for [my contribution](https://stdm.github.io/Science-applied) under the topic "Wissenschaftlichkeit" ("scientific characater"). My shorter teaching statement [from 2008](http://www.informatik.uni-marburg.de/~stadelmann/teaching.html) is still valid: "I love teaching. To initiate inside someone the vision of an idea, to see understanding grow, these are moments I greatly enjoy."
 
-**Video lectures**: [AI 2018](http://stdm.github.io/ai-course) & [ML 2019](http://stdm.github.io/ml-course)
-
 
 ### TOC
-1. [Online courses](#courses)
+1. [Online courses](#courses) (direct link to video lectures: [AI 2018](http://stdm.github.io/ai-course) & [ML 2019](http://stdm.github.io/ml-course))
 2. [Supervised thesis projects (all levels)](#theses)
 3. [Lectures & curriculae](#lectures)
 
@@ -31,7 +29,7 @@ I try to make my main courses available as free online ressources as a best effo
 
 | **When** | **Level** | **Type** | **Title** |
 | --- | --- | --- | --- |
-| Spring 2019 | MSc | VT2 | **Baselines for the Flatland Renforcement Learning for Train Scheduling Challenge** |
+| Spring 2019 | MSc | VT2 | **Baselines for the Flatland Reinforcement Learning for Train Scheduling Challenge** |
 | Spring 2019 | MSc | VT1 | **Additive Angular Margin Loss for Speaker Clustering** |
 | Spring 2019 | BSc | BA | **Benchmarking of Classical and Deep Learning Speaker Clustering Approaches** |
 | Spring 2019 | BSc | BA | **Speaker Clustering for Real-World Data using Deep Learning** |
@@ -86,9 +84,9 @@ I try to make my main courses available as free online ressources as a best effo
 
 | Tag | Name | Format | Type | Content | Did what? | When? |
 | --- | --- | --- | --- | --- | --- | --- |
-| [KI1](https://olat.zhaw.ch/auth/RepositoryEntry/219152410/CourseNode/95069693647358) | **Künstliche Intelligenz 1** | lecture & lab | final year BSc computer science elective course | practical AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017-2018 |
+| [KI1](http://stdm.github.io/ai-course) | **Künstliche Intelligenz 1** | lecture & lab | final year BSc computer science elective course | practical AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017-2018 |
 | KI2 | **Künstliche Intelligenz 2** | lecture & lab | finale year BSc computer science elective course | AI applications with a focus on neural networks | responsible, co-initiate, co-create | Fall 2017 |
-| [TSM_MachLe](https://www.msengineering.ch/en/course-structure/theory-modules/tsm-modules.html) | **Machine Learning** | lecture & lab | MSc computer science & engineering elective course | mid-level course on practical machine learning with a focus on deep learning | responsible, initiate, co-create, co-teach | Spring 2017-2019 |
+| [TSM_MachLe](http://stdm.github.io/ml-course) | **Machine Learning** | lecture & lab | MSc computer science & engineering elective course | mid-level course on practical machine learning with a focus on deep learning | responsible, initiate, co-create, co-teach | Spring 2017-2019 |
 | EVA MI Lab | **Machine Intelligence Lab** | MOOC, colloquia & hackathon | MSc extended advanced module (EVA) | experience an online course on an advanced machine learning topic | responsible, initiate, co-create, teach | Fall 2015-2018 |
 | EVA AI Seminar | **Artificial Intelligence Semniar** | seminar, blog posts, talk | MSc extended advanced module (EVA) | read, understand and write scientific literature | initiate, create, teach | Spring 2017-2019 |
 | ML | **Machine Learning** | lecture & lab | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Machine Intelligence](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-machine-intelligence.html) | practical machine learning for data scientists | responsible, initiate, create, teach | Fall 2015-2016, spring 2017-2018 |

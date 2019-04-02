@@ -17,7 +17,7 @@ This page is dedicated to the research of me and my group. My academic profile i
 ## The group
 
 [<img alt="Team" src="http://stdm.github.io/images/AIML-team-2018.jpg"/>](http://stdm.github.io/images/AIML-team-2018.jpg)
-The AI/ML research team at [ZHAW Information Engineering group](https://www.zhaw.ch/de/engineering/institute-zentren/init/information-engineering/), 2018: Frank-Peter Schilling, Mohammadreza Amirian, Thilo Stadelmann, Ismail Elezi, Lukas Tuggener, Katharina Rombach, and Daniel Neururer (missing on the picture: Stefan Huschauer).
+The AI/ML research team at [ZHAW Information Engineering group](https://www.zhaw.ch/de/engineering/institute-zentren/init/information-engineering/), 2018: Frank-Peter Schilling, Mohammadreza Amirian, Thilo Stadelmann, Ismail Elezi, Lukas Tuggener, Katharina Rombach, and Daniel Neururer (missing on the picture: Stefan Huschauer, Reza Kakooee).
 
 
 My AI/ML team performs **pattern recognition** research, working on a wide variety of tasks on image, audio or generally "signal" data. As a group, we focus on **deep learning** and **reinforcement learning** methodology, inspired by biological learning. Each task that we study has its own learning target (e.g., detection, classification, clustering, segmentation, novelty detection, control) and use case (e.g., **predictive maintenance**, **speaker diarization**  for multimedia indexing, **document analysis**, **optical music recognition**, **computer vision** for industrial quality control, **automated machine learning**, **deep reinforcement learning** for automated game play or building control), which in turn sheds light on different aspects of the learning process. 
@@ -39,6 +39,16 @@ The group has very diverse backgrounds, which helps us complement each other's s
   * [Daniel Neururer](https://ba-pub.engineering.zhaw.ch/WebPublication/Flyer.pdf?version=Bachelorarbeit2018&code=BA18_wyrs_3&language=de), M.Sc. student: B.Sc. in systems engineering (ZHAW)
 
   * [Dr. Frank-Peter Schilling](http://www.fp-schilling.de), senior researcher: Diplom & PhD (U. Heidelberg) in physics, PostDoc at CERN
+  
+  * [Reza Kakooee](https://www.linkedin.com/in/reza-kakooee/), intern: M.Sc. (Ferdowsi U. Mashhad) in electrical and control engineering
+  
+Our Alumni are:
+
+  * [Gabriel Eyyi](https://www.linkedin.com/in/gabriel-eyyi/), M.Sc., now Software Engineer / Machine Learning Engineer at dizmo AG
+  
+  * [Thierry Musy](https://www.linkedin.com/in/thierrymusy/), B.Sc., now Partner / Senior Data Scientist at Foursight Digital AG
+  
+  * [Jan Stampfli](https://www.linkedin.com/in/janstampfli/?originalSubdomain=ch), B.Sc., now Big Data Engineer at Migros-Genossenschafts-Bund
 
 &nbsp;
 
@@ -165,7 +175,7 @@ I helped in creating one of Europe's first dedicated research centers for data s
 
 I frequently collaborate with industry to work on exciting pattern recognition use cases. Partners from start-ups, SMEs and multi-national enterprises alike. 
 
-In academia, I frequently work together with the **Machine Learning and Optimization Lab** of [Martin Jaggi](https://mlo.epfl.ch/) at **EPFL**, [Marcello Pelillo](http://www.dsi.unive.it/~pelillo/) of the **Ca'Foscari University of Venice**, [Juergen Schmidhuber](http://people.idsia.ch/~juergen/)'s group at **IDSIA**, and [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/mitarbeiter/f-schwenker/) of **Ulm University, Insitute of Neural Information Processing**. We have joint research projects and/or co-supervise PhD students.
+In academia, I frequently work together with the **Machine Learning and Optimization Lab** of [Martin Jaggi](https://mlo.epfl.ch/) at **EPFL**, [Marcello Pelillo](http://www.dsi.unive.it/~pelillo/) of the **Ca'Foscari University of Venice**, [Juergen Schmidhuber](http://people.idsia.ch/~juergen/)'s group at **IDSIA**, [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/mitarbeiter/f-schwenker/) of **Ulm University, Insitute of Neural Information Processing**, and [Boi Faltings](https://people.epfl.ch/boi.faltings?lang=en) of **EPFL**. We have joint research projects and/or co-supervise PhD students.
 
 If you are intgerested in a collaboration, please [contact](http://www.zhaw.ch/=stdm) me.
 

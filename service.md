@@ -22,6 +22,13 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 
 #### 2019
+	* Invited talk at the Workshop "Sprache und Algorithmen" of the network "Communication and Digitalization", [Vereinigung für Angewandte Linguistik Schweiz](http://www.vals-asla.ch),
+	  Winterthur, Switzerland, October 17, 2019
+	
+	* **Loss to Love - Lessons Learned in Deep Learning Research**
+	  Invited talk at Hexagon Technology Forum,
+	  Heerbrugg, Switzerland, May 23, 2019
+	
   * [**Wie maschinelles Lernen den Markt verändert**](https://stdm.github.io/downloads/talks/2019-03-29_Wie-maschinelles-Lernen-den-Markt-verändert.pdf)
     Invited talk at [Forum Christlicher Wirtschaftswissenschaftler](https://www.ethikinstitut.de/index.php?id=266),
     Giessen, Germany, March 29, 2019
@@ -303,9 +310,11 @@ Much to the suprise of my younger self, I have become a very active networker, p
     
     <!--- [<img alt="SGAICO" src="http://stdm.github.io/images/sgaico.jpg"/>](https://sgaico.swissinformatics.org/) -->
     
-  * 05/2013-ongoing: Co-Founder, head & member of the board of the [ZHAW Datalab](http://www.zhaw.ch/datalab), the ZHAW Data Science Laboratory
+  * 05/2013-ongoing: Co-founder & member of the board of the [ZHAW Datalab](http://www.zhaw.ch/datalab), the ZHAW Data Science Laboratory
     
     [<img alt="ZHAW Datalab" src="http://stdm.github.io/images/datalab.png"/>](http://www.zhaw.ch/datalab)
+    
+  * 05/2013-03/2019: head of the board of the [ZHAW Datalab](http://www.zhaw.ch/datalab), the ZHAW Data Science Laboratory
 
 &nbsp;
 
@@ -376,6 +385,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 <a name="press"></a>
 ## In the press 
+
+  * March 20, 2019, [Netzwoche](https://www.netzwoche.ch/news/2019-03-20/wie-ki-im-bewerbungsprozess-die-nerven-schont): "Wie KI im Bewerbungsprozess die Nerven schont."
 
   * March 08, 2019, [Netzwoche](https://www.netzwoche.ch/news/2019-03-06/deep-learning-in-medizinischer-diagnostik-und-qualitaetskontrolle): "Künstliche Intelligenz und maschinelles Lernen eröffnen vielversprechende Anwendungs­möglichkeiten in der Medizin. Insbesondere Deep-Learning-Algorithmen bieten neue Lösungsansätze sowohl in der bildgestützten medizinischen Diagnostik als auch in der Qualitätskontrolle von Medizinprodukten."
 
