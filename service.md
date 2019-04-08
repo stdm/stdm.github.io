@@ -22,16 +22,25 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 
 #### 2019
-  * Invited talk at the Workshop "Sprache und Algorithmen" of the network "Communication and Digitalization", [Vereinigung für Angewandte Linguistik Schweiz](http://www.vals-asla.ch),
+  * Invited talk at the Workshop **"Sprache und Algorithmen"** of the network "Communication and Digitalization", [Vereinigung für Angewandte Linguistik Schweiz](http://www.vals-asla.ch),
 	  Winterthur, Switzerland, October 17, 2019
+  
+  * Panelist on the topic of **Digitale Lehrformen** at the "Fortbildungstag Lehre" of the [ZHAW School of Engineering](https://www.zhaw.ch/en/engineering/), 
+    Winterthur, Switzerland, June 18, 2019
     
-  * **Loss to Love: Lessons Learned in Deep Learning Research**
+  * **From Loss to Love: Lessons Learned in Deep Learning Research**
 	  Invited talk at Hexagon Technology Forum,
 	  Heerbrugg, Switzerland, May 23, 2019
+	  
+	* **Predictive Maintance and other Industrial Applications of Deep Learning**
+	  Invited talk at the [Data+Service Alliance's](https://data-service-alliance.ch/expertise/expert-groups) Expert Group on Data-Driven Predictive Maintenance of Industrial Assets,
+	  Winterthur, Switzerland, May 10, 2019
     
   * [**Wie maschinelles Lernen den Markt verändert**](https://stdm.github.io/downloads/talks/2019-03-29_Wie-maschinelles-Lernen-den-Markt-verändert.pdf)
     Invited talk at [Forum Christlicher Wirtschaftswissenschaftler](https://www.ethikinstitut.de/index.php?id=266),
     Giessen, Germany, March 29, 2019
+    
+    [Audio recording](https://drive.google.com/open?id=1kXnXdJ7GlL-PBw5U_zlmAOZo-ZXJqbGy)
     
   * [**Was kann Künstliche Intelligenz leisten?**](https://stdm.github.io/downloads/talks/2019-03-07_Was-kann-KI-leisten.pdf) 
     Invited guest lecture at [CAS Digitale Transformation und Innovation](https://weiterbildung.zhaw.ch/de/school-of-management-and-law/programm/cas-digitale-technologien-und-innovation.html), Winterthur, Switzerland, March 07, 2019
