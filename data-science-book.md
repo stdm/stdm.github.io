@@ -9,7 +9,9 @@ comments: true
 
 Companion website to the book [*Applied Data Science - Lessons Learned for the Data-Driven Business*](https://www.springer.com/us/book/9783030118204).
 
-_Update Mar 12, 2019_: Final "good for print" proofreading until Mar 21.
+_Update Apr 05, 2019_: Final comments submitted to springer - now waiting on the printed book!
+
+_Update Mar 12, 2019_: "Good for print" proofreading until Mar 21.
 
 _Update Jan 29, 2019_: Cover design is drafted and ISBN is out (978-3-030-11820-4). Pre-order available e.g. at [Amazon](https://www.amazon.de/Applied-Data-Science-Data-Driven-Business/dp/3030118207/ref=sr_1_1?ie=UTF8&qid=1548749787&sr=8-1&keywords=9783030118204).
 
