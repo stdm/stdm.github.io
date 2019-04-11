@@ -328,7 +328,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
 &nbsp;
 
 #### Journals, conferences & events
-  * Reviewer for [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78), [EURASIP Journal on Audio, Speech, and Music Processing](https://asmp-eurasipjournals.springeropen.com/) and the [Science Media Center Germany](https://www.sciencemediacenter.de/)
+  * Reviewer for [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78), [EURASIP Journal on Audio, Speech, and Music Processing](https://asmp-eurasipjournals.springeropen.com/), (PLOS ONE)[https://journals.plos.org/plosone/] and the [Science Media Center Germany](https://www.sciencemediacenter.de/)
   
   * Member of organizing committee, 9th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition, September 2019, Switzerland
 
