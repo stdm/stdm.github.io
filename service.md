@@ -31,8 +31,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * **From Loss to Love: Lessons Learned in Deep Learning Research**
 	  Invited talk at Hexagon Technology Forum,
 	  Heerbrugg, Switzerland, May 23, 2019
-	  
-	* **Predictive Maintance and other Industrial Applications of Deep Learning**
+    
+  * **Predictive Maintance and other Industrial Applications of Deep Learning**
 	  Invited talk at the [Data+Service Alliance's](https://data-service-alliance.ch/expertise/expert-groups) Expert Group on Data-Driven Predictive Maintenance of Industrial Assets,
 	  Winterthur, Switzerland, May 10, 2019
     
