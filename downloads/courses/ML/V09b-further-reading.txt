@@ -1,0 +1,4 @@
+Further reading for V09b
+-------------------------
+
+- https://see.stanford.edu/materials/aimlcs229/cs229-gp.pdf
