@@ -40,7 +40,7 @@ All links lead to documents as of fall term 2018.
 Additional material [optional]: 
 - [AlphaZero: Learning games from selfplay](http://stdm.github.io/downloads/talks/2018-11-15_AlphaZero-LearningGamesFromSelfplay.pdf) ([video](https://youtu.be/_Z31-5D3RZg) in English)
 - [Deep Learning in the wild](https://stdm.github.io/downloads/talks/2018-09-21_DL-in-the-wild.pdf) ([video](https://youtu.be/efCyLhSACoU) in English)
-- [Was kann KI leisten?](https://stdm.github.io/downloads/talks/2019-03-07_Was-kann-KI-leisten.pdf) ([video](https://youtu.be/Vxsddc9bGUE)] in German) as a 90 minutes long summary of this one-semester course
+- [Was kann KI leisten?](https://stdm.github.io/downloads/talks/2019-03-07_Was-kann-KI-leisten.pdf) ([video](https://youtu.be/Vxsddc9bGUE) in German) as a 90 minutes long summary of this one-semester course
 
 <a name="resources"></a>  
 ## Resources
