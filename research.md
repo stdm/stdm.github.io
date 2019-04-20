@@ -44,11 +44,13 @@ The group has very diverse backgrounds, which helps us complement each other's s
   
 Our Alumni are:
 
+  * [Benjamin Bruno Meier](https://www.linkedin.com/in/benjamin-meier-61ab078b/), M.Sc. (Hirschmann scholarship holder & Dr. Waldemar Jucker laureate), now Software Engineer at Argus Data Insights Schweiz AG
+  
   * [Gabriel Eyyi](https://www.linkedin.com/in/gabriel-eyyi/), M.Sc., now Software Engineer / Machine Learning Engineer at dizmo AG
   
   * [Thierry Musy](https://www.linkedin.com/in/thierrymusy/), B.Sc., now Partner / Senior Data Scientist at Foursight Digital AG
   
-  * [Jan Stampfli](https://www.linkedin.com/in/janstampfli/?originalSubdomain=ch), B.Sc., now Big Data Engineer at Migros-Genossenschafts-Bund
+  * [Jan Stampfli](https://www.linkedin.com/in/janstampfli/), B.Sc., now Big Data Engineer at Migros-Genossenschafts-Bund
 
 &nbsp;
 
