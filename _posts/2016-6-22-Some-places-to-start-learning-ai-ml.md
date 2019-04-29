@@ -2,7 +2,7 @@
 title: 'Some places to start learning AI & ML'
 layout: post
 date: 2016-06-22
-modified: 2019-02-20
+modified: 2019-04-29
 category: education, research, mentoring, MOOCs, ML, RL, CNNs, RNNs
 comments: true
 ---
@@ -26,7 +26,7 @@ These reading resources might also be of interest (use cases, deep dives into sp
 
   * on CNNs 
       * [Deep learning and neural networks](http://neuralnetworksanddeeplearning.com/index.html) by Michael Nielsen: a gentle introduction to neural networks in e-book form
-      * [Beyond ImageNet - Deep Learning Industrial Practice](https://stdm.github.io/downloads/papers/Beyond_ImageNet_preprint_2019.pdf) by me and some colleagues
+      * [Beyond ImageNet - Deep Learning Industrial Practice](https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf) by a few colleagues and myself
   * on generative models
       * [Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/) by Brandon Amos (on DCGANs)
       * [Generative Models](https://openai.com/blog/generative-models/) by the OpenAI team (on DCGANs, VAEs and PixelRNNs)
@@ -48,6 +48,7 @@ These reading resources might also be of interest (use cases, deep dives into sp
       * [Learning to learn](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/) by Chelsea Finn
       * [From zero to research — An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a) by Thomas Wolf 
   * other 
+      * [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) by Andrej Karpathy
       * [ML best practices](https://developers.google.com/machine-learning/rules-of-ml/)
       * Interesting 4-post series on [Learning in Brains and Machines](http://blog.shakirm.com/2016/02/learning-in-brains-and-machines-1/)
 

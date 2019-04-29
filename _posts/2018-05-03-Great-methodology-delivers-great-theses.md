@@ -2,7 +2,7 @@
 title: Great methodology delivers great theses
 layout: post
 date: 2018-05-03
-modified: 2018-12-25
+modified: 2019-04-29
 category: education, doing research, mentoring
 comments: true
 ---
@@ -17,7 +17,7 @@ It is an appealing (up to overwhelming) thought for most people to ultimately st
 
 Bill Johnson was for sure not the first, but the most recent one to stress this point (follow this [link](http://podcasts.ibethel.org/en/podcasts/increase-from-blessing) if you like a good sermon - the reference is somewhere in the last third) for me: we arguably learn and grow the most in our hardest times, and how we personally manage problems defines the level of success we can be entrusted with. Transferred to thesis projects, this means: especially when your experiment is not bringing the outcome you hypothesized, when your model is not predicting well and nothing seems to work, you can show off your skills in doing great research; you can show how you systematically enforce progress where no easy option or helpful flash of inspiration offers you a short-cut for mere doing.
 
-Of course, this is the hard way, and costs you dearly: where Churchill would have spoken of [blood, toil, tears and sweat](https://en.wikipedia.org/wiki/Blood,_toil,_tears,_and_sweat), for a researcher in AI/ML it rather means abstinence from the emotional height of apparent success, long working hours, and the feeling of abandonment when having no imminent idea of what to do next. While each case is individual (and the great grade in the end is awarded for you having found your individual way through), there are a couple of higher-level elements of a good methodology to progress anyway:
+Of course, this is the hard way, and costs you dearly: where Churchill would have spoken of [blood, toil, tears and sweat](https://en.wikipedia.org/wiki/Blood,_toil,_tears,_and_sweat), for a researcher in AI/ML it rather means abstinence from the emotional height of apparent success, long working hours, and the feeling of abandonment when having no imminent idea of what to do next. While each case is individual (and the great grade in the end is awarded for you having found your individual way through), there are a couple of higher-level elements of a good methodology to progress anyway (compare Karpathy's insight specifically on neural nets [here](http://karpathy.github.io/2019/04/25/recipe/)):
 
 1. *Verify your code*: Say you assembled a quite complex pipeline of scripts to load and preprocess data, train a ML model, and evaluate it on a public data set using some predefined metric. Make sure that every step works (with a simple experiment/test) before assuming your pipeline just works. Usually it doesn't because you have a subtle bug (e.g., your input data has the wrong shape, so your model training actually never sees what you intend it to see; your scoring tool operates on class predictions that have an off-by-one error in the class number, so that the result flatlines; or, you get zero error on your testset - which is highly unlikely - because your algorithm actually saw the validation/test data during training due to a data shuffling bug; etc.). Good methodology is to test all elements (ideally in isolation) and verify that there is no stupid bug involved in your scripts.
 
