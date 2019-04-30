@@ -39,10 +39,10 @@ The group has very diverse backgrounds, which helps us complement each other's s
   * [Daniel Neururer](https://ba-pub.engineering.zhaw.ch/WebPublication/Flyer.pdf?version=Bachelorarbeit2018&code=BA18_wyrs_3&language=de), M.Sc. student: B.Sc. in systems engineering (ZHAW)
 
   * [Dr. Frank-Peter Schilling](http://www.fp-schilling.de), senior researcher: Diplom & PhD (U. Heidelberg) in physics, PostDoc at CERN
-  
-  * [Reza Kakooee](https://www.linkedin.com/in/reza-kakooee/), intern: M.Sc. (Ferdowsi U. Mashhad) in electrical and control engineering
-  
+    
 Our Alumni are:
+
+  * [Reza Kakooee](https://www.linkedin.com/in/reza-kakooee/), M.Sc. (Ferdowsi U. Mashhad), now PhD student with Prof. Marc Pouly of Lucerne University of Applied Sciences
 
   * [Benjamin Bruno Meier](https://www.linkedin.com/in/benjamin-meier-61ab078b/), M.Sc. (Hirschmann scholarship holder & Dr. Waldemar Jucker laureate), now Software Engineer at Argus Data Insights Schweiz AG
   
