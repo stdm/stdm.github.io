@@ -1,0 +1,9 @@
+Further reading for V09a
+-------------------------
+
+Required:
+- T. Mitchell, "Generative and discriminative classifiers: naive Bayes and logistic regression", new Chapter 3 for "Machine Learning", 2017, available online: https://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf
+- A. Ng, "Mixtures of Gaussians and the EM algorithm", CS229 Lecture notes 7b, Stanford, available online: http://cs229.stanford.edu/notes/cs229-notes7b.pdf
+
+Optional:
+- C. Bishop, "The Gaussian Distribution", chapter 2.3 of "Pattern recognition and machine learning", 2006

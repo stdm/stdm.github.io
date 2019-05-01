@@ -1,0 +1,6 @@
+Further reading for V10 (optional)
+-----------------------------------
+
+- Ch. 5 "Compressing Data via Dimensionality Reduction" from Raschka, "Python Machine Learning", 2015
+- van der Maaten, Postma, & van der Herik, "Dimensionality reduction: A comparative review". Technical Report, Tiburg Centre for Creative Computing, Tilburg University (TR 2009-005), 2009
+- Saul, & Roweis, "An introduction to locally linear embedding", unpublished, available at http://www.cs.toronto.edu/~roweis/lle/publications.html, 2000
