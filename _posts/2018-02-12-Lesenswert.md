@@ -2,12 +2,20 @@
 layout: post
 title: Lesenswert
 date: 2018-02-12
-modified: 2019-01-01
+modified: 2019-05-06
 category: society, readings
 comments: true
 ---
 
 This is a regularly updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title).
+
+* [Auch Piraten brauchen Geheimnisse](https://www.faz.net/aktuell/wissen/geist-soziales/warum-zu-viel-transparenz-in-der-politik-schaden-kann-16128216.html) by Boris Holzer, Mai 03, 2019.
+
+  Subject: Transparenz in der Politik
+  
+  Key words: transparancy, vorderbühne, hinterbühne, abschirmung, erwartungserfüllung, kontrollierte selbstdarstellung
+  
+  Abstract: Wie man es mit der Transparenz übertreiben kann, zeigt die jüngste deutsche Parteiengeschichte. Denn wer alles preisgibt, macht meist einen schlechten Eindruck. Ist die Piraten-Partei das perfekte Beispiel?
 
 * [Was tun, wenn man die Weltformel gefunden hat?](https://www.faz.net/aktuell/feuilleton/was-tun-wenn-man-die-weltformel-gefunden-hat-15964493.html) by Sybille Anderl, Dec 31, 2018.
 
