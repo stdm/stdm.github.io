@@ -1,0 +1,12 @@
+Further reading for V11
+------------------------
+
+Required
+---------
+- Ng, "CS229 Lecture notes 7a: the K-Means clustering algorithm", available online: http://cs229.stanford.edu/notes/cs229-notes7a.pdf
+- "Terminator 2 Liquid T-1000 scene", available online: https://www.youtube.com/watch?v=Aq5ydeWWr4A
+
+
+Optional
+---------
+- Ch. 11 "Working with unlabeled data - clustering analysis" from Raschka, "Python Machine Learning", 2015
