@@ -32,7 +32,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
 	  Invited talk at Hexagon Technology Forum,
 	  Heerbrugg, Switzerland, May 23, 2019
     
-  * **Predictive Maintance and other Industrial Applications of Deep Learning**
+  * [**Deep learning in an industrial context: predictive maintenance and beyond**](https://stdm.github.io/downloads/talks/2019-05-20_DL-for-predictive-maintenance-and-beyond.pdf)
 	  Invited talk at the [Data+Service Alliance's](https://data-service-alliance.ch/expertise/expert-groups) Expert Group on Data-Driven Predictive Maintenance of Industrial Assets,
 	  Winterthur, Switzerland, May 10, 2019
     
