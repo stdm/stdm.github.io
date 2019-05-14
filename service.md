@@ -22,6 +22,9 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 
 #### 2019
+  * **Künstliche Intelligenz - was, wo & wohin?**
+    Public lecture at Volkshochschule Winterthur, Switzerland, October 31, 2019
+  
   * Invited talk at the Workshop **"Sprache und Algorithmen"** of the network "Communication and Digitalization", [Vereinigung für Angewandte Linguistik Schweiz](http://www.vals-asla.ch),
 	  Winterthur, Switzerland, October 17, 2019
   

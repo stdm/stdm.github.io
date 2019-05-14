@@ -1,0 +1,10 @@
+Further reading for V07
+------------------------
+
+Required:
+- A. Karpathy, "A Recipe for Training Neural Networks", April 25, 2019, available online: http://karpathy.github.io/2019/04/25/recipe/
+- M. Botvinick et al., "Reinforcement Learning, Fast and Slow", Trends in Cognitive Science, Vol. 23, No. 5, 2019
+
+Optional:
+- T. Stadelmann, "Great methodology delivers great theses", May 03, 2018, available online: https://stdm.github.io/Great-methodology-delivers-great-theses/
+- M. Rahtz, "Lessons Learned Reproducing a Deep Reinforcement Learning Paper", April 06, 2018, available online: http://amid.fish/reproducing-deep-rl
