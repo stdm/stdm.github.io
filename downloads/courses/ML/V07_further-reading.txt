@@ -8,3 +8,4 @@ Required:
 Optional:
 - T. Stadelmann, "Great methodology delivers great theses", May 03, 2018, available online: https://stdm.github.io/Great-methodology-delivers-great-theses/
 - M. Rahtz, "Lessons Learned Reproducing a Deep Reinforcement Learning Paper", April 06, 2018, available online: http://amid.fish/reproducing-deep-rl
+- LeCun et al., "Gradient-Based Learning Applied to Document Recognition", Proc. of the IEEE, 1998
