@@ -57,7 +57,7 @@ Generally: If you want to make AI/ML (or more broadly, data science) a career, c
   * [Spinning Up as a Deep RL Researcher](http://spinningup.openai.com/en/latest/spinningup/spinningup.html) by Joshua Achiam
   * [How to Become a Data Scientist](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-1-3) by Alex Smith (also [part 2](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-2-3))
   * but also: [Data science is different now](https://veekaybee.github.io/2019/02/13/data-science-is-different/) by Vicki Boykis
-  * [Data Scientists](https://stdm.github.io/downloads/papers/ADS_2019_DataScientists.pdf) from our own upcoming [book](https://stdm.github.io/data-science-book/))
+  * [Data Scientists](https://stdm.github.io/downloads/papers/ADS_2019_DataScientists.pdf) from our own upcoming [book](https://stdm.github.io/data-science-book/)
   * [A survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/) by Andrej Karpathy
 
 Additionally, try attending events of the [Reinforcement Learning Zurich Meetup](https://www.meetup.com/de-DE/Reinforcement-Learning-Zurich/) and the [Swiss Alliance for Data-Intensive Services](http://www.data-service-alliance.ch), think about joining [SGAICO](http://www.s-i.ch/sgaico/), and subscribe to the [Data Machina newsletter](https://www.getrevue.co/profile/datamachina).
