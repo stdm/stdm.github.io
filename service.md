@@ -27,6 +27,9 @@ Much to the suprise of my younger self, I have become a very active networker, p
   
   * Invited talk at the Workshop **"Sprache und Algorithmen"** of the network "Communication and Digitalization", [Vereinigung für Angewandte Linguistik Schweiz](http://www.vals-asla.ch),
 	  Winterthur, Switzerland, October 17, 2019
+	  
+	* **Artificial Intelligence: wie künstliche Intelligenz und Machine Learning unser Leben verändern**
+	  Keynote at Marketing Arena Schaffhausen, Switzerland, September 17, 2019
   
   * Panelist on the topic of **Digitale Lehrformen** at the "Fortbildungstag Lehre" of the [ZHAW School of Engineering](https://www.zhaw.ch/en/engineering/), 
     Winterthur, Switzerland, June 18, 2019
