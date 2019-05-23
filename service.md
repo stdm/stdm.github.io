@@ -34,7 +34,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * Panelist on the topic of **Digitale Lehrformen** at the "Fortbildungstag Lehre" of the [ZHAW School of Engineering](https://www.zhaw.ch/en/engineering/), 
     Winterthur, Switzerland, June 18, 2019
     
-  * **From Loss to Love: Lessons Learned in Deep Learning Research**
+  * [**From Loss to Love: Lessons Learned in Deep Learning Research**](https://stdm.github.io/downloads/talks/2019-05-23_Loss2Love.pdf)
 	  Invited talk at Hexagon Technology Forum,
 	  Heerbrugg, Switzerland, May 23, 2019
     
