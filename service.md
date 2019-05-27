@@ -21,9 +21,9 @@ Much to the suprise of my younger self, I have become a very active networker, p
 ## Talks 
 
 #### 2020
-  * Invited talk at the ETH Bibliothek Kolloquium, Zurich, Switzerland, April 30, 2020
+  * Invited talk at the **ETH Bibliothek Kolloquium**, Zurich, Switzerland, April 30, 2020
     
-  * Invited industry session on deep learning, 6th Richmond IT Forum, Bad Ragaz, Switzerland, April 01-02, 2020
+  * Invited industry session on deep learning, **6th Richmond IT Forum**, Bad Ragaz, Switzerland, April 01-02, 2020
 
 #### 2019
   * **Künstliche Intelligenz - was, wo & wohin?**
@@ -35,7 +35,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * **Artificial Intelligence: wie künstliche Intelligenz und Machine Learning unser Leben verändern**
 	  Keynote at Marketing Arena Schaffhausen, Switzerland, September 17, 2019
 
-  * Impulsreferat at the 3. Schweizer Digitaltag, Zurich, Switzerland, September 03, 2019
+  * Impulsreferat at the **3. Schweizer Digitaltag**, Zurich, Switzerland, September 03, 2019
   
   * Panelist on the topic of **Digitale Lehrformen** at the "Fortbildungstag Lehre" of the [ZHAW School of Engineering](https://www.zhaw.ch/en/engineering/), 
     Winterthur, Switzerland, June 18, 2019
