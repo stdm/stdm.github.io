@@ -34,7 +34,10 @@ Much to the suprise of my younger self, I have become a very active networker, p
   
   * **Artificial Intelligence: wie künstliche Intelligenz und Machine Learning unser Leben verändern**
 	  Keynote at Marketing Arena Schaffhausen, Switzerland, September 17, 2019
-
+  
+  * **Künstliche Intelligenz zwischen Hype und Anwendung**
+    Introductory talk at the Innovations-Apero, Technopark Winterthur, Switzerland, September 10, 2019
+  
   * Impulsreferat at the **3. Schweizer Digitaltag**, Zurich, Switzerland, September 03, 2019
   
   * Panelist on the topic of **Digitale Lehrformen** at the "Fortbildungstag Lehre" of the [ZHAW School of Engineering](https://www.zhaw.ch/en/engineering/), 
