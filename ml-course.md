@@ -34,7 +34,7 @@ This is the companion website to my one semester course on machine learning, co-
 | | [V09c: GMMs & the EM algorithm (recap V09a)](https://stdm.github.io/downloads/courses/ML/V09c_GMM_EM.pdf) ([a](https://youtu.be/7c2oeAOTi30)) | [Lab 9c: Checkup questions](https://stdm.github.io/downloads/courses/ML/Lab09c_CheckupQuestions.zip) | | wuerc |
 | **Unsupervised learning** | [V10: Dimensionality reduction](https://stdm.github.io/downloads/courses/ML/V10_DimensionalityReduction.pdf) ([a](https://youtu.be/jdkxll92g-Y), [b](https://youtu.be/WEOO_6rFWuU), [c](https://youtu.be/rp4_6N61jE4)) | [Lab 10](https://stdm.github.io/downloads/courses/ML/Lab10_DimensionalityReduction.zip) | optional [further reading](https://stdm.github.io/downloads/courses/ML/V10_further-reading.txt) | wuerc |
 | | [V11: Clustering](https://stdm.github.io/downloads/courses/ML/V11_Clustering.pdf) ([a](https://youtu.be/JTloiokrEpo), [b](https://youtu.be/oOycsuDsPkI)) | [Lab 11](https://stdm.github.io/downloads/courses/ML/Lab11_Clustering.zip) | [further reading](https://stdm.github.io/downloads/courses/ML/V11_further-reading.txt) | wuerc |
-| **Selected chapters** | [V12a: Learning games from selfplay](https://stdm.github.io/downloads/courses/ML/V12a_LearningGamesFromSelfplay.pdf) | [P12: Selfplay for Tic-Tac-Toe](https://stdm.github.io/downloads/courses/ML/P12_ReinforcementLearning.zip) | | stdm |
+| **Selected chapters** | [V12a: Learning games from selfplay](https://stdm.github.io/downloads/courses/ML/V12a_LearningGamesFromSelfplay.pdf) ([a](https://youtu.be/aW7WreT2sWw), [b](https://youtu.be/7Z_iEgmMWXM)) | [P12: Selfplay for Tic-Tac-Toe](https://stdm.github.io/downloads/courses/ML/P12_ReinforcementLearning.zip) | | stdm |
 
 All links lead to documents as of spring term 2019.
 
