@@ -9,11 +9,19 @@ comments: true
 
 This is a regularly updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title).
 
+* [Mit Extremen leben lernen](https://www.faz.net/aktuell/feuilleton/buecher/rezensionen/sachbuch/die-reportage-losing-earth-von-nathaniel-rich-16221103.html)by Christian Schwägerl, June 07, 2019.
+
+  Subject: Nathaniel Richs "Losing Earth"
+  
+  Key words: climate change, 1979, exxon mobile, delay, klimaextreme
+  
+  Abstract: Eine Lektüre, die zornig machen kann: Nathaniel Rich zeigt, dass die Folgen des Klimawandels schon in den späten siebziger Jahren bekannt waren.
+
 * [Auch Piraten brauchen Geheimnisse](https://www.faz.net/aktuell/wissen/geist-soziales/warum-zu-viel-transparenz-in-der-politik-schaden-kann-16128216.html) by Boris Holzer, Mai 03, 2019.
 
   Subject: Transparenz in der Politik
   
-  Key words: transparancy, vorderbühne, hinterbühne, abschirmung, erwartungserfüllung, kontrollierte selbstdarstellung
+  Key words: transparency, vorderbühne, hinterbühne, abschirmung, erwartungserfüllung, kontrollierte selbstdarstellung
   
   Abstract: Wie man es mit der Transparenz übertreiben kann, zeigt die jüngste deutsche Parteiengeschichte. Denn wer alles preisgibt, macht meist einen schlechten Eindruck. Ist die Piraten-Partei das perfekte Beispiel?
 
