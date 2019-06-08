@@ -56,7 +56,7 @@ Part I introcuces the main topic: What is applied data science? What is a data p
   * [*Data Science*](https://stdm.github.io/downloads/papers/ADS_2019_DataScience.pdf) by Braschler et al.
   * [*Data Scientists*](https://stdm.github.io/downloads/papers/ADS_2019_DataScientists.pdf) by Stadelmann et al.
   * [*Data Products*](https://stdm.github.io/downloads/papers/ADS_2019_DataProducts.pdf) by Meierhofer et al.
-  * *Legal Aspects* by Hegy et al.
+  * *Legal Aspects* by Hegyi et al.
   * *Risks and Side Effects* by Cap
 
 
@@ -170,7 +170,7 @@ Prof. Dr. Ernst Hafen obtained his PhD from the Biocenter at the University of B
 **Christian Hauser**
 Christian Hauser is Professor of Business Economics and International Management at the Swiss Institute for Entrepreneurship (SIFE) at the University of Applied Sciences HTW Chur. He is a member of the topical platform Ethics of the Swiss Academy of Engineering Sciences (SATW) and of the United Nations Principles for Responsible Management Education (PRME) Working Group on Anti-Corruption, as well as head of the first PRME Business Integrity Action Center in Europe. His research interests include international entrepreneurship, SME and private sector development, corporate responsibility, and business integrity.
 
-**Stefan Hegy**
+**Stefan Hegyi**
 Stefan Hegyi, MLaw is a research associate at ZHAW School of Management and Law and the Zurich Center for Information Technology and Data Protection (ITPZ) in Winterthur. He teaches and advises on technology related legal issues, in particular data protection. Stefan Hegyi has completed his legal studies in Winterthur, Paris, Neuchâtel and Columbia University (NY). Before joining ZHAW, he worked in a law firm in Zurich advising clients on all aspects of IT law. Stefan Hegyi is a member of the ZHAW Datalab managing board.
 
 **Gundula Heinatz-Bürki**
