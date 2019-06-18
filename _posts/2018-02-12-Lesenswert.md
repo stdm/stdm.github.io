@@ -2,12 +2,28 @@
 layout: post
 title: Lesenswert
 date: 2018-02-12
-modified: 2019-06-08
+modified: 2019-06-18
 category: society, readings
 comments: true
 ---
 
 This is a regularly updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title).
+
+* [In der Menge liegt die Wahrheit](https://www.faz.net/aktuell/wissen/leben-gene/vererbungslehre-in-der-menge-liegt-die-wahrheit-16224807.html) by Dietradt Tautz, Jun 14, 2019.
+
+  Subject: Vererbungslehre
+  
+  Key words: mendel'sche gesetze, quantitative genetik, regression to the mean, big data, personalized health
+  
+  Abstract: Wie Vererbung geht, lernt man bereits in der Schule. Aber so einfach wie bei Erbsen ist das nur in Ausnahmefällen. Die quantitative Genetik hat in jüngster Zeit Erkenntnisse gewonnen, die alles auf den Kopf stellen. Das wird schon bald praktische Konsequenzen haben.
+
+* [Bitte, bitte mehr Verbote!](https://www.zeit.de/kultur/2019-06/konsumverhalten-verbote-gesetze-veraenderungen-gewohnheit-freiheit/komplettansicht) by Mely Kiyak, Jun 12, 2019.
+
+  Subject: Kiyaks Deutschstunde / Konsumverhalten
+  
+  Key words: climate change, sinneswandel, gewohnheit, gesetze
+  
+  Asbtract: Es wird sich heute reflexartig um die Freiheit gesorgt, sobald jemand versucht, etwas mit Gesetzen zu verändern. Aber von Aufklärung allein ändert sich nichts. Nie.
 
 * [Mit Extremen leben lernen](https://www.faz.net/aktuell/feuilleton/buecher/rezensionen/sachbuch/die-reportage-losing-earth-von-nathaniel-rich-16221103.html) by Christian Schwägerl, June 07, 2019.
 
@@ -145,13 +161,13 @@ This is a regularly updated collection of links to valuable reads from non-techn
    
    Abstract: Gleichstellung, Teilhabe und Inklusion sind zur Sache der Menschlichkeit geworden. Aber es gibt ein Logikproblem: Ohne Diskriminierung ist das Ziel nicht zu erreichen.
 
-* [Zivilgesellschaft vs. Fräulein Rottenmeier](http://www.zeit.de/kultur/2017-07/forderungen-gesellschaft-peter-taube-olaf-scholz-ruecktritt-deutschstunde) by Mely Kiya, Jul 12, 2017. 
+* [Zivilgesellschaft vs. Fräulein Rottenmeier](http://www.zeit.de/kultur/2017-07/forderungen-gesellschaft-peter-taube-olaf-scholz-ruecktritt-deutschstunde) by Mely Kiyak, Jul 12, 2017. 
 
    Subject: Kiyaks Deutschstunde / Empörungskultur
    
    Key words: shitstorm
    
-   Abstract: Eine Kolumne von Mely Kiya. 
+   Abstract: Eine Kolumne von Mely Kiyak. 
 
 * [Wie ich von links nach rechts gelangte](http://www.zeit.de/kultur/2017-07/68er-matthias-matussek-rechtspopulismus-identitaere/komplettansicht) by Matthias Matussek, Jul 06, 2017. 
 
