@@ -412,6 +412,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="press"></a>
 ## In the press 
 
+  * June 05, 2019, [SRF Digital](https://www.srf.ch/kultur/netzwelt/digitalisierte-notenblaetter-als-muesste-ein-computer-eine-ameise-im-ameisenhaufen-erkennen): "Digitalisierte Notenblätter - Als müsste ein Computer eine Ameise im Ameisenhaufen erkennen"
+
   * Mai 07, 2019, [SRF 10vor10](https://www.srf.ch/play/tv/sendung/10vor10?id=c38cc259-b5cd-4ac1-b901-e3fddd901a3d) "Auszeichnung für ein künstliches Hirn" (starting at min. 15:47)
 
   * March 20, 2019, [Netzwoche](https://www.netzwoche.ch/news/2019-03-20/wie-ki-im-bewerbungsprozess-die-nerven-schont): "Wie KI im Bewerbungsprozess die Nerven schont."
