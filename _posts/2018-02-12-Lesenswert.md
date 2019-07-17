@@ -2,7 +2,7 @@
 layout: post
 title: Lesenswert
 date: 2018-02-12
-modified: 2019-06-18
+modified: 2019-07-17
 category: society, readings
 comments: true
 ---
@@ -33,7 +33,15 @@ This is a regularly updated collection of links to valuable reads from non-techn
   
   Abstract: Eine Lektüre, die zornig machen kann: Nathaniel Rich zeigt, dass die Folgen des Klimawandels schon in den späten siebziger Jahren bekannt waren.
 
-* [Auch Piraten brauchen Geheimnisse](https://www.faz.net/aktuell/wissen/geist-soziales/warum-zu-viel-transparenz-in-der-politik-schaden-kann-16128216.html) by Boris Holzer, Mai 03, 2019.
+* [Das Versagen der ETH](https://www.republik.ch/2019/03/19/das-versagen-der-eth) / [Macht und Ohnmacht](https://www.republik.ch/2019/03/20/macht-und-ohnmacht) / [Abgekartetes Spiel](https://www.republik.ch/2019/03/21/abgekartetes-spiel) by Silvan Aeschlimann, Dennis Bühler, Dominik Osswald (text) and Dominic Nahr (images), May 19-21, 2019.
+
+  Subject: Die ETH Zürich - ein Ort dunkler Intrigen und heftiger Machtkämpfe.
+  
+  Key words: machspiele, intrigen, verfahrensfehler, meetoo, ombudsstelle, machtgefälle, rache
+  
+  Abstract: An der ETH soll eine Astronomie-Professorin ihre Doktoranden über Jahre gemobbt haben. Jetzt wird sie entlassen, obwohl die Schuldfrage nie geklärt wurde. Wie eine Institution von Weltruf alles verrät: die Professorin, die Unschuldsvermutung, sich selbst. Der Fall ETH, Teil 1(-3).
+
+* [Auch Piraten brauchen Geheimnisse](https://www.faz.net/aktuell/wissen/geist-soziales/warum-zu-viel-transparenz-in-der-politik-schaden-kann-16128216.html) by Boris Holzer, May 03, 2019.
 
   Subject: Transparenz in der Politik
   
@@ -224,6 +232,14 @@ This is a regularly updated collection of links to valuable reads from non-techn
    Key words: maessigung
    
    Abstract: Offene Gesellschaften kann man auch zu Tode verteidigen: Wer in der Krise das Tempo des liberalen Kulturkampfes noch steigert, stärkt vor allem die Gegenkräfte.
+
+* [Ich habe nur gezeigt, dass es die Bombe gibt](https://www.dasmagazin.ch/2016/12/03/ich-habe-nur-gezeigt-dass-es-die-bombe-gibt/) by Hannes Grassegger and Mikael Krogerus, Dec 03, 2016.
+
+  Subject: Cambridge Analytica
+  
+  Key words: forschung, ethik, business
+  
+  Abstract: Der Psychologe Michal Kosinski hat eine Methode entwickelt, um Menschen anhand ihres Verhaltens auf Facebook minutiös zu analysieren. Und verhalf so Donald Trump mit zum Sieg.
 
 * [Warnung! Dieser Artikel kann Gefühle der Kränkung auslösen](http://www.zeit.de/2016/42/beleidigung-kult-islamisten-studenten-political-correctness-macht/komplettansicht) by Jens Jessen, Oct 20, 2016. 
 
