@@ -28,11 +28,11 @@ Much to the suprise of my younger self, I have become a very active networker, p
 #### 2019
   * **Künstliche Intelligenz - was, wo & wohin?**
     Public lecture at Volkshochschule Winterthur, Switzerland, October 31, 2019
-  
-  * Session moderator at **1st ZHAW Digital Health Lab Day**, Wädenswil, Switzerland, October 03, 2019
-  
+    
   * Invited talk at the Workshop **"Sprache und Algorithmen"** of the network "Communication and Digitalization", [Vereinigung für Angewandte Linguistik Schweiz](http://www.vals-asla.ch),
 	  Winterthur, Switzerland, October 17, 2019
+
+  * Session moderator at **1st ZHAW Digital Health Lab Day**, Wädenswil, Switzerland, October 03, 2019
   
   * **Artificial Intelligence: wie künstliche Intelligenz und Machine Learning unser Leben verändern**
 	  Keynote at Marketing Arena Schaffhausen, Switzerland, September 17, 2019
@@ -41,6 +41,9 @@ Much to the suprise of my younger self, I have become a very active networker, p
     Introductory talk at the Innovations-Apero, Technopark Winterthur, Switzerland, September 10, 2019
   
   * Impulsreferat at the **3. Schweizer Digitaltag**, Zurich, Switzerland, September 03, 2019
+  
+  * [**Radiosands** - Thom Kubli with ZHAW/Sven Hirsch](https://www.hal-berlin.de/ausstellung/thom-kubli-mit-zhaw-sven-hirsch/)
+    Art installation, HaL, Berlin, Germany, August 23 - September 01, 2019
   
   * Panelist on the topic of **Digitale Lehrformen** at the "Fortbildungstag Lehre" of the [ZHAW School of Engineering](https://www.zhaw.ch/en/engineering/), 
     Winterthur, Switzerland, June 18, 2019
@@ -178,7 +181,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * Panelist at the **AI Applied to Structured Data** workshop, 
     IBM Research, Rüschlikon, Switzerland, April 11, 2018
 
-  * [**Was kann Künstliche Intelligenz leisten?**](https://stdm.github.io/downloads/talks/2018-03-02_Was_kann_KI_leisten.pdf) 
+  * [**Was kann Künstliche Intelligenz leisten?**](https://stdm.github.io/downloads/talks/2018-03-02_Was_kann_KIas_kann_KI_leisten.pdf) 
     Key note at [CAS Digitale Transformation und Innovation](https://weiterbildung.zhaw.ch/de/school-of-management-and-law/programm/cas-digitale-technologien-und-innovation.html), Winterthur, Switzerland, March 02, 2018
 
   * **Science Talk** & **Wie denken denkende Maschinen?**
