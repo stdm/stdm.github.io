@@ -32,17 +32,21 @@ The group has very diverse backgrounds, which helps us complement each other's s
 
   * [Mohammadreza Amirian](https://www.zhaw.ch/en/about-us/person/amir/), PhD student: B.Sc. (U. Shiraz) & M.Sc. (U. Ulm) in electrical engineering, doctorate in conjunction with [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/institut/hidden/f-schwenker/) of Ulm University / Germany
 
-  * [Katharina Rombach](https://www.zhaw.ch/en/about-us/person/romc/), PhD student: B.Sc. & M.Sc. (ETH) in mechanical engineering, focussing on reinforcement learning
-
   * Stefan Huschauer, M.Sc. student: B.Sc. computer science (ETH & ZHAW), focussing on computer vision
 
   * [Daniel Neururer](https://ba-pub.engineering.zhaw.ch/WebPublication/Flyer.pdf?version=Bachelorarbeit2018&code=BA18_wyrs_3&language=de), M.Sc. student: B.Sc. in systems engineering (ZHAW)
 
   * [Dr. Frank-Peter Schilling](http://www.fp-schilling.de), senior researcher: Diplom & PhD (U. Heidelberg) in physics, PostDoc at CERN
+  
+  * [Claude Lehmann](https://www.zhaw.ch/en/about-us/person/lehl/), M.Sc. student: B.Sc. computer science (ZHAW), focusing on deep learning
+  
+  * [Yvan Satyawan](https://www.linkedin.com/in/yvan-satyawan), intern: B.Sc. computer science (U. Freiburg, Germany), focusing on deep learning & robotics
     
 Our Alumni are:
 
-  * [Reza Kakooee](https://www.linkedin.com/in/reza-kakooee/), M.Sc. (Ferdowsi U. Mashhad), now PhD student with Prof. Marc Pouly of Lucerne University of Applied Sciences
+  * [Katharina Rombach](https://dblp.uni-trier.de/pers/hd/r/Rombach:Katharina), B.Sc. & M.Sc. (admitted to EDIC and ERDS doctoral schools at EPFL), now PhD student with Prof. Olga Fink of ETH Zurich
+
+  * [Reza Kakooee](https://www.linkedin.com/in/reza-kakooee/), M.Sc., now PhD student with Prof. Marc Pouly of Lucerne University of Applied Sciences
 
   * [Benjamin Bruno Meier](https://www.linkedin.com/in/benjamin-meier-61ab078b/), M.Sc. (Hirschmann scholarship holder & Dr. Waldemar Jucker laureate), now Software Engineer at Argus Data Insights Schweiz AG
   
