@@ -40,7 +40,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * **Künstliche Intelligenz zwischen Hype und Anwendung**
     Introductory talk at the Innovations-Apero, Technopark Winterthur, Switzerland, September 10, 2019
   
-  * Impulsreferat at the **3. Schweizer Digitaltag**, Zurich, Switzerland, September 03, 2019
+  * [Impulsreferat at the **3. Schweizer Digitaltag**](https://stdm.github.io/downloads/talks/20190903_Schweizer-Digitaltag_Was-ist-KI), Zurich, Switzerland, September 03, 2019
   
   * [**Radiosands** - Thom Kubli with ZHAW/Sven Hirsch](https://www.hal-berlin.de/ausstellung/thom-kubli-mit-zhaw-sven-hirsch/)
     Art installation, HaL, Berlin, Germany, August 23 - September 01, 2019
