@@ -9,20 +9,6 @@ comments: true
 
 Companion website to the book [*Applied Data Science - Lessons Learned for the Data-Driven Business*](https://www.springer.com/us/book/9783030118204).
 
-_Update Jun 14, 2019_: **The ebook is [available](https://link.springer.com/book/10.1007%2F978-3-030-11821-1)**
-
-_Update Jun 05, 2019_: [According to Springer](https://www.springer.com/de/book/9783030118204), the book is due Jul 22 (this year :). We'll have [pre-order cards with 20% discount at our booth at SDS'2019](https://sds2019.ch/), including the possibility to browse through the final ebook.
-
-_Update Apr 05, 2019_: Final comments submitted to springer - now waiting on the printed book!
-
-_Update Mar 12, 2019_: "Good for print" proofreading until Mar 21.
-
-_Update Jan 29, 2019_: Cover design is drafted and ISBN is out (978-3-030-11820-4). Pre-order available e.g. at [Amazon](https://www.amazon.de/Applied-Data-Science-Data-Driven-Business/dp/3030118207/ref=sr_1_1?ie=UTF8&qid=1548749787&sr=8-1&keywords=9783030118204).
-
-_Update Dec 07, 2018_: Production started.
-
-_Update Sep 28, 2018_: The manuscript has been submitted to the publisher. 
-
 [<img alt="Book cover" src="http://stdm.github.io/images/apd-cover.jpg"/>](http://stdm.github.io/images/apd-cover.jpg)
 
 
