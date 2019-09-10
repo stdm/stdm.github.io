@@ -29,6 +29,10 @@ I try to make my main courses available as free online ressources as a best effo
 
 | **When** | **Level** | **Type** | **Title** |
 | --- | --- | --- | --- |
+| Fall 2019 | MSc | MT | tbd, medical image analysis with the deep watershed detector |
+| Fall 2019 | MSc | VT2 | tbd, music generation with wavenets |
+| Fall 2019 | MSc | VT1 | tbd, machine learning for query processing |
+| Fall 2019 | BSc | PA | **Reinforcement Learning mit einem Multi-Agenten System für die Planung von Zügen** |
 | Spring 2019 | MSc | VT2 | **Baselines for the Flatland Reinforcement Learning for Train Scheduling Challenge** |
 | Spring 2019 | MSc | VT1 | **Additive Angular Margin Loss for Speaker Clustering** |
 | Spring 2019 | BSc | BA | **Benchmarking of Classical and Deep Learning Speaker Clustering Approaches** |
@@ -84,10 +88,10 @@ I try to make my main courses available as free online ressources as a best effo
 
 | Tag | Name | Format | Type | Content | Did what? | When? |
 | --- | --- | --- | --- | --- | --- | --- |
-| [KI1](http://stdm.github.io/ai-course) | **Künstliche Intelligenz 1** | lecture & lab | final year BSc computer science elective course | practical AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017-2018 |
+| [KI1](http://stdm.github.io/ai-course) | **Künstliche Intelligenz 1** | lecture & lab | final year BSc computer science elective course | practical AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017-2019 |
 | KI2 | **Künstliche Intelligenz 2** | lecture & lab | finale year BSc computer science elective course | AI applications with a focus on neural networks | responsible, co-initiate, co-create | Fall 2017 |
 | [TSM_MachLe](http://stdm.github.io/ml-course) | **Machine Learning** | lecture & lab | MSc computer science & engineering elective course | mid-level course on practical machine learning with a focus on deep learning | responsible, initiate, co-create, co-teach | Spring 2017-2019 |
-| EVA MI Lab | **Machine Intelligence Lab** | MOOC, colloquia & hackathon | MSc extended advanced module (EVA) | experience an online course on an advanced machine learning topic | responsible, initiate, co-create, teach | Fall 2015-2018 |
+| EVA MI Lab | **Machine Intelligence Lab** | MOOC, colloquia & hackathon | MSc extended advanced module (EVA) | experience an online course on an advanced machine learning topic | responsible, initiate, co-create, teach | Fall 2015-2019 |
 | EVA AI Seminar | **Artificial Intelligence Semniar** | seminar, blog posts, talk | MSc extended advanced module (EVA) | read, understand and write scientific literature | initiate, create, teach | Spring 2017-2019 |
 | ML | **Machine Learning** | lecture & lab | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Machine Intelligence](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-machine-intelligence.html) | practical machine learning for data scientists | responsible, initiate, create, teach | Fall 2015-2016, spring 2017-2018 |
 | DPD | **Data Product Design** | lecture, lab, guest appearances, video pitch | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Data Product Design](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-product-design.html) | business basics for techie data scientists | initiate, co-create, co-teach | Fall 2015-2017 |

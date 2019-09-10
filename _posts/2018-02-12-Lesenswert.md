@@ -9,6 +9,14 @@ comments: true
 
 This is a regularly updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title).
 
+* [Die Herzkammer der Wissenschaft](https://www.faz.net/aktuell/feuilleton/hoch-schule/promotionsrecht-die-herzkammer-der-wissenschaft-16365470.html?printPagedArticle=true#pageIndex_2) by Joachim Lege, Nov 06, 2019.
+
+  Subject: Promotionsrecht
+  
+  Key words: definition of science, unity of research and teaching, Wissenschaftssystem
+  
+  Abstract: Das Wissenschaftssystem braucht ein Zentrum, das bahnbrechende Erfindungen mit dem gesellschaftlichen Konsens vermittelt. Das können nur die Universitäten sein. Bei ihnen sollte daher auch das Promotionsrecht liegen.
+
 * [In der Menge liegt die Wahrheit](https://www.faz.net/aktuell/wissen/leben-gene/vererbungslehre-in-der-menge-liegt-die-wahrheit-16224807.html) by Dietradt Tautz, Jun 14, 2019.
 
   Subject: Vererbungslehre

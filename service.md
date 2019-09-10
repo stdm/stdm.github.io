@@ -38,11 +38,20 @@ Much to the suprise of my younger self, I have become a very active networker, p
   
   * **Artificial Intelligence: wie künstliche Intelligenz und Machine Learning unser Leben verändern**
 	  Keynote at Marketing Arena Schaffhausen, Switzerland, September 17, 2019
-  
-  * **Künstliche Intelligenz zwischen Hype und Anwendung**
+
+  * [**Was kann Künstliche Intelligenz leisten?**](https://stdm.github.io/downloads/talks/20190913_Was kann KI leisten_innovation.pdf) 
+    Invited guest lecture at [CAS Digitale Transformation und Innovation](https://weiterbildung.zhaw.ch/de/school-of-management-and-law/programm/cas-digitale-technologien-und-innovation.html), Winterthur, Switzerland, September 13, 2019
+
+  * [**Künstliche Intelligenz zwischen Hype und Anwendung**](https://stdm.github.io/downloads/talks/20190910_KI-zwischen-Hype-und-Anwendung.pdf)
     Introductory talk at the Innovations-Apero, Technopark Winterthur, Switzerland, September 10, 2019
+
+  * [**Was kann Künstliche Intelligenz leisten?**](https://stdm.github.io/downloads/talks/20190906_Was kann KI leisten_paralegal.pdf) 
+    Invited guest lecture at [CAS Paralegal](https://www.zhaw.ch/de/sml/weiterbildung/detail/kurs/cas-paralegal/), Winterthur, Switzerland, September 06, 2019
   
-  * [Impulsreferat at the **3. Schweizer Digitaltag**](https://stdm.github.io/downloads/talks/20190903_Schweizer-Digitaltag_Was-ist-KI), Zurich, Switzerland, September 03, 2019
+  * [Impulsreferat at the **3. Schweizer Digitaltag**](https://stdm.github.io/downloads/talks/20190903_Schweizer-Digitaltag_Was-ist-KI.pdf), Zurich, Switzerland, September 03, 2019
+  
+  * [**Praxisorientierung: Grundlagen von Wissen & Expertise als Haltung - ein Beitrag aus der KI**](https://stdm.github.io/downloads/talks/20190902_BestTeaching-BestPractices_ATLAS.pdf)
+    Tagung "Best Teaching - Best Practices", Zurich, Switzerland, September 02, 2019
   
   * [**Radiosands** - Thom Kubli with ZHAW/Sven Hirsch](https://www.hal-berlin.de/ausstellung/thom-kubli-mit-zhaw-sven-hirsch/)
     Art installation, HaL, Berlin, Germany, August 23 - September 01, 2019
