@@ -4,7 +4,7 @@ layout: page
 comments: true
 ---
 
-This is the companion website to my one semester course on Artificial Intelligence. The course is part of the bachelor of computer science curriculm at ZHAW School of Engineering as the elective course "KI1" during the last year of study. It reflects the status quo as of fall term 2018.
+This is the companion website to my one semester course on Artificial Intelligence. The course is part of the bachelor of computer science curriculm at ZHAW School of Engineering as the elective course "KI1" during the last year of study. It reflects the status quo as of fall term 2018. You can find the underlying didactic concept [here](https://stdm.github.io/ATLAS/) and [here](https://stdm.github.io/Science-applied/) (in German).
 
 ### TOC
 1. [Syllabus](#syllabus)

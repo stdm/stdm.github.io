@@ -54,6 +54,8 @@ Eine in meiner Disziplin wissenschaftlich kompetente Fachperson – ein Data Sci
 
 ![Abbildung 1: Virales Internet-Meme zur Bedeutung des Schreibens.](https://stdm.github.io/images/savage_writing.jpg)
 
+_Abbildung 1: Virales Internet-Meme zur Bedeutung des Schreibens._
+
 -	*Schreiben*: Das Ergebnis aus Experiment und modifiziertem Verständnis wird in Form eines technischen Berichts niedergeschrieben – zum einen als Dokumentation der eigenen Arbeit, zum anderen als eigener Beitrag zum zuvor recherchierten State of the Art (siehe auch Abb. 1 oben aus [Savage, 2012]). In Ergänzung zu den Argumenten im Punkt "Schlussfolgern"" hilft diese wissenschaftliche Schlüsselkompetenz in nahezu jedem Berufsalltag in Folge der Verschriftlichung vieler Kommunikationswege (Emails, Instant Messaging): Knappes, klares, verständliches Schreiben, angenehm formuliert und inhaltlich überzeugend.
 
 
@@ -80,9 +82,13 @@ In Vorlesungen thematisiere ich den Produktentwicklungsprozess (als das gesamte 
 
 ![Abbildung 2: Folie 13 aus den Kursunterlagen V02 zu TSM_MachLe ("Machine Learning" im MSE).](https://stdm.github.io/images/ml-dev-process.jpg)
 
+_Abbildung 2: Folie 13 aus den Kursunterlagen V02 zu TSM_MachLe ("Machine Learning" im MSE)._
+
 Ziel ist hier, die Studierenden an das dahinerliegende Denkmodell heranzuführen, dass sie dann in Laborübungen selbständig anwenden werden. 
 
 ![Abbildung 3: Folie 25 aus V01 (Einblick in Ereignisse aus der Forschungslandschaft) sowie Folie 21 aus V07 (mit einem Recherche- und Meinungsbildungsauftrag) der Kursunterlagen zu "Künstliche Intelligenz".](https://stdm.github.io/images/examples_AI_community.jpg)
+
+_Abbildung 3: Folie 25 aus V01 (Einblick in Ereignisse aus der Forschungslandschaft) sowie Folie 21 aus V07 (mit einem Recherche- und Meinungsbildungsauftrag) der Kursunterlagen zu "Künstliche Intelligenz"._
 
 Die Wichtigkeit von offenen Diskussionen mit Studierenden wurde im vorangegangenen Abschnitt bereits genannt. Beides (Frontalunterricht und Diskussion) dient der vorbereitenden Konfrontation der Studierenden mit einer Denk- und Arbeitsweise, die Ihnen aus anderen Subdisziplinen der Informatik heraus weniger geläufig ist (siehe auch den ersten Bulletpoint in Abb. 2). Beides wird immer wieder ergänzt durch den Frontalunterricht unterbrechende Arbeitsaufträge an die Teilnehmenden, sowie motivierende Einblicke in das Geschehen der relevanten akademischen Forschungscommunity, wie beispielhaft in Abb. 3 gezeigt wird. Diese Beispiele zeigen (etwa dasjenige der «Neural Information Processing Systems» Konferenz 2016, im Bild links) eine attraktive Vernetzung von Wissenschaft, Forschung und Industrie (an der Konferenz: Der grösste Teil der mehr als 5'000 Teilnehmer dieser wichtigsten aller akademischen Treffen im Bereich Deep Learning arbeitet in der Industrie). 
 
