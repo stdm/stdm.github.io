@@ -33,10 +33,12 @@ Much to the suprise of my younger self, I have become a very active networker, p
     
   * Invited talk at the Workshop **"Sprache und Algorithmen"** of the network "Communication and Digitalization", [Vereinigung für Angewandte Linguistik Schweiz](http://www.vals-asla.ch),
 	  Winterthur, Switzerland, October 17, 2019
+	  
+	* Invited talk for **SUVA board of directors**, Zurich, Switzerland, October 14, 2019
 
   * Session moderator at **1st ZHAW Digital Health Lab Day**, Wädenswil, Switzerland, October 03, 2019
   
-  * **Artificial Intelligence: wie künstliche Intelligenz und Machine Learning unser Leben verändern**
+  * [**Artificial Intelligence: wie künstliche Intelligenz und Machine Learning unser Leben verändern**](https://stdm.github.io/downloads/talks/20190917_MarketingArenaSH_Wie-KI-und-ML-unser-Leben-verändern.pdf)
 	  Keynote at Marketing Arena Schaffhausen, Switzerland, September 17, 2019
 
   * [**Was kann Künstliche Intelligenz leisten?**](https://stdm.github.io/downloads/talks/20190913_Was kann KI leisten_innovation.pdf) 
