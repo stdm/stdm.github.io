@@ -9,11 +9,27 @@ comments: true
 
 This is a regularly updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title).
 
+* [Tschüss Verbindlichkeit, hallo Freiheit](https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/mit-leichtem-gepaeck/tschuess-verbindlichkeit-hallo-freiheit) by Dirk Böttcher, 08/2019 
+
+  Subject: Freiheit
+  
+  Key words: minimalismus, streamisierung des lebens, kindisches verhalten, kultur, eigenverantwortung, wegwerfgesellschaft, servicemodell, abhängigkeit
+  
+  Abstract: Was wird aus uns, wenn wir alles haben, aber nichts mehr besitzen wollen? Ein persönlicher Zwischenruf.
+
+* [Aladin hat Ärger](https://www.faz.net/aktuell/politik/ausland/justin-trudeau-aladin-hat-aerger-16396533.html) by Majid Sattar, Sep 21, 2019.
+
+  Subject: Justin Trudeau
+  
+  Key words: micro aggression, culture, victimization, blackfacing, differenzierung
+  
+  Abstract: Es ist nicht ironisch, dass Justin Trudeau mit seiner Aladin-Verkleidung nun in die selbstgestellten Fallen geht. Es ist folgerichtig.
+
 * [Die Herzkammer der Wissenschaft](https://www.faz.net/aktuell/feuilleton/hoch-schule/promotionsrecht-die-herzkammer-der-wissenschaft-16365470.html?printPagedArticle=true#pageIndex_2) by Joachim Lege, Nov 06, 2019.
 
   Subject: Promotionsrecht
   
-  Key words: definition of science, unity of research and teaching, Wissenschaftssystem
+  Key words: definition of science, unity of research and teaching, wissenschaftssystem, lehre + forschung = zentrum der wissenschaft
   
   Abstract: Das Wissenschaftssystem braucht ein Zentrum, das bahnbrechende Erfindungen mit dem gesellschaftlichen Konsens vermittelt. Das können nur die Universitäten sein. Bei ihnen sollte daher auch das Promotionsrecht liegen.
 
