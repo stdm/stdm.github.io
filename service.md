@@ -36,7 +36,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * Invited talk at the Workshop **"Sprache und Algorithmen"** of the network "Communication and Digitalization", [Vereinigung für Angewandte Linguistik Schweiz](http://www.vals-asla.ch),
 	  Winterthur, Switzerland, October 17, 2019
 
-	* Invited talk for **SUVA board of directors**, Zurich, Switzerland, October 14, 2019
+  * Invited talk for **SUVA board of directors**, Zurich, Switzerland, October 14, 2019
 
   * Session moderator at **1st ZHAW Digital Health Lab Day**, Wädenswil, Switzerland, October 03, 2019
 
