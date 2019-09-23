@@ -24,20 +24,22 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * Invited talk at the **ETH Bibliothek Kolloquium**, Zurich, Switzerland, April 30, 2020
     
   * Invited industry session on deep learning, **6th Richmond IT Forum**, Bad Ragaz, Switzerland, April 01-02, 2020
-  
+
+  * Keynote at **DACH Compliancetagung**, Winterthur, Switzerland, March 06, 2020
+
   * Invited panelist on **"Kuenstliche Intelligenz - Hype vs. Nutzen"**, euroforum 5. Schweizer Strategietag Connected Industry, Rüschlikon, Switzerland, January 09, 2020
 
 #### 2019
   * **Künstliche Intelligenz - was, wo & wohin?**
     Public lecture at Volkshochschule Winterthur, Switzerland, October 31, 2019
-    
+
   * Invited talk at the Workshop **"Sprache und Algorithmen"** of the network "Communication and Digitalization", [Vereinigung für Angewandte Linguistik Schweiz](http://www.vals-asla.ch),
 	  Winterthur, Switzerland, October 17, 2019
-	  
+
 	* Invited talk for **SUVA board of directors**, Zurich, Switzerland, October 14, 2019
 
   * Session moderator at **1st ZHAW Digital Health Lab Day**, Wädenswil, Switzerland, October 03, 2019
-  
+
   * [**Artificial Intelligence: wie künstliche Intelligenz und Machine Learning unser Leben verändern**](https://stdm.github.io/downloads/talks/20190917_MarketingArenaSH_Wie-KI-und-ML-unser-Leben-verändern.pdf)
 	  Keynote at Marketing Arena Schaffhausen, Switzerland, September 17, 2019
 
