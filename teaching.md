@@ -31,7 +31,7 @@ I try to make my main courses available as free online ressources as a best effo
 | --- | --- | --- | --- |
 | Fall 2019 | MSc | MT | tbd, medical image analysis with the deep watershed detector |
 | Fall 2019 | MSc | VT2 | tbd, music generation with wavenets |
-| Fall 2019 | MSc | VT1 | tbd, machine learning for query processing |
+| Fall 2019 | MSc | VT1 | **Real-World Speaker Recognition on VoxCeleb2 using Angular Margin Losses** |
 | Fall 2019 | BSc | PA | **Reinforcement Learning mit einem Multi-Agenten System für die Planung von Zügen** |
 | Spring 2019 | MSc | VT2 | **Baselines for the Flatland Reinforcement Learning for Train Scheduling Challenge** |
 | Spring 2019 | MSc | VT1 | **Additive Angular Margin Loss for Speaker Clustering** |
