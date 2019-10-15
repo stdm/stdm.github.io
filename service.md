@@ -33,10 +33,11 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * **Künstliche Intelligenz - was, wo & wohin?**
     Public lecture at Volkshochschule Winterthur, Switzerland, October 31, 2019
 
-  * Invited talk at the Workshop **"Sprache und Algorithmen"** of the network "Communication and Digitalization", [Vereinigung für Angewandte Linguistik Schweiz](http://www.vals-asla.ch),
+  * [**"The Relationship of Pattern Recognition Research and Public Communication"**](https://stdm.github.io/downloads/talks/20191017_pattern-recognition-public-communication.pdf)
+    Invited talk at the Workshop **"Sprache und Algorithmen"** of the network "Communication and Digitalization", [Vereinigung für Angewandte Linguistik Schweiz](http://www.vals-asla.ch),
 	  Winterthur, Switzerland, October 17, 2019
 
-  * Invited talk for **SUVA board of directors**, Zurich, Switzerland, October 14, 2019
+  * Invited [**C-level intensive course on AI and ML**](https://stdm.github.io/downloads/talks/20191014_SUVA-Intensivseminar-KI-ML.pdf) for **SUVA board of directors**, Zurich, Switzerland, October 14, 2019
 
   * Session moderator at **1st ZHAW Digital Health Lab Day**, Wädenswil, Switzerland, October 03, 2019
 
