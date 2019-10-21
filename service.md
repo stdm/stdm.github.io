@@ -368,6 +368,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
   
   * Co-chair, [9th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](https://annpr2020.ch/), September 02-04, 2020, Switzerland
 
+  * Member of steering board, [7th Swiss Conference on Data Science](https://sds2020.ch/), Lucerne, Switzerland, June 26, 2019
+
   * Member of program committee, [28th International Joint Conference on Artificial Intelligence (IJCAI)](https://ijcai19.org/), Macao, China, August 10-16, 2019
 
   * Member of steering board, [6th Swiss Conference on Data Science (IEEE technically co-sponsored)](https://sds2019.ch/), Bern, Switzerland, June 14, 2019
@@ -430,6 +432,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 <a name="press"></a>
 ## In the press 
+
+  * September 20, 2019, [Marketing Arena: Cyber-Security und künstliche Intelligenz im Fokus](https://www.shn.ch/publireportagen/2019-09-20/marketing-arena-cyber-security-und-kuenstliche-intelligenz-im-fokus): "[...] Als profunder Kenner der Technologie erklärte Prof. Dr. Thilo Stadelmann dem Publikum der Marketing Arena auf verständliche Art und Weise die Mechanismen von KI und Machine Learning. Als Professor an der ZHAW School of Engineering in Winterthur und wissenschaftlicher Leiter von ZHAW digital konnte Stadelmann aus seiner praxisnahen Forschungstätigkeit mit namhaften Schweizer Unternehmen aufzeigen, in welchen Bereichen künstliche Intelligenz heute schon zur Anwendung kommt, und dies auch bei kleineren und mittleren Unternehmen. Dass dabei noch ein grosser Innovation Gap besteht zwischen dem Wissen, welches in der Forschung bereits vorhanden ist und den konkreten Anwendungen, welche aktuell im Markt etabliert sind, zeigt deutlich auf, dass KI noch ein grosses Potential birgt. [...]"
 
   * August 22, 2019, [Digitalisierung als Bottum-up Prozess](https://hochschulforumdigitalisierung.de/de/blog/digitalisierung-zhaw): "[W]ie können Hochschulen [...] Innovation als Bottom-Up-Prozess fördern? Am Beispiel eines "Open Spaces" im Rahmen der Auftaktveranstaltung für "ZHAW digital", der strategischen Initiative für digitale Transformation an der Zürcher Hochschule für Angewandte Wissenschaften (ZHAW), geht Benjamin Eugster dieser Frage auf den Grund."
 
