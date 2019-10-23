@@ -368,7 +368,9 @@ Much to the suprise of my younger self, I have become a very active networker, p
   
   * Co-chair, [9th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](https://annpr2020.ch/), September 02-04, 2020, Switzerland
 
-  * Member of steering board, [7th Swiss Conference on Data Science](https://sds2020.ch/), Lucerne, Switzerland, June 26, 2019
+  * Member of steering board, [7th Swiss Conference on Data Science](https://sds2020.ch/), Lucerne, Switzerland, June 26, 2020
+
+  * Member of program committee applied track, [5th SwissText & 16th KONVENS Joint Confernce 2020](http://swisstext-and-konvens-2020.org/), Zurich, Switzerland, June 23-25, 2020
 
   * Member of program committee, [28th International Joint Conference on Artificial Intelligence (IJCAI)](https://ijcai19.org/), Macao, China, August 10-16, 2019
 
