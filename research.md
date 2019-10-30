@@ -40,7 +40,7 @@ The group has very diverse backgrounds, which helps us complement each other's s
   
   * [Claude Lehmann](https://www.zhaw.ch/en/about-us/person/lehl/), M.Sc. student: B.Sc. computer science (ZHAW), focusing on deep learning
   
-  * [Yvan Satyawan](https://www.linkedin.com/in/yvan-satyawan), intern: B.Sc. computer science (U. Freiburg, Germany), focusing on deep learning & robotics
+  * [Yvan Satyawan](https://www.linkedin.com/in/yvan-satyawan), research assistent: B.Sc. computer science (U. Freiburg, Germany), focusing on deep learning & robotics
     
 Our Alumni are:
 
