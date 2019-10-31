@@ -30,7 +30,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * Invited panelist on **"Kuenstliche Intelligenz - Hype vs. Nutzen"**, euroforum 5. Schweizer Strategietag Connected Industry, Rüschlikon, Switzerland, January 09, 2020
 
 #### 2019
-  * **Künstliche Intelligenz - was, wo & wohin?**
+  * [**Künstliche Intelligenz - was, wo & wohin?**](https://stdm.github.io/downloads/talks/20191031_KI-was-wo-wohin.pdf)
     Public lecture at Volkshochschule Winterthur, Switzerland, October 31, 2019
 
   * [**"The Relationship of Pattern Recognition Research and Public Communication"**](https://stdm.github.io/downloads/talks/20191017_pattern-recognition-public-communication.pdf)
