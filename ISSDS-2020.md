@@ -37,14 +37,17 @@ To participate in the workshop (stage 1) and the subsequent advancement sessions
 We invite contributors to present their ideas at the workshop (stage 1), to engage in collaborative advancement sessions (stage 2) and, to  continue the development of a Reference Framework for Data Science as an activity in the international data science community (stage 3). 
 
 
-## Important dates 2020
+## Important dates
 
-- Abstract submission: January 16 (registration happens by submitting an extended abstract (1-2 pages) containing one’s own hypotheses / findings / preliminary ideas on the subject to [alho@zhaw.ch](mailto:alho@zhaw.ch) 
+- Pre-registration: Until January 16, 2020, via [Doodle](https://doodle.com/poll/5cnee9sknimx55y3)
 
-- Workshop (stage 1): February 27 (13:00-19:00, ZHAW campus Winterthur; every participant is given a speaking slot of a few minutes to present own ideas, with ample time to discuss; apero provided)
+- Abstract submission: January 16, 2020 (registration happens by submitting an extended abstract (1-2 pages) containing one’s own hypotheses / findings / preliminary ideas on the subject to [alho@zhaw.ch](mailto:alho@zhaw.ch) 
+
+- Workshop (stage 1): February 27, 2020 (13:00-19:00, ZHAW campus Winterthur; every participant is given a speaking slot of a few minutes to present own ideas, with ample time to discuss; apero provided)
 
 
 ## Organizers
+
 -	Dr. Thilo Stadelmann, Prof. AI/ML, ZHAW School of Engineering
 
 - Dr. Michael L. Brodie, visiting scholar, Harvard School of Engineering and Applied Sciences
@@ -53,8 +56,13 @@ We invite contributors to present their ideas at the workshop (stage 1), to enga
 
 
 ### References
+
 [1] Brodie, ["What is Data Science?"](https://michaelbrodie.com/wp-content/uploads/2018/05/What-is-Data-Science-Final-May-16-2018.pdf). In: Braschler et al. (Eds.), "Applied Data Science – Lessons Learned for the Data-Driven Business", Berlin, Heidelberg: Springer, 2019.  
+
 [2] Braschler et al., ["Data Science"](https://stdm.github.io/downloads/papers/ADS_2019_DataScience.pdf). In: Braschler et al. (Eds.), "Applied Data Science – Lessons Learned for the Data-Driven Business", Berlin, Heidelberg: Springer, 2019.
+
 [3] Brodie, ["On Developing Data Science"](https://michaelbrodie.com/wp-content/uploads/2018/05/Developing-Data-Science-final-May-16-2018.pdf). In: Braschler et al. (Eds.), "Applied Data Science – Lessons Learned for the Data-Driven Business", Berlin, Heidelberg: Springer, 2019.
+
 [4] Jordan, M. ["Artificial Intelligence — The Revolution Hasn't Happened Yet"](https://hdsr.mitpress.mit.edu/pub/wot7mkc1); UC Berkeley, April 18, 2018.
+
 [5] Jordan, M. I. (2019). ["Dr. AI or: How I Learned to Stop Worrying and Love Economics"](https://hdsr.mitpress.mit.edu/pub/2imtstfu). Harvard Data Science Review.
