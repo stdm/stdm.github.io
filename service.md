@@ -436,6 +436,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 <a name="press"></a>
 ## In the press 
+  * December 04, 2019, [ZHAW Impact No 47 / Dezember 2019, Dossier Künstliche Intelligenz](https://www.zhaw.ch/storage/hochschule/medien/zhaw-impact/ZHAW-Impact_47.pdf): Several articles on AI that covers our work (p. 24-28, p. 32-33, p. 36-37, p. 48)
 
   * Oktober 23, 2019, [Technik und Wissen](https://www.technik-und-wissen.ch/detail/kuenstliche-intelligenz-im-einsatz-bei-kmu.html): "Müssen proaktiv neue Technologien miteinbeziehen" - ein Interview zum Thema "Künstliche Intelligenz im Einsatz bei KMU"
 
