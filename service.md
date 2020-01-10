@@ -27,7 +27,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
   * Keynote at **DACH Compliancetagung**, Winterthur, Switzerland, March 06, 2020
 
-  * Invited panelist on **"Kuenstliche Intelligenz - Hype vs. Nutzen"**, euroforum 5. Schweizer Strategietag Connected Industry, Rüschlikon, Switzerland, January 09, 2020
+  * Invited power talk together with BW-TEC CEO Josia Pantli on the topic [**KMU kann KI**](https://stdm.github.io/downloads/talks/20200109_KMU-kann-KI.pdf) and panelist on **"Kuenstliche Intelligenz - Hype vs. Nutzen"**, euroforum 5. Schweizer Strategietag Connected Industry, Rüschlikon, Switzerland, January 09, 2020
 
 #### 2019
   * [**Künstliche Intelligenz - was, wo & wohin?**](https://stdm.github.io/downloads/talks/20191031_KI-was-wo-wohin.pdf)
