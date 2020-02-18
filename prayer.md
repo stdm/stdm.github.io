@@ -8,46 +8,50 @@ comments: true
 
 The staff prayer meeting at ZHAW takes place roughly weekly at the premises of the [Stadtmission Winterthur](http://www.stadtmission-winterthur.ch/) (entry from the rear side at Neumarkt). The corner room Technikumstrasse/Neumarkt on the ground floor usually hosts staff and faculty members from different departments and all Christian denominations. Over lunchtime, we sing, hear a passage from the Bible, and split into smaller groups to pray for each other's needs as well as for our university, colleagues and students. Occasionally, we go out to lunch together afterwards. The meetings are lead by [Josef Adam](https://www.zhaw.ch/en/about-us/person/adjo/).
 
-Fall term 2019 meetings: weekly alternating between Tuesdays and Thursdays; 12:00 worship, 12:10 input, 12:15-12:30 prayer
+Spring term 2020 meetings: weekly alternating between Tuesdays and Thursdays; 12:00 worship, 12:10 input, 12:15-12:30 prayer
 
-- Thur Oct 03
+- Tue Feb 25
 
-- Tue Oct 08
+- Thur Mar 05
 
-- Thur Oct 17
+- Tue Mar 10
 
-- Tue Oct 22
+- Thur Mar 19
 
-- Thur Oct 31
+- Tue Mar 24
 
-- Tue Nov 05
+- Thur Apr 02
 
-- Thur Nov 14
+- Tue Apr 07
 
-- Tue Nov 19
+- Thur Apr 16
 
-- Thur Nov 28
+- Tue Apr 21
 
-- Tue Dec 03
+- Thur Apr 30
 
-- Thur Dec 12
+- Tue May 05
 
-- Tue Dec 17
+- Thur May 14
 
-- (Christmas holidays)
+- Tue May 19
 
-- Thur Jan 09
+- Thur May 28
 
-- Tue Jab 14
+- Tue Jun 02
 
-- Thur Jan 23
+- Thur Jun 11
 
-- Tue Jan 28
+- Tue Jun 16
 
-- Thur Feb 06
+- Thur Jun 25
 
-- Tue Feb 11
+- Tue Jun 30
 
-- (New semester starts)
+- Thur Jul 09
+
+- Tue Jul 14
+
+- (summer break starts)
 
 If you want to meet fellow Christian colleagues, be encouraged and prayed for, and make use of our privilege to ask God's blessing for our place of work, we cordially welcome you at any of our meetings. If you are in Zurich, you might be interested in the [Dozentenforum](http://www.dozentenforum.ch/) of colleagues form ETH and UZH. If you are a student, you might be interested in the [VBG Winterthur](http://winti.vbg.net/).
