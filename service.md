@@ -25,7 +25,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
     
   * Invited industry session on deep learning, **6th Richmond IT Forum**, Bad Ragaz, Switzerland, April 01-02, 2020
 
-  * Keynote at **DACH Compliancetagung**, Winterthur, Switzerland, March 06, 2020
+  * Keynote on [**"Ein Blick in die Zukunft der angewandten KI"**](https://stdm.github.io/downloads/talks/20200306_Zukunft-angewandte-KI.pdf) at DACH Compliancetagung, Winterthur, Switzerland, March 06, 2020
 
   * Invited power talk together with BW-TEC CEO Josia Pantli on the topic [**KMU kann KI**](https://stdm.github.io/downloads/talks/20200109_KMU-kann-KI.pdf) and panelist on **"Kuenstliche Intelligenz - Hype vs. Nutzen"**, euroforum 5. Schweizer Strategietag Connected Industry, Rüschlikon, Switzerland, January 09, 2020
 
