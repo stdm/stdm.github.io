@@ -7,7 +7,15 @@ category: society, readings
 comments: true
 ---
 
-This is a regularly updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title).
+This is a regularly updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title). Some might be after a paywall afte some time - sorry for that!
+
+* [Ich habe Zweifel](https://www.welt.de/debatte/kommentare/article206754791/Corona-Krise-Ich-habe-Zweifel.html) by Mathias Döpfner, March 23, 2020.
+
+  Subject: Corona-Krise
+  
+  Key words: honesty, doubt, social distancing as an emergency measure vs. social distancing as a killer for open society and democracy
+  
+  Abstract: Seit Tagen zögere ich, etwas zu schreiben. Weil ich Zweifel habe. Auch Angst, einen Fehler zu machen. Weil ich nicht sicher bin, was richtig ist. Weil ich als Asthmatiker ein sogenannter Risikopatient wäre. Und weil ich Verantwortung habe für 16.500 Mitarbeiter. Und für das, was ich mit einem Text wie diesem auslöse.
 
 * [Tschüss Verbindlichkeit, hallo Freiheit](https://www.brandeins.de/magazine/brand-eins-wirtschaftsmagazin/2019/mit-leichtem-gepaeck/tschuess-verbindlichkeit-hallo-freiheit) by Dirk Böttcher, 08/2019 
 
