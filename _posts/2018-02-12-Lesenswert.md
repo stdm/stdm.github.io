@@ -2,7 +2,7 @@
 layout: post
 title: Lesenswert
 date: 2018-02-12
-modified: 2019-09-23
+modified: 2020-03-24
 category: society, readings
 comments: true
 ---
