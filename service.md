@@ -364,6 +364,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
 &nbsp;
 
 #### Journals, conferences & events
+  * Topic editor for the [Journal of Imaging](http://www.mdpi.com/journal/jimaging), an international multi/interdisciplinary peer-reviewed open access journal of imaging techniques published online monthly by MDPI
+  
   * Reviewer for [IEEE/ACM Transactions on Audio, Speech and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655), [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78), [EURASIP Journal on Audio, Speech, and Music Processing](https://asmp-eurasipjournals.springeropen.com/), [PLOS ONE](https://journals.plos.org/plosone/) and the [Science Media Center Germany](https://www.sciencemediacenter.de/)
   
   * Co-chair, [9th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](https://annpr2020.ch/), September 02-04, 2020, Switzerland
