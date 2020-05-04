@@ -43,6 +43,8 @@ The group has very diverse backgrounds, which helps us complement each other's s
   * [Yvan Satyawan](https://www.linkedin.com/in/yvan-satyawan), research assistent: B.Sc. computer science (U. Freiburg, Germany), focusing on deep learning & robotics
   
   * [Dr. Ricardo Chavarriaga](https://scholar.google.com/citations?user=ZU1fTMYAAAAJ&hl=en), senior researcher & head of CLAIRE office Zurich: B.Sc. electronics engineering (Pontificia Universidad Javeriana, Columbia), graduate school in computer/communication/information science (EPFL), PhD neuroscience (EPFL), Postdoc neuroscience/brain-computer interfaces (EPFL & IDIAP)
+  
+  * [Dr. Javier Montoya](https://scholar.google.de/citations?user=5cpeK3MAAAAJ&hl=en), senior researcher: B.Sc. computer engineering (UCSP, Arequipa, Peru), M.Sc. computer science (Unicamp, Sao Paulo, Brazil), M.Sc. computer science (ENSIMAG, Grenoble, France), PhD computer vision and machine learning (ETHZ), Postdoc biomedical engineering (ETHZ), focusing on deep learning and medical imaging
     
 Our Alumni are:
 
