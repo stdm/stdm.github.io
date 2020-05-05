@@ -21,6 +21,9 @@ Much to the suprise of my younger self, I have become a very active networker, p
 ## Talks 
 
 #### 2020
+  * **"Machine Learning-based pattern recognition"**
+    Invited talk at mini symposium of method seminar on deep learning, University of Zurich, May 13, 2020
+  
   * Postponed due to COVID-19: Invited talk at the **ETH Bibliothek Kolloquium**, Zurich, Switzerland, April 30, 2020
     
   * Postponed due to COVID-19 to Sept. 28-29: Invited industry session on deep learning, **6th Richmond IT Forum**, Bad Ragaz, Switzerland, April 01-02, 2020
