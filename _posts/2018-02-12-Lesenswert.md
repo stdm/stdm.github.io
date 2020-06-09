@@ -9,6 +9,14 @@ comments: true
 
 This is a regularly updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title). Some might be after a paywall afte some time - sorry for that!
 
+* [History will judge the complicit](https://www.theatlantic.com/magazine/archive/2020/07/trumps-collaborators/612250/) by Anne Applebaum, July/August, 2020.
+
+  Subject: Politics
+  
+  Key words: collaboration, alien administrations, nazi regime, Vichy regime, communist regime, Trump administration, GOP, republicans, Lindsay Graham, Mitt Romney
+  
+  Abstract: Why have Republican leaders abandoned their principles in support of an immoral and dangerous president?
+
 * [Ich habe Zweifel](https://www.welt.de/debatte/kommentare/article206754791/Corona-Krise-Ich-habe-Zweifel.html) by Mathias Döpfner, March 23, 2020.
 
   Subject: Corona-Krise
