@@ -4,7 +4,7 @@ layout: page
 comments: true
 ---
 
-My main teaching revolves around **Artificial Intelligence** and **Machine Learning** in different formats and for different audiences. I was awarded a final round nomination for the "Best Teaching - Best Practices" award of my university in 2017 for [my contribution](https://stdm.github.io/Science-applied) under the topic "Wissenschaftlichkeit" ("scientific characater"). My shorter teaching statement [from 2008](http://www.informatik.uni-marburg.de/~stadelmann/teaching.html) is still valid: "I love teaching. To initiate inside someone the vision of an idea, to see understanding grow, these are moments I greatly enjoy."
+My main teaching revolves around **Artificial Intelligence** and **Machine Learning** in different formats and for different audiences. I was awarded a final round nomination for the "Best Teaching - Best Practices" award of my university in 2017 for [my contribution](https://stdm.github.io/Science-applied) under the topic "Wissenschaftlichkeit" ("scientific character"), and won it (3rd place) in 2019 for the "Vermittlung von Grundlagen" ("teaching of foundational matters"). My shorter teaching statement [from 2008](http://www.informatik.uni-marburg.de/~stadelmann/teaching.html) is still valid: "I love teaching. To initiate inside someone the vision of an idea, to see understanding grow, these are moments I greatly enjoy."
 
 
 ### TOC
@@ -92,9 +92,9 @@ I try to make my main courses available as free online ressources as a best effo
 
 | Tag | Name | Format | Type | Content | Did what? | When? |
 | --- | --- | --- | --- | --- | --- | --- |
-| [KI1](http://stdm.github.io/ai-course) | **Künstliche Intelligenz 1** | lecture & lab | final year BSc computer science elective course | practical AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017-2020 |
+| [KI1](http://stdm.github.io/ai-course) | **Künstliche Intelligenz 1** | lecture & lab | final year BSc computer science elective course; won [best teaching award (3rd place)](https://stdm.github.io/ATLAS/) in 2019 | practical AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017-2020 |
 | KI2 | **Künstliche Intelligenz 2** | lecture & lab | finale year BSc computer science elective course | AI applications with a focus on neural networks | responsible, co-initiate, co-create | Fall 2017 |
-| [TSM_MachLe](http://stdm.github.io/ml-course) | **Machine Learning** | lecture & lab | MSc computer science & engineering elective course | mid-level course on practical machine learning with a focus on deep learning | responsible, initiate, co-create, co-teach | Spring 2017-2020 |
+| [TSM_MachLe](http://stdm.github.io/ml-course) | **Machine Learning** | lecture & lab | MSc computer science & engineering elective course; won best [teaching final round nomination](https://stdm.github.io/Science-applied/) in 2017 | mid-level course on practical machine learning with a focus on deep learning | responsible, initiate, co-create, co-teach | Spring 2017-2020 |
 | EVA MI Lab | **Machine Intelligence Lab** | MOOC, colloquia & hackathon | MSc extended advanced module (EVA) | experience an online course on an advanced machine learning topic | responsible, initiate, co-create, teach | Fall 2015-2019 |
 | EVA AI Seminar | **Artificial Intelligence Semniar** | seminar, blog posts, talk | MSc extended advanced module (EVA) | read, understand and write scientific literature | initiate, create, teach | Spring 2017-2019 |
 | ML | **Machine Learning** | lecture & lab | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Machine Intelligence](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-machine-intelligence.html) | practical machine learning for data scientists | responsible, initiate, create, teach | Fall 2015-2016, spring 2017-2018, spring 2021 |
