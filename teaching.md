@@ -4,7 +4,7 @@ layout: page
 comments: true
 ---
 
-My main teaching revolves around **Artificial Intelligence** and **Machine Learning** in different formats and for different audiences. I was awarded a final round nomination for the "Best Teaching - Best Practices" award of my university in 2017 for [my contribution](https://stdm.github.io/Science-applied) under the topic "Wissenschaftlichkeit" ("scientific character"), and won it (3rd place) in 2019 for the "Vermittlung von Grundlagen" ("teaching of foundational matters"). My shorter teaching statement [from 2008](http://www.informatik.uni-marburg.de/~stadelmann/teaching.html) is still valid: "I love teaching. To initiate inside someone the vision of an idea, to see understanding grow, these are moments I greatly enjoy."
+My main teaching revolves around **Artificial Intelligence** and **Machine Learning** in different formats and for different audiences. I was awarded a final round nomination for the "Best Teaching - Best Practices" award of my university in 2017 for [my contribution](https://stdm.github.io/Science-applied) under the topic "Wissenschaftlichkeit" ("scientific character"), and [won it](https://stdm.github.io/ATLAS/) (3rd place) in 2019 for the "Vermittlung von Grundlagen" ("teaching of foundational matters"). My shorter teaching statement [from 2008](http://www.informatik.uni-marburg.de/~stadelmann/teaching.html) is still valid: "I love teaching. To initiate inside someone the vision of an idea, to see understanding grow, these are moments I greatly enjoy."
 
 
 ### TOC
