@@ -28,8 +28,6 @@ The group has very diverse backgrounds, which helps us complement each other's s
 
   * [Lukas Tuggener](https://tuggeluk.github.io/), PhD student: B.Sc. (ZHAW) in industrial engineering, M.Sc. (ETH) in statistics, doctorate in conjunction with [Juergen Schmidhuber](http://people.idsia.ch/~juergen/) of the University of Lugano / Switzerland
 
-  * [Ismail Elezi](https://github.com/TheRevanchist), PhD student: B.Sc. (U. Pristina) & M.Sc. (Ca'Foscari) in computer science, doctorate in conjunction with [Marcello Pelillo](http://www.dsi.unive.it/~pelillo/) of Ca'Foscari Unversity of Venice / Italy
-
   * [Mohammadreza Amirian](https://www.zhaw.ch/en/about-us/person/amir/), PhD student: B.Sc. (U. Shiraz) & M.Sc. (U. Ulm) in electrical engineering, doctorate in conjunction with [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/institut/hidden/f-schwenker/) of Ulm University / Germany
 
   * Stefan Huschauer, M.Sc. student: B.Sc. computer science (ETH & ZHAW), focussing on computer vision
@@ -40,13 +38,15 @@ The group has very diverse backgrounds, which helps us complement each other's s
   
   * [Claude Lehmann](https://www.zhaw.ch/en/about-us/person/lehl/), M.Sc. student: B.Sc. computer science (ZHAW), focusing on deep learning
   
-  * [Yvan Satyawan](https://www.linkedin.com/in/yvan-satyawan), research assistent: B.Sc. computer science (U. Freiburg, Germany), focusing on deep learning & robotics
-  
   * [Dr. Ricardo Chavarriaga](https://scholar.google.com/citations?user=ZU1fTMYAAAAJ&hl=en), senior researcher & head of CLAIRE office Zurich: B.Sc. electronics engineering (Pontificia Universidad Javeriana, Columbia), graduate school in computer/communication/information science (EPFL), PhD neuroscience (EPFL), Postdoc neuroscience/brain-computer interfaces (EPFL & IDIAP)
   
   * [Dr. Javier Montoya](https://scholar.google.de/citations?user=5cpeK3MAAAAJ&hl=en), senior researcher: B.Sc. computer engineering (UCSP, Arequipa, Peru), M.Sc. computer science (Unicamp, Sao Paulo, Brazil), M.Sc. computer science (ENSIMAG, Grenoble, France), PhD computer vision and machine learning (ETHZ), Postdoc biomedical engineering (ETHZ), focusing on deep learning and medical imaging
     
 Our Alumni are:
+
+  * [Ismail Elezi](https://github.com/TheRevanchist), B.Sc. (U. Pristina), M.Sc. (Ca'Foscari) & PhD (Ca'Foscari & ZHAW, July 2020) in computer science, now PostDoc with Prof. Laura Leal-Taixé of TU Munich
+
+  * [Yvan Satyawan](https://www.linkedin.com/in/yvan-satyawan), B.Sc. computer science (U. Freiburg, Germany), now pursuing a M.Sc. degree in Denmark
 
   * [Katharina Rombach](https://dblp.uni-trier.de/pers/hd/r/Rombach:Katharina), B.Sc. & M.Sc. (admitted to EDIC and ERDS doctoral schools at EPFL), now PhD student with Prof. Olga Fink of ETH Zurich
 
@@ -200,7 +200,7 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 | Year | Tag | Type| Publication |
 | --- | --- | --- | --- |
-| 2020 | reinforcement learning | short paper | Dano Roost, Ralph Meier, Stephan Huschauer, Erik Nygren, Adrian Egli, Andreas Weiler, and Thilo Stadelmann. ["**Improving Sample Efficiency and Multi-Agent Communication in RL-based Train Rescheduling**"](https://stdm.github.io/downloads/papers/SDS_2020.pdf). In: Proceedings of the 7th Swiss Conference on Data Science (**SDS'20**), Lucerne, Switzerland, June 26, 2020. IEEE. |
+| 2020 | reinforcement learning | short paper, [best poster presentation](https://twitter.com/i/status/1258367206846541825) award | Dano Roost, Ralph Meier, Stephan Huschauer, Erik Nygren, Adrian Egli, Andreas Weiler, and Thilo Stadelmann. ["**Improving Sample Efficiency and Multi-Agent Communication in RL-based Train Rescheduling**"](https://stdm.github.io/downloads/papers/SDS_2020.pdf). In: Proceedings of the 7th Swiss Conference on Data Science (**SDS'20**), Lucerne, Switzerland, June 26, 2020. IEEE. |
 | 2019 | learning to learn | workshop paper | Mohammadreza Amirian, Katharina Rombach, Lukas Tuggener, Frank-Peter Schilling, and Thilo Stadelmann. ["**Efficient Deep CNNs for Cross-Modal Automated Computer Vision under Time and Space Constraints**"](https://stdm.github.io/downloads/papers/ECML_PKDD_2019.pdf). In: **AutoCV2 Workshop** at European Conference on Machine Learning / European Conference on Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD**), Wuerzburg, Germany, September 16-19, 2019. |
 | 2019 | data science | chapter | Kurt Stockinger, Martin Braschler, and Thilo Stadelmann. ["**Lessons Learned from Challenging Data Science Case Studies**"](https://stdm.github.io/downloads/papers/ADS_2019_LessonsLearned.pdf). In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). **Springer**, 2019. |
 | 2019 | data science | chapter | Lukas Hollenstein, Lukas Lichtensteiger, Thilo Stadelmann, Mohammadreza Amirian, Lukas Budde, Jürg Meierhofer, Rudolf M. Füchslin, and Thomas Friedli. ["**Unsupervised Learning and Simulation for Complexity Management in Business Operations**"](https://stdm.github.io/downloads/papers/ADS_2019_Complexity.pdf). In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). **Springer**, 2019. |
