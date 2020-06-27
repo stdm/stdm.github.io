@@ -32,6 +32,7 @@ I try to make my main courses available as free online ressources as a best effo
 | Fall 2020 | BSc | PA | **From human to artificial neural networks: Deep-learning based analysis of brain activity** |
 | Spring 2020 | MSc | MT | **Exploiting the Full Information of Varying-Length Utterances for DNN-Based Speaker Verification** |
 | Spring 2020 | BSc | BA | **Active Scene Understanding from Image Sequences for Next-Generation Computer Vision** |
+| Spring 2020 | PhD | Thesis | [**Exploiting Contextual Information with Deep Neural Networks**](https://arxiv.org/pdf/2006.11706.pdf) |
 | Fall 2019 | MSc | MT | **Medical Image Analysis using Deep Learning** |
 | Fall 2019 | MSc | VT2 | **WaveVoice: A Wavenet Based Architecture for Speaker Verification** |
 | Fall 2019 | MSc | VT1 | **Real-World Speaker Recognition on VoxCeleb2 using Angular Margin Losses** |
