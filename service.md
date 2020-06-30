@@ -21,6 +21,12 @@ Much to the suprise of my younger self, I have become a very active networker, p
 ## Talks 
 
 #### 2020
+  * **"Fundamentals of AI and Digital Transformation of a University"**
+    Invited session at the Summer School on Digital Transformation in the Public Sector, ZHAW School of Management and Law, Winterthur, Switzerland, July 10, 2020
+  
+  * **"Machine Learning-based pattern recognition, e.g. for Document Analysis"**
+    Webinar for the European Centre for Living Technology, Venice, Italy, July 03, 2020
+  
   * **"Machine Learning-based pattern recognition"**
     Invited talk at mini symposium of method seminar on deep learning, University of Zurich, May 13, 2020
   
