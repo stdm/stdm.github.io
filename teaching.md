@@ -31,12 +31,12 @@ I try to make my main courses available as free online ressources as a best effo
 | --- | --- | --- | --- |
 | Fall 2020 | BSc | PA | From human to artificial neural networks: Deep-learning based analysis of brain activity |
 | Spring 2020 | MSc | MT | Exploiting the Full Information of Varying-Length Utterances for DNN-Based Speaker Verification |
-| Spring 2020 | BSc | BA | **Active Scene Understanding from Image Sequences for Next-Generation Computer Vision** <br> __top grade__ <br> Students: Dano Roost and Ralph Meier |
+| Spring 2020 | BSc | BA | **Active Scene Understanding from Image Sequences for Next-Generation Computer Vision** <br> _top grade_ <br> Students: Dano Roost and Ralph Meier |
 | Spring 2020 | PhD | Thesis | [**Exploiting Contextual Information with Deep Neural Networks**](https://arxiv.org/pdf/2006.11706.pdf) |
 | Fall 2019 | MSc | MT | Medical Image Analysis using Deep Learning |
 | Fall 2019 | MSc | VT2 | WaveVoice: A Wavenet Based Architecture for Speaker Verification |
-| Fall 2019 | MSc | VT1 | **Real-World Speaker Recognition on VoxCeleb2 using Angular Margin Losses** <br> __top grade__ <br> Student: Claude Lehmann |
-| Fall 2019 | BSc | PA | [**Reinforcement Learning mit einem Multi-Agenten System für die Planung von Zügen**](https://stdm.github.io/downloads/papers/SDS_2020.pdf) <br> __paper at SDS 2020__ |
+| Fall 2019 | MSc | VT1 | **Real-World Speaker Recognition on VoxCeleb2 using Angular Margin Losses** <br> _top grade_ <br> Student: Claude Lehmann |
+| Fall 2019 | BSc | PA | [**Reinforcement Learning mit einem Multi-Agenten System für die Planung von Zügen**](https://stdm.github.io/downloads/papers/SDS_2020.pdf) <br> _paper at SDS 2020_ |
 | Spring 2019 | MSc | VT2 | Baselines for the Flatland Reinforcement Learning for Train Scheduling Challenge |
 | Spring 2019 | MSc | VT1 | Additive Angular Margin Loss for Speaker Clustering |
 | Spring 2019 | BSc | BA | Benchmarking of Classical and Deep Learning Speaker Clustering Approaches |
@@ -47,34 +47,34 @@ I try to make my main courses available as free online ressources as a best effo
 | Fall 2018 | BSc | PA | Machine Learning to Support Artists |
 | Spring 2018 | BSc | BA | Recognizing birds by voice - the BirdCLEF 2018 challenge |
 | Spring 2018 | BSc | BA | Speaker Diarization of Media Archives with Deep Neural Networks |
-| Spring 2018 | BSc | BA | **PinballWizard II: Using Reinforcement Learning to Control a Pinball Automaton** <br> __top grade__ <br> Students: Joram Liebeskind and Silvan Wehner |
+| Spring 2018 | BSc | BA | **PinballWizard II: Using Reinforcement Learning to Control a Pinball Automaton** <br> _top grade_ <br> Students: Joram Liebeskind and Silvan Wehner |
 | Spring 2018 | BSc | BA | Understanding Deep Neural Networks |
 | Fall 2017 | BSc | PA | Are final grades predictable from resume photos? Debugging deep neural networks based on a controversial claim |
 | Fall 2017 | BSc | PA | Deep Learning Verfahren das Malen beibringen: Optimiertes Training für GANs |
 | Fall 2017 | BSc | PA | [**Deep Learning for Speaker Clustering**](https://github.com/stdm/ZHAW_deep_voice) |
 | Fall 2017 | BSc | PA | Deep Learning-basierte Voice Conversion mittels problemspezifischer Loss-Funktion |
-| Fall 2017 | MSc | MT | [**Learning to Cluster**](https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf) <br> __top grade and paper at ANNPR 2018__ <br> Student: Benjamin Bruno Meier |
+| Fall 2017 | MSc | MT | [**Learning to Cluster**](https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf) <br> _top grade and paper at ANNPR 2018_ <br> Student: Benjamin Bruno Meier |
 | Fall 2017 | MSc | MT | Reinforcement Learning to Play 'Doom' |
 | Spring 2017 | MSc | VT2 | Deep Learning for End-to-End Voice Conversion - a Survey |
 | Spring 2017 | MSc | VT1 | Evaluating OMR Systems |
-| Spring 2017 | BSc | BA | [**Machine Learning for Speaker Clustering**](https://stdm.github.io/downloads/papers/ANNPR_2018b.pdf) <br> __paper at ANNPR 2018 <br> Students: Patrick Gerber and Sebastian Glinksi Haefeli |
+| Spring 2017 | BSc | BA | [**Machine Learning for Speaker Clustering**](https://stdm.github.io/downloads/papers/ANNPR_2018b.pdf) <br> _paper at ANNPR 2018_ <br> Students: Patrick Gerber and Sebastian Glinksi Haefeli |
 | Spring 2017 | MSc | BA | Speaker Clustering with Metric Embeddings |
-| Fall 2016 | BSc | PA | **Recurrent Neural Networks for Speaker Recognition** <br> __top grade__ <br> Student: Patrick Gerber |
+| Fall 2016 | BSc | PA | **Recurrent Neural Networks for Speaker Recognition** <br> _top grade_ <br> Student: Patrick Gerber |
 | Fall 2016 | BSc | PA | Pinball Wizard: Using Deep Reinforcement Learning to Train a Pinball Wizard |
 | Fall 2016 | BSc | PA | Deep OMR: New Ways for Optical Music Recognition |
-| Fall 2016 | MSc | VT1 | [**Fully Convolutional Neural Networks for newspaper Article Segmentation**](https://stdm.github.io/downloads/papers/ICPR_2017.pdf) <br> __top grade and paper at ICPR 2017__ <br> Student: Benjamin Bruno Meier |
+| Fall 2016 | MSc | VT1 | [**Fully Convolutional Neural Networks for newspaper Article Segmentation**](https://stdm.github.io/downloads/papers/ICPR_2017.pdf) <br> _top grade and paper at ICPR 2017_ <br> Student: Benjamin Bruno Meier |
 | Spring 2016 | MSc | VT1 | Reinforcement Learning for Building Control |
-| Spring 2016 | BSc | BA | **Instrumentenerkennung in Single-Source Audio Streams** <br> __top grade__ <br> Students: Yannick Streit & Leotrim Zulfio |
-| Spring 2016 | BSc | BA | [**Automatische Stimmerkennung mit Deep Learning (Neuronalen Netzen)**](https://stdm.github.io/downloads/papers/MLSP_2017.pdf) <br> __top grade and paper at MLSP 2017__ <br> Students: Yanick Xavier Lukic and Carlo Vogt |
-| Spring 2016 | BSc | BA | **Künstliche Intelligenz für das Zahlenpuzzle 2048** <br> __top grade__ <br> Student: Micha Schwendener |
+| Spring 2016 | BSc | BA | **Instrumentenerkennung in Single-Source Audio Streams** <br> _top grade_ <br> Students: Yannick Streit & Leotrim Zulfio |
+| Spring 2016 | BSc | BA | [**Automatische Stimmerkennung mit Deep Learning (Neuronalen Netzen)**](https://stdm.github.io/downloads/papers/MLSP_2017.pdf) <br> _top grade and paper at MLSP 2017_ <br> Students: Yanick Xavier Lukic and Carlo Vogt |
+| Spring 2016 | BSc | BA | **Künstliche Intelligenz für das Zahlenpuzzle 2048** <br> _top grade_ <br> Student: Micha Schwendener |
 | Fall 2015 | BSc | PA | Künstliche Intelligenz für 'Super Mario' durch Neuroevolution |
-| Fall 2015 | BSc | PA | [**Sprechererkennung mit Deep Neural Networks**](https://stdm.github.io/downloads/papers/MLSP_2016.pdf) <br> __top grade and paper at MLSP 2016__ <br> Students: Yanick Xavier Lukic and Carlo Vogt |
+| Fall 2015 | BSc | PA | [**Sprechererkennung mit Deep Neural Networks**](https://stdm.github.io/downloads/papers/MLSP_2016.pdf) <br> _top grade and paper at MLSP 2016_ <br> Students: Yanick Xavier Lukic and Carlo Vogt |
 | Fall 2015 | BSc | PA | Automatische Erkennung der Akkordfolge in Popmusik |
 | Spring 2015 | BSc | BA | Erkennung von Hintergrundmusik in Broadcast Audio |
 | Spring 2015 | BSc | BA | Entwicklung einer Android-App zur Erkennung von Redeanteilen im Unterricht |
-| Spring 2015 | BSc | BA | **Deep Learning für automatische Stimmerkennung** <br> __top grade__ <br> Student: Gabriel Eyyi |
+| Spring 2015 | BSc | BA | **Deep Learning für automatische Stimmerkennung** <br> _top grade_ <br> Student: Gabriel Eyyi |
 | Fall 2014 | BSc | PA | Hilti Big Data Competition: Recommender Systeme |
-| Spring 2014 | BSc | BA | **Talkalyzer: Neue Algorithmen für automatische Sprecher-Erkennung** <br> __top grade__ <br> Student: Jan Stampfli |
+| Spring 2014 | BSc | BA | **Talkalyzer: Neue Algorithmen für automatische Sprecher-Erkennung** <br> _top grade_ <br> Student: Jan Stampfli |
 | Spring 2014 | BSc | BA | Talkalyzer: Mobile-App zur automatischen Sprecher-Erkennung |
 | Fall 2013 | BSc | PA | Web-Scale Datenanalyse auf einer Big Data Appliance |
 | Fall 2013 | BSc | PA | Einsatz von Graphenalgorithmen zur Verbesserung der Pünktlichkeit von Zügen |
