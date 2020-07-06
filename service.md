@@ -21,20 +21,23 @@ Much to the suprise of my younger self, I have become a very active networker, p
 ## Talks 
 
 #### 2020
-  * **"Fundamentals of AI and Digital Transformation of a University"**
+  * **Fundamentals of AI**
+    Distinguished lecture at the University of Engineering & Management, Kolkata, India, July 14, 2020
+
+  * **Fundamentals of AI and Digital Transformation of a University**
     Invited session at the Summer School on Digital Transformation in the Public Sector, ZHAW School of Management and Law, Winterthur, Switzerland, July 10, 2020
   
-  * **"Machine Learning-based pattern recognition, e.g. for Document Analysis"**
+  * **Machine Learning-based pattern recognition, e.g. for Document Analysis**
     Webinar for the European Centre for Living Technology, Venice, Italy, July 03, 2020
   
-  * **"Machine Learning-based pattern recognition"**
+  * **Machine Learning-based pattern recognition**
     Invited talk at mini symposium of method seminar on deep learning, University of Zurich, May 13, 2020
   
   * Postponed due to COVID-19: Invited talk at the **ETH Bibliothek Kolloquium**, Zurich, Switzerland, April 30, 2020
     
   * Postponed due to COVID-19 to Sept. 28-29: Invited industry session on deep learning, **6th Richmond IT Forum**, Bad Ragaz, Switzerland, April 01-02, 2020
 
-  * Keynote on [**"Ein Blick in die Zukunft der angewandten KI"**](https://stdm.github.io/downloads/talks/20200306_Zukunft-angewandte-KI.pdf) at DACH Compliancetagung, Winterthur, Switzerland, March 06, 2020
+  * Keynote on [**Ein Blick in die Zukunft der angewandten KI**](https://stdm.github.io/downloads/talks/20200306_Zukunft-angewandte-KI.pdf) at DACH Compliancetagung, Winterthur, Switzerland, March 06, 2020
 
   * Invited power talk together with BW-TEC CEO Josia Pantli on the topic [**KMU kann KI**](https://stdm.github.io/downloads/talks/20200109_KMU-kann-KI.pdf) and panelist on **"Kuenstliche Intelligenz - Hype vs. Nutzen"**, euroforum 5. Schweizer Strategietag Connected Industry, Rüschlikon, Switzerland, January 09, 2020
 
@@ -462,6 +465,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * Mai 07, 2019, [SRF 10vor10](https://www.srf.ch/play/tv/sendung/10vor10?id=c38cc259-b5cd-4ac1-b901-e3fddd901a3d) "Auszeichnung für ein künstliches Hirn" (starting at min. 15:47)
 
   * March 20, 2019, [Netzwoche](https://www.netzwoche.ch/news/2019-03-20/wie-ki-im-bewerbungsprozess-die-nerven-schont): "Wie KI im Bewerbungsprozess die Nerven schont."
+
+  * March 19. 2019, [XING Schweiz](https://www.xing.com/news/articles/diese-schweizerinnen-und-schweizer-treiben-artificial-intelligence-voran-2101787): "Diese Schweizerinnen und Schweizer treiben Artificial Intelligence voran" (one of 17 mentioned experts)
 
   * March 08, 2019, [Netzwoche](https://www.netzwoche.ch/news/2019-03-06/deep-learning-in-medizinischer-diagnostik-und-qualitaetskontrolle): "Künstliche Intelligenz und maschinelles Lernen eröffnen vielversprechende Anwendungs­möglichkeiten in der Medizin. Insbesondere Deep-Learning-Algorithmen bieten neue Lösungsansätze sowohl in der bildgestützten medizinischen Diagnostik als auch in der Qualitätskontrolle von Medizinprodukten."
 
