@@ -36,7 +36,7 @@ I try to make my main courses available as free online ressources as a best effo
 | Fall 2019 | MSc | MT | Medical Image Analysis using Deep Learning |
 | Fall 2019 | MSc | VT2 | WaveVoice: A Wavenet Based Architecture for Speaker Verification |
 | Fall 2019 | MSc | VT1 | **Real-World Speaker Recognition on VoxCeleb2 using Angular Margin Losses** <br> _top grade_ <br> Student: Claude Lehmann |
-| Fall 2019 | BSc | PA | [**Reinforcement Learning mit einem Multi-Agenten System für die Planung von Zügen**](https://stdm.github.io/downloads/papers/SDS_2020.pdf) <br> _paper at SDS 2020_ |
+| Fall 2019 | BSc | PA | [**Reinforcement Learning mit einem Multi-Agenten System für die Planung von Zügen**](https://stdm.github.io/downloads/papers/SDS_2020.pdf) <br> _paper at SDS 2020_ <br> Students: Dano Roost and Ralph Meier |
 | Spring 2019 | MSc | VT2 | Baselines for the Flatland Reinforcement Learning for Train Scheduling Challenge |
 | Spring 2019 | MSc | VT1 | Additive Angular Margin Loss for Speaker Clustering |
 | Spring 2019 | BSc | BA | Benchmarking of Classical and Deep Learning Speaker Clustering Approaches |
@@ -51,7 +51,7 @@ I try to make my main courses available as free online ressources as a best effo
 | Spring 2018 | BSc | BA | Understanding Deep Neural Networks |
 | Fall 2017 | BSc | PA | Are final grades predictable from resume photos? Debugging deep neural networks based on a controversial claim |
 | Fall 2017 | BSc | PA | Deep Learning Verfahren das Malen beibringen: Optimiertes Training für GANs |
-| Fall 2017 | BSc | PA | [**Deep Learning for Speaker Clustering**](https://github.com/stdm/ZHAW_deep_voice) |
+| Fall 2017 | BSc | PA | [**Deep Learning for Speaker Clustering**](https://github.com/stdm/ZHAW_deep_voice) <br> _public code repository_ <br> Students: Jan Sonderegger and Patrick Walter |
 | Fall 2017 | BSc | PA | Deep Learning-basierte Voice Conversion mittels problemspezifischer Loss-Funktion |
 | Fall 2017 | MSc | MT | [**Learning to Cluster**](https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf) <br> _top grade and paper at ANNPR 2018_ <br> Student: Benjamin Bruno Meier |
 | Fall 2017 | MSc | MT | Reinforcement Learning to Play 'Doom' |
