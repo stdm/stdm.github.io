@@ -61,7 +61,7 @@ Part II is a curated collection of guest contributions emphasizing the "lessons 
   * *Narrative Visualization of Open Data* by Ackermann & Stockinger
   * *Security of Data Science and Data Science for Security* by Tellenbach et al.
   * *Online Anomaly Detection over Big Data Streams* by Rettig et al.
-  * [*Modeling and Simulation for Complexity Management in Business Operations*](https://stdm.github.io/downloads/papers/ADS_2019_Complexity.pdf) by Hollenstein et al.
+  * [*Unsupervised Learning and Simulation for Complexity Management in Business Operations*](https://stdm.github.io/downloads/papers/ADS_2019_Complexity.pdf) by Hollenstein et al.
   * *Data Warehousing and Exploratory Analysis for Market Monitoring* by Geiger & Stockinger
   * *Mining Human Behavior Datasets for Insight, Prediction, and Planning* by Leidig & Wolffe
   * *Economic Measures of Forecast Accuracy for Demand Planning - A Case-Based Discussion* by Ott et al.
