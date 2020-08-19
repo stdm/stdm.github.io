@@ -41,10 +41,13 @@ The group has very diverse backgrounds, which helps us complement each other's s
   * [Dr. Ricardo Chavarriaga](https://scholar.google.com/citations?user=ZU1fTMYAAAAJ&hl=en), senior researcher & head of CLAIRE office Zurich: B.Sc. electronics engineering (Pontificia Universidad Javeriana, Columbia), graduate school in computer/communication/information science (EPFL), PhD neuroscience (EPFL), Postdoc neuroscience/brain-computer interfaces (EPFL & IDIAP)
   
   * [Dr. Javier Montoya](https://scholar.google.de/citations?user=5cpeK3MAAAAJ&hl=en), senior researcher: B.Sc. computer engineering (UCSP, Arequipa, Peru), M.Sc. computer science (Unicamp, Sao Paulo, Brazil), M.Sc. computer science (ENSIMAG, Grenoble, France), PhD computer vision and machine learning (ETHZ), Postdoc biomedical engineering (ETHZ), focusing on deep learning and medical imaging
+  
+  * [Pascal Sager](https://www.linkedin.com/in/pascal-sager-3b7403168), research assistant & M.Sc. student: B.Sc. computer science (ZHAW), focusing on deep learning and object detection
+  
     
 Our Alumni are:
 
-  * [Ismail Elezi](https://github.com/TheRevanchist), B.Sc. (U. Pristina), M.Sc. (Ca'Foscari) & PhD (Ca'Foscari & ZHAW, July 2020) in computer science, now PostDoc with Prof. Laura Leal-Taixé of TU Munich
+  * [Dr. Ismail Elezi](https://github.com/TheRevanchist), B.Sc. (U. Pristina), M.Sc. (Ca'Foscari) & PhD (Ca'Foscari & ZHAW, July 2020) in computer science, now PostDoc with Prof. Laura Leal-Taixé of TU Munich
 
   * [Yvan Satyawan](https://www.linkedin.com/in/yvan-satyawan), B.Sc. computer science (U. Freiburg, Germany), now pursuing a M.Sc. degree in Denmark
 
