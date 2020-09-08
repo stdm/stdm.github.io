@@ -30,10 +30,6 @@ The group has very diverse backgrounds, which helps us complement each other's s
 
   * [Mohammadreza Amirian](https://www.zhaw.ch/en/about-us/person/amir/), PhD student: B.Sc. (U. Shiraz) & M.Sc. (U. Ulm) in electrical engineering, doctorate in conjunction with [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/institut/hidden/f-schwenker/) of Ulm University / Germany
 
-  * Stefan Huschauer, M.Sc. student: B.Sc. computer science (ETH & ZHAW), focussing on computer vision
-
-  * [Daniel Neururer](https://ba-pub.engineering.zhaw.ch/WebPublication/Flyer.pdf?version=Bachelorarbeit2018&code=BA18_wyrs_3&language=de), M.Sc. student: B.Sc. in systems engineering (ZHAW)
-
   * [Dr. Frank-Peter Schilling](http://www.fp-schilling.de), senior researcher: Diplom & PhD (U. Heidelberg) in physics, PostDoc at CERN
   
   * [Claude Lehmann](https://www.zhaw.ch/en/about-us/person/lehl/), M.Sc. student: B.Sc. computer science (ZHAW), focusing on deep learning
@@ -44,8 +40,14 @@ The group has very diverse backgrounds, which helps us complement each other's s
   
   * [Pascal Sager](https://www.linkedin.com/in/pascal-sager-3b7403168), research assistant & M.Sc. student: B.Sc. computer science (ZHAW), focusing on deep learning and object detection
   
+  * [Raphael Emberger](https://www.linkedin.com/in/raphael-emberger-206015bb), research assistant & M.Sc. student: B.Sc. computer science (ZHAW), focusing on deep learning and object detection
+  
     
 Our Alumni are:
+
+  * Stefan Huschauer: B.Sc. computer science (ETH & ZHAW), M.Sc. 2020
+
+  * [Daniel Neururer](https://ba-pub.engineering.zhaw.ch/WebPublication/Flyer.pdf?version=Bachelorarbeit2018&code=BA18_wyrs_3&language=de), B.Sc. in systems engineering (ZHAW), M.Sc. 2020
 
   * [Dr. Ismail Elezi](https://github.com/TheRevanchist), B.Sc. (U. Pristina), M.Sc. (Ca'Foscari) & PhD (Ca'Foscari & ZHAW, July 2020) in computer science, now PostDoc with Prof. Laura Leal-Taixé of TU Munich
 
