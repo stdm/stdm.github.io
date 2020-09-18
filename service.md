@@ -21,7 +21,10 @@ Much to the suprise of my younger self, I have become a very active networker, p
 ## Talks 
 
 #### 2020
-  * **Fundamentals of AI**
+  * [**Overview of what AI is and how DL works**](https://stdm.github.io/downloads/talks/2020-09-18_AI-DL.pdf)
+    2nd distinguished lecture at the University of Engineering & Management, Kolkata, India, September 18, 2020
+
+  * [**Fundamentals of AI**](https://stdm.github.io/downloads/talks/2020-07-14_Fundamentals-AI-digital-transformation.pdf)
     Distinguished lecture at the University of Engineering & Management, Kolkata, India, July 14, 2020
 
   * **Fundamentals of AI and Digital Transformation of a University**
