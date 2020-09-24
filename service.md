@@ -21,6 +21,9 @@ Much to the suprise of my younger self, I have become a very active networker, p
 ## Talks 
 
 #### 2020
+  * [**Tiny Object Recognition with Deep Learning: Example Optical Music Recognition**](https://www.nvidia.com/content/webinar-portal/src/webinar-portal.html?D2C=2348250&isSocialSharing=Y&partnerref=emailShareFromGateway)
+    NVIDIA webinar together with Lukas Tuggener, online, September 23, 2020  
+
   * [**Overview of what AI is and how DL works**](https://stdm.github.io/downloads/talks/2020-09-18_AI-DL.pdf)
     2nd distinguished lecture at the University of Engineering & Management, Kolkata, India, September 18, 2020
 
