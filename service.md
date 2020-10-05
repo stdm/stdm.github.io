@@ -21,6 +21,9 @@ Much to the suprise of my younger self, I have become a very active networker, p
 ## Talks 
 
 #### 2020
+  * Two invited industry sessions on [**Deep Learning from an IT perspective**](https://stdm.github.io/downloads/talks/2020-09-28_DL-IT-perspective.pdf)
+    **6th Richmond IT Forum**, Bad Ragaz, Switzerland, September 28-29 (postponed from April 01-02 due to COVID-19), 2020
+
   * [**Tiny Object Recognition with Deep Learning: Example Optical Music Recognition**](https://www.nvidia.com/content/webinar-portal/src/webinar-portal.html?D2C=2348250&isSocialSharing=Y&partnerref=emailShareFromGateway)
     NVIDIA webinar together with Lukas Tuggener, online, September 23, 2020  
 
@@ -40,12 +43,11 @@ Much to the suprise of my younger self, I have become a very active networker, p
     Invited talk at mini symposium of method seminar on deep learning, University of Zurich, May 13, 2020
   
   * Postponed due to COVID-19: Invited talk at the **ETH Bibliothek Kolloquium**, Zurich, Switzerland, April 30, 2020
-    
-  * Postponed due to COVID-19 to Sept. 28-29: Invited industry session on deep learning, **6th Richmond IT Forum**, Bad Ragaz, Switzerland, April 01-02, 2020
 
   * Keynote on [**Ein Blick in die Zukunft der angewandten KI**](https://stdm.github.io/downloads/talks/20200306_Zukunft-angewandte-KI.pdf) at DACH Compliancetagung, Winterthur, Switzerland, March 06, 2020
 
-  * Invited power talk together with BW-TEC CEO Josia Pantli on the topic [**KMU kann KI**](https://stdm.github.io/downloads/talks/20200109_KMU-kann-KI.pdf) and panelist on **"Kuenstliche Intelligenz - Hype vs. Nutzen"**, euroforum 5. Schweizer Strategietag Connected Industry, Rüschlikon, Switzerland, January 09, 2020
+  * Invited power talk together with BW-TEC CEO Josia Pantli on the topic [**KMU kann KI**](https://stdm.github.io/downloads/talks/20200109_KMU-kann-KI.pdf) and panelist on **"Kuenstliche Intelligenz - Hype vs. Nutzen"**
+    euroforum 5. Schweizer Strategietag Connected Industry, Rüschlikon, Switzerland, January 09, 2020
 
 #### 2019
   * [**Künstliche Intelligenz - was, wo & wohin?**](https://stdm.github.io/downloads/talks/20191031_KI-was-wo-wohin.pdf)
