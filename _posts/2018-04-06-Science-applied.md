@@ -11,6 +11,7 @@ comments: true
 
 *This post represents my contribution to the [best teaching award competition](https://www.zhaw.ch/de/ueber-uns/aktuell/veranstaltungen/best-teaching-best-practices/) of my university in 2017; it was awarded a final round nomination (best 10).*
 
+<!-- more -->
 
 ### Abstract
 

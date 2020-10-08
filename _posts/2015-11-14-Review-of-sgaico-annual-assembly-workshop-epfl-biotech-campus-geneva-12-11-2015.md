@@ -9,6 +9,8 @@ comments: true
 
 [<img class="size-medium wp-image-297 alignleft" alt="IMG_0692" src="http://stdm.github.io/images/IMG_0692.jpg" width="225" height="300" />](http://stdm.github.io/images/IMG_0692.jpg)
 
+<!-- more -->
+
 The Swiss AI community gathered in Geneva this week. Fog on the verge of drizzle couldn&#8217;t becloud what was going to be an insipring meeting in good company under the impressive roof of EPFL&#8217;s Biotech Campus.
 
 I am going to share a few random notes. The complete programm, abstracts, slides and posters can be found on the <a title="SGAICO Website" href="http://www.s-i.ch/sgaico/veranstaltungen/archiv/?tx_cpevents_pi1%5Bevent%5D=630&tx_cpevents_pi1%5Baction%5D=show&tx_cpevents_pi1%5Bcontroller%5D=Event&cHash=32de58a231ae1fd4bacd68cfc37123f9" target="_blank">SGAICO website</a>.

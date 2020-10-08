@@ -11,6 +11,8 @@ comments: true
 
 I enjoy mentoring people and sharing my personal lessons learned. One of my key advices to become a (more) successful student and researcher with respect to writing excellent theses is to *argue/reason well* in your writeup: motivate your thoughts, justify your choices, and reason over your findings. As you not only make assertions or claims, but reason over their pros and cons and convince your reader by the power of argument (and references), you will position your work for highest accolades.
 
+<!-- more -->
+
 Here I want to put this into a greater context: the context of good *research methodology*.
 
 It is an appealing (up to overwhelming) thought for most people to ultimately strive for a good result (in the meaning of outcome), especially in a graded thesis project. Having an excellent outcome (in ML: the model works, the prediction is correct, the experiment succeeded) is usually a good starting point for successful thesis, as it is usually hard for a supervisor to let you fail a project that worked out well. But an excellent result can cloud the view for what really matters in research & development: good methodology. 

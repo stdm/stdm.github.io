@@ -9,6 +9,8 @@ comments: true
 
 Coming to the end of a writing-heavy week with 5 paper deadlines, the experience from these publishing processes reinforced the three necessary conditions to me on when to publish (and on what to focus in the paper, besides the story line). When is my work advanced enough that I can publish it? When can I attempt not only writing it down (you should always do it as it clears one's thoughts), but also making it accessible for the rest of the world (being aware of your responsibility for the body of human knowledge, the valuable time of potential readers, and your future reputation)?
 
+<!-- more -->
+
 It comes down to the [triple filters of Socrates](https://www.quora.com/What-is-Triple-Filter-test-of-Socrates):
 
 1. **Truth**: Are your results true? Do you trust your experiments and the underlying code base? Your interpretation? If you are aware of (or suspect) any bugs, abstain from publishing the results. If you have randomly fluctuating results, abstain from reporting cherry-picked good-looking ones.

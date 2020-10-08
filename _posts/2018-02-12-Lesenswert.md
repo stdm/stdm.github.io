@@ -9,6 +9,8 @@ comments: true
 
 This is a regularly updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title). Some might be after a paywall afte some time - sorry for that!
 
+<!-- more -->
+
 * [History will judge the complicit](https://www.theatlantic.com/magazine/archive/2020/07/trumps-collaborators/612250/) by Anne Applebaum, July/August, 2020.
 
   Subject: Politics

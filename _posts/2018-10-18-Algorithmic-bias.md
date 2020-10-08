@@ -9,6 +9,8 @@ comments: true
 
 Recently, I engaged in a discussion within the [Expert Group on Data Ethics](https://data-service-alliance.ch/expertise/expert-groups) on the pros and cons of the term ["algorithmic bias"](https://en.wikipedia.org/wiki/Algorithmic_bias), which describes the fact that certain people groups might be discriminated by an automatic decision making system, and how to prevent this. While every research in this sphere is very important and rightly so at the forefront of current discussions in data science, artificial intelligence and digital ethics (see e.g. [here](https://arxiv.org/abs/1706.02409), [here](https://ieeexplore.ieee.org/document/5360534) or [here](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)), I think the term itself might do more harm than good in the public discussion. 
 
+<!-- more -->
+
 Here's my line of thought:
 
 First, the (German) [definition of algorithm](https://de.wikipedia.org/wiki/Algorithmus) in computer science and beyond is very broad, pointing to any unambiguous sequence of instructions to solve a given problem; it can be implemented as a computer program that transforms some input into corresponding output. As this encompasses any automatic computer program, we are formally save to call any biased decision by a computer program "algorithmic bias".

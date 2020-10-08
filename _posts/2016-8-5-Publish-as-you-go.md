@@ -9,6 +9,8 @@ comments: true
 
 I really like the attitude of some people regarding leveraging their work &#8211; for example, <a style="line-height: 1.71429; font-size: 1rem;" href="http://tech.marksblogg.com/tensorflow-nvidia-gtx-1080.html" target="_blank">here</a>: Mark Litwintschik reports on how he installed TensorFlow and executed a simple but instructional and funny &#8220;Hello World&#8221; model (based on Joel Grus&#8217; hilarious post <a style="line-height: 1.71429; font-size: 1rem;" href="http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/" target="_blank">here</a>). Mark&#8217;s article is easy to read, helpful, and sure to find its audience.
 
+<!-- more -->
+
 Here&#8217;s the point: Everyone of us (e.g., me and my team) who tried some hands-on deep learning had to follow basically the same steps. Installation marathon,  follow easy example, collect lessons learned. And we all had to document our work somehow for the sake of the team or the (next) project. And we all have been glad to have this job done and move and to more interesting stuff.
 
 I&#8217;d suggest that we all (having this experience with research/development &#8220;chores&#8221;) try to copy Mark&#8217;s model: **Put 5% more effort into public documentation.** Helps others, leaves a foot print with one&#8217;s own name on it, and is great training in writing.

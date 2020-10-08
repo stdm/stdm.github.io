@@ -9,6 +9,8 @@ comments: true
 
 During my spare time in the last year and ongoing, I have been involved in a very intersting project bringing together computer science expertise and charity: The ENJOY project (my term for it).
 
+<!-- more -->
+
 **Abstract.** Hearing-impaired attendants of large public events often find it impossible to follow speeches delivered via a loudspeaker/PA system even if they can follow normal conversations in small groups easily due to the aid of hearing implants. A possible remedy is simultaneous speech-to-text synthesis (speech recognition), so that the speech can be followed in reading live and on a private communication device like a tablet computer or smartphone.
 
 Using the example of the public worship services of <a href="http://www.gvc-winterthur.ch" target="_blank">GvC Chile Hegi</a> in Winterthur, a team of four people has committed considerable resources since spring 2014 in researching and building a prototype of such a system.<!--more-->

@@ -97,3 +97,4 @@ encoding: utf-8
 
 #generate excerpts automatically (added 2020-10-08)
 page_excerpts: true
+excerpt_separator: <!-- more -->

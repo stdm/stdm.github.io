@@ -9,6 +9,8 @@ comments: true
 
 Interesting enough, the current hype topic (rightly so!) in Machine Learning is Deep Learning &#8211; which is largely the current term for ongoing research in Neural Networks.
 
+<!-- more -->
+
 ## Why is this interesting?
 
 Neural Networks have a colourful history. Being researched first in the 1950&#8242;s as biologically inspired machine learning approaches (though that term wasn&#8217;t used then), they repeatedly

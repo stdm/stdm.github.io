@@ -9,6 +9,8 @@ comments: true
 
 For a young researcher the diversification in the academic landscape can be a huge challenge: am I interested / proficient in machine learning - or pattern recognition? Am I a computer vision guy (because I work mainly on images), or in the field of predictive maintenance (because I also worked on such tasks)? Am I a data miner because I mine data, and can I also add artificial intelligence to the list of my research interests just because I have published on its sub-field of machine learning?
 
+<!-- more -->
+
 ### Communities of people
 
 What I didn't understand as a young researcher is that these fields are foremost communities of people: they know (and further) each other, work with each other (often implicitly, by affecting / citing each other's work), and meet each other regularly (at the community's conferences and workshops). Most of all, they share a common [frame](https://en.wikipedia.org/wiki/Framing_(social_sciences)). This is brilliantly protraied in [Breiman's article](http://www2.math.uu.se/~thulin/mm/breiman.pdf) on the two cultures in statistics and machine learning: both communities work on similar use cases and (more and more, to some extent) with a common body of methodologies. Yet they do it with a totally different understanding of their work and its goals (as becomes evident in their different view on e.g. dimensionality reduction, but that's a different story). 

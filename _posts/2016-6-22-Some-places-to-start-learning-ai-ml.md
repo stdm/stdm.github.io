@@ -9,6 +9,8 @@ comments: true
 
 Here's a (regularly updated) collection of links to my favourite [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course)s and other ressources on learning or deepen Artificial Intelligence and in particular Machine Learning / Deep Learning skills:
 
+<!-- more -->
+
   * [Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew Ng, Stanford (very intuitive and practical, includes the basics)
   * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by Andrew Ng's deeplearning.ai
   * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) by Andrej Karpathy, Stanford ([video lectures](https://www.youtube.com/watch?v=2uiulzZxmGg&index=10&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA))
