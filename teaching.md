@@ -33,7 +33,7 @@ I try to make my main courses available as free online ressources as a best effo
 | Spring 2020 | MSc | MT | Exploiting the Full Information of Varying-Length Utterances for DNN-Based Speaker Verification |
 | Spring 2020 | BSc | BA | [**Active Scene Understanding from Image Sequences for Next-Generation Computer Vision**](https://stdm.github.io/downloads/papers/AVHRC_2020.pdf) <br> _top grade, paper at AVHRC 2020, and [Dr. Waldemar Jucker award 2020](https://www.gst.ch/aktivit%C3%A4ten/f%C3%B6rderpreis/)_ <br> Students: Dano Roost and Ralph Meier |
 | Spring 2020 | MAS | Thesis | Neural-network-based Speaker Diarization on Federal Assembly Sessions |
-| Spring 2020 | MSc | MT @ EPFL | Multi-Agent Reinforcement Learning for Common Pool Resource Appropriation <br> _top grade_ <br> Student: Zeki Doruk Erden |
+| Spring 2020 | MSc | MT @ EPFL | **Multi-Agent Reinforcement Learning for Common Pool Resource Appropriation** <br> _top grade_ <br> Student: Zeki Doruk Erden |
 | Spring 2020 | PhD | Thesis | [**Exploiting Contextual Information with Deep Neural Networks**](https://arxiv.org/pdf/2006.11706.pdf) <br> _successfully defended_ <br> Candidate: Ismail Elezi |
 | Fall 2019 | MSc | MT | Medical Image Analysis using Deep Learning |
 | Fall 2019 | MSc | VT2 | WaveVoice: A Wavenet Based Architecture for Speaker Verification |
