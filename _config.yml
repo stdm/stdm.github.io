@@ -94,3 +94,6 @@ future: true
 
 #to allow UTF-8 encodings
 encoding: utf-8
+
+#generate excerpts automatically (added 2020-10-08)
+page_excerpts: true
