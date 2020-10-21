@@ -16,8 +16,8 @@ This page is dedicated to the research of me and my group. My academic profile i
 <a name="group"></a>
 ## The group
 
-[<img alt="Team" src="http://stdm.github.io/images/AIML-team-2018.jpg"/>](http://stdm.github.io/images/AIML-team-2018.jpg)
-The AI/ML research team at [ZHAW Information Engineering group](https://www.zhaw.ch/de/engineering/institute-zentren/init/information-engineering/), 2018: Frank-Peter Schilling, Mohammadreza Amirian, Thilo Stadelmann, Ismail Elezi, Lukas Tuggener, Katharina Rombach, and Daniel Neururer (missing on the picture: Stefan Huschauer).
+[<img alt="Team" src="http://stdm.github.io/images/team-ai-ml-2020.png"/>](http://stdm.github.io/images/team-ai-ml-2020.png)
+The AI/ML research team at the [ZHAW Information Engineering group](https://www.zhaw.ch/de/engineering/institute-zentren/init/information-engineering/), 2020 (top-left to bottom-right): Pascal Sager, Thilo Stadelmann, Claude Lehmann, Javier Montoya, Lukas Tuggener, Raphael Emberger, Ricardo Chavarriaga, Frank-Peter Schilling and Mohammadreza Amirian.
 
 
 My AI/ML team performs **pattern recognition** research, working on a wide variety of tasks on image, audio or generally "signal" data. As a group, we focus on **deep learning** and **reinforcement learning** methodology, inspired by biological learning. Each task that we study has its own learning target (e.g., detection, classification, clustering, segmentation, novelty detection, control) and use case (e.g., **predictive maintenance**, **speaker diarization**  for multimedia indexing, **document analysis**, **optical music recognition**, **computer vision** for industrial quality control, **automated machine learning**, **deep reinforcement learning** for automated game play or building control), which in turn sheds light on different aspects of the learning process. 
