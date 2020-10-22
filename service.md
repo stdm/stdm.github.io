@@ -20,6 +20,15 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="talks"></a>
 ## Talks 
 
+#### 2021
+
+  * Invited talk on [**Artificial Intelligence: wie künstliche Intelligenz und Machine Learning unser Leben verändern**] 
+    **MediData EDI Podium**, Kantonsratsaal Lucerne, June 25, 2021
+
+  * Invited talk at the **ETH Bibliothek Kolloquium**, Zurich, Switzerland, March 25, 2021
+  
+  * Keynote on **AI Essentials** at **Noser Engineering**, Winterthur, Switzerland, January 19, 2021
+
 #### 2020
   * Two invited industry sessions on [**Deep Learning from an IT perspective**](https://stdm.github.io/downloads/talks/2020-09-28_DL-IT-perspective.pdf)
     **6th Richmond IT Forum**, Bad Ragaz, Switzerland, September 28-29 (postponed from April 01-02 due to COVID-19), 2020
@@ -41,8 +50,6 @@ Much to the suprise of my younger self, I have become a very active networker, p
   
   * **Machine Learning-based pattern recognition**
     Invited talk at mini symposium of method seminar on deep learning, University of Zurich, May 13, 2020
-  
-  * Postponed due to COVID-19: Invited talk at the **ETH Bibliothek Kolloquium**, Zurich, Switzerland, April 30, 2020
 
   * Keynote on [**Ein Blick in die Zukunft der angewandten KI**](https://stdm.github.io/downloads/talks/20200306_Zukunft-angewandte-KI.pdf) at DACH Compliancetagung, Winterthur, Switzerland, March 06, 2020
 
