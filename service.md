@@ -30,6 +30,9 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * Keynote on **AI Essentials** at **Noser Engineering**, Winterthur, Switzerland, January 19, 2021
 
 #### 2020
+
+  * Invited presentation on AI at **"Mensch-Maschine-Gott: Wo fängt die Maschine an, wo hört der Mensch auf? Und wo bleibt dabei Gott?"**, Reformed Church Winterthur and Wuelflingen, Switzerland, November 02, 2020    
+  
   * Two invited industry sessions on [**Deep Learning from an IT perspective**](https://stdm.github.io/downloads/talks/2020-09-28_DL-IT-perspective.pdf)
     **6th Richmond IT Forum**, Bad Ragaz, Switzerland, September 28-29 (postponed from April 01-02 due to COVID-19), 2020
 
