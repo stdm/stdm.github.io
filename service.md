@@ -27,13 +27,13 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
   * Invited talk at the **ETH Bibliothek Kolloquium**, Zurich, Switzerland, March 25, 2021
   
-  * Keynote on **AI Essentials** at **Noser Engineering**, Winterthur, Switzerland, January 19, 2021
+  * Impulsreferat on **AI Essentials** at **Noser Engineering**, Winterthur, Switzerland, January 19, 2021
 
 #### 2020
 
   * Invited presentation on AI at **"Mensch-Maschine-Gott: Wo fängt die Maschine an, wo hört der Mensch auf? Und wo bleibt dabei Gott?"**, Reformed Church Winterthur and Wuelflingen, Switzerland, November 03, 2020
   
-  * Interview on Swiss Television SRF about **Digitizing a University: ZHAW digital, the UZH Digital Society Initiative and the Digitization Initiative of the Universities of the Canton of Zurich (DIZH)** together with Prof. Abraham Bernstein in the context of the Swiss Digital Days 2020, November 03, 2020
+  * Interview on Swiss Television SRF about **"Digitizing a University: ZHAW digital, the UZH Digital Society Initiative and the Digitization Initiative of the Universities of the Canton of Zurich (DIZH)"** together with Prof. Abraham Bernstein in the context of the Swiss Digital Days 2020, November 03, 2020
   
   * Two invited industry sessions on [**Deep Learning from an IT perspective**](https://stdm.github.io/downloads/talks/2020-09-28_DL-IT-perspective.pdf)
     **6th Richmond IT Forum**, Bad Ragaz, Switzerland, September 28-29 (postponed from April 01-02 due to COVID-19), 2020
