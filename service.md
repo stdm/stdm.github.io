@@ -470,6 +470,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 <a name="press"></a>
 ## In the press 
+  * November 05, 2020, [Der Landbote](https://www.landbote.ch/computerartige-wesen-wird-es-nie-geben-276994690888): "**'Computerartige Wesen wird es nie geben'** Vortrag über künstliche Intelligenz: In der Stadtkirche steht nun der Segensroboter 'BlessU-2'. Das gab zu reden."
+
   * October 30, 2020, [Technik und Wissen](https://www.technik-und-wissen.ch/detail/kuenstliche-intelligenz-so-lernen-maschinen.html): "**Wie lernen Maschinen?** 'Eine Künstliche Intelligenz ist nicht intelligent' - Ein Gespräch mit Prof. Dr. Thilo Stadelmann von der ZHAW School of Engineering"
   
   * January 16, 2020, [WW / Who is Who in Zurich 2020](https://www.ww-magazin.ch/de/ww-zuerich): "Immer mehr Musiker nutzen ein Noten-Pad statt gedruckter Musiknoten. Der Wermutstropfen: Die alten Noten wollen ja ebenfalls digitalisiert werden - doch bis anhin war das ein Problem. Die beiden ZHAW-Forscher Thilo Stadelmann und Lukas Tuggener haben es gelöst: Der von ihnen entwickelte _Deep watershed detector_ analysiert das Notenblatt nicht in kleinen Teilen, sondern als Ganzes - und erkennt die Notenobjekte darum in ihrem Kontext. [...]" (WW Magazin, p. 119)
