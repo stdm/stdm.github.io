@@ -22,7 +22,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 #### 2021
 
-  * Invited talk on [**Artificial Intelligence: wie künstliche Intelligenz und Machine Learning unser Leben verändern**] 
+  * Invited talk on **Artificial Intelligence: wie künstliche Intelligenz und Machine Learning unser Leben verändern** 
     **MediData EDI Podium**, Kantonsratsaal Lucerne, June 25, 2021
 
   * Invited talk at the **ETH Bibliothek Kolloquium**, Zurich, Switzerland, March 25, 2021
@@ -30,6 +30,10 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * Impulsreferat on **AI Essentials** at **Noser Engineering**, Winterthur, Switzerland, January 19, 2021
 
 #### 2020
+
+  * Guest lecture on **"AI in Conflict"** at Carl Remigius Medical School, M.Sc. Crisis and Emergency Management, December 12, 2020
+  
+  * Guest lecture on **"Smart Government"** at University of Bern, Executive Master of Public Administration, December 11, 2020
 
   * Invited presentation on AI at **"Mensch-Maschine-Gott: Wo fängt die Maschine an, wo hört der Mensch auf? Und wo bleibt dabei Gott?"**, Reformed Church Winterthur and Wuelflingen, Switzerland, November 03, 2020
   
