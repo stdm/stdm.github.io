@@ -2,7 +2,7 @@
 layout: post
 title: Lesenswert
 date: 2018-02-12
-modified: 2020-03-24
+modified: 2020-12-14
 category: society, readings
 comments: true
 ---
@@ -10,6 +10,22 @@ comments: true
 This is a regularly updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title). Some might be after a paywall afte some time - sorry for that!
 
 <!-- more -->
+
+* [Can you say...Hero?](https://www.esquire.com/entertainment/tv/a27134/can-you-say-hero-esq1198/) by Tom Junod / Esquire, November, 1998.
+
+  Subject: Mister Rogers
+  
+  Key words: kindness, love, scpeticism, authenticity, biography, Mr Roger's Neighborhood, faith, children, psychology, attention
+  
+  Abstract: Fred Rogers has been doing the same small good thing for a very long time...
+  
+* [My Friend Mister Rogers](https://www.theatlantic.com/magazine/archive/2019/12/what-would-mister-rogers-do/600772/) by Tom Junod / The Atlantic, December, 2019.
+
+  Subject: Mister Rogers
+  
+  Key words: friendship, media, counter culture, faith, honesty, biography
+  
+  Abstract: I first met him 21 years ago, and now our relationship is the subject of a new movie. He’s never been more revered—or more misunderstood.
 
 * [History will judge the complicit](https://www.theatlantic.com/magazine/archive/2020/07/trumps-collaborators/612250/) by Anne Applebaum, July/August, 2020.
 
