@@ -9,9 +9,9 @@ permalink: /about/
 
 ## Welcome!
 
-This is the personal website of [Thilo Stadelmann](http://www.zhaw.ch/=stdm), professor of computer science at [ZHAW](https://www.zhaw.ch/en/university/) [School of Engineering](https://www.zhaw.ch/en/engineering/) and holder of the chair of Engineering-Information, team lead of [AI/ML](https://stdm.github.io/research/) and deputy head of [InIT's](https://www.zhaw.ch/en/engineering/institutes-centres/init/) [Information Engineering Group](https://www.zhaw.ch/de/engineering/institute-zentren/init/information-engineering/). In a second life, I serve as scientific director of [ZHAW digital](https://www.zhaw.ch/digital) and am a co-founder and board member of the [ZHAW Datalab](https://www.zhaw.ch/datalab) and the [data innovation alliance](https://data-innovation.org/).
+This is the personal website of [Thilo Stadelmann](http://www.zhaw.ch/=stdm), professor of computer science at [ZHAW](https://www.zhaw.ch/en/university/) [School of Engineering](https://www.zhaw.ch/en/engineering/) and holder of the chair of Engineering-Information, team lead of [AI/ML](https://stdm.github.io/research/) and deputy head of [InIT's](https://www.zhaw.ch/en/engineering/institutes-centres/init/) [Information Engineering Group](https://www.zhaw.ch/de/engineering/institute-zentren/init/information-engineering/). In a second life, I serve as scientific director of [ZHAW digital](https://www.zhaw.ch/digital) and am a co-founder and board member of the [ZHAW Datalab](https://www.zhaw.ch/datalab) and  [data innovation alliance](https://data-innovation.org/).
 
-All views expressed are mine and not necessarily shared by my affiliations.
+All views expressed are mine.
 
 I am a computer scientist by training, an AI guy by passion, and a machine perception researcher by area of study. My research interests revolve around general principles for learning algorithms in machine learning for pattern recognition. I approach these by means of use cases from very diverse areas, e.g. multimedia analysis, speech and audio processing, optical music recognition, predictive maintenance, automated game playing, data mining, driving assistants, computer vision, face recognition, ...
 
