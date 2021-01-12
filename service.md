@@ -381,9 +381,9 @@ Much to the suprise of my younger self, I have become a very active networker, p
   
     [<img alt="ECLT" src="http://stdm.github.io/images/eclt.png"/>](https://www.unive.it/pag/23664/)
 
-  * 09/2016-ongoing: Co-founder and member of the board of the [Swiss Alliance for Data-Intensive Services](http://www.data-service-alliance.ch), a Innosuisse-funded [National Thematic Network](https://www.kti.admin.ch/kti/en/home/unsere-foerderangebote/fuer-forschende/vernetzungsmoeglichkeiten.html)
+  * 09/2016-ongoing: Co-founder and member of the board of the [data innovation alliance](https://data-innovation.org/) (formally known as the [Swiss Alliance for Data-Intensive Services](http://www.data-service-alliance.ch)), a Innosuisse-funded [National Thematic Network](https://www.kti.admin.ch/kti/en/home/unsere-foerderangebote/fuer-forschende/vernetzungsmoeglichkeiten.html)
     
-    [<img alt="Data+Service" src="http://stdm.github.io/images/data+service.png"/>](http://www.data-service-alliance.ch)
+    <!--- [<img alt="Data+Service" src="http://stdm.github.io/images/data+service.png"/>](http://www.data-service-alliance.ch) -->
     
   * 08/2016-10/2018: Founder and academic co-lead of the Machine Learning Clinic, an Expert Group of the [Swiss Alliance for Data-Intensive Services](https://data-service-alliance.ch/expertise/expert-groups)
     
