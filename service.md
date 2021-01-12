@@ -31,7 +31,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 #### 2020
 
-  * Guest lecture on **"AI in Conflict"** at Carl Remigius Medical School, M.Sc. Crisis and Emergency Management, December 12, 2020
+  * Guest lecture on [**"Sicherheitsrelevante Aspekte von KI"**](https://stdm.github.io/downloads/talks/2020-12-12_DS-ML-AI-Security.pdf) at Carl Remigius Medical School, M.Sc. Crisis and Emergency Management, December 12, 2020
   
   * Guest lecture on **"Smart Government"** at University of Bern, Executive Master of Public Administration, December 11, 2020
 
@@ -403,6 +403,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * Topic editor for the [Journal of Imaging](http://www.mdpi.com/journal/jimaging), an international multi/interdisciplinary peer-reviewed open access journal of imaging techniques published online monthly by MDPI (postponed until special issue for sister journal "Computers" is completed)
   
   * Reviewer for [IEEE Transactions on Systems, Man and Cybernetics: Systems](https://www.ieeesmc.org/publications/transactions-on-smc-systems), [IEEE/ACM Transactions on Audio, Speech and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655), [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78), [EURASIP Journal on Audio, Speech, and Music Processing](https://asmp-eurasipjournals.springeropen.com/), [PLOS ONE](https://journals.plos.org/plosone/) and the [Science Media Center Germany](https://www.sciencemediacenter.de/)
+  
+  * Member of program committee, [ICCV 2021](http://iccv2021.thecvf.com/home), October 11-17, 2021, Montreal, Canada
   
   * Co-chair, [9th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition](https://annpr2020.ch/), September 02-04, 2020, Switzerland
 
