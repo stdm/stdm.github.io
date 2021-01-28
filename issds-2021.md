@@ -4,7 +4,7 @@ layout: page
 comments: true
 ---
 
-(Find the call for participation [here](https://stdm.github.io/downloads/CfP_ISSDS-2021.pdf) as a PDF.)
+(Please find the call for contributions also [here](https://stdm.github.io/downloads/CfP_ISSDS-2021.pdf) as a PDF.)
 
 
 Data science, one of the most significant developments in computing in the 21st century, is a discipline in the making, drawing principles, methods and tools from established fields like computer science, statistics, science, business, politics, and any domain with adequate data. Yet, data science is just starting. What are its underlying principles and techniques (models, methods) that are applicable across different use cases and fields of application? What "science" underlies this emerging discipline? 
@@ -33,7 +33,7 @@ We invite contributors to present their ideas at the first symposium and to cont
 - Cross-field lessons learned, e.g., can data science help solve problems in which nobody has multi-year experience yet? 
 
 
-## Outline of the initial workshop and call for contributions:
+## Outline of workshop and call for contributions:
 
 - **Date and time**: June 8, 2021, co-located with SDS 2021 in Lucerne, Switzerland (potentially in hybrid format or online-only, depending on the COVID-19 situation)
 
@@ -64,16 +64,16 @@ Webpage: [https://stdm.github.io/issds-2021/](https://stdm.github.io/issds-2021/
 
 ## References
 
-- From Braschler et al. (Eds.), ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/), Berlin, Heidelberg: Springer, 2019:
+From Braschler et al. (Eds.), ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/), Berlin, Heidelberg: Springer, 2019:
 
-  - [1] Brodie, ["What is Data Science?"](http://michaelbrodie.com/wp-content/uploads/2018/05/What-is-Data-Science-Final-May-16-2018.pdf).
+- [1] Brodie, ["What is Data Science?"](http://michaelbrodie.com/wp-content/uploads/2018/05/What-is-Data-Science-Final-May-16-2018.pdf).
 
-  - [2] Braschler et al., ["Data Science"](https://stdm.github.io/downloads/papers/ADS_2019_DataScience.pdf).
+- [2] Braschler et al., ["Data Science"](https://stdm.github.io/downloads/papers/ADS_2019_DataScience.pdf).
 
-  - [3] Brodie, ["On Developing Data Science"](https://www.researchgate.net/publication/333752267_On_Developing_Data_Science).
+- [3] Brodie, ["On Developing Data Science"](https://www.researchgate.net/publication/333752267_On_Developing_Data_Science).
 
-- [4] Jordan M., ["Artificial Intelligence - The Revolution Hasn't Happened Yet"](https://hdsr.mitpress.mit.edu/pub/wot7mkc1/release/9). UC Berkeley, April 18, 2018.
+[4] Jordan M., ["Artificial Intelligence - The Revolution Hasn't Happened Yet"](https://hdsr.mitpress.mit.edu/pub/wot7mkc1/release/9). UC Berkeley, April 18, 2018.
 
-- [5] Jordan M., ["Dr. AI or: How I Learned to Stop Worrying and Love Economics"](https://hdsr.mitpress.mit.edu/pub/2imtstfu/release/7). Harvard Data Science Review.
+[5] Jordan M., ["Dr. AI or: How I Learned to Stop Worrying and Love Economics"](https://hdsr.mitpress.mit.edu/pub/2imtstfu/release/7). Harvard Data Science Review.
 
-- [6] Donoho D., ["50 years of Data Science"](http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf). Princeton, September 18, 2015.
+[6] Donoho D., ["50 years of Data Science"](http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf). Princeton, September 18, 2015.
