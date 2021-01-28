@@ -7,7 +7,7 @@ comments: true
 (Find the call for participation [here](https://stdm.github.io/downloads/CfP_ISSDS-2021.pdf) as a PDF.)
 
 
-Data science, one of the most significant developments in computing in the 21st century, is a discipline in the making, drawing principles, methods and tools from established fields like computer science, statistics, science, business, politics, and any domain with adequate data. Yet, data science is just starting. What are its underlying principles and techniques (models, methods) that are applicable across different use cases and fields of application? What «science» underlies this emerging discipline? 
+Data science, one of the most significant developments in computing in the 21st century, is a discipline in the making, drawing principles, methods and tools from established fields like computer science, statistics, science, business, politics, and any domain with adequate data. Yet, data science is just starting. What are its underlying principles and techniques (models, methods) that are applicable across different use cases and fields of application? What "science" underlies this emerging discipline? 
 
 We are launching an activity to develop a reference framework for data science and invite your participation, organized in a two-stage process: 
 
@@ -51,7 +51,7 @@ The symposium is organized by members of the ZHAW Datalab, an interdisciplinary 
 
 - **Dr. Frank-Peter Schilling** (Senior Researcher Deep Learning) 
 
-- **Dr. Rudolf Füchslin** (Prof., Head of Applied Complex Systems Science)
+- **Dr. Rudolf Fuechslin** (Prof., Head of Applied Complex Systems Science)
 
 - **Dr. Dandolo Flumini** (Applied Complex System Science)
 
