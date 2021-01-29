@@ -55,7 +55,7 @@ I try to make my main courses available as free online ressources as a best effo
 | Fall 2017 | BSc | PA | Deep Learning Verfahren das Malen beibringen: Optimiertes Training für GANs |
 | Fall 2017 | BSc | PA | [**Deep Learning for Speaker Clustering**](https://github.com/stdm/ZHAW_deep_voice) <br> _public code repository_ <br> Students: Jan Sonderegger and Patrick Walter |
 | Fall 2017 | BSc | PA | Deep Learning-basierte Voice Conversion mittels problemspezifischer Loss-Funktion |
-| Fall 2017 | MSc | MT | [**Learning to Cluster**](https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf) <br> _top grade and paper at ANNPR 2018_ <br> Student: Benjamin Bruno Meier |
+| Fall 2017 | MSc | MT | [**Learning to Cluster**](https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf) <br> _top grade and paper at ANNPR 2018 and [Dr. Waldemar Jucker award 2018](https://www.gst.ch/aktivit%C3%A4ten/f%C3%B6rderpreis/)_ <br> Student: Benjamin Bruno Meier |
 | Fall 2017 | MSc | MT | Reinforcement Learning to Play 'Doom' |
 | Spring 2017 | MSc | VT2 | Deep Learning for End-to-End Voice Conversion - a Survey |
 | Spring 2017 | MSc | VT1 | Evaluating OMR Systems |
