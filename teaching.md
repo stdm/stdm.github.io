@@ -29,6 +29,13 @@ I try to make my main courses available as free online ressources as a best effo
 
 | **When** | **Level** | **Type** | **Title** |
 | --- | --- | --- | --- |
+| Spring 2021 | MSc | VT1 | Exploiting Temporal Information in Speech using Deep Learning |
+| Spring 2021 | MSc | VT2 | Multimedia Retrieval using Vision Transformers |
+| Spring 2021 | MSc | MT | Towards Neural Active Scene Understanding in Real-World Scenarios by Exploiting Temporal Video Information |
+| Spring 2021 | MSc | MT @ HSLU | Project Apollo: Visual Two-Stage Manufacturing Quality Control using Deep Learning |
+| Spring 2021 | BSc | BA | Neural Network-based Image Synthesis to Improve Automatic Segmentation of Medical Images for COVID |
+| Spring 2021 | BSc | BA | Transfer Learning of Deep Neural Network Representations of Brain Activity |
+| Fall 2020 | PhD | Thesis @ Ca'Foscari / Venice | external examiner for "Using Contextual Information In Weakly Supervised Learning" |
 | Fall 2020 | BSc | PA | From human to artificial neural networks: Deep-learning based analysis of brain activity |
 | Spring 2020 | MSc | MT | Exploiting the Full Information of Varying-Length Utterances for DNN-Based Speaker Verification |
 | Spring 2020 | BSc | BA | [**Active Scene Understanding from Image Sequences for Next-Generation Computer Vision**](https://stdm.github.io/downloads/papers/AVHRC_2020.pdf) <br> _top grade, paper at AVHRC 2020, and [Dr. Waldemar Jucker award 2020](https://www.gst.ch/aktivit%C3%A4ten/f%C3%B6rderpreis/)_ <br> Students: Dano Roost and Ralph Meier |
@@ -94,17 +101,18 @@ I try to make my main courses available as free online ressources as a best effo
 
 | Tag | Name | Format | Type | Content | Did what? | When? |
 | --- | --- | --- | --- | --- | --- | --- |
-| [KI1](http://stdm.github.io/ai-course) | **Künstliche Intelligenz 1** | lecture & lab | final year BSc computer science elective course; won [best teaching award (3rd place)](https://stdm.github.io/ATLAS/) in 2019 | practical AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017-2020 |
-| KI2 | **Künstliche Intelligenz 2** | lecture & lab | finale year BSc computer science elective course | AI applications with a focus on neural networks | responsible, co-initiate, co-create | Fall 2017 |
+| [KI1](http://stdm.github.io/ai-course) | **Künstliche Intelligenz 1** | lecture & lab | final year BSc computer science elective course; won [best teaching award (3rd place)](https://stdm.github.io/ATLAS/) in 2019 | practical AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017-2021 |
+| KI2 | **Künstliche Intelligenz 2** | lecture & lab | finale year BSc computer science elective course | AI applications with a focus on neural networks | responsible, co-initiate, co-create | Fall 2017, spring 2021 |
+| ML | **Machine Learning** | lecture & lab | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Machine Intelligence](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-machine-intelligence.html) | practical machine learning for data scientists | responsible, initiate, create, teach | Fall 2015-2016, spring 2017-2018, spring 2021 |
+| ADS | **Algorithmen und Datenstrukturen** | lecture & lab | BSc data science foundational module | introduction to algorithms and data structures with Python | responsible | Spring 2021 |
 | [TSM_MachLe](http://stdm.github.io/ml-course) | **Machine Learning** | lecture & lab | MSc computer science & engineering elective course; won best [teaching final round nomination](https://stdm.github.io/Science-applied/) in 2017 | mid-level course on practical machine learning with a focus on deep learning | responsible, initiate, co-create, co-teach | Spring 2017-2020 |
 | EVA MI Lab | **Machine Intelligence Lab** | MOOC, colloquia & hackathon | MSc extended advanced module (EVA) | experience an online course on an advanced machine learning topic | responsible, initiate, co-create, teach | Fall 2015-2019 |
 | EVA AI Seminar | **Artificial Intelligence Semniar** | seminar, blog posts, talk | MSc extended advanced module (EVA) | read, understand and write scientific literature | initiate, create, teach | Spring 2017-2019 |
-| ML | **Machine Learning** | lecture & lab | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Machine Intelligence](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-machine-intelligence.html) | practical machine learning for data scientists | responsible, initiate, create, teach | Fall 2015-2016, spring 2017-2018, spring 2021 |
 | DPD | **Data Product Design** | lecture, lab, guest appearances, video pitch | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Data Product Design](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-product-design.html) | business basics for techie data scientists | initiate, co-create, co-teach | Fall 2015-2017 |
+| PROG2 | **Programmieren 2** | lecture & lab | BSc computer science foundational module | advanced Java programming & tooling | co-create, teach | Spring 2014-2017 |
 | Scripting | **Scripting** | lecture & lab | continuing education module in [CAS Information Engineering](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-information-engineering.html) | foundations of scripting for analytics with Python for data scientists | initiate, create, teach | Fall 2014-2015 |
 | MAS Data Science| **Master of Advanced Studies in Data Science** | on-premise multi-year programme | continuing education program | technically oriented data science education for university alumnis | co-initiate, co-create | Spring 2014-2015 |  
 | IE1 | **Information Engineering 1** | lecture & lab | last year BSc computer science elective course | introduction to information retrieval | co-teach | Fall 2015 |
-| PROG2 | **Programmieren 2** | lecture & lab | BSc computer science foundational module | advanced Java programming & tooling | co-create, teach | Spring 2014-2017 |
 | Big Data | **Big Data** | lecture & lab | continuing education module in [CAS Information Engineering](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-information-engineering.html) | foundations and tools of processing at scale for data scientists | co-teach | Spring 2015 |
 | DSSY | **Decision Support Systems** | lecture & lab | last year BSc industrial engineering course | data warehousing & big data | co-create, (co-)teach | Spring 2013-2015 |
 | ITPROG | **IT Programming** | lecture & lab | BSc industrial/aviation/transportation engineering foundational module | introduction to programming with Python | initiate, create, teach | Fall 2014-2015 |
