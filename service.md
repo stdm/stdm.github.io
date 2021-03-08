@@ -22,7 +22,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 #### 2021
 
-  * Invited talk on **Artificial Intelligence: wie künstliche Intelligenz und Machine Learning unser Leben verändern** 
+  * [Cancelled due to COVID-19] Invited talk on **Artificial Intelligence: wie künstliche Intelligenz und Machine Learning unser Leben verändern** 
     **MediData EDI Podium**, Kantonsratsaal Lucerne, June 25, 2021
 
   * Invited talk at the **ETH Bibliothek Kolloquium**, Zurich, Switzerland, March 25, 2021
