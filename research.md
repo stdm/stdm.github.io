@@ -42,12 +42,14 @@ The group has very diverse backgrounds, which helps us complement each other's s
   
   * [Raphael Emberger](https://www.linkedin.com/in/raphael-emberger-206015bb), research assistant & M.Sc. student: B.Sc. computer science (ZHAW), focusing on deep learning and object detection
   
+  * [Sebastian Salzmann](https://www.linkedin.com/in/sebastian-salzmann-8214b911b), M.Sc. student: B.Sc. biology (ETH) & M.Sc. molecular health sciences (ETH), focusing on deep learning
+  
     
 Our Alumni are:
 
   * Stefan Huschauer: B.Sc. computer science (ETH & ZHAW), M.Sc. 2020
 
-  * [Daniel Neururer](https://ba-pub.engineering.zhaw.ch/WebPublication/Flyer.pdf?version=Bachelorarbeit2018&code=BA18_wyrs_3&language=de), B.Sc. in systems engineering (ZHAW), M.Sc. 2020
+  * [Daniel Neururer](https://ba-pub.engineering.zhaw.ch/WebPublication/Flyer.pdf?version=Bachelorarbeit2018&code=BA18_wyrs_3&language=de), B.Sc. in systems engineering (ZHAW), M.Sc. 2020 (ZHAW), now software/ML engineer with Prof. Cieliebak of ZHAW
 
   * [Dr. Ismail Elezi](https://github.com/TheRevanchist), B.Sc. (U. Pristina), M.Sc. (Ca'Foscari) & PhD (Ca'Foscari & ZHAW, July 2020) in computer science, now PostDoc with Prof. Laura Leal-Taixé of TU Munich
 
