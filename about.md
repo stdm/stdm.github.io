@@ -9,7 +9,7 @@ permalink: /about/
 
 ## Welcome!
 
-This is the personal website of [Thilo Stadelmann](http://www.zhaw.ch/=stdm), professor of computer science at [ZHAW](https://www.zhaw.ch/en/university/) [School of Engineering](https://www.zhaw.ch/en/engineering/) and holder of the chair of Engineering-Information, team lead of [AI/ML](https://stdm.github.io/research/) and deputy head of [InIT's](https://www.zhaw.ch/en/engineering/institutes-centres/init/) [Information Engineering Group](https://www.zhaw.ch/de/engineering/institute-zentren/init/information-engineering/). In a second life, I serve as scientific director of [ZHAW digital](https://www.zhaw.ch/digital) and am a co-founder and board member of the [ZHAW Datalab](https://www.zhaw.ch/datalab) and  [data innovation alliance](https://data-innovation.org/).
+This is the personal website of [Thilo Stadelmann](http://www.zhaw.ch/=stdm), professor of AI/ML at [ZHAW](https://www.zhaw.ch/en/university/) [School of Engineering](https://www.zhaw.ch/en/engineering/) and holder of the chair of Engineering-Information, director of centre (a.i.) of the [Centre of Artificial Intelligence](https://www.zhaw.ch/en/engineering/institutes-centres/cai/) and head of the [Computer Vision, Perception and Cognition Group](https://stdm.github.io/research/). In a second life, I serve as scientific director of [ZHAW digital](https://www.zhaw.ch/digital) and am a co-founder and board member of the [ZHAW Datalab](https://www.zhaw.ch/datalab) and  [data innovation alliance](https://data-innovation.org/).
 
 All views expressed are mine.
 
