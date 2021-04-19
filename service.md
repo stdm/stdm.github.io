@@ -476,6 +476,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 <a name="press"></a>
 ## In the press 
+  * March 31, 2021, [IT Business, Netzwoche, Technik und Wissen et al.](https://www.zhaw.ch/de/ueber-uns/aktuell/news/detailansicht-news/event-news/zhaw-gruendet-zentrum-fuer-kuenstliche-intelligenz/): "**ZHAW Gründet Zentrum für Künstliche Intelligenz**: 'Unsere ganzheitliche Betrachtung von KI-Fragestellungen sorgt dafür, dass beim Bearbeiten spezifischer Probleme die breite und langfristige Einsatzfähigkeit der Lösung mitgedacht wird', sagt Thilo Stadelmann, interimistischer Leiter des CAI. Von übergreifender Bedeutung sei am CAI dabei der ethische Standpunkt."
+  
   * November 05, 2020, [Der Landbote](https://www.landbote.ch/computerartige-wesen-wird-es-nie-geben-276994690888): "**'Computerartige Wesen wird es nie geben'** Vortrag über künstliche Intelligenz: In der Stadtkirche steht nun der Segensroboter 'BlessU-2'. Das gab zu reden."
 
   * October 30, 2020, [Technik und Wissen](https://www.technik-und-wissen.ch/detail/kuenstliche-intelligenz-so-lernen-maschinen.html): "**Wie lernen Maschinen?** 'Eine Künstliche Intelligenz ist nicht intelligent' - Ein Gespräch mit Prof. Dr. Thilo Stadelmann von der ZHAW School of Engineering"
