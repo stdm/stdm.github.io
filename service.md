@@ -476,9 +476,11 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 <a name="press"></a>
 ## In the press 
-  
-  * May 12, 2021, [Der Landbote](https://www.landbote.ch/das-enorme-potenzial-der-kuenstlichen-intelligenz-645914240888): "**Das enorme Potenzial der künstlichen Intelligenz** - künstliche Intelligenz ist noch sehr weit entfernt von dem, was beim Menschen abläuft."
 
+   * May 12, 2021, [Der Landbote](https://www.landbote.ch/das-enorme-potenzial-der-kuenstlichen-intelligenz-645914240888): "**Das enorme Potenzial der künstlichen Intelligenz** - künstliche Intelligenz ist noch sehr weit entfernt von dem, was beim Menschen abläuft."
+
+		[<img alt="Der Landbote, May 12, 2021" src="http://stdm.github.io/images/landbote.jpg"/>](https://www.landbote.ch/das-enorme-potenzial-der-kuenstlichen-intelligenz-645914240888)
+ 
   * May 12, 2021, Der Landbote: "**Die künstliche Intelligenz boomt, auch in Winterthur**"
   
   * May 06, 2021, Swiss Engineering STZ: "**ZHAW und OST setzen uf künstliche Intelligenz**" 
