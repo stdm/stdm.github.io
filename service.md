@@ -476,6 +476,17 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 <a name="press"></a>
 ## In the press 
+  
+  * May 12, 2021, [Der Landbote](https://www.landbote.ch/das-enorme-potenzial-der-kuenstlichen-intelligenz-645914240888): "**Das enorme Potenzial der künstlichen Intelligenz** - künstliche Intelligenz ist noch sehr weit entfernt von dem, was beim Menschen abläuft."
+
+  * May 12, 2021, Der Landbote: "**Die künstliche Intelligenz boomt, auch in Winterthur**"
+  
+  * May 06, 2021, Swiss Engineering STZ: "**ZHAW und OST setzen uf künstliche Intelligenz**" 
+  
+  * April 19, 2021, Industrie-Schweiz: "**ZHAW: Gründet Zentrum für Künstliche Intelligenz**"
+  
+  * April 09, 2021, [Involved. Swissmem Magazin](https://www.swissmem.ch/fileadmin/user_upload/involved_0121_Midres.pdf): "**Kann KMU KI?**"
+  
   * March 31, 2021, [IT Business, Netzwoche, Technik und Wissen, ICTK News, Greater Zurich Area, ...](https://www.zhaw.ch/de/ueber-uns/aktuell/news/detailansicht-news/event-news/zhaw-gruendet-zentrum-fuer-kuenstliche-intelligenz/): "**ZHAW Gründet Zentrum für Künstliche Intelligenz**: 'Unsere ganzheitliche Betrachtung von KI-Fragestellungen sorgt dafür, dass beim Bearbeiten spezifischer Probleme die breite und langfristige Einsatzfähigkeit der Lösung mitgedacht wird', sagt Thilo Stadelmann, interimistischer Leiter des CAI. Von übergreifender Bedeutung sei am CAI dabei der ethische Standpunkt."
   
   * November 05, 2020, [Der Landbote](https://www.landbote.ch/computerartige-wesen-wird-es-nie-geben-276994690888): "**'Computerartige Wesen wird es nie geben'** Vortrag über künstliche Intelligenz: In der Stadtkirche steht nun der Segensroboter 'BlessU-2'. Das gab zu reden."
