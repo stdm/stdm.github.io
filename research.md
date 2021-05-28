@@ -44,6 +44,8 @@ The group has very diverse backgrounds, which helps us complement each other's s
   
   * [Sebastian Salzmann](https://www.linkedin.com/in/sebastian-salzmann-8214b911b), M.Sc. student: B.Sc. biology (ETH) & M.Sc. molecular health sciences (ETH), focusing on deep learning
   
+  * [Adhiraj Ghosh](https://www.linkedin.com/in/adhiraj-ghosh/), research intern: B.Tech. in electrical & electronics engineering (Manipal Institute of Technology), focusing on computer vision and object detection
+  
     
 Our Alumni are:
 
