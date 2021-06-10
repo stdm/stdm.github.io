@@ -196,7 +196,7 @@ I frequently collaborate with industry to work on exciting pattern recognition u
 
 In academia, I frequently work together with the **Machine Learning and Optimization Lab** of [Martin Jaggi](https://mlo.epfl.ch/) at **EPFL**, [Marcello Pelillo](http://www.dsi.unive.it/~pelillo/) of the **Ca'Foscari University of Venice**, [Juergen Schmidhuber](http://people.idsia.ch/~juergen/)'s group at **IDSIA**, [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/mitarbeiter/f-schwenker/) of **Ulm University, Insitute of Neural Information Processing**, and [Boi Faltings](https://people.epfl.ch/boi.faltings?lang=en) of **EPFL**. We have joint research projects and/or co-supervise PhD students.
 
-If you are intgerested in a collaboration, please [contact](http://www.zhaw.ch/=stdm) me.
+If you are interested in a collaboration, please [contact](http://www.zhaw.ch/=stdm) me.
 
 &nbsp;
 
