@@ -32,7 +32,7 @@ I try to make my main courses available as free online ressources as a best effo
 | Spring 2021 | MSc | VT1 | Exploiting Temporal Information in Speech using Deep Learning |
 | Spring 2021 | MSc | VT2 | Multimedia Retrieval using Vision Transformers |
 | Spring 2021 | MSc | MT | Towards Neural Active Scene Understanding in Real-World Scenarios by Exploiting Temporal Video Information |
-| Spring 2021 | MSc | MT @ HSLU | Project Apollo: Visual Two-Stage Manufacturing Quality Control using Deep Learning |
+| Spring 2021 | MSc | MT @ HSLU | Deep LEarning with NOisy Image Labels in Real-World Computer Vision Applications |
 | Spring 2021 | BSc | BA | Neural Network-based Image Synthesis to Improve Automatic Segmentation of Medical Images for COVID |
 | Spring 2021 | BSc | BA | Transfer Learning of Deep Neural Network Representations of Brain Activity |
 | Fall 2020 | PhD | Thesis @ Ca'Foscari / Venice | external examiner for "Using Contextual Information In Weakly Supervised Learning" |
@@ -67,7 +67,7 @@ I try to make my main courses available as free online ressources as a best effo
 | Spring 2017 | MSc | VT2 | Deep Learning for End-to-End Voice Conversion - a Survey |
 | Spring 2017 | MSc | VT1 | Evaluating OMR Systems |
 | Spring 2017 | BSc | BA | [**Machine Learning for Speaker Clustering**](https://stdm.github.io/downloads/papers/ANNPR_2018b.pdf) <br> _paper at ANNPR 2018_ <br> Students: Patrick Gerber and Sebastian Glinksi Haefeli |
-| Spring 2017 | MSc | BA | Speaker Clustering with Metric Embeddings |
+| Spring 2017 | BSc | BA | Speaker Clustering with Metric Embeddings |
 | Fall 2016 | BSc | PA | **Recurrent Neural Networks for Speaker Recognition** <br> _top grade_ <br> Student: Patrick Gerber |
 | Fall 2016 | BSc | PA | Pinball Wizard: Using Deep Reinforcement Learning to Train a Pinball Wizard |
 | Fall 2016 | BSc | PA | Deep OMR: New Ways for Optical Music Recognition |
