@@ -479,7 +479,17 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="press"></a>
 ## In the press 
 
-   * May 12, 2021, [Der Landbote](https://www.landbote.ch/das-enorme-potenzial-der-kuenstlichen-intelligenz-645914240888): "**Das enorme Potenzial der künstlichen Intelligenz** - künstliche Intelligenz ist noch sehr weit entfernt von dem, was beim Menschen abläuft."
+  * July 27, 2021, [Technik und Wissen](https://www.technik-und-wissen.ch/maschinelles-lernen-in-10-schritten.html): "**In 10 Schritten zum erfolgreichen Maschinellen Lernen im Unternehmen**"
+
+  * July 26, 2021, Unternehmerzeitung: "**Neues Zentrum für KI**"
+  
+  * June 28, 2021, Handel Heute: "**An der ZHAW: Neues Zentrum für KI**"
+  
+  * June 22, 2021, [ZHAW Impact 02/2021](https://impact.zhaw.ch/detail/kuenstliche-intelligenz-wird-die-gesellschaft-umkrempeln?tx_magazine_main%5BarticleSequence%5D=669%2C620%2C681%2C621%2C643%2C642%2C622%2C625%2C682%2C612%2C630%2C685%2C611%2C672%2C670%2C655%2C683%2C659%2C661%2C629%2C627%2C673%2C636%2C667%2C662%2C634%2C675%2C676%2C635%2C678%2C677%2C542%2C591%2C575%2C551%2C541%2C583%2C588%2C590%2C589%2C597%2C585%2C584%2C595&tx_magazine_main%5BarticleSequenceHash%5D=405e17a0f85adc223a57340b1d9401c73c0ee789&cHash=ee3d12758306ca2d58a2d6faf1c57403): "**Künstliche Intelligenz wird die Gesellschaft umkrempeln**": "Künstliche Intelligenz verändert unsere Gesellschaft mindestens ebenso stark wie das Internet", sagt Thilo Stadelmann. Daher brauche es dringend Fachleute, die mit den verschiedensten KI-Technologien umgehen können. "Software, die clever agiert und selber dazulernt, ist hilfreich in praktisch jeder Branche und jedem Unternehmen – ob globale Multis oder lokale KMU."
+  
+  * May 17, 2021, Maschinenbau: "**Zentrum für künstliche Intelligenz**"
+  
+  * May 12, 2021, [Der Landbote](https://www.landbote.ch/das-enorme-potenzial-der-kuenstlichen-intelligenz-645914240888): "**Das enorme Potenzial der künstlichen Intelligenz** - künstliche Intelligenz ist noch sehr weit entfernt von dem, was beim Menschen abläuft."
 
 		[<img alt="Der Landbote, May 12, 2021" src="http://stdm.github.io/images/landbote.jpg"/>](https://www.landbote.ch/das-enorme-potenzial-der-kuenstlichen-intelligenz-645914240888)
  
