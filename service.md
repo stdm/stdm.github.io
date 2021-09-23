@@ -20,6 +20,10 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="talks"></a>
 ## Talks 
 
+#### 2022
+
+  * Invited talk at [Rotary](www.rotary.ch) Illnau-Effretikon on **"Der Einsatz von künstlicher Intelligenz (KI)"**, Illnau, Switzerland, February 11, 2022
+
 #### 2021
 
   * Invited talk at [Handelsblatt Industriegipfel](https://veranstaltungen.handelsblatt.com/industrie/) on **"Wie man die Angst vor künstlicher Intelligenz verliert, das Team glücklich macht und trotzdem auf KI setzt"**, online, December 09, 2021
