@@ -389,6 +389,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
 ## Community offices
 
 #### Boards & leadership
+  * 04/2021-ongoing: Member of the Interdisciplinary AI Working Group Law and Technology of [SATW](https://www.satw.ch/en/) and [FDFA](https://www.eda.admin.ch/eda/en/fdfa.html)
+
   * 01/2019-ongoing: Fellow of the [European Centre for Living Technology (ECLT)](https://www.unive.it/pag/23664/), Venice, Italy
   
     [<img alt="ECLT" src="http://stdm.github.io/images/eclt.png"/>](https://www.unive.it/pag/23664/)
@@ -478,7 +480,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   
   * Organizer & member of program committee, <a title="SDS|2014 Website" href="https://www.zhaw.ch/en/research/inter-school-cooperation/datalab-the-zhaw-data-science-laboratory/sds2014" target="_blank">SDS|2014 &#8211; 1st Swiss Workshop on Data Science</a>, 21.03.2014, Winterthur/Switzerland
     
-    [<img alt="SDS|20146" src="http://stdm.github.io/images/sds2014.png"/>](https://www.zhaw.ch/en/research/inter-school-cooperation/datalab-the-zhaw-data-science-laboratory/sds2014)
+    [<img alt="SDS|2014" src="http://stdm.github.io/images/sds2014.png"/>](https://www.zhaw.ch/en/research/inter-school-cooperation/datalab-the-zhaw-data-science-laboratory/sds2014)
   
   * Scientific partner, <a title="Big Data Roadshow " href="http://www.bigdata.ch/" target="_blank">Big data roadshow</a>, 06/2013-06/2014
 
@@ -501,7 +503,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   
   * May 12, 2021, [Der Landbote](https://www.landbote.ch/das-enorme-potenzial-der-kuenstlichen-intelligenz-645914240888): "**Das enorme Potenzial der künstlichen Intelligenz** - künstliche Intelligenz ist noch sehr weit entfernt von dem, was beim Menschen abläuft."
 
-		[<img alt="Der Landbote, May 12, 2021" src="http://stdm.github.io/images/landbote.jpg"/>](https://www.landbote.ch/das-enorme-potenzial-der-kuenstlichen-intelligenz-645914240888)
+		[<img alt="Landbote" src="http://stdm.github.io/images/landbote.jpg"/>](https://www.landbote.ch/das-enorme-potenzial-der-kuenstlichen-intelligenz-645914240888)
  
   * May 12, 2021, Der Landbote: "**Die künstliche Intelligenz boomt, auch in Winterthur**"
   
