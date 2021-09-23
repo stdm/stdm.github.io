@@ -491,6 +491,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="press"></a>
 ## In the press 
 
+  * September 22, 2021, [ZHAW Impact No 54 / September 2021, Dossier Literacy](https://impact.zhaw.ch/detail/kuenstliche-intelligenz-einfach-erklaeren-und-verstehen?tx_magazine_main%5BarticleSequence%5D=757%2C717%2C716%2C756%2C710%2C740%2C741%2C711%2C751%2C752%2C753%2C701%2C703%2C744%2C748%2C749%2C746%2C745%2C723%2C724%2C719%2C736%2C759%2C722%2C731%2C758%2C735%2C696%2C697%2C700%2C704%2C669%2C620%2C681%2C621%2C643&tx_magazine_main%5BarticleSequenceHash%5D=c93c4765ff467faa9ba6869ff5c225967b93a8f5&cHash=a3563f853ecbcfb7a3844e2d80214b66): "**Künstliche Intelligenz einfach erklären und verstehen**" (p. 39/40)
+
   * July 27, 2021, [Technik und Wissen](https://www.technik-und-wissen.ch/maschinelles-lernen-in-10-schritten.html): "**In 10 Schritten zum erfolgreichen Maschinellen Lernen im Unternehmen**"
 
   * July 26, 2021, Unternehmerzeitung: "**Neues Zentrum für KI**"
@@ -502,9 +504,9 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * May 17, 2021, Maschinenbau: "**Zentrum für künstliche Intelligenz**"
   
   * May 12, 2021, [Der Landbote](https://www.landbote.ch/das-enorme-potenzial-der-kuenstlichen-intelligenz-645914240888): "**Das enorme Potenzial der künstlichen Intelligenz** - künstliche Intelligenz ist noch sehr weit entfernt von dem, was beim Menschen abläuft."
-
-		[<img alt="Landbote" src="http://stdm.github.io/images/landbote.jpg"/>](https://www.landbote.ch/das-enorme-potenzial-der-kuenstlichen-intelligenz-645914240888)
- 
+    
+    [<img alt="Landbote" src="http://stdm.github.io/images/landbote.jpg"/>](https://www.landbote.ch/das-enorme-potenzial-der-kuenstlichen-intelligenz-645914240888)
+  
   * May 12, 2021, Der Landbote: "**Die künstliche Intelligenz boomt, auch in Winterthur**"
   
   * May 06, 2021, Swiss Engineering STZ: "**ZHAW und OST setzen uf künstliche Intelligenz**" 
