@@ -17,6 +17,7 @@ This page is dedicated to the research of me and my group. My academic profile i
 ## The group
 
 [<img alt="Team" src="http://stdm.github.io/images/team-ai-ml-2020.png"/>](http://stdm.github.io/images/team-ai-ml-2020.png)
+
 The [Computer Vision, Perception and Cognition Group](https://www.zhaw.ch/en/engineering/institutes-centres/cai/computer-vision-perception-and-cognition-group/) at the [ZHAW Centre for Artificial Intelligence](https://www.zhaw.ch/en/engineering/institutes-centres/cai/), 2020 (top-left to bottom-right): Pascal Sager, Thilo Stadelmann, Claude Lehmann, Javier Montoya, Lukas Tuggener, Raphael Emberger, Ricardo Chavarriaga, Frank-Peter Schilling and Mohammadreza Amirian.
 
 
@@ -36,11 +37,11 @@ The group has very diverse backgrounds, which helps us complement each other's s
   
   * [Mohammadreza Amirian](https://www.zhaw.ch/en/about-us/person/amir/), PhD student: B.Sc. (U. Shiraz) & M.Sc. (U. Ulm) in electrical engineering, doctorate in conjunction with [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/institut/hidden/f-schwenker/) of Ulm University / Germany
   
-  * [Claude Olivier Lehmann](https://www.zhaw.ch/en/about-us/person/lehl/), M.Sc. student: B.Sc. computer science (ZHAW), focusing on deep learning
-  
   * [Pascal Sager](https://www.linkedin.com/in/pascal-sager-3b7403168), research assistant & M.Sc. student: B.Sc. computer science (ZHAW), focusing on deep learning and object detection
   
   * [Raphael Emberger](https://www.linkedin.com/in/raphael-emberger-206015bb), research assistant & M.Sc. student: B.Sc. computer science (ZHAW), focusing on deep learning and object detection
+  
+  * [Claude Olivier Lehmann](https://www.zhaw.ch/en/about-us/person/lehl/), M.Sc. student: B.Sc. computer science (ZHAW), focusing on deep learning
   
   * [Sebastian Salzmann](https://www.linkedin.com/in/sebastian-salzmann-8214b911b), M.Sc. student: B.Sc. biology (ETH) & M.Sc. molecular health sciences (ETH), focusing on deep learning
   
