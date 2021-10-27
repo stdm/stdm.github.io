@@ -50,7 +50,7 @@ The group has very diverse backgrounds, which helps us complement each other's s
     
 Our Alumni are:
 
-  * Stefan Huschauer: B.Sc. computer science (ETH & ZHAW), M.Sc. 2020
+  * Stefan Huschauer: B.Sc. computer science (ETH & ZHAW), M.Sc. (ZHAW), now with Noimos, an AXA insuretech company
 
   * [Daniel Neururer](https://ba-pub.engineering.zhaw.ch/WebPublication/Flyer.pdf?version=Bachelorarbeit2018&code=BA18_wyrs_3&language=de), B.Sc. in systems engineering (ZHAW), M.Sc. 2020 (ZHAW), now software/ML engineer with Prof. Cieliebak of ZHAW
 
@@ -210,8 +210,8 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 | Year | Tag | Type| Publication |
 | --- | --- | --- | --- |
+| 2021 | AI ethics | **journal paper** | Samuel Wehrli, Corinna Hertweck, Mohammadreza Amirian, Stefan Glüge, and Thilo Stadelmann. ["**Bias, awareness and ignorance in deep-learning-based face recognition**"](https://stdm.github.io/downloads/papers/AIEthics_2021.pdf). **AI and Ethics**, DOI [10.1007/s43681-021-00108-6](https://link.springer.com/article/10.1007%2Fs43681-021-00108-6), Springer, October 27, 2021. |
 | 2021 | domain adaptation | conference paper | Mohammadreza Amirian, Javier A. Montoya-Zegarra, Jonathan Gruss, Yves D. Stebler, Ahmet Selman Bozkir, Marco Calandri, Friedhelm Schwenker, and Thilo Stadelmann. ["**PrepNet: A Convolutional Auto-Encoder to Homogenize CT Scans for Cross-Dataset Medical Image Analysis**"](https://stdm.github.io/downloads/papers/CISP_BMEI_2021.pdf). In: Proceedings of the 14th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (**CISP-BMEI'21**), Shanghai, China, 2021. |
-| 2021 | AI ethics | **journal paper** | Samuel Wehrli, Corinna Hertweck, Mohammadreza Amirian, Stefan Glüge, and Thilo Stadelmann. ["**Bias, awareness and ignorance in deep-learning-based face recognition**"](https://stdm.github.io/downloads/papers/AIEthics_2021.pdf). **AI and Ethics** (to appear), Springer, 2021. |
 | 2021 | teaching AI | **journal paper** | Thilo Stadelmann, Julian Keuzenkamp, Helmut Grabner, and Christoph Würsch. ["**The AI Atlas: Didactics for Teaching AI and Machine Learning On-Site, Online, and hybrid**"](https://www.mdpi.com/2227-7102/11/7/318/pdf). **Educ. Sci.** 2021, 11, 318, MDPI, Basel, Switzerland, June 25, 2021. |
 | 2021 | machine learning | conf. paper, **[best paper award](https://twitter.com/thilo_on_data/status/1402663898289950727)** | Evelyne Knapp, Mattia Battaglia, Thilo Stadelmann, Sandra Jenatsch, and Beat Ruhstaller. ["**XGBoost Trained on Synthetic Data to Extract Material Parameters of Organic Semiconductors**"](https://stdm.github.io/downloads/papers/SDS_2021b.pdf). In: Proceedings of the 8th Swiss Conference on Data Science (**SDS'21**), Lucerne, Switzerland, 2021. |
 | 2021 | robust deep learning | conf. paper | Niclas Simmler, Pascal Sager, Philipp Andermatt, Ricardo Chavarriaga, Frank-Peter Schilling, Matthias Rosenthal, and Thilo Stadelmann. ["**A Survey of Un-, Weakly-, and Semi-Supervised Learning Methods for Noisy, Missing and Partial Labels in Industrial Vision Applications**"](https://stdm.github.io/downloads/papers/SDS_2021a.pdf). In: Proceedings of the 8th Swiss Conference on Data Science (**SDS'21**), Lucerne, Switzerland, 2021. |
