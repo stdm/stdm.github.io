@@ -29,12 +29,16 @@ I try to make my main courses available as free online ressources as a best effo
 
 | **When** | **Level** | **Type** | **Title** |
 | --- | --- | --- | --- |
+| Spring 2022 | BSc | BA | Making AI Tangible: Building a Computer Vision Demonstrator on a Robotic Platform |
+| Spring 2022 | BSc | BA | Learning to Learn: Learning Successful Weight Patterns for Instant Deep Neural Network Training |
+| Fall 2021 | BSc | PA | Learning to Predict Chord Progression in Contemporary Music |
+| Fall 2021 | BSc | PA | Forschungs-PA: Continual Deep Learning for Visual Recognition |
 | Spring 2021 | MSc | VT1 | Exploiting Temporal Information in Speech using Deep Learning |
 | Spring 2021 | MSc | VT2 | Multimedia Retrieval using Vision Transformers |
 | Spring 2021 | MSc | MT | Towards Neural Active Scene Understanding in Real-World Scenarios by Exploiting Temporal Video Information |
-| Spring 2021 | MSc | MT @ HSLU | Deep LEarning with NOisy Image Labels in Real-World Computer Vision Applications |
-| Spring 2021 | BSc | BA | Neural Network-based Image Synthesis to Improve Automatic Segmentation of Medical Images for COVID |
-| Spring 2021 | BSc | BA | Transfer Learning of Deep Neural Network Representations of Brain Activity |
+| Spring 2021 | MSc | MT @ HSLU | Deep Learning with Noisy Image Labels in Real-World Computer Vision Applications |
+| Spring 2021 | BSc | BA | [**Neural Network-based Image Synthesis to Improve Automatic Segmentation of Medical Images for COVID**](https://stdm.github.io/downloads/papers/CISP_BMEI_2021.pdf) <br> _paper at CISP-BMEI 2021_ <br> Students: Jonathan Gruss and Yves D. Stebler |
+| Spring 2021 | BSc | BA | **Transfer Learning of Deep Neural Network Representations of Brain Activity** <br> _top grade_ <br> Students: Benjamin Bertalan and Gian Andri Hess |
 | Fall 2020 | PhD | Thesis @ Ca'Foscari / Venice | external examiner for "Using Contextual Information In Weakly Supervised Learning" |
 | Fall 2020 | BSc | PA | From human to artificial neural networks: Deep-learning based analysis of brain activity |
 | Spring 2020 | MSc | MT | Exploiting the Full Information of Varying-Length Utterances for DNN-Based Speaker Verification |
