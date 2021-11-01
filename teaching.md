@@ -66,7 +66,7 @@ I try to make my main courses available as free online ressources as a best effo
 | Fall 2017 | BSc | PA | Deep Learning Verfahren das Malen beibringen: Optimiertes Training für GANs |
 | Fall 2017 | BSc | PA | [**Deep Learning for Speaker Clustering**](https://github.com/stdm/ZHAW_deep_voice) <br> _public code repository_ <br> Students: Jan Sonderegger and Patrick Walter |
 | Fall 2017 | BSc | PA | Deep Learning-basierte Voice Conversion mittels problemspezifischer Loss-Funktion |
-| Fall 2017 | MSc | MT | [**Learning to Cluster**](https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf) <br> _top grade and paper at ANNPR 2018 and [Dr. Waldemar Jucker award 2018](https://www.gst.ch/aktivit%C3%A4ten/f%C3%B6rderpreis/)_ <br> Student: Benjamin Bruno Meier |
+| Fall 2017 | MSc | MT | [**Learning to Cluster**](https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf) <br> _top grade, paper at ANNPR 2018, and [Dr. Waldemar Jucker award 2018](https://www.gst.ch/aktivit%C3%A4ten/f%C3%B6rderpreis/)_ <br> Student: Benjamin Bruno Meier |
 | Fall 2017 | MSc | MT | Reinforcement Learning to Play 'Doom' |
 | Spring 2017 | MSc | VT2 | Deep Learning for End-to-End Voice Conversion - a Survey |
 | Spring 2017 | MSc | VT1 | Evaluating OMR Systems |
@@ -75,7 +75,7 @@ I try to make my main courses available as free online ressources as a best effo
 | Fall 2016 | BSc | PA | **Recurrent Neural Networks for Speaker Recognition** <br> _top grade_ <br> Student: Patrick Gerber |
 | Fall 2016 | BSc | PA | Pinball Wizard: Using Deep Reinforcement Learning to Train a Pinball Wizard |
 | Fall 2016 | BSc | PA | Deep OMR: New Ways for Optical Music Recognition |
-| Fall 2016 | MSc | VT1 | [**Fully Convolutional Neural Networks for newspaper Article Segmentation**](https://stdm.github.io/downloads/papers/ICPR_2017.pdf) <br> _top grade and paper at ICPR 2017_ <br> Student: Benjamin Bruno Meier |
+| Fall 2016 | MSc | VT1 | [**Fully Convolutional Neural Networks for newspaper Article Segmentation**](https://stdm.github.io/downloads/papers/ICDAR_2017.pdf) <br> _top grade and paper at ICDAR 2017_ <br> Student: Benjamin Bruno Meier |
 | Spring 2016 | MSc | VT1 | Reinforcement Learning for Building Control |
 | Spring 2016 | BSc | BA | **Instrumentenerkennung in Single-Source Audio Streams** <br> _top grade_ <br> Students: Yannick Streit & Leotrim Zulfio |
 | Spring 2016 | BSc | BA | [**Automatische Stimmerkennung mit Deep Learning (Neuronalen Netzen)**](https://stdm.github.io/downloads/papers/MLSP_2017.pdf) <br> _top grade and paper at MLSP 2017_ <br> Students: Yanick Xavier Lukic and Carlo Vogt |
