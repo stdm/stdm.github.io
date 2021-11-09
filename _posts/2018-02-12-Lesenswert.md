@@ -2,7 +2,7 @@
 layout: post
 title: Lesenswert
 date: 2018-02-12
-modified: 2020-12-14
+modified: 2021-11-09
 category: society, readings
 comments: true
 ---
@@ -10,6 +10,13 @@ comments: true
 This is a regularly updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title). Some might be after a paywall afte some time - sorry for that!
 
 <!-- more -->
+* [Kritisiertes Hinterzimmer, gelobte Basis?](https://www.zeit.de/politik/deutschland/2021-11/cdu-mitgliederbefragung-demokratie-grundfrage-verantwortung-personal-regierung) by Theo Sommer, Nov 09, 2021.
+
+  Subject: Fünf vor acht / CDU-Mitgliederbefragung
+  
+  Key words: elite vs. masses, average, representative democracy, personal responsibility
+  
+  Abstract: Die CDU kehrt sich von der repräsentativen Demokratie ab und will ihren Parteivorsitz direkt von ihren Mitgliedern bestimmen lassen. Eine fragwürdige Entscheidung.
 
 * [Can you say...Hero?](https://www.esquire.com/entertainment/tv/a27134/can-you-say-hero-esq1198/) by Tom Junod / Esquire, November, 1998.
 
