@@ -10,6 +10,15 @@ comments: true
 This is a regularly updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title). Some might be after a paywall afte some time - sorry for that!
 
 <!-- more -->
+* [Haben wir nichts gelernt?](https://www.zeit.de/kultur/2021-11/corona-krise-winter-coronapolitik-wissenschaft-2g-regel/komplettansicht) by Armin Nassehi, Nov 15, 2021.
+
+	Subject: Corona-Krise
+	
+	Key words: soziologie, elitenkritik, antizyklische (keynesianische) politik, Zivilgesellschaft als Grund exekutiven Versagens, ähnlichkeit kritischer milieus 70er vs. 2020er, "Institutionalisierung organisierter Routinen bei gleichzeitiger Vermeidung von zu viel Kommunikation"
+	
+	Abstract: Der deutsche Corona-Winter wiederholt sich. Die Antworten, wie das hätte verhindert werden können, sind so klar wie die Gründe, warum es wieder nicht geklappt hat.
+
+
 * [Kritisiertes Hinterzimmer, gelobte Basis?](https://www.zeit.de/politik/deutschland/2021-11/cdu-mitgliederbefragung-demokratie-grundfrage-verantwortung-personal-regierung) by Theo Sommer, Nov 09, 2021.
 
   Subject: Fünf vor acht / CDU-Mitgliederbefragung
