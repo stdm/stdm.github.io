@@ -34,9 +34,9 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
   * Invited talk at [Handelsblatt Industriegipfel](https://veranstaltungen.handelsblatt.com/industrie/) on **"Wie man die Angst vor künstlicher Intelligenz verliert, das Team glücklich macht und trotzdem auf KI setzt"**, online, December 09, 2021
 
-  * Talk on **Deep-learning-based speaker recognition and the problem of modeling time-based features** at Sonova "Machine Learning and Data Analytics" Community of Practice, online, December 09, 2021
+  * Talk on **"Deep-learning-based speaker recognition and the problem of modeling time-based features"** at Sonova "Machine Learning and Data Analytics" Community of Practice, online, December 09, 2021
 
-  * Invited lecture on **"Deep-learning-based speaker recognition"** at Univerity of Zurich's Departement of Computational Linguistics, Lecture Series on Speech and Text Technologies, Zurich, Switzerland, November 29, 2021
+  * Invited lecture on [**"Deep learning based speaker recognition and the problem of modeling supra segmental temporal features"**](https://stdm.github.io/downloads/talks/2021-11-29_DL-based-speaker-recognition.pdf) at Univerity of Zurich's Departement of Computational Linguistics, Lecture Series on Speech and Text Technologies, Zurich, Switzerland, November 29, 2021
   
   * Talk on [**"Lessons Learned Today for AI of Tomorrow"**](https://stdm.github.io/downloads/talks/2021-10-01_Lessons-Learned-Today-for-AI-of-Tomorrow.pdf) at PwC Data Analytics All Hands Meeting, online, October 01, 2021
   
