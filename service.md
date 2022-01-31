@@ -22,7 +22,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 #### 2022
 
-  * Invited talk [House of Winterthur Dunnstig-Lunch](https://winterthur.com/de/map/detail/dunnstigs-lunch-mit-thilo-stadelmann-zentrum-fuer-kuenstl-intelligenz-fe08c971-e8fe-4d26-aa3a-7c4c1930aab3.html), Winterthur, Switzerland, December 01, 2022
+  * Invited talk at [House of Winterthur Dunnstig-Lunch](https://winterthur.com/de/map/detail/dunnstigs-lunch-mit-thilo-stadelmann-zentrum-fuer-kuenstl-intelligenz-fe08c971-e8fe-4d26-aa3a-7c4c1930aab3.html), Winterthur, Switzerland, December 01, 2022
 
   * Invited talk on **"Blessings of Digitalization"** at [KbA Konferenz 2022](https://www.kbaonline.de/), Burbach-Holzhausen, Germany, November 18, 2022
 

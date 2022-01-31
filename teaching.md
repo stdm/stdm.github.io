@@ -32,7 +32,7 @@ I try to make my main courses available as free online ressources as a best effo
 | Spring 2022 | BSc | BA | Making AI Tangible: Building a Computer Vision Demonstrator on a Robotic Platform |
 | Spring 2022 | BSc | BA | Learning to Learn: Learning Successful Weight Patterns for Instant Deep Neural Network Training |
 | Fall 2021 | MAS | Thesis | Similarity Analysis of Jazz Tunes with Vector Space Models |
-| Fall 2021 | MAS | Thesis | Confidence-rated Predictions with Deep Learning for Music Object Detection |
+| Fall 2021 | MAS | Thesis | Confidence-Rated Predictions with Deep Learning for Music Object Detection |
 | Fall 2021 | MSc | VT2 | End-to-End Pipeline for Body Composition Analysis and Sarcopenia Detection without Target Labels |
 | Fall 2021 | BSc | PA | Learning to Predict Chord Progression in Contemporary Music |
 | Fall 2021 | BSc | PA | Forschungs-PA: Continual Deep Learning for Visual Recognition |
