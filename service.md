@@ -22,15 +22,25 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 #### 2022
 
+  * Invited talk [House of Winterthur Dunnstig-Lunch](https://winterthur.com/de/map/detail/dunnstigs-lunch-mit-thilo-stadelmann-zentrum-fuer-kuenstl-intelligenz-fe08c971-e8fe-4d26-aa3a-7c4c1930aab3.html), Winterthur, Switzerland, December 01, 2022
+
+  * Invited talk on **"Blessings of Digitalization"** at [KbA Konferenz 2022](https://www.kbaonline.de/), Burbach-Holzhausen, Germany, November 18, 2022
+
+  * Guest lecture on **"Smart Government"** at University of Bern, Executive Master of Public Administration, November 12, 2022
+
   * Invited talk at [House of Winterthur](https://houseofwinterthur.ch/de/) Dunschtig Lunch, Winterthur, Switzerland, December 01, 2022
 
+  * Guest lecture on **"Hybride Bedrohungen aus Sicht von Cyberwar: Sicherheitsrelevante Aspekte von KI"** at Carl Remigius Medical School, M.Sc. Crisis and Emergency Management, April 08, 2022
+
   * Distinguished lecture at the University of Engineering & Management (online), Kolkata, India, April 07, 2022
+  
+  * Invited talk at [AMLD AI & Mobility Track](https://appliedmldays.org/events/amld-epfl-2022/tracks/ai-mobility), Applied Machine Learning Days 2022, EPFL Lausanne, Switzerland, March 29, 2022
+  
+  * Invited talk at the Colloquium of the [Institute of Neuroinformatics UZH/ETH](https://www.ini.uzh.ch/en.html), Zurich, Switzerland, March 18, 2022
 
   * Invited talk at [Rotary](www.rotary.ch) Illnau-Effretikon on **"Der Einsatz von künstlicher Intelligenz (KI)"**, Illnau, Switzerland, February 11, 2022
 
 #### 2021
-
-  * Guest lecture on **"Hybride Bedrohungen aus Sicht von Cyberwar: Sicherheitsrelevante Aspekte von KI"** at Carl Remigius Medical School, M.Sc. Crisis and Emergency Management, December 18, 2021
 
   * Invited talk at [Handelsblatt Industriegipfel](https://veranstaltungen.handelsblatt.com/industrie/) on **"Wie man die Angst vor künstlicher Intelligenz verliert, das Team glücklich macht und trotzdem auf KI setzt"**, online, December 09, 2021
 
