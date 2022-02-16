@@ -29,6 +29,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * Guest lecture on **"Smart Government"** at University of Bern, Executive Master of Public Administration, November 12, 2022
 
   * Invited talk at [House of Winterthur](https://houseofwinterthur.ch/de/) Dunschtig Lunch, Winterthur, Switzerland, December 01, 2022
+  
+  * Invited talk on Biometrics at [Datenschutzforum Schweiz](https://www.datenschutz-forum.ch/), Bern, Switzerland, June 30, 2022
 
   * Guest lecture on **"Hybride Bedrohungen aus Sicht von Cyberwar: Sicherheitsrelevante Aspekte von KI"** at Carl Remigius Medical School, M.Sc. Crisis and Emergency Management, April 08, 2022
 
