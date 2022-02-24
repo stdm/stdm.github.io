@@ -19,7 +19,7 @@ They felt no urgency at all. They forgot video call etiquette completely while d
 
 The low point came with our church's organizational meetings for a "Love After Marriage" seminar. My wife and I volunteered as small group leaders. While I was looking to end the last of a long day of meetings efficiently, most of the participants thoroughly enjoyed seeing each other on the screen, making what could have been discussed in a mere 20 minutes a conversation for an entire evening.
 
-I was angry with the lack of chairing skills of the main leaders; I couldn't help voicing my opinion when others in the church asked how I was doing ("Fine – but this xyz group's organization is driving me crazy...").
+I was angry with the lack of chairing skills of the main leaders; I couldn't help voicing my opinion when others in the church asked how I was doing ("Fine - but this xyz group's organization is driving me crazy...").
 
 The weekend of the seminar came, and from the minute it started, I forgot all the lack of organization and preparation that I had sensed before. We enjoyed a wonderful weekend in which the Holy Spirit worked powerfully in the hearts of the husbands and wives in our group - including ours. One couple was close to breaking up. When the seminar began, they could barely stand the presence of the other spouse in the same room. By the end of the weekend, God had healed many wounds, and they enjoyed each other's company again.
 
