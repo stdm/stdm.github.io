@@ -2,12 +2,14 @@
 title: Natural and Spiritual Efficiency
 layout: post
 date: 2022-02-23
-modified: 2022-02-23
+modified: 2022-02-24
 category: spirituality, faith, buisness-goggles, leadership, efficiency
 comments: true
 ---
 
 After the COVID-19-induced shift to home offices last year, I, an ardent advocate of on-site teaching and networking, quickly began appreciating the efficiency that working from a home office offers.
+
+<!-- more -->
 
 No longer did I lose time commuting between rooms and campuses. No more random hallway chats that eat up time during the day. Officing at home gave me a 20-30 percent boost in efficiency that directly translated into increased (research) output. 
 
