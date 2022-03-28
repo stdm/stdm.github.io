@@ -2,7 +2,7 @@
 layout: post
 title: Lesenswert
 date: 2018-02-12
-modified: 2021-11-16
+modified: 2022-03-28
 category: society, readings
 comments: true
 ---
@@ -10,6 +10,14 @@ comments: true
 This is a regularly updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title). Some might be after a paywall afte some time - sorry for that!
 
 <!-- more -->
+* [Die Panik vor den Rettern](https://www.zeit.de/kultur/2022-03/fridays-for-future-klimastreik-klimabewegung-klimawandel/komplettansicht) by Sven Hillenkamp, Mar 25, 2022.
+
+	Subject: Fridays for Future
+	
+	Key words: left politics, identity politics, climate politics, environmental policy, radicality, connectivity
+	
+	Abstract: Viele Menschen haben mehr Angst vor den Klimaschützern als vor der Klimakatastrophe. Warum? Unser Autor ist Teil der Klimabewegung und warnt sie vor ihrem Scheitern.
+
 * [Haben wir nichts gelernt?](https://www.zeit.de/kultur/2021-11/corona-krise-winter-coronapolitik-wissenschaft-2g-regel/komplettansicht) by Armin Nassehi, Nov 15, 2021.
 
 	Subject: Corona-Krise
@@ -17,7 +25,6 @@ This is a regularly updated collection of links to valuable reads from non-techn
 	Key words: soziologie, elitenkritik, antizyklische (keynesianische) politik, Zivilgesellschaft als Grund exekutiven Versagens, ähnlichkeit kritischer milieus 70er vs. 2020er, "Institutionalisierung organisierter Routinen bei gleichzeitiger Vermeidung von zu viel Kommunikation"
 	
 	Abstract: Der deutsche Corona-Winter wiederholt sich. Die Antworten, wie das hätte verhindert werden können, sind so klar wie die Gründe, warum es wieder nicht geklappt hat.
-
 
 * [Kritisiertes Hinterzimmer, gelobte Basis?](https://www.zeit.de/politik/deutschland/2021-11/cdu-mitgliederbefragung-demokratie-grundfrage-verantwortung-personal-regierung) by Theo Sommer, Nov 09, 2021.
 
