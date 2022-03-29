@@ -36,7 +36,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
   * Distinguished lecture at the University of Engineering & Management (online), Kolkata, India, April 07, 2022
   
-  * Invited talk at [AMLD AI & Mobility Track](https://appliedmldays.org/events/amld-epfl-2022/tracks/ai-mobility), Applied Machine Learning Days 2022, EPFL Lausanne, Switzerland, March 29, 2022
+  * Invited talk on "Lessons Learned from Watching Machines Learn" at [AMLD AI & Mobility Track](https://appliedmldays.org/events/amld-epfl-2022/tracks/ai-mobility), Applied Machine Learning Days 2022, EPFL Lausanne, Switzerland, March 29, 2022
   
   * Invited talk on [**"Addressing scientific debt in deep learning research: 4 aspects of our neural nets that made us wonder, and what we learned"**](https://stdm.github.io/downloads/talks/2022-03-18_Scientific-debt-wonder.pdf) at the Colloquium of the [Institute of Neuroinformatics UZH/ETH](https://www.ini.uzh.ch/en.html), Zurich, Switzerland, March 18, 2022
 
