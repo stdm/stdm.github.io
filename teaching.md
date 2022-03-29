@@ -29,16 +29,18 @@ I try to make my main courses available as free online ressources as a best effo
 
 | **When** | **Level** | **Type** | **Title** |
 | --- | --- | --- | --- |
+| Spring 2022 | MSc | VT1 | BMI Prediction from CT Scans |
 | Spring 2022 | BSc | BA | Making AI Tangible: Building a Computer Vision Demonstrator on a Robotic Platform |
 | Spring 2022 | BSc | BA | Learning to Learn: Learning Successful Weight Patterns for Instant Deep Neural Network Training |
+| Spring 2022 |MSc | MT | Leveraging Neuroscience for Deep Learning Based Object Recognition |
+| Fall 2022 | MSc | MT | Entropy-Aware Active Vision through Voxelized Octree Exploration of 3D Scenes |
 | Fall 2021 | MAS | Thesis | Similarity Analysis of Jazz Tunes with Vector Space Models |
 | Fall 2021 | MAS | Thesis | Confidence-Rated Predictions with Deep Learning for Music Object Detection |
 | Fall 2021 | MSc | VT2 | End-to-End Pipeline for Body Composition Analysis and Sarcopenia Detection without Target Labels <br> _top grade_ <br> Student: Pascal Sager |
-| Fall 2021 | BSc | PA | Learning to Predict Chord Progression in Contemporary Music |
+| Fall 2021 | BSc | PA | Universal Songbook: Real Time Chord Prediction from Live Audio |
 | Fall 2021 | BSc | PA | Forschungs-PA: Continual Deep Learning for Visual Recognition |
 | Spring 2021 | MSc | VT1 | Exploiting Temporal Information in Speech using Deep Learning |
 | Spring 2021 | MSc | VT2 | Multimedia Retrieval using Vision Transformers |
-| Spring 2021 | MSc | MT | Towards Neural Active Scene Understanding in Real-World Scenarios by Exploiting Temporal Video Information |
 | Spring 2021 | MSc | MT @ HSLU | Deep Learning with Noisy Image Labels in Real-World Computer Vision Applications |
 | Spring 2021 | BSc | BA | [**Neural Network-based Image Synthesis to Improve Automatic Segmentation of Medical Images for COVID**](https://stdm.github.io/downloads/papers/CISP_BMEI_2021.pdf) <br> _paper at CISP-BMEI 2021_ <br> Students: Jonathan Gruss and Yves D. Stebler |
 | Spring 2021 | BSc | BA | **Transfer Learning of Deep Neural Network Representations of Brain Activity** <br> _top grade_ <br> Students: Benjamin Bertalan and Gian Andri Hess |
