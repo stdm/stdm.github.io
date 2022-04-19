@@ -265,7 +265,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * Panelist at the **AI Applied to Structured Data** workshop, 
     IBM Research, Rüschlikon, Switzerland, April 11, 2018
 
-  * [**Was kann Künstliche Intelligenz leisten?**](https://stdm.github.io/downloads/talks/2018-03-02_Was_kann_KIas_kann_KI_leisten.pdf) 
+  * [**Was kann Künstliche Intelligenz leisten?**](https://stdm.github.io/downloads/talks/2018-03-02_Was_kann_KI_leisten.pdf) 
     Key note at [CAS Digitale Transformation und Innovation](https://weiterbildung.zhaw.ch/de/school-of-management-and-law/programm/cas-digitale-technologien-und-innovation.html), Winterthur, Switzerland, March 02, 2018
 
   * **Science Talk** & **Wie denken denkende Maschinen?**
