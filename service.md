@@ -59,7 +59,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
   * Invited talk on [**"Deep Learning fuer Dokumentenanalyse"**](https://stdm.github.io/downloads/talks/2021-03-25_DeepLearning-Dokumentenanalyse.pdf) at the **ETH Bibliothek Kolloquium**, Zurich, Switzerland, March 25, 2021
   
-  * Impulsreferat on **"AI Essentials** at **Noser Engineering"**, Winterthur, Switzerland, January 19, 2021
+  * Impulsreferat on **"AI Essentials"** at **Noser Engineering**, Winterthur, Switzerland, January 19, 2021
 
 #### 2020
 
