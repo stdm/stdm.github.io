@@ -31,8 +31,6 @@ The group has very diverse backgrounds, which helps us complement each other's s
   
   * [Dr. Ricardo Chavarriaga](https://scholar.google.com/citations?user=ZU1fTMYAAAAJ&hl=en), senior researcher & head of CLAIRE office Zurich: B.Sc. electronics engineering (Pontificia Universidad Javeriana, Columbia), graduate school in computer/communication/information science (EPFL), PhD neuroscience (EPFL), Postdoc neuroscience/brain-computer interfaces (EPFL & IDIAP)
   
-  * [Dr. Javier Montoya](https://scholar.google.de/citations?user=5cpeK3MAAAAJ&hl=en), senior researcher: B.Sc. computer engineering (UCSP, Arequipa, Peru), M.Sc. computer science (Unicamp, Sao Paulo, Brazil), M.Sc. computer science (ENSIMAG, Grenoble, France), PhD computer vision and machine learning (ETHZ), Postdoc biomedical engineering (ETHZ), focusing on deep learning and medical imaging
-  
   * [Lukas Tuggener](https://tuggeluk.github.io/), PhD student: B.Sc. (ZHAW) in industrial engineering, M.Sc. (ETH) in statistics, doctorate in conjunction with [Juergen Schmidhuber](http://people.idsia.ch/~juergen/) of the University of Lugano / Switzerland
   
   * [Mohammadreza Amirian](https://www.zhaw.ch/en/about-us/person/amir/), PhD student: B.Sc. (U. Shiraz) & M.Sc. (U. Ulm) in electrical engineering, doctorate in conjunction with [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/institut/hidden/f-schwenker/) of Ulm University / Germany
@@ -49,6 +47,8 @@ The group has very diverse backgrounds, which helps us complement each other's s
   
     
 Our Alumni are:
+
+  * [Dr. Javier Montoya](https://scholar.google.de/citations?user=5cpeK3MAAAAJ&hl=en), B.Sc. computer engineering (UCSP, Arequipa, Peru), M.Sc. computer science (Unicamp, Sao Paulo, Brazil), M.Sc. computer science (ENSIMAG, Grenoble, France), PhD computer vision and machine learning (ETHZ), now senior lecturer with Lucerne University of Applied Sciences
 
   * Stefan Huschauer: B.Sc. computer science (ETH & ZHAW), M.Sc. (ZHAW), now with Noimos, an AXA insuretech company
 
@@ -210,6 +210,7 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 | Year | Tag | Type| Publication |
 | --- | --- | --- | --- |
+| 2022 | medical imaging | abstract | Ivo Herzig, Pascal Paysan, Stefan Scheib, Frank-Peter Schilling, Javier Montoya, Mohammadreza Amirian, Thilo Stadelmann, Peter Eggenberger, Rudolf M. Fuechslin, and Lukas Lichtensteiger. "**Deep LEarning-Based Simultaneous Multi-Phase Deformable Image Registration of Sparse 4D-CBCT**". In: Proceedings of the American Association of Physics in Medicine Annual Meeting (**AAPM'22**), Washington, DC, USA, July 10-14, 2022.  |
 | 2022 | data science | **journal paper** | Thilo Stadelmann, Tino Klamt, and Philipp H. Merkt. ["**Data Centrism and the Core of Data Science as a Scientific Discipline**"](https://stdm.github.io/downloads/papers/AoDSA_2022a.pdf). **Archives of Data Science, Series A**, accepted for publication, March 2022. |
 | 2021 | AI ethics | **journal paper** | Samuel Wehrli, Corinna Hertweck, Mohammadreza Amirian, Stefan Glüge, and Thilo Stadelmann. ["**Bias, awareness and ignorance in deep-learning-based face recognition**"](https://stdm.github.io/downloads/papers/AIEthics_2021.pdf). **AI and Ethics**, DOI [10.1007/s43681-021-00108-6](https://link.springer.com/article/10.1007%2Fs43681-021-00108-6), Springer, October 27, 2021. |
 | 2021 | domain adaptation | conference paper | Mohammadreza Amirian, Javier A. Montoya-Zegarra, Jonathan Gruss, Yves D. Stebler, Ahmet Selman Bozkir, Marco Calandri, Friedhelm Schwenker, and Thilo Stadelmann. ["**PrepNet: A Convolutional Auto-Encoder to Homogenize CT Scans for Cross-Dataset Medical Image Analysis**"](https://stdm.github.io/downloads/papers/CISP_BMEI_2021.pdf). In: Proceedings of the 14th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (**CISP-BMEI'21**), Shanghai, China, 2021. |
