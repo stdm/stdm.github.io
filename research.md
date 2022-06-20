@@ -27,8 +27,6 @@ The group has very diverse backgrounds, which helps us complement each other's s
   
   * Prof. Dr. Thilo Stadelmann, team lead: Diplom (THM) & PhD (U. Marburg) in computer science; I come from the tradition of the field of **artificial intelligence**, and my tool is **machine learning**. My research interest is to discover and understand how smart behaviour can be evoked through self-learning, including practical (robustness, generalization) and ethical (algorithmic bias) side effects. 
   
-  * [Dr. Frank-Peter Schilling](http://www.fp-schilling.de), senior researcher: Diplom & PhD (U. Heidelberg) in physics, PostDoc at CERN
-  
   * [Dr. Ricardo Chavarriaga](https://scholar.google.com/citations?user=ZU1fTMYAAAAJ&hl=en), senior researcher & head of CLAIRE office Zurich: B.Sc. electronics engineering (Pontificia Universidad Javeriana, Columbia), graduate school in computer/communication/information science (EPFL), PhD neuroscience (EPFL), Postdoc neuroscience/brain-computer interfaces (EPFL & IDIAP)
   
   * [Lukas Tuggener](https://tuggeluk.github.io/), PhD student: B.Sc. (ZHAW) in industrial engineering, M.Sc. (ETH) in statistics, doctorate in conjunction with [Juergen Schmidhuber](http://people.idsia.ch/~juergen/) of the University of Lugano / Switzerland
@@ -45,8 +43,16 @@ The group has very diverse backgrounds, which helps us complement each other's s
   
   * [Adhiraj Ghosh](https://www.linkedin.com/in/adhiraj-ghosh/), research intern: B.Tech. in electrical & electronics engineering (Manipal Institute of Technology), focusing on computer vision and object detection
   
+  * [Sydney M. Nguyen](https://www.linkedin.com/in/sydney-nguyen-117987180/), M.Sc. student: B.Sc. in computer science (ZHAW)
+  
+  * [Beata Baczynska](https://www.linkedin.com/in/beata-baczynska/), IASETE intern: M.Sc. in computer science & AI (Poznan Unversity of Technology, Poland)
+  
+  * [Livia Luescher](https://www.linkedin.com/in/livia-l%C3%BCscher-72aaaa139/), M.Sc. student: B.Sc. in business administration with honors (HWZ Zurich)
+  
     
 Our Alumni are:
+
+  * [Dr. Frank-Peter Schilling](http://www.fp-schilling.de) Diplom & PhD (U. Heidelberg) in physics, PostDoc at CERN, now senior lecturer at ZHAW Centre for AI
 
   * [Dr. Javier Montoya](https://scholar.google.de/citations?user=5cpeK3MAAAAJ&hl=en), B.Sc. computer engineering (UCSP, Arequipa, Peru), M.Sc. computer science (Unicamp, Sao Paulo, Brazil), M.Sc. computer science (ENSIMAG, Grenoble, France), PhD computer vision and machine learning (ETHZ), now senior lecturer with Lucerne University of Applied Sciences
 
