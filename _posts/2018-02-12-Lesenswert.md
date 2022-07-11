@@ -2,14 +2,31 @@
 layout: post
 title: Lesenswert
 date: 2018-02-12
-modified: 2022-03-28
+modified: 2022-07-11
 category: society, readings
 comments: true
 ---
 
-This is a regularly updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title). Some might be after a paywall afte some time - sorry for that!
+This is an occasionally updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title). Some might be after a paywall afte some time - sorry for that!
 
 <!-- more -->
+
+* ["Soziale Medien sind besonders schlecht für linke Bewegungen"](https://www.zeit.de/kultur/2022-07/gal-beckerman-soziale-medien/komplettansicht) by Maja Beckers, July 09, 2022.
+
+	Subject: Gal Beckerman
+	
+	Key words: social media, (political / societal) movements, moral indignation vs. sustainable change, skill lost to push a cause through
+	
+	Abstract: Politischer Aktivismus ist laut und sichtbar in sozialen Medien – und verpufft oft wirkungslos. Der Publizist Gal Beckerman hat untersucht, warum das so ist.
+
+* [Wissenschaftsministerin kritisiert Universität nach Vortragsabsage](https://www.zeit.de/gesellschaft/2022-07/berlin-humboldt-universitaet-vortrag-marie-luise-vollbrecht-transfeindlichkeit) by ZEIT ONLINE, Jul 03, 2022.
+
+	Subject: Humboldt-Universität zu Berlin
+	
+	Key words: science, keeping freedom of speech, protest ready to use violence, biology, transgender, Humboldth University vs. Minister of Science
+	
+	Asbtract: Bildungsministerin Stark-Watzinger hat sich zur Absage eines umstrittenen Gender-Vortrags durch die Humboldt-Universität geäußert. Wissenschaft lebe von Debatte, hieß es.
+
 * [Die Panik vor den Rettern](https://www.zeit.de/kultur/2022-03/fridays-for-future-klimastreik-klimabewegung-klimawandel/komplettansicht) by Sven Hillenkamp, Mar 25, 2022.
 
 	Subject: Fridays for Future
