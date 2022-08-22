@@ -37,12 +37,8 @@ The group has very diverse backgrounds, which helps us complement each other's s
   
   * [Raphael Emberger](https://www.linkedin.com/in/raphael-emberger-206015bb), research assistant & M.Sc. student: B.Sc. computer science (ZHAW), focusing on deep learning and object detection
   
-  * [Claude Olivier Lehmann](https://www.zhaw.ch/en/about-us/person/lehl/), M.Sc. student: B.Sc. computer science (ZHAW), focusing on deep learning
-  
   * [Sebastian Salzmann](https://www.linkedin.com/in/sebastian-salzmann-8214b911b), M.Sc. student: B.Sc. biology (ETH) & M.Sc. molecular health sciences (ETH), focusing on deep learning
-  
-  * [Adhiraj Ghosh](https://www.linkedin.com/in/adhiraj-ghosh/), research intern: B.Tech. in electrical & electronics engineering (Manipal Institute of Technology), focusing on computer vision and object detection
-  
+    
   * [Sydney M. Nguyen](https://www.linkedin.com/in/sydney-nguyen-117987180/), M.Sc. student: B.Sc. in computer science (ZHAW)
   
   * [Beata Baczynska](https://www.linkedin.com/in/beata-baczynska/), IASETE intern: M.Sc. in computer science & AI (Poznan Unversity of Technology, Poland)
@@ -52,6 +48,10 @@ The group has very diverse backgrounds, which helps us complement each other's s
     
 Our Alumni are:
 
+  * [Adhiraj Ghosh](https://www.linkedin.com/in/adhiraj-ghosh/), B.Tech. (Manipal Institute of Technology), research intern 2021/22 (ZHAW), now M.Sc. student at Tübingen University
+
+  * [Claude Olivier Lehmann](https://www.zhaw.ch/en/about-us/person/lehl/), M.Sc. and B.Sc. (ZHAW), now PhD student with Prof. Kurt Stockinger of ZHAW InIT
+  
   * [Dr. Frank-Peter Schilling](http://www.fp-schilling.de) Diplom & PhD (U. Heidelberg) in physics, PostDoc at CERN, now senior lecturer at ZHAW Centre for AI
 
   * [Dr. Javier Montoya](https://scholar.google.de/citations?user=5cpeK3MAAAAJ&hl=en), B.Sc. computer engineering (UCSP, Arequipa, Peru), M.Sc. computer science (Unicamp, Sao Paulo, Brazil), M.Sc. computer science (ENSIMAG, Grenoble, France), PhD computer vision and machine learning (ETHZ), now senior lecturer with Lucerne University of Applied Sciences
@@ -216,6 +216,8 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 | Year | Tag | Type| Publication |
 | --- | --- | --- | --- |
+| 2022 | medical imaging | **journal paper**| Pascal Sager, Sebastian Salzmann, Felice Burn, and Thilo Stadelmann. ["**Unsupervised Domain Adaptation for Vertebrae Detection and Identification in 3D CT Volumes Using a Domain Sanity Loss**"](https://www.mdpi.com/2313-433X/8/8/222/pdf). **J. Imaging** 2022, 8(8), 222, MDPI, Basel, Switzerland.|
+| 2022 | neuroscience | conference abstract | Christoph von der Malsburg, Benjamin F. Grewe, and Thilo Stadelmann. ["**Making Sense of the Natural Environment**"](https://stdm.github.io/downloads/papers/KogWis_2022.pdf). Proceedings of the **"KogWis 2022 - Understanding Minds"	** Biannual Conference of the German Cognitive Science Society, Freiburg, Germany, September 5-7, 2022. |
 | 2022 | data science | **journal paper** | Frank-Peter Schilling, Dandolo Flumini, Rudolf M. Füchslin, Elena Gavagnin, Armando Geller, Silvia Quarteroni and Thilo Stadelmann. ["**Foundations of Data Science: A Comprehensive Overview Formed at the 1st International Symposium on the Science of Data Science**"](https://stdm.github.io/downloads/papers/AoDSA_2022b.pdf). **Archives of Data Science, Series A 8(2)**, accepted for publication, 2022. |
 | 2022 | medical imaging | abstract | Ivo Herzig, Pascal Paysan, Stefan Scheib, Frank-Peter Schilling, Javier Montoya, Mohammadreza Amirian, Thilo Stadelmann, Peter Eggenberger, Rudolf M. Fuechslin, and Lukas Lichtensteiger. "**Deep Learning-Based Simultaneous Multi-Phase Deformable Image Registration of Sparse 4D-CBCT**". In: Proceedings of the American Association of Physics in Medicine Annual Meeting (**AAPM'22**), Washington, DC, USA, July 10-14, 2022.  |
 | 2022 | data science | **journal paper** | Thilo Stadelmann, Tino Klamt, and Philipp H. Merkt. ["**Data Centrism and the Core of Data Science as a Scientific Discipline**"](https://stdm.github.io/downloads/papers/AoDSA_2022a.pdf). **Archives of Data Science, Series A 8(2)**, pp.1-16, April 2022. |
