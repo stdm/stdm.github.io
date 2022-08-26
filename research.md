@@ -8,7 +8,7 @@ This page is dedicated to the research of me and my group. My academic profile i
 
 ### TOC
 1. [The group](#group)
-2. [Recent work](#recent)
+2. [Research examples](#work)
 3. [Collaborations](#collaborations)
 4. [Publications](#publications)
 
@@ -41,7 +41,7 @@ The group has very diverse backgrounds, which helps us complement each other's s
     
   * [Sydney M. Nguyen](https://www.linkedin.com/in/sydney-nguyen-117987180/), M.Sc. student: B.Sc. in computer science (ZHAW)
   
-  * [Beata Baczynska](https://www.linkedin.com/in/beata-baczynska/), IASETE intern: M.Sc. in computer science & AI (Poznan Unversity of Technology, Poland)
+  * [Beata Baczynska](https://www.linkedin.com/in/beata-baczynska/), IAESTE intern: M.Sc. in computer science & AI (Poznan Unversity of Technology, Poland)
   
   * [Livia Luescher](https://www.linkedin.com/in/livia-l%C3%BCscher-72aaaa139/), M.Sc. student: B.Sc. in business administration with honors (HWZ Zurich)
   
@@ -81,29 +81,32 @@ Our Alumni are:
 &nbsp;
   
  
-<a name="recent"></a>
-## Recent work
+<a name="work"></a>
+## Research examples
 
 1. [Robust and practical deep learning](#robust)
-2. [Learning to learn](#l2l)
-3. [Optical music recognition (OMR)](#OMR)
-4. [Voice recognition](#voice)
-5. [Data science](#datascience)
+2. [Industrial Computer Vision](#industrial)
+3. [Medical Imaging](#medical)
+4. [More General AI](#general)
+5. [Trustworthy AI](#trust)
+6. [Learning to learn](#l2l)
+7. [Document Recognition](#documents)
+8. [Voice recognition](#voice)
+9. [Data science](#datascience)
 
 <a name="robust"></a>
 ### Robust and practical deep learning
 
-Deep learning has reached the [point of practical applicability](https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf) in solving day-to-day tasks in many non-AI businesses, for instance manufacturing SMEs. Specific challenges arise and are tackled in our [applied research projects](http://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf), ranging from data quality and quantity issues to higher requirements on robustness and resilience of the models. For instance, segmenting newspaper pages into articles that semantically belong together is a necessary prerequisite for article-based information retrieval on print media collections like e.g. archives and libraries. It is challenging due to vastly differing layouts of papers, various content types and different languages, but commercially very relevant for e.g. media monitoring.
-
 [<img alt="Examples of automatic segmentation" src="http://stdm.github.io/images/article_segmentation.jpg"/>](http://stdm.github.io/images/article_segmentation.jpg)
-
-We have developed a [semantic segmentation approach](http://stdm.github.io/downloads/papers/ICDAR_2017.pdf) based on the visual appearance of each page. We apply a fully convolutional neural network (FCN) that we train in an end-to-end fashion to transform the input image into a segmentation mask in one pass. We show experimentally that the FCN performs very well: it outperforms a deep learning-based commercial solution by a large margin in terms of segmentation quality while in addition being computationally two orders of magnitude more efficient. The whole system is trained with only 5,500 images of which less than 500 are fully labeled.
-
 [<img alt="Newspaper article segmentation architecture" src="http://stdm.github.io/images/fcnn_architecture.jpg"/>](http://stdm.github.io/images/fcnn_architecture.jpg)
 
-Additionally, the existence of adversarial attacks on convolutional neural networks (CNN) questions the fitness of such models for serious applications. Such attacks manipulate an input image such that misclassification is evoked while still looking normal to a human observer - they are thus not easily detectable. In a different context, backpropagated activations of CNN hidden layers - "feature responses" to a given input - have been helpful to visualize for a human "debugger" what the CNN "looks at" while computing its output. We have proposed a novel [detection method for adversarial examples](http://stdm.github.io/downloads/papers/ANNPR_2018c.pdf) to prevent attacks. We do so by tracking adversarial perturbations in feature responses, allowing for automatic detection using average local spatial entropy. The method does not alter the original network architecture and is fully human-interpretable. Experiments confirm the validity of our approach for state-of-the-art attacks on large-scale models trained on ImageNet.
+Deep learning has long reached the [point of practical applicability](https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf) in solving day-to-day tasks in many non-AI businesses, for instance manufacturing SMEs. Specific challenges arise and are tackled in our [applied research projects](http://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf), ranging from data quality and quantity issues to higher requirements on robustness and resilience of the models. For instance, segmenting newspaper pages into articles that semantically belong together is a necessary prerequisite for article-based information retrieval on print media collections like e.g. archives and libraries. It is challenging due to vastly differing layouts of papers, various content types and different languages, but commercially very relevant for e.g. media monitoring.
+
+Here, we have developed a [semantic segmentation approach](http://stdm.github.io/downloads/papers/ICDAR_2017.pdf) based on the visual appearance of each page. We apply a fully convolutional neural network (FCN) that we train in an end-to-end fashion to transform the input image into a segmentation mask in one pass. We show experimentally that the FCN performs very well: it outperforms a deep learning-based commercial solution by a large margin in terms of segmentation quality while in addition being computationally two orders of magnitude more efficient. The whole system is trained with only 5,500 images of which less than 500 are fully labeled.
 
 [<img alt="Detecting adversarial examples using local spatial entropy on feature response maps" src="http://stdm.github.io/images/adversarial_detection.jpg"/>](http://stdm.github.io/images/adversarial_detection.jpg)
+
+At the same time, the existence of adversarial attacks on convolutional neural networks (CNN) questions the fitness of such models for serious applications. Such attacks manipulate an input image such that misclassification is evoked while still looking normal to a human observer - they are thus not easily detectable. In a different context, backpropagated activations of CNN hidden layers - "feature responses" to a given input - have been helpful to visualize for a human "debugger" what the CNN "looks at" while computing its output. We have proposed a novel [detection method for adversarial examples](http://stdm.github.io/downloads/papers/ANNPR_2018c.pdf) to prevent attacks. We do so by tracking adversarial perturbations in feature responses, allowing for automatic detection using average local spatial entropy. The method does not alter the original network architecture and is fully human-interpretable. Experiments confirm the validity of our approach for state-of-the-art attacks on large-scale models trained on ImageNet.
 
 #### Selected references (see also [below](#publications))
 
@@ -114,14 +117,79 @@ Additionally, the existence of adversarial attacks on convolutional neural netwo
 &nbsp;
 
 
+<a name="industrial"></a>
+### Industrial Computer Vision
+
+[<img alt="Semantic segmentation pipeline to detect food waste" src="http://stdm.github.io/images/foodwaste.jpg"/>](http://stdm.github.io/images/foodwaste.jpg)
+
+A rich source for open research questions in deep-learning-based pattern recognition is found in various industrial processes like engineering and production. For example, we developed methods to reliably classify and quantify [food waste](https://www.zhaw.ch/en/engineering/about-us/news/news/event-news/tackling-food-waste-with-artificial-intelligence/) in large kitches through new semantic segmentation pipeline and worked a lot on automatic quality control. Other work in this area is going address the problem of [transferability](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/zhaw-and-kistler-team-up-to-evaluate-the-possibilities-of-deep-transfer-learning-for-controlling-injection-molding-processes/) of learnt knowledge from one tool to the next. As in industrial settings labelled data is usually scarce, a particular focus of our work is to make approaches more sample (or label) efficient than usual benchmark-beating models from the literature.
+
+#### Selected references (see also [below](#publications))
+
+  * [Knapp, E., Battaglia, M., Stadelmann, T., Jenatsch, S., and Ruhstaller, B., 2021. **XGBoost Trained on Synthetic Data to Extract Material Parameters of Organic Semiconductors**. In: _Proceedings of the 8th Swiss Conference on Data Science (SDS’21)_, Lucerne, Switzerland, 2021.](https://stdm.github.io/downloads/papers/SDS_2021b.pdf)
+
+  * [Simmler, N., Sager, P., Andermatt, P., Chavarriaga, R., Schilling, F.-P., Rosenthal, M., and Stadelmann, T., 2021. **A Survey of Un-, Weakly-, and Semi-Supervised Learning Methods for Noisy, Missing and Partial Labels in Industrial Vision Applications**. In: _Proceedings of the 8th Swiss Conference on Data Science (SDS’21)_, Lucerne, Switzerland, 2021.](https://stdm.github.io/downloads/papers/SDS_2021a.pdf)
+
+&nbsp;
+
+
+<a name="medical"></a>
+### Medical Imaging
+
+[<img alt="Vertebrae detection by deep learning model trained with unsupervised domain adaptation" src="http://stdm.github.io/images/vertebrae.jpg"/>](http://stdm.github.io/images/vertebrae.jpg)
+
+Health applications of deep learning started to become a major topic in the group in 2019. For example, in a collaboration with the AI and Data Science CoE of the Kantonsspital Aarau, we have [developed a novel approach](https://www.mdpi.com/2313-433X/8/8/222) to reliably identify vertebrae in 3D CT scans. Our primary contribution is a new Domain Sanity Loss (DSL) function for unsupervised domain adaptation. We achieve results that are on par with the current state-of-the-art algorithms for full supervised learning while using about 20 times fewer labels. This is a very interesting instance of a data-centric approach to be pursued further in our research.
+
+Additional applications include the [reduction of motion artifacts in CT images](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/verbesserung-der-qualitaet-von-ct-bildern-mit-ki-und-deep-learning/), which can significantly reduce the risk for patients to develop secondary cancer during radiation therapy; the [automated monitoring](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/videoanalyse-zur-datengesteuerten-pflege-von-intensivpatienten/) of patients in intensive care; or the [homogenization of data](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/neue-publikation-welche-eine-methode-zur-homogenisierung-von-daten-fuer-die-covid-erkennung-aus-ct-bildern-vorstellt/) to train large, bias-free medical imaging models, as we showed in the context of the COVID-19 spread.
+
+#### Selected references (see also [below](#publications))
+
+  * [Sager, P., Salzmann, S., Burn, F., and Stadelmann, T., 2022. **Unsupervised Domain Adaptation for Vertebrae Detection and Identification in 3D CT Volumes Using a Domain Sanity Loss**. _J. Imaging_ 2022, 8(8), 222, MDPI, Basel, Switzerland.](https://www.mdpi.com/2313-433X/8/8/222/pdf)
+
+  * [Amirian, M., Montoya-Zegarra, J. A., Gruss, J., Stebler, Y. D. , Bozkir, A. S., Calandri, M., Schwenker, F., and Stadelmann, T., 2021. **PrepNet: A Convolutional Auto-Encoder to Homogenize CT Scans for Cross-Dataset Medical Image Analysis**. In: _Proceedings of the 14th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI’21)_, Shanghai, China, 2021.](https://stdm.github.io/downloads/papers/CISP_BMEI_2021.pdf)
+
+&nbsp;
+
+
+<a name="general"></a>
+### More General AI
+
+[<img alt="Illustration of Kolmogorov complexity: Perception and efficient learning are possible by reducing the flood of sensory signals produced by the environment to an underlying low-complexity description" src="http://stdm.github.io/images/kolmogorov.jpg"/>](http://stdm.github.io/images/kolmogorov.jpg)
+
+Deep learning has propelled the surge in AI in the last decade and will continue to find new applications and improvements. However, it is [forseeable](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/interdisziplinaere-diskussionsrunde-am-cai-kolloquium-eroertert-was-intelligenz-ist-und-wie-man-die-ki-der-gegenwart-voranbringen-kann/) that the methodology in itself will not produce higher-level cognition. Inspiration comes from neuroscientific research on understanding brain functionality. Here, we find the principle of self-organizing net fragments to be the inductive bias that fits models (developed brains) to the natural environment. We seek ways of implementing related ideas into deep learning frameworks to increas the generability and robustness of the approaches, which for example means to move away from purely error-driven learning by backgpropagation.
+
+#### Selected references (see also [below](#publications))
+
+  * [von der Malsburg, C., Stadelmann, T., and Grewe, B. F., 2022. **A Theory of Natural Intelligence**. _arXiv preprint_, arXiv:2205.00002.](https://arxiv.org/abs/2205.00002)
+
+&nbsp;
+
+
+<a name="trust"></a>
+### Trustworty AI
+
+[<img alt="t-SNE visualization of the embedding space created by two face recognition models, coloured by ethnicity and gender" src="http://stdm.github.io/images/face-bias.jpg"/>](http://stdm.github.io/images/face-bias.jpg)
+
+How a powerful technology like artificial intelligence engages with the world around us and impacts our societies must concern us as engineers. Assessing the impact of the technology on society is a first step to shape AI for good. In this direction, we for example [analyzed](https://link.springer.com/article/10.1007/s43681-021-00108-6) how the effect of bias in face recognition systems can be quantified and mitigated. As our study shows, AI systems are very different from us humans: while for humans, conceiling information from us on sensitive attributes keeps us more fair / less biased, doing the same thing for a machine learning system - blinding it to attributes concerning e.g. gender or skin colour - does not result in less bias. Thus, bias does not equal awareness. 
+
+We also follow this thread of trustworthiness through projects on AI [verification and certification](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/3-neue-forschungsprojekte-zielen-auf-den-einsatz-vertrauenswuerdiger-ki/) as well as collaborations with colleagues from the humanities in projects and committees.
+
+#### Selected references (see also [below](#publications))
+
+  * [Wehrli, S., Hertweck, C., Amirian, M., Glüge, S., and Stadelmann, T., 2021. **Bias, awareness and ignorance in deep-learning-based face recognition**. _AI and Ethics_, DOI 10.1007/s43681-021-00108-6, Springer, October 27, 2021.](https://link.springer.com/article/10.1007/s43681-021-00108-6)
+
+  * [Glüge, S., Amirian, M., Flumini, D., and Stadelmann, T., 2020. **How (Not) to Measure Bias in Face Recognition Networks**. In: _Proceedings of the 9th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (ANNPR’20)_, Springer, LNAI, Winterthur, Switzerland, September 02-04, 2020.](https://stdm.github.io/downloads/papers/ANNPR_2020.pdf)
+
+&nbsp;
+
+
 <a name="l2l"></a>
 ### Learning to learn
 
+[<img alt="Learning to cluster model architecture" src="http://stdm.github.io/images/l2c_architecture.jpg"/>](http://stdm.github.io/images/l2c_architecture.jpg)
 [<img alt="Example clusterings" src="http://stdm.github.io/images/l2c_clustering.jpg"/>](http://stdm.github.io/images/l2c_clustering.jpg)
 
-We have built a novel end-to-end neural network architecture that, once trained, directly outputs a probabilistic clustering of a batch of input examples in one pass. It estimates a distribution over the number of clusters and, for each number of clusters up to a maximum, distributions over the respective data partitioning. The neural network is trained in a supervised fashion to group data by any perceptual similarity criterion based on pairwise labels (same/different group). It does not expect to have seen any of the groups that appear during model application already during training. We demonstrate promising performance on high-dimensional data like images (COIL-100) and speech (TIMIT). We call this [learning to cluster](http://stdm.github.io/downloads/papers/ANNPR_2018a.pdf). We have also produced a survey and some novel results on the more general topic of [learning to learn](https://stdm.github.io/downloads/papers/SDS_2019.pdf).
-
-[<img alt="Learning to cluster model architecture" src="http://stdm.github.io/images/l2c_architecture.jpg"/>](http://stdm.github.io/images/l2c_architecture.jpg)
+We have for instance built a novel end-to-end neural network architecture that, once trained, directly outputs a probabilistic clustering of a batch of input examples in one pass. It estimates a distribution over the number of clusters and, for each number of clusters up to a maximum, distributions over the respective data partitioning. The neural network is trained in a supervised fashion to group data by any perceptual similarity criterion based on pairwise labels (same/different group). It does not expect to have seen any of the groups that appear during model application already during training. We demonstrate promising performance on high-dimensional data like images (COIL-100) and speech (TIMIT). We call this [learning to cluster](http://stdm.github.io/downloads/papers/ANNPR_2018a.pdf). We have also produced a survey and some novel results on the more general topic of [learning to learn](https://stdm.github.io/downloads/papers/SDS_2019.pdf).
 
 #### Selected references (see also [below](#publications))
 
@@ -132,18 +200,16 @@ We have built a novel end-to-end neural network architecture that, once trained,
 &nbsp;
 
 
-<a name="OMR"></a>
-### Optical music recognition (OMR)
-
-[<img alt="Detection & recognition confidedences overlayed on a piece of handwritten music" src="http://stdm.github.io/images/MUSCIMA++.jpg"/>](http://stdm.github.io/images/MUSCIMA++.jpg)
-
-Written music is a large and important part of cultural heritage worldwide. While there are many archives containing thousands of music scores, they are paper-based, so public access is cumbersome or even impossible. Digitization of these scores is currently impossible due to the non-availability of scanning software that can convert hand-written scores to machine-readable format (Optical Music Recognition – OMR). The DeepScore project aims at bringing bleeding edge technology form computer vision the field of OMR. The impact of OMR on how we curate, preserve and access music manuscripts cannot be overstated. Fully functional OMR would lead to a democratization of the musical cultural heritage by enabling cheap and efficient access by everyone. It would also enable more efficient music training, and enable orchestras to run cheaper and rehearse more efficiently. 
-
-To facilitate deep learning for OMR, we built the [DeepScores](http://stdm.github.io/downloads/papers/ICPR_2018a.pdf) [dataset](https://tuggeluk.github.io/deepscores/) with the goal of advancing the state-of-the-art in small object recognition by placing the question of object recognition in the context of scene understanding. DeepScores contains high quality images of musical scores, partitioned into 300; 000 sheets of written music that contain symbols of different shapes and sizes. With close to a hundred million small objects, this makes our dataset not only unique, but also the largest public dataset. DeepScores comes with ground truth for object classification, detection and semantic segmentation. We provide baseline performances for object classification and intuition for the inherent difficulty that DeepScores poses to state-of-the-art object detectors like YOLO or R-CNN.
-
-We introduced a novel object detection method, based on synthetic energy maps and the watershed transform, called [Deep Watershed Detector (DWD)](http://stdm.github.io/downloads/papers/ISMIR_2018.pdf). Our method is specifically tailored to deal with high resolution images that contain a large number of very small objects and is therefore able to process full pages of written music. We present state-of-the-art detection results of common music symbols and show DWD’s ability to work with synthetic scores equally well as on handwritten music.
+<a name="documents"></a>
+### Document Recognition
 
 [<img alt="Deep Watershed Detector architecture" src="http://stdm.github.io/images/dwd.jpg"/>](http://stdm.github.io/images/dwd.jpg)
+
+We have applied our skills in pattern recognition frequently to use cases in document recognition, for example to convert music scores to machine-readable form. Written music is a large and important part of cultural heritage worldwide. While there are many archives containing thousands of music scores, they are paper-based, so public access is cumbersome or even impossible. Digitization of these scores has for a long time been impossible due to the non-availability of scanning software that can convert hand-written scores to machine-readable format (Optical Music Recognition – OMR). Our DeepScore and RealScore projects aimed at bringing bleeding edge technology form computer vision the field of OMR. The impact of OMR on how we curate, preserve and access music manuscripts cannot be overstated. Fully functional OMR would lead to a democratization of the musical cultural heritage by enabling cheap and efficient access by everyone. It would also enable more efficient music training, and enable orchestras to run cheaper and rehearse more efficiently. 
+
+To facilitate deep learning for OMR, we built the [DeepScores](http://stdm.github.io/downloads/papers/ICPR_2018a.pdf) [dataset](https://tuggeluk.github.io/deepscores/) with the goal of advancing the state-of-the-art in small object recognition by placing the question of object recognition in the context of scene understanding. DeepScores contains high quality images of musical scores, partitioned into 300'000 sheets of written music that contain symbols of different shapes and sizes. With close to a hundred million small objects, this makes our dataset not only unique, but also the largest public dataset. DeepScores comes with ground truth for object classification, detection and semantic segmentation. We provide baseline performances for object classification and intuition for the inherent difficulty that DeepScores poses to state-of-the-art object detectors like YOLO or R-CNN.
+
+We introduced a novel object detection method, based on synthetic energy maps and the watershed transform, called [Deep Watershed Detector (DWD)](http://stdm.github.io/downloads/papers/ISMIR_2018.pdf). Our method is specifically tailored to deal with high resolution images that contain a large number of very small objects and is therefore able to process full pages of written music. We present state-of-the-art detection results of common music symbols and show DWD’s ability to work with synthetic scores equally well as on handwritten music. Further results in making OMR more robust trhough _domain adaptation_ can also be found [here](https://www.zhaw.ch/en/about-us/news/news-releases/news-detail/event-news/realscore-scannen-von-real-world-noten-fuer-ein-digitales-notenpult/).
 
 #### Selected references (see also [below](#publications))
 
@@ -157,23 +223,21 @@ We introduced a novel object detection method, based on synthetic energy maps an
 <a name="voice"></a>
 ### Voice recognition
 
+[<img alt="Architecture of the successful RNN model for speaker clustering" src="http://stdm.github.io/images/RNN_architecture.jpg"/>](http://stdm.github.io/images/RNN_architecture.jpg)
+
 [My PhD research](http://stdm.github.io/downloads/papers/PhdThesis_2010) focused on the task of speaker clustering: grouping speech segments by speaker identity without prior knowledge of the number or identity of speakers (a prerequisite for e.g. content-based media indexing). While speaker identification usually achieved accuracy percentages in their high nineties, the state of the art for the more complex task of clustering performed an order of magnitude worse. 
 
-[<img alt="A clustering of 40 speakers from the TIMIT database" src="http://stdm.github.io/images/TIMIT_clustering.jpg"/>](http://stdm.github.io/images/TIMIT_clustering.jpg)
-
 My 2009 ACM Multimedia paper on [Unfolding Speaker Clustering Potential – a Biomimetic Approach](http://stdm.github.io/downloads/papers/ACMMM_2009.pdf) (see also the [code](https://github.com/stdm/time_model)) not only analyzed this fact, but also identified deficiencies in modeling the sequence of speech features as the bottleneck responsible for the slump in performance. The prediction of potentially raising speaker clustering performance by an order of magnitude by better sequence modeling has led to exciting discoveries so far. We successively built deep learning models with more clustering capability to exploit the sequence information: a [simple CNN](http://stdm.github.io/downloads/papers/MLSP_2016.pdf), [CNN with optimized clustering loos](http://stdm.github.io/downloads/papers/MLSP_2017.pdf) and finally a [RNN](http://stdm.github.io/downloads/papers/ANNPR_2018b.pdf) to improve the capturing of prosodic voice information, to reduce the error rate for pure voice comparison by the predicted rate (see [code](https://github.com/stdm/ZHAW_deep_voice)). Additionally, using a [different clustering algorithm](http://stdm.github.io/downloads/papers/ICPR_2018b.pdf) on top of the simple CNN feature embeddings also proved valuable.
-
-[<img alt="Architecture of the successful RNN model for speaker clustering" src="http://stdm.github.io/images/RNN_architecture.jpg"/>](http://stdm.github.io/images/RNN_architecture.jpg)
 
 This line of research has also lead to work on other audio processing tasks like media segmentation and classification, musical instrument recognition, audio fingerprinting, or voice transfer, mainly driven forward in student thesis projects.
 
 #### Selected references (see also [below](#publications))
 
-  * [Stadelmann, T. and Freisleben, B., 2009, October. **Unfolding speaker clustering potential: a biomimetic approach**. In _Proceedings of the 17th ACM international conference on Multimedia_ (pp. 185-194). ACM.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=18337079226826578816)
+  * [Stadelmann, T., Glinski-Haefeli, S., Gerber, P. and Dürr, O., 2018, September. **Capturing Suprasegmental Features of a Voice with RNNs for Improved Speaker Clustering**. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 333-345). Springer, Cham.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=9694244880148272626)
 
   * [Lukic, Y., Vogt, C., Dürr, O. and Stadelmann, T., 2016. **Speaker identification and clustering using convolutional neural networks**. In _2016 IEEE 26th International Workshop on Machine Learning for Signal Processing (MLSP)_, Vietri sul Mare, Italy, 13-16 Sept. 2016. IEEE.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=8378514520107037777)
-  
-  * [Stadelmann, T., Glinski-Haefeli, S., Gerber, P. and Dürr, O., 2018, September. **Capturing Suprasegmental Features of a Voice with RNNs for Improved Speaker Clustering**. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 333-345). Springer, Cham.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=9694244880148272626)
+
+  * [Stadelmann, T. and Freisleben, B., 2009, October. **Unfolding speaker clustering potential: a biomimetic approach**. In _Proceedings of the 17th ACM international conference on Multimedia_ (pp. 185-194). ACM.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=18337079226826578816)
 
 &nbsp;
 
@@ -181,11 +245,15 @@ This line of research has also lead to work on other audio processing tasks like
 <a name="datascience"></a>
 ### Data science
 
-I helped in creating one of Europe's first dedicated research centers for data science, the [ZHAW Datalab](http://www.zhaw.ch/datalab), and lead it since. Subsequently, my colleagues and I created one of Switzerland's first continuing education programs in data science, the [MAS Data Science](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/mas-data-science.html), where I teach machine learning. In 2015, we started rolling out the successful Datalab collaboration model country-wide in founding the [Swiss Alliance for Data-Intensive Services](https://www.data-service-alliance.ch/), a network of industrial and academic partner institutions that also furthered the [Swiss Conference on Data Science](https://sds2018.ch/) series of events that [started in Winterthur](https://www.zhaw.ch/en/research/inter-school-cooperation/datalab-the-zhaw-data-science-laboratory/sds2014/). The experience gained in these activities, together with the feedback from the applied research projects described above, lead to a [book](https://stdm.github.io/data-science-book/) I am co-editing together with my colleagues [Martin Braschler](http://www.zhaw.ch/=bram) and [Kurt Stockinger](http://www.zhaw.ch/=stog).
-
 [<img alt="The data science skill set map" src="http://stdm.github.io/images/skillset.jpg"/>](http://stdm.github.io/images/skillset.jpg)
 
+I helped in creating one of Europe's first dedicated research centers for data science, the [ZHAW Datalab](http://www.zhaw.ch/datalab), and lead it until 2018. Subsequently, my colleagues and I created one of Switzerland's first continuing education programs in data science, the [MAS Data Science](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/mas-data-science.html), where I teach machine learning. In 2015, we started rolling out the successful Datalab collaboration model country-wide in founding the [Data Innovation Alliance](https://data-innovation.org/), a network of industrial and academic partner institutions that also furthered the [Swiss Conference on Data Science](https://sds2022.ch/) series of events that [started in Winterthur](https://www.zhaw.ch/en/research/inter-school-cooperation/datalab-the-zhaw-data-science-laboratory/sds2014/). The experience gained in these activities, together with the feedback from the applied research projects described above, lead to a [book](https://stdm.github.io/data-science-book/) I co-edited together with my colleagues [Martin Braschler](http://www.zhaw.ch/=bram) and [Kurt Stockinger](http://www.zhaw.ch/=stog).
+
+In 2021, I co-chaired the [1st International Symposium on the Science of Data Science](https://www.sds2022.ch/1st-international-symposium-on-the-science-of-data-science). In the course of reviewing the development of the field in the past decade, we came to the conclusion that it is _data centrism_ – the reliance on data itself, in mindset, methods and products – that makes data science more than the sum of its parts, as this is not done in any other discipline.
+
 #### Selected references (see also [below](#publications))
+
+  * [Stadelmann, T., Klamt, T., and Merkt, P. H., 2022. _**Data Centrism and the Core of Data Science as a Scientific Discipline**_. Archives of Data Science, Series A 8(2), pp.1-16, April 2022.](https://stdm.github.io/downloads/papers/AoDSA_2022a.pdf). 
 
   * [Braschler, M., Stadelmann, T., and Stockinger, K., (Eds.), 2019. _**Applied Data Science - Lessons Learned for the Data-Driven Business**_. Springer.](https://stdm.github.io/data-science-book/)
 
@@ -199,9 +267,9 @@ I helped in creating one of Europe's first dedicated research centers for data s
 <a name="collaborations"></a>
 ## Collaborations
 
-I frequently collaborate with industry to work on exciting pattern recognition use cases. Partners from start-ups, SMEs and multi-national enterprises alike. 
+I frequently collaborate with industry to work on novel pattern recognition applications. Partners come from start-ups, SMEs and multi-national enterprises alike. 
 
-In academia, I frequently work together with the **Machine Learning and Optimization Lab** of [Martin Jaggi](https://mlo.epfl.ch/) at **EPFL**, [Marcello Pelillo](http://www.dsi.unive.it/~pelillo/) of the **Ca'Foscari University of Venice**, [Juergen Schmidhuber](http://people.idsia.ch/~juergen/)'s group at **IDSIA**, [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/mitarbeiter/f-schwenker/) of **Ulm University, Insitute of Neural Information Processing**, and [Boi Faltings](https://people.epfl.ch/boi.faltings?lang=en) of **EPFL**. We have joint research projects and/or co-supervise PhD students.
+In academia, I frequently work together with the **Machine Learning and Optimization Lab** of [Martin Jaggi](https://mlo.epfl.ch/) at **EPFL**, [Marcello Pelillo](http://www.dsi.unive.it/~pelillo/) of the **Ca'Foscari University of Venice**, [Juergen Schmidhuber](http://people.idsia.ch/~juergen/)'s group at **IDSIA**, [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/mitarbeiter/f-schwenker/) of **Ulm University, Insitute of Neural Information Processing**, [Boi Faltings](https://people.epfl.ch/boi.faltings?lang=en) of **EPFL**, [Benjamin F. Grewe's](https://www.ini.uzh.ch/en/research/groups/grewe.html) **Neural Learning and Intellgent Systems Group** at **UZH/ETHz's Institute of Neuroinformatics** and our joint visiting professor [Christoph von der Malsburg](https://www.fias.science/en/life-and-neurosciences/research-groups/christoph-von-der-malsburg/) for the **Frankfurt Institute of Advanced Studies**. We have joint research projects, publications and/or co-supervise PhD students.
 
 If you are interested in a collaboration, please [contact](http://www.zhaw.ch/=stdm) me.
 
@@ -216,6 +284,7 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 | Year | Tag | Type| Publication |
 | --- | --- | --- | --- |
+| 2022 | document recognition | **journal paper**| Felix M. Schmitt-Koopmann, Elaine M. Huang, Hans-Peter Hutter, Thilo Stadelmann, and Alireza Darvishy. ["**FormulaNet: A Benchmark Dataset for Mathematical Formula Detection**"](https://stdm.github.io/downloads/papers/Access_2022.pdf). **IEEE Access**, accepted for publication, August 2022.|
 | 2022 | medical imaging | **journal paper**| Pascal Sager, Sebastian Salzmann, Felice Burn, and Thilo Stadelmann. ["**Unsupervised Domain Adaptation for Vertebrae Detection and Identification in 3D CT Volumes Using a Domain Sanity Loss**"](https://www.mdpi.com/2313-433X/8/8/222/pdf). **J. Imaging** 2022, 8(8), 222, MDPI, Basel, Switzerland.|
 | 2022 | neuroscience | abstract | Christoph von der Malsburg, Benjamin F. Grewe, and Thilo Stadelmann. ["**Making Sense of the Natural Environment**"](https://stdm.github.io/downloads/papers/KogWis_2022.pdf). Proceedings of the **"KogWis 2022 - Understanding Minds"	** Biannual Conference of the German Cognitive Science Society, Freiburg, Germany, September 5-7, 2022. |
 | 2022 | data science | **journal paper** | Frank-Peter Schilling, Dandolo Flumini, Rudolf M. Füchslin, Elena Gavagnin, Armando Geller, Silvia Quarteroni and Thilo Stadelmann. ["**Foundations of Data Science: A Comprehensive Overview Formed at the 1st International Symposium on the Science of Data Science**"](https://stdm.github.io/downloads/papers/AoDSA_2022b.pdf). **Archives of Data Science, Series A 8(2)**, accepted for publication, 2022. |
