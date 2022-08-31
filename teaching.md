@@ -29,14 +29,20 @@ I try to make my main courses available as free online ressources as a best effo
 
 | **When** | **Level** | **Type** | **Title** |
 | --- | --- | --- | --- |
-| Spring 2022 | MSc | VT1 | BMI Prediction from CT Scans |
+| Fall 2022 | MSc | MT | P. Sager, t.b.d. |
+| Fall 2022 | MSc | VT2 | S. Salzmann, t.b.d. |
+| Fall 2022 | MSc | VT1 | Teaching Neural Nets to Learn Dynamic Voice Features Features for Automatic Speaker Verification |
+| Fall 2022 | MSc | VT1 | Machine-Learning-based Perception for ZHAW's Formula Student Autonomous Car |
+| Fall 2022 | BSc | PA | RoboDog II: Building a Vision and /or Sound-Based AI Demonstrator on a Robotic Platform |
+| Fall 2022 | BSc | PA | Speak your mind! Brain Computer Interfaces for Communication |
+| Fall 2022 | BSc | PA | Machine-Learning-based Analysis of Data from the ZHAW Movement Analysis Laboratory for Fatigue Detection during Sports Exercises |
 | Spring 2022 | BSc | BA | Making AI Tangible: Building a Computer Vision Demonstrator on a Robotic Platform |
-| Spring 2022 | BSc | BA | Learning to Learn: Learning Successful Weight Patterns for Instant Deep Neural Network Training |
+| Spring 2022 | BSc | BA | Learning to Learn: Learning Successful Weight Patterns for Instant Deep Neural Network Training <br> _top grade_ <br> Students: Urban Lutz and Alexandre Manai |
 | Spring 2022 |MSc | MT | Leveraging Neuroscience for Deep Learning Based Object Recognition |
 | Fall 2022 | MSc | MT | Entropy-Aware Active Vision through Voxelized Octree Exploration of 3D Scenes |
 | Fall 2021 | MAS | Thesis | Similarity Analysis of Jazz Tunes with Vector Space Models |
 | Fall 2021 | MAS | Thesis | Confidence-Rated Predictions with Deep Learning for Music Object Detection |
-| Fall 2021 | MSc | VT2 | End-to-End Pipeline for Body Composition Analysis and Sarcopenia Detection without Target Labels <br> _top grade_ <br> Student: Pascal Sager |
+| Fall 2021 | MSc | VT2 | [**End-to-End Pipeline for Body Composition Analysis and Sarcopenia Detection without Target Labels**](https://www.mdpi.com/2313-433X/8/8/222/pdf) <br> _top grade, paper_ <br> Student: Pascal Sager |
 | Fall 2021 | BSc | PA | Universal Songbook: Real Time Chord Prediction from Live Audio |
 | Fall 2021 | BSc | PA | Forschungs-PA: Continual Deep Learning for Visual Recognition |
 | Spring 2021 | MSc | VT1 | Exploiting Temporal Information in Speech using Deep Learning |
