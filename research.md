@@ -213,7 +213,7 @@ We introduced a novel object detection method, based on synthetic energy maps an
 
 #### Selected references (see also [below](#publications))
 
-  * [Tuggener, L., Satyawan, Y. P., Pacha, A., Schmidhuber, J., and Stadelmann, T., 2020. **The DeepScoresV2 Dataset and Benchmark for Music Object Detection**. In _Proceedings of the 25th International Conference on Pattern Recognition (ICPR 2000)_, IAPR, Milan, Italy, January 10-15 (online), 2021.
+  * [Tuggener, L., Satyawan, Y. P., Pacha, A., Schmidhuber, J., and Stadelmann, T., 2020. **The DeepScoresV2 Dataset and Benchmark for Music Object Detection**. In _Proceedings of the 25th International Conference on Pattern Recognition (ICPR 2000)_, IAPR, Milan, Italy, January 10-15 (online), 2021.](https://stdm.github.io/downloads/papers/ICPR_2020.pdf)
   
   * [Tuggener, L., Elezi, I., Schmidhuber, J. and Stadelmann, T., 2018. **Deep watershed detector for music object recognition**. In _19th International Society for Music Information Retrieval Conference_, Paris, 23.-27. September 2018. Society for Music Information Retrieval.](https://scholar.google.ch/scholar?cluster=15201184947089209442&hl=en&as_sdt=0,5)
  
