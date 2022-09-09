@@ -30,7 +30,7 @@ I try to make my main courses available as free online ressources as a best effo
 | **When** | **Level** | **Type** | **Title** |
 | --- | --- | --- | --- |
 | Fall 2022 | MSc | MT | Deep-Learning-based Pattern Recognition and the Principle of Self Organization |
-| Fall 2022 | MSc | VT2 | Supportive DARPin Binder Selection using Deep Learning |
+| Fall 2022 | MSc | VT2 | Supporting DARPin Binder Selection using Deep Learning |
 | Fall 2022 | MSc | VT1 | Teaching Neural Nets to Learn Dynamic Voice Features Features for Automatic Speaker Verification |
 | Fall 2022 | MSc | VT1 | Machine-Learning-based Perception for ZHAW's Formula Student Autonomous Car |
 | Fall 2022 | BSc | PA | RoboDog II: Building a Vision and /or Sound-Based AI Demonstrator on a Robotic Platform |
