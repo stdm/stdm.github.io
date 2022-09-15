@@ -41,8 +41,6 @@ The group has very diverse backgrounds, which helps us complement each other's s
     
   * [Sydney M. Nguyen](https://www.linkedin.com/in/sydney-nguyen-117987180/), M.Sc. student: B.Sc. in computer science (ZHAW)
   
-  * [Beata Baczynska](https://www.linkedin.com/in/beata-baczynska/), IAESTE intern: M.Sc. in computer science & AI (Poznan Unversity of Technology, Poland)
-  
   * [Livia Luescher](https://www.linkedin.com/in/livia-l%C3%BCscher-72aaaa139/), M.Sc. student: B.Sc. in business administration with honors (HWZ Zurich)
   
     
