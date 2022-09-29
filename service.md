@@ -28,6 +28,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
   
   * Invited co-talk (with Dr. Nikola Pascher of Mettler Toledo) on **"Data-centric transfer learning as a solution to key-challenges in industrial data-based solutions"** at the [7th European COST Conference on Artificial Intelligence in Industry and Finance](https://www.zhaw.ch/en/engineering/institutes-centres/iamp/events/artificial-intelligence-in-industry-and-finance/), Winterhtur, Switzerland, September 28, 2022
   
+  * Discussion starter **"On ethical implications in how we speak about AI – using the example of bias in face recognition"** at the [7th European COST Conference on Artificial Intelligence in Industry and Finance](https://www.zhaw.ch/en/engineering/institutes-centres/iamp/events/artificial-intelligence-in-industry-and-finance/), Winterhtur, Switzerland, September 28, 2022
+  
   * Talk on **"In search for a better paradigm: deep learning between excitement, disillusion, and a new hope"** at the WPI Joint Computer Science & Data Science Colloquium, Worcester Polytechnic Institute, Worcester, MA, USA, September 07, 2022  
   
   * Invited talk on Biometrics at [Datenschutzforum Schweiz](https://www.datenschutz-forum.ch/), Bern, Switzerland, June 30, 2022
