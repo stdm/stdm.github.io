@@ -22,13 +22,13 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 #### 2023 
 
-	* Keynote at the [Schweizer Bibliothekskongress](https://bibliosuisse.ch/Aktivit%C3%A4ten/Schweizer-Bibliothekskongress), Zurich, Switzerland, November 03, 2023
+  * Keynote at the [Schweizer Bibliothekskongress](https://bibliosuisse.ch/Aktivit%C3%A4ten/Schweizer-Bibliothekskongress), Zurich, Switzerland, November 03, 2023
 
-	* Workshop ("Atelier") on **"KI als Chance für die angewandten Wissenschaften im Wettbewerb der Hochschulen"** at the [Bürgenstock-Konferenz der Schweizer Fachhochschulen und Pädagogischen Hochschulen](https://buergenstock-konferenz.ch/index.php/de/component/content/?view=featured), Luzern, Schweiz, 20. Januar 2023.
+  * Workshop ("Atelier") on **"KI als Chance für die angewandten Wissenschaften im Wettbewerb der Hochschulen"** at the [Bürgenstock-Konferenz der Schweizer Fachhochschulen und Pädagogischen Hochschulen](https://buergenstock-konferenz.ch/index.php/de/component/content/?view=featured), Luzern, Schweiz, 20. Januar 2023.
 
 #### 2022
 
-	* Invited talk at the Seminar of the [Institute for Neuro- and Bioinformatics](https://www.inb.uni-luebeck.de/en/home.html), Universitaet zu Luebeck, Germany, December 09, 2022
+  * Invited talk at the Seminar of the [Institute for Neuro- and Bioinformatics](https://www.inb.uni-luebeck.de/en/home.html), Universitaet zu Luebeck, Germany, December 09, 2022
 
   * Invited talk on **"Blessings of Digitalization"** at [KbA Konferenz 2022](https://www.kbaonline.de/), Burbach-Holzhausen, Germany, November 18, 2022
 
