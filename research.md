@@ -32,6 +32,8 @@ The group has very diverse backgrounds, which helps us complement each other's s
   * [Lukas Tuggener](https://tuggeluk.github.io/), PhD student: B.Sc. industrial engineering (ZHAW), M.Sc. statistics (ETH), doctorate in conjunction with [Juergen Schmidhuber](http://people.idsia.ch/~juergen/) of the University of Lugano / Switzerland
   
   * [Mohammadreza Amirian](https://www.zhaw.ch/en/about-us/person/amir/), PhD student: B.Sc. (U. Shiraz) & M.Sc. (U. Ulm) in electrical engineering, doctorate in conjunction with [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/institut/hidden/f-schwenker/) of Ulm University / Germany
+  
+  * [Waqar Ali](https://www.linkedin.com/in/waqar-ali-92468910b/), PhD student: M.Sc. (CU Islamabad) in computer science, doctorate in conjunction with [Marcello Pelillo](https://www.dsi.unive.it/~pelillo/) of the University of Venice / Italy
 
   * [Peng Yan](https://www.linkedin.com/in/peng520/), PhD student: B.Sc. measuring & control technology (Jianghan U.) & M.Sc. control engineering (Xiamen U.), doctorate in junctionion with [Benjamin F. Grewe](https://www.ini.uzh.ch/en/research/groups/grewe.html) of the University of Zurich / Switzerland
   
@@ -40,6 +42,8 @@ The group has very diverse backgrounds, which helps us complement each other's s
   * [Raphael Emberger](https://www.linkedin.com/in/raphael-emberger-206015bb), research assistant & M.Sc. student: B.Sc. computer science (ZHAW)
 
   * [Paul Luley](https://www.linkedin.com/in/paul-l-821892247/), research assistent & M.Sc. student at UZH: B.Sc. biomedical engineering (Technikum Vienna)
+  
+  * [Benjamin Meyer](https://www.linkedin.com/in/benjamin-meyer-b87077151), research assistent & M.Sc. student at U Basel: B.Sc. Information Technology (FHNW)
   
   * [Sebastian Salzmann](https://www.linkedin.com/in/sebastian-salzmann-8214b911b), M.Sc. student: B.Sc. biology (ETH) & M.Sc. molecular health sciences (ETH)
     

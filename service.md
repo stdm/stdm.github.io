@@ -527,6 +527,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="press"></a>
 ## In the press 
 
+  * November 13, 2022, [NZZ am Sonntag](https://epaper.nzz.ch/article/8/8/2022-11-13/26/308239100): "**Künstliche Intelligenz: Jetzt kommt die 'kambrische Explosion'**"
+
   * October 04, 2021, [Helvetic Care](https://www.helveticcare.ch/kuenstliche-intelligenz): "**Herr Stadelmann, werden einst Roboter unsere Alten pflegen?**"
 
   * September 22, 2021, [ZHAW Impact No 54 / September 2021, Dossier Literacy](https://impact.zhaw.ch/detail/kuenstliche-intelligenz-einfach-erklaeren-und-verstehen?tx_magazine_main%5BarticleSequence%5D=757%2C717%2C716%2C756%2C710%2C740%2C741%2C711%2C751%2C752%2C753%2C701%2C703%2C744%2C748%2C749%2C746%2C745%2C723%2C724%2C719%2C736%2C759%2C722%2C731%2C758%2C735%2C696%2C697%2C700%2C704%2C669%2C620%2C681%2C621%2C643&tx_magazine_main%5BarticleSequenceHash%5D=c93c4765ff467faa9ba6869ff5c225967b93a8f5&cHash=a3563f853ecbcfb7a3844e2d80214b66): "**Künstliche Intelligenz einfach erklären und verstehen**" (p. 39/40)
