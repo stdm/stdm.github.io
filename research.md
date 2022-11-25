@@ -291,12 +291,12 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 #### 2023
 
-Thilo Stadelmann. ["**KI als Chance für die angewandten Wissenschaften im Wettbewerb der Hochschulen**"](https://stdm.github.io/downloads/papers/Buergenstock_2023.pdf). Workshop ("Atelier") at the Bürgenstock-Konferenz der Schweizer Fachhochschulen und Pädagogischen Hochschulen 2023, Luzern, Schweiz, 20. Januar 2023.
+Thilo Stadelmann. ["**KI als Chance für die angewandten Wissenschaften im Wettbewerb der Hochschulen**"](https://stdm.github.io/downloads/papers/Buergenstock_2023.pdf). Workshop ("Atelier") at the **Bürgenstock-Konferenz der Schweizer Fachhochschulen und Pädagogischen Hochschulen** 2023, Luzern, Schweiz, 20. Januar 2023.
 
 
 #### 2022
 
-Lukas Tuggener, Jürgen Schmidhuber, and Thilo Stadelmann. ["**Is it enough to optimize CNN architectures on ImageNet?**"](https://stdm.github.io/downloads/papers/Frontiers_2022.pdf). Computer Vision - Frontiers in Computer Science, DOI [10.3389/fcomp.2022.1041703](https://doi.org/10.3389/fcomp.2022.1041703), 15 November 2022.
+Lukas Tuggener, Jürgen Schmidhuber, and Thilo Stadelmann. ["**Is it enough to optimize CNN architectures on ImageNet?**"](https://stdm.github.io/downloads/papers/Frontiers_2022.pdf). Computer Vision - **Frontiers in Computer Science**, DOI [10.3389/fcomp.2022.1041703](https://doi.org/10.3389/fcomp.2022.1041703), 15 November 2022.
 
 Felix M. Schmitt-Koopmann, Elaine M. Huang, Hans-Peter Hutter, Thilo Stadelmann, and Alireza Darvishy. ["**FormulaNet: A Benchmark Dataset for Mathematical Formula Detection**"](https://stdm.github.io/downloads/papers/Access_2022.pdf). **IEEE Access** 2022, 10, pp. 91588-91596, DOI [10.1109/ACCESS.2022.3202639](https://ieeexplore.ieee.org/document/9869643), August 2022.
 
@@ -314,7 +314,7 @@ Thilo Stadelmann, Tino Klamt, and Philipp H. Merkt. ["**Data Centrism and the Co
 
 Andreas Geyer-Schultz and Thilo Stadelmann (Editors). ["**Archives of Data Science, Series A 8(2)**"](https://www.archivesofdatascience.org/journals/series_a/publications#articles), April 2022. **Special Issue**.
 
-Frank-Peter Schilling and Thilo Stadelmann (Editors). ["**Special Issue "Advances in Deep Neural Networks for Visual Pattern Recognition"**"](https://www.mdpi.com/journal/jimaging/special_issues/deep_neural_network), Journal of Imaging, MDPI, March 2022. 
+Frank-Peter Schilling and Thilo Stadelmann (Editors). ["**Special Issue "Advances in Deep Neural Networks for Visual Pattern Recognition"**"](https://www.mdpi.com/journal/jimaging/special_issues/deep_neural_network), **J. Imaging**, MDPI, March 2022. 
 
 
 #### 2021
@@ -332,7 +332,7 @@ Niclas Simmler, Pascal Sager, Philipp Andermatt, Ricardo Chavarriaga, Frank-Pete
 
 #### 2020
 
-Thilo Stadelmann, and Christoph Würsch. ["**Maps for an Uncertain Future: Teaching AI and Machine Learning Using the ATLAS Concept**"](https://stdm.github.io/downloads/papers/TR_2020.pdf). Technical report (didactic concept), ZHAW, Winterthur, Switzerland, 2020.
+Thilo Stadelmann, and Christoph Würsch. ["**Maps for an Uncertain Future: Teaching AI and Machine Learning Using the ATLAS Concept**"](https://stdm.github.io/downloads/papers/TR_2020.pdf). Technical report (didactic concept), **ZHAW**, Winterthur, Switzerland, 2020.
 
 Lukas Tuggener, Mohammadreza Amirian, Fernando Benites, Pius von Däniken, Prakhar Gupta, Frank-Peter Schilling, and Thilo Stadelmann. ["**Design Patterns for Resource-Constrained Automated Deep-Learning Methods**"](https://www.mdpi.com/2673-2688/1/4/31/pdf). **AI** section "Intelligent Systems: Theory and Applications" 1(4):510-538, MDPI, Basel, Switzerland, November 06, 2020.
 
@@ -431,7 +431,7 @@ Thilo Stadelmann, Sven Johr, Michael Ditze, Florian Dittman, and Viktor Fässler
 
 #### 2010
 
-Thilo Stadelmann. ["**Voice Modeling Methods for Automatic Speaker Recognition**"](https://stdm.github.io/downloads/papers/PhdThesis_2010.pdf). Dissertation, Philipps-Universität Marburg. [Available online, 2010](http://archiv.ub.uni-marburg.de/diss/z2010/0465/view.html).
+Thilo Stadelmann. ["**Voice Modeling Methods for Automatic Speaker Recognition**"](https://stdm.github.io/downloads/papers/PhdThesis_2010.pdf). Dissertation, **Philipps-Universität Marburg**. [Available online, 2010](http://archiv.ub.uni-marburg.de/diss/z2010/0465/view.html).
 
 Thilo Stadelmann & Bernd Freisleben. ["**On the MixMax Model and Cepstral Features for Noise-Robust Voice Recognition**"](https://stdm.github.io/downloads/papers/TR_2010.pdf). Technical report, Philipps-Universität Marburg, April 2010.
 
@@ -475,9 +475,9 @@ Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bernd Freisleben, Rene Weber, a
 
 #### 2006
 
-Ralph Ewerth, Markus Mühling, Thilo Stadelmann, Ermir Qeli, Björn Agel, Dominik Seiler, and Bernd Freisleben. ["**University of Marburg at TRECVID 2006: Shot Boundary Detection and Rushes Task Results**"](https://stdm.github.io/downloads/papers/TRECVID_2006.pdf). In Proceedings of TREC Video Retrieval Evaluation Workshop (**TRECVid'06**). [Available online, 2006](http://www-nlpir.nist.gov/projects/tvpubs/tv.pubs.org.htm). | 
+Ralph Ewerth, Markus Mühling, Thilo Stadelmann, Ermir Qeli, Björn Agel, Dominik Seiler, and Bernd Freisleben. ["**University of Marburg at TRECVID 2006: Shot Boundary Detection and Rushes Task Results**"](https://stdm.github.io/downloads/papers/TRECVID_2006.pdf). In Proceedings of TREC Video Retrieval Evaluation Workshop (**TRECVid'06**). [Available online, 2006](http://www-nlpir.nist.gov/projects/tvpubs/tv.pubs.org.htm).
 
-Thilo Stadelmann and Bernd Freisleben. ["**Fast and Robust Speaker Clustering Using the Earth Mover's Distance and MixMax Models**"](https://stdm.github.io/downloads/papers/ICASSP_2006.pdf). In Proceedings of the 31st IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP'06**), volume 1, pages 989-992, Toulouse, France, April 2006. IEEE. |
+Thilo Stadelmann and Bernd Freisleben. ["**Fast and Robust Speaker Clustering Using the Earth Mover's Distance and MixMax Models**"](https://stdm.github.io/downloads/papers/ICASSP_2006.pdf). In Proceedings of the 31st IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP'06**), volume 1, pages 989-992, Toulouse, France, April 2006. IEEE.
 
 
 #### 2005 
@@ -487,5 +487,5 @@ Ralph Ewerth, Christian Behringer, Tobias Kopp, Michael Niebergall, Thilo Stadel
 
 #### 2004
 
-Thilo Stadelmann. ["**Sprechererkennung in Videos**"](https://stdm.github.io/downloads/papers/DiplomaThesis_2004.pdf). Diplomarbeit, Fachhochschule Giessen-Friedberg, 2004.
+Thilo Stadelmann. ["**Sprechererkennung in Videos**"](https://stdm.github.io/downloads/papers/DiplomaThesis_2004.pdf). Diplomarbeit, **Fachhochschule Giessen-Friedberg**, 2004.
 
