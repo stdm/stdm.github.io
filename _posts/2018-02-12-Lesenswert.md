@@ -2,7 +2,7 @@
 layout: post
 title: Lesenswert
 date: 2018-02-12
-modified: 2022-07-11
+modified: 2022-12-06
 category: society, readings
 comments: true
 ---
@@ -11,7 +11,15 @@ This is an occasionally updated collection of links to valuable reads from non-t
 
 <!-- more -->
 
-* ["Soziale Medien sind besonders schlecht für linke Bewegungen"](https://www.zeit.de/kultur/2022-07/gal-beckerman-soziale-medien/komplettansicht) by Maja Beckers, July 09, 2022.
+* ["Die Gedanken sind nicht mehr frei"](https://www.faz.net/aktuell/feuilleton/debatten/ayad-akhtar-ueber-identitaetspolitik-in-amerika-18506051.html) by Ayad Akhtar, Dec 03, 2022.
+
+  Subject: Identitätspolitik
+  
+  Key words: discourse, cancel culture, wokeness, politics, reseaerch, academia
+  
+  Abstract: Die Diskursverbote bestimmten in Amerika nicht mehr nur die Verlage und Hollywood, das gesamte Bildungswesen ist davon durchdrungen: Warum eine solche Identitätspolitik ein Ausverkauf der Phantasie ist. Ein Gastbeitrag des Pen America-Präsidenten.
+
+* ["Soziale Medien sind besonders schlecht für linke Bewegungen"](https://www.zeit.de/kultur/2022-07/gal-beckerman-soziale-medien/komplettansicht) by Maja Beckers, Jul 09, 2022.
 
 	Subject: Gal Beckerman
 	
