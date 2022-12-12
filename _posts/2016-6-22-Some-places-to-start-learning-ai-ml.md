@@ -2,12 +2,12 @@
 title: 'Some places to start learning AI & ML'
 layout: post
 date: 2016-06-22
-modified: 2019-04-29
+modified: 2022-12-12
 category: education, research, mentoring, MOOCs, ML, RL, CNNs, RNNs
 comments: true
 ---
 
-Here's a (regularly updated) collection of links to my favourite [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course)s and other ressources on learning or deepen Artificial Intelligence and in particular Machine Learning / Deep Learning skills:
+Here's a (irregularly updated) collection of links to my favourite [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course)s and other ressources on learning or deepen Artificial Intelligence and in particular Machine Learning / Deep Learning skills:
 
 <!-- more -->
 
@@ -50,6 +50,7 @@ These reading resources might also be of interest (use cases, deep dives into sp
       * [Learning to learn](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/) by Chelsea Finn
       * [From zero to research — An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a) by Thomas Wolf 
   * other 
+  		* [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html) by Horace He of PyTorch on how to optimize DL code on GPUs
       * [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) by Andrej Karpathy
       * [ML best practices](https://developers.google.com/machine-learning/rules-of-ml/)
       * Interesting 4-post series on [Learning in Brains and Machines](http://blog.shakirm.com/2016/02/learning-in-brains-and-machines-1/)
