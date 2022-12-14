@@ -259,7 +259,7 @@ In 2021, I co-chaired the [1st International Symposium on the Science of Data Sc
 
 #### Selected references (see also [below](#publications))
 
-  * [Stadelmann, T., Klamt, T., and Merkt, P. H., 2022. _**Data Centrism and the Core of Data Science as a Scientific Discipline**_. Archives of Data Science, Series A 8(2), pp.1-16, April 2022.](https://stdm.github.io/downloads/papers/AoDSA_2022a.pdf). 
+  * [Stadelmann, T., Klamt, T., and Merkt, P. H., 2022. _**Data Centrism and the Core of Data Science as a Scientific Discipline**_. Archives of Data Science, Series A 8(2), pp.1-16, April 2022.](https://stdm.github.io/downloads/papers/AoDSA_2022a.pdf)
 
   * [Braschler, M., Stadelmann, T., and Stockinger, K., (Eds.), 2019. _**Applied Data Science - Lessons Learned for the Data-Driven Business**_. Springer.](https://stdm.github.io/data-science-book/)
 
