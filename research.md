@@ -291,6 +291,9 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 #### 2023
 
+Waqar Ali, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. [**Quasi-CliquePool: Hierarchical Graph Pooling for Graph
+Classification**](https://stdm.github.io/downloads/papers/GMLR_2023.pdf). ACM SAC 2023 Track on Graph Models for Learning and Recognition (**GMLR**), Tallinn, Estonia, March 27 - April 2, 2023.
+
 Thilo Stadelmann. ["**KI als Chance für die angewandten Wissenschaften im Wettbewerb der Hochschulen**"](https://stdm.github.io/downloads/papers/Buergenstock_2023.pdf). Workshop ("Atelier") at the **Bürgenstock-Konferenz der Schweizer Fachhochschulen und Pädagogischen Hochschulen** 2023, Luzern, Schweiz, 20. Januar 2023.
 
 
