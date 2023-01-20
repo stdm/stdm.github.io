@@ -49,9 +49,9 @@ These reading resources might also be of interest (use cases, deep dives into sp
       * [Deep Learning-to-Learn Robotic Control](https://www.youtube.com/watch?v=TERCdog1ddE) by Pieter Abbeel
       * [Learning to learn](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/) by Chelsea Finn
       * [From zero to research — An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a) by Thomas Wolf 
-  * other 
-  		* [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook) by staff @Google
-  		* [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html) by Horace He of PyTorch on how to optimize DL code on GPUs
+  * other
+      * [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook) by staff @Google
+      * [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html) by Horace He of PyTorch on how to optimize DL code on GPUs
       * [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) by Andrej Karpathy
       * [ML best practices](https://developers.google.com/machine-learning/rules-of-ml/)
       * Interesting 4-post series on [Learning in Brains and Machines](http://blog.shakirm.com/2016/02/learning-in-brains-and-machines-1/)
