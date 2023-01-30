@@ -2,7 +2,7 @@
 title: 'Some places to start learning AI & ML'
 layout: post
 date: 2016-06-22
-modified: 2023-01-20
+modified: 2023-01-30
 category: education, research, mentoring, MOOCs, ML, RL, CNNs, RNNs
 comments: true
 ---
@@ -58,6 +58,7 @@ These reading resources might also be of interest (use cases, deep dives into sp
 
 Generally: If you want to make AI/ML (or more broadly, data science) a career, check out the following guides:
 
+  * [Just know stuff (Or, how to achieve success in a machine learning PhD)](https://kidger.site/thoughts/just-know-stuff/) by Patrick Kidger
   * [Spinning Up as a Deep RL Researcher](http://spinningup.openai.com/en/latest/spinningup/spinningup.html) by Joshua Achiam
   * [How to Become a Data Scientist](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-1-3) by Alex Smith (also [part 2](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-2-3))
   * but also: [Data science is different now](https://veekaybee.github.io/2019/02/13/data-science-is-different/) by Vicki Boykis
