@@ -419,13 +419,13 @@ Much to the suprise of my younger self, I have become a very active networker, p
 ## Community offices
 
 #### Boards & leadership
-  * 04/2021-ongoing: Member of the Interdisciplinary AI Working Group Law and Technology of [SATW](https://www.satw.ch/en/) and [FDFA](https://www.eda.admin.ch/eda/en/fdfa.html)
+  * 04/2021-01/2023: Member of the Interdisciplinary AI Working Group Law and Technology of [SATW](https://www.satw.ch/en/) and [FDFA](https://www.eda.admin.ch/eda/en/fdfa.html)
 
   * 01/2019-ongoing: Fellow of the [European Centre for Living Technology (ECLT)](https://www.unive.it/pag/23664/), Venice, Italy
   
     [<img alt="ECLT" src="http://stdm.github.io/images/eclt.png"/>](https://www.unive.it/pag/23664/)
 
-  * 09/2016-ongoing: Co-founder and member of the board of the [data innovation alliance](https://data-innovation.org/) (formally known as the [Swiss Alliance for Data-Intensive Services](http://www.data-service-alliance.ch)), a Innosuisse-funded [National Thematic Network](https://www.kti.admin.ch/kti/en/home/unsere-foerderangebote/fuer-forschende/vernetzungsmoeglichkeiten.html)
+  * 09/2016-ongoing: Co-founder and member of the board of the [data innovation alliance](https://data-innovation.org/) (formerly known as the [Swiss Alliance for Data-Intensive Services](http://www.data-service-alliance.ch)), a Innosuisse-funded [National Thematic Network](https://www.kti.admin.ch/kti/en/home/unsere-foerderangebote/fuer-forschende/vernetzungsmoeglichkeiten.html)
     
     <!--- [<img alt="Data+Service" src="http://stdm.github.io/images/data+service.png"/>](http://www.data-service-alliance.ch) -->
     
@@ -449,6 +449,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * Reviewer for [IEEE Transactions on Systems, Man and Cybernetics: Systems](https://www.ieeesmc.org/publications/transactions-on-smc-systems), [IEEE/ACM Transactions on Audio, Speech and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655), [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78), [EURASIP Journal on Audio, Speech, and Music Processing](https://asmp-eurasipjournals.springeropen.com/), [PLOS ONE](https://journals.plos.org/plosone/) and the [Science Media Center Germany](https://www.sciencemediacenter.de/)
 
   * Member of program committee, [CVPR 2023](https://cvpr2023.thecvf.com/), June 18-22, 2023, Vancouver, Canada
+  
+  * Program Co-Chair, [IEEE Swiss Conference on Data Science 2023](https://sds2023.ch/), June 22-23, 2023, Zurich, Switzerland
   
   * Member of program committee, [ANNPR 2022](https://annpr2022.com/), November 24-26, 2022, Dubai, UAE
 
