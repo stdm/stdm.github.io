@@ -529,11 +529,11 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="press"></a>
 ## In the press 
 
-	* February 13, 2023, [Finanzen und Wirtschaft](https://www.fuw.ch/chatgpt-laeutet-tech-revolution-ein-303487897856): "**Plötzlich nützlich: ChatGPT läutet Tech-Revolution ein**"
+  * February 13, 2023, [Finanzen und Wirtschaft](https://www.fuw.ch/chatgpt-laeutet-tech-revolution-ein-303487897856): "**Plötzlich nützlich: ChatGPT läutet Tech-Revolution ein**"
 
-	* February 11, 2023, [NZZ Magazin](https://magazin.nzz.ch/wirtschaft/google-kann-im-abwehrkampf-gegen-microsoft-nur-verlieren-ld.1725680): "**Künstliche Intelligenz: Microsoft kann nur gewinnen, Google nur verlieren**"
+  * February 11, 2023, [NZZ Magazin](https://magazin.nzz.ch/wirtschaft/google-kann-im-abwehrkampf-gegen-microsoft-nur-verlieren-ld.1725680): "**Künstliche Intelligenz: Microsoft kann nur gewinnen, Google nur verlieren**"
 
-  * November 13, 2022, [NZZ am Sonntag](https://epaper.nzz.ch/article/8/8/2022-11-13/26/308239100): "**Künstliche Intelligenz: Jetzt kommt die 'kambrische Explosion'?**"
+  * November 13, 2022, [NZZ am Sonntag](https://epaper.nzz.ch/article/8/8/2022-11-13/26/308239100): "**Künstliche Intelligenz: Jetzt kommt die 'kambrische Explosion'**"
 
   * October 04, 2021, [Helvetic Care](https://www.helveticcare.ch/kuenstliche-intelligenz): "**Herr Stadelmann, werden einst Roboter unsere Alten pflegen?**"
 
