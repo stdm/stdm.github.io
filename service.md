@@ -447,6 +447,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * Topic editor for the [Journal of Imaging](http://www.mdpi.com/journal/jimaging), an international multi/interdisciplinary peer-reviewed open access journal of imaging techniques published online monthly by MDPI (postponed until special issue for sister journal "Computers" is completed)
   
   * Reviewer for [IEEE Transactions on Systems, Man and Cybernetics: Systems](https://www.ieeesmc.org/publications/transactions-on-smc-systems), [IEEE/ACM Transactions on Audio, Speech and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655), [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78), [EURASIP Journal on Audio, Speech, and Music Processing](https://asmp-eurasipjournals.springeropen.com/), [PLOS ONE](https://journals.plos.org/plosone/) and the [Science Media Center Germany](https://www.sciencemediacenter.de/)
+
+  * Member of program committee, [CVPR 2023](https://cvpr2023.thecvf.com/), June 18-22, 2023, Vancouver, Canada
   
   * Member of program committee, [ANNPR 2022](https://annpr2022.com/), November 24-26, 2022, Dubai, UAE
 
@@ -527,7 +529,11 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="press"></a>
 ## In the press 
 
-  * November 13, 2022, [NZZ am Sonntag](https://epaper.nzz.ch/article/8/8/2022-11-13/26/308239100): "**Künstliche Intelligenz: Jetzt kommt die 'kambrische Explosion'**"
+	* February 13, 2023, [Finanzen und Wirtschaft](https://www.fuw.ch/chatgpt-laeutet-tech-revolution-ein-303487897856): "**Plötzlich nützlich: ChatGPT läutet Tech-Revolution ein**"
+
+	* February 11, 2023, [NZZ Magazin](https://magazin.nzz.ch/wirtschaft/google-kann-im-abwehrkampf-gegen-microsoft-nur-verlieren-ld.1725680): "**Künstliche Intelligenz: Microsoft kann nur gewinnen, Google nur verlieren**"
+
+  * November 13, 2022, [NZZ am Sonntag](https://epaper.nzz.ch/article/8/8/2022-11-13/26/308239100): "**Künstliche Intelligenz: Jetzt kommt die 'kambrische Explosion'?**"
 
   * October 04, 2021, [Helvetic Care](https://www.helveticcare.ch/kuenstliche-intelligenz): "**Herr Stadelmann, werden einst Roboter unsere Alten pflegen?**"
 
