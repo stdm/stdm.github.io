@@ -611,7 +611,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   
   * January 25, 2018, [Nidwaldener Zeitung](https://stdm.github.io/downloads/press/2018-01-25_Nidwaldner-Zeitung.pdf): "Robotik interessiert am meisten"
     
-    [<img alt="Discussions" src="http://stdm.github.io/images/nidwaldener-zeitung.jpg"/>](https://stdm.github.io/downloads/press/2018-01-25_Nidwaldner-Zeitung.pdf)
+    <!--- [<img alt="Discussions" src="http://stdm.github.io/images/nidwaldener-zeitung.jpg"/>](https://stdm.github.io/downloads/press/2018-01-25_Nidwaldner-Zeitung.pdf) -->
   
   * January 24, 2018, [SATW Blog](https://stdm.github.io/downloads/press/2018-01-24_TecNight-Sarnen.pdf): "[...] Im zweiten Talk wurde Thilo Stadelmann, ZHAW School of Engineering, gelöchert, der das Thema Big Data und Künstliche Intelligenz sehr kurzweilig vermittelte. [...]"
   
@@ -625,7 +625,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   
   * June 2017, [ZHAW Impact](https://stdm.github.io/downloads/press/2017-06-01_ZHAW-Impact_Datalab.pdf): "ZHAW Datalab - Innovative Lösungen gegen Krebs, Geldwäsche oder Fehlalarm"
     
-    [<img alt="ZHAW Datalab founders" src="http://stdm.github.io/images/impact-06-2017.png"/>](https://stdm.github.io/downloads/press/2017-06-01_ZHAW-Impact_Datalab.pdf)
+    <!--- [<img alt="ZHAW Datalab founders" src="http://stdm.github.io/images/impact-06-2017.png"/>](https://stdm.github.io/downloads/press/2017-06-01_ZHAW-Impact_Datalab.pdf) -->
   
   * September 26, 2016, [Radio 1](https://stdm.github.io/downloads/press/2016-09-26_Radio1_KuenstlicheIntelligenzI.mp3) [part II](https://stdm.github.io/downloads/press/2016-09-26_Radio1_KuenstlicheIntelligenzII.mp3) [part III](https://stdm.github.io/downloads/press/2016-09-26_Radio1_KuenstlicheIntelligenzIII.mp3): "Künstliche Intelligenz"
 
