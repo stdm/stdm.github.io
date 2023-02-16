@@ -29,10 +29,15 @@ I try to make my main courses available as free online ressources as a best effo
 
 | **When** | **Level** | **Type** | **Title** |
 | --- | --- | --- | --- |
-| Fall 2022 | MSc | MT | Deep-Learning-based Pattern Recognition and the Principle of Self Organization |
-| Fall 2022 | MSc | VT2 | Supporting DARPin Binder Selection using Deep Learning |
-| Fall 2022 | MSc | VT1 | Teaching Neural Nets to Learn Dynamic Voice Features Features for Automatic Speaker Verification |
-| Fall 2022 | MSc | VT1 | Machine-Learning-based Perception for ZHAW's Formula Student Autonomous Car |
+| Spring 2022 | PhD | Thesis | Deep Learning for Robust and Explainable Models in Computer Vision |
+| Spring 2022 | MSc | MT | Deep-Learning-based Pattern Recognition and the Principle of Self Organization |
+| Spring 2022 | BSc | BA | RoboDog III: Building a Vision and /or Sound-Based AI Demonstrator on a Robotic Platform |
+| Spring 2022 | BSc | BA | Deep-Learning-based Cell Segmentation for the Detection of Thyroid Cancer in Single Cells |
+| Spring 2022 | BSc | BA | Teaching Neural Nets to Learn Dynamic Voice Features Features for Automatic Speaker Verification |
+| Spring 2022 | MAS | Thesis | Lean Production Monitoring (with Cameras) |
+| Fall 2022 | MSc | VT2 | Supporting DARPin binder selection through deep learning |
+| Fall 2022 | MSc | VT1 | Reproducing a large-scale Speaker Verification System |
+| Fall 2022 | MSc | VT1 | The Practical Impact of Data-Centrism on the Example of Autonomous Driving |
 | Fall 2022 | BSc | PA | RoboDog II: Building a Vision and /or Sound-Based AI Demonstrator on a Robotic Platform |
 | Fall 2022 | BSc | PA | Speak your mind! Brain Computer Interfaces for Communication |
 | Fall 2022 | BSc | PA | Machine-Learning-based Analysis of Data from the ZHAW Movement Analysis Laboratory for Fatigue Detection during Sports Exercises |
@@ -110,17 +115,26 @@ I try to make my main courses available as free online ressources as a best effo
   * VT1: Master specialization project thesis 1
   * VT2: Master specialization project thesis 2
   * MT: Master thesis
+  * MAS: Master thesis in continuing education
 
 
 <a name="lectures"></a>
 ## Lectures & curriculae
 
+#### Active
+
 | Tag | Name | Format | Type | Content | Did what? | When? |
 | --- | --- | --- | --- | --- | --- | --- |
-| [AI1](http://stdm.github.io/ai-course) | **Artificial Intelligence 1** | lecture & lab | final year BSc computer science elective course; won [best teaching award (3rd place)](https://stdm.github.io/ATLAS/) in 2019 | practical AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017-2022 |
-| AI2 | **Artificial Intelligence 2** | lecture & lab | finale year BSc computer science elective course | developing fair algorithms; towards more general neural models | responsible, co-initiate, co-create | Fall 2017, spring 2022 |
-| ML | **Machine Learning** | lecture & lab | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Machine Intelligence](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-machine-intelligence.html) | practical machine learning for data scientists | responsible, initiate, create, teach | Fall 2015-2016, spring 2017-2018, spring 2021 |
-| ADS | **Algorithmen und Datenstrukturen** | lecture & lab | BSc data science foundational module | introduction to algorithms and data structures with Python | responsible | Spring 2021 |
+| [AI1](http://stdm.github.io/ai-course) | **Artificial Intelligence 1** | lecture & lab | final year BSc computer science elective course; won [best teaching award (3rd place)](https://stdm.github.io/ATLAS/) in 2019 | foundational AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017-2022 |
+| AI2 | **Artificial Intelligence 2** | lecture & lab | finale year BSc computer science / data science elective course | developing fair algorithms; towards more general neural models | responsible, co-initiate, co-create | Fall 2017, spring 2023 |
+| ML | **Machine Learning** | lecture & lab | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Machine Intelligence](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-machine-intelligence.html) | practical machine learning for data scientists | responsible, initiate, create, teach | Fall 2015-2016, spring 2017-2018, spring 2021, spring 2023 |
+| CVDL | **Computer Vision with Deep Learning** | lecture & lab | finale year BSc computer science / data science elective course | modern computer vision based on deep learning methodology (beyond CNNs and classification) | responsible, initiate, co-create | Fall 2022 |
+
+
+#### Previously
+
+| Tag | Name | Format | Type | Content | Did what? | When? |
+| --- | --- | --- | --- | --- | --- | --- |
 | [FTP_MachLe](http://stdm.github.io/ml-course) | **Machine Learning** | lecture & lab | MSc computer science & engineering elective course; won best [teaching final round nomination](https://stdm.github.io/Science-applied/) in 2017 | mid-level course on practical machine learning with a focus on deep learning | responsible, initiate, co-create, co-teach | Spring 2017-2020 |
 | EVA MI Lab | **Machine Intelligence Lab** | MOOC, colloquia & hackathon | MSc extended advanced module (EVA) | experience an online course on an advanced machine learning topic | responsible, initiate, co-create, teach | Fall 2015-2019 |
 | EVA AI Seminar | **Artificial Intelligence Semniar** | seminar, blog posts, talk | MSc extended advanced module (EVA) | read, understand and write scientific literature | initiate, create, teach | Spring 2017-2019 |
