@@ -41,7 +41,7 @@ I try to make my main courses available as free online ressources as a best effo
 | Fall 2022 | MSc | VT2 | Supporting DARPin binder selection through deep learning |
 | Fall 2022 | MSc | VT1 | Reproducing a large-scale Speaker Verification System |
 | Fall 2022 | MSc | VT1 | The Practical Impact of Data-Centrism on the Example of Autonomous Driving |
-| Fall 2022 | BSc | PA | ** RoboDog II: Building a Vision and /or Sound-Based AI Demonstrator on a Robotic Platform ** <br> _top grade_ <br> Students: Tenzin Samdrup Langdun, Martin Oswald |
+| Fall 2022 | BSc | PA | **RoboDog II: Building a Vision and /or Sound-Based AI Demonstrator on a Robotic Platform** <br> _top grade_ <br> Students: Tenzin Samdrup Langdun, Martin Oswald |
 | Fall 2022 | BSc | PA | Speak your mind! Brain Computer Interfaces for Communication |
 | Fall 2022 | BSc | PA | Machine-Learning-based Analysis of Data from the ZHAW Movement Analysis Laboratory for Fatigue Detection during Sports Exercises |
 | Spring 2022 | MSc | MT | Leveraging Neuroscience for Deep Learning Based Object Recognition |
@@ -130,17 +130,22 @@ I try to make my main courses available as free online ressources as a best effo
 | --- | --- | --- | --- | --- | --- | --- |
 | [AI1](http://stdm.github.io/ai-course) | **Artificial Intelligence 1** | lecture & lab | final year BSc computer science elective course; won [best teaching award (3rd place)](https://stdm.github.io/ATLAS/) in 2019 | foundational AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017-2022 |
 | AI2 | **Artificial Intelligence 2** | lecture & lab | finale year BSc computer science / data science elective course | developing fair algorithms; towards more general neural models | responsible, co-initiate, co-create | Fall 2017, spring 2023 |
-| ML | **Machine Learning** | lecture & lab | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Machine Intelligence](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-machine-intelligence.html) | practical machine learning for data scientists | responsible, initiate, create, teach | Fall 2015-2016, spring 2017-2018, spring 2021, spring 2023 |
 | CVDL | **Computer Vision with Deep Learning** | lecture & lab | finale year BSc computer science / data science elective course | modern computer vision based on deep learning methodology (beyond CNNs and classification) | responsible, initiate, co-create | Fall 2022 |
+| ML | **Machine Learning** | lecture & lab | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Machine Intelligence](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-machine-intelligence.html) | practical machine learning for data scientists | responsible, initiate, create, teach | Fall 2015-2016, spring 2017-2018, spring 2021, spring 2023 |
 
 
 #### Previously
 
 | Tag | Name | Format | Type | Content | Did what? | When? |
 | --- | --- | --- | --- | --- | --- | --- |
-| [FTP_MachLe](http://stdm.github.io/ml-course) | **Machine Learning** | lecture & lab | MSc computer science & engineering elective course; won best [teaching final round nomination](https://stdm.github.io/Science-applied/) in 2017 | mid-level course on practical machine learning with a focus on deep learning | responsible, initiate, co-create, co-teach | Spring 2017-2020 |
+| RL | **Reinforcement Learning** | lecture & lab | finale year BSc computer science / data science elective course | introduction to reinforcement learning | initiate | Fall 2022 |
+| MLOps | **Machine Learning Operations** | lecture & lab | finale year BSc computer science / data science elective course | introduction to building, operating and maintaining machine learing pipelines and systems | initiate | Fall 2022 |
+| CAS MLOps | **Certificate of Advanced Studies in Machine Learning Operations** | on-premise one-year continuing education programme | thorough introduction to MLOps and societal aspects of applied AI | initiate| Fall 2022 |
+| [MachLe](http://stdm.github.io/ml-course) | **Machine Learning** | lecture & lab | MSc computer science & engineering elective course; won best [teaching final round nomination](https://stdm.github.io/Science-applied/) in 2017 | mid-level course on practical machine learning with a focus on deep learning | responsible, initiate, co-create, co-teach | Spring 2017-2020 |
+| MSE profile DS | **Profile Data Science** in the Swiss [Master of Science in Engineering](https://www.msengineering.ch/profiles/engineering-and-it/data-science) | MSc programme | new profile within the joint Swiss engineering master's degree, consisting of theoretical, foundational, and context modules on analytics, data engineering, and data management | co-initiate, co-create, member of module groups | Spring 2016 |
 | EVA MI Lab | **Machine Intelligence Lab** | MOOC, colloquia & hackathon | MSc extended advanced module (EVA) | experience an online course on an advanced machine learning topic | responsible, initiate, co-create, teach | Fall 2015-2019 |
 | EVA AI Seminar | **Artificial Intelligence Semniar** | seminar, blog posts, talk | MSc extended advanced module (EVA) | read, understand and write scientific literature | initiate, create, teach | Spring 2017-2019 |
+| CAS Machine Intelligence | **Certificate of Advanced Studies in Machine Intelligence** | on-premise one-year continuing education programme | thorough introduction to applied machine and deep learning, text analytics and big data | initiate, co-create, module responsible| Spring 2017 |
 | DPD | **Data Product Design** | lecture, lab, guest appearances, video pitch | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Data Product Design](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-product-design.html) | business basics for techie data scientists | initiate, co-create, co-teach | Fall 2015-2017 |
 | PROG2 | **Programmieren 2** | lecture & lab | BSc computer science foundational module | advanced Java programming & tooling | co-create, teach | Spring 2014-2017 |
 | Scripting | **Scripting** | lecture & lab | continuing education module in [CAS Information Engineering](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-information-engineering.html) | foundations of scripting for analytics with Python for data scientists | initiate, create, teach | Fall 2014-2015 |
