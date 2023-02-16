@@ -31,6 +31,9 @@ I try to make my main courses available as free online ressources as a best effo
 | --- | --- | --- | --- |
 | Spring 2022 | PhD | Thesis | Deep Learning for Robust and Explainable Models in Computer Vision |
 | Spring 2022 | MSc | MT | Deep-Learning-based Pattern Recognition and the Principle of Self Organization |
+| Spring 2022 | MSc | MT | t.b.d. |
+| Spring 2022 | MSc | VT2 | t.b.d. |
+| Spring 2022 | MSc | VT2 | t.b.d. |
 | Spring 2022 | BSc | BA | RoboDog III: Building a Vision and /or Sound-Based AI Demonstrator on a Robotic Platform |
 | Spring 2022 | BSc | BA | Deep-Learning-based Cell Segmentation for the Detection of Thyroid Cancer in Single Cells |
 | Spring 2022 | BSc | BA | Teaching Neural Nets to Learn Dynamic Voice Features Features for Automatic Speaker Verification |
@@ -38,7 +41,7 @@ I try to make my main courses available as free online ressources as a best effo
 | Fall 2022 | MSc | VT2 | Supporting DARPin binder selection through deep learning |
 | Fall 2022 | MSc | VT1 | Reproducing a large-scale Speaker Verification System |
 | Fall 2022 | MSc | VT1 | The Practical Impact of Data-Centrism on the Example of Autonomous Driving |
-| Fall 2022 | BSc | PA | RoboDog II: Building a Vision and /or Sound-Based AI Demonstrator on a Robotic Platform |
+| Fall 2022 | BSc | PA | ** RoboDog II: Building a Vision and /or Sound-Based AI Demonstrator on a Robotic Platform ** <br> _top grade_ <br> Students: Tenzin Samdrup Langdun, Martin Oswald |
 | Fall 2022 | BSc | PA | Speak your mind! Brain Computer Interfaces for Communication |
 | Fall 2022 | BSc | PA | Machine-Learning-based Analysis of Data from the ZHAW Movement Analysis Laboratory for Fatigue Detection during Sports Exercises |
 | Spring 2022 | MSc | MT | Leveraging Neuroscience for Deep Learning Based Object Recognition |
