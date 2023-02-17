@@ -531,6 +531,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="press"></a>
 ## In the press 
   
+  * February 17, 2023, [Schaffhauser Nachrichten](https://www.shn.ch/multimedia/podcast/2023-02-17/braucht-es-uns-journalisten-in-zukunft-ueberhaupt-noch): "**Braucht es uns Journalisten überhaupt noch?**" ('Call the Boss' podcast with Beat Rechsteiner)
+  
   * February 13, 2023, [Finanzen und Wirtschaft](https://www.fuw.ch/chatgpt-laeutet-tech-revolution-ein-303487897856): "**Plötzlich nützlich: ChatGPT läutet Tech-Revolution ein**"
   
   * February 11, 2023, [NZZ Magazin](https://magazin.nzz.ch/wirtschaft/google-kann-im-abwehrkampf-gegen-microsoft-nur-verlieren-ld.1725680): "**Künstliche Intelligenz: Microsoft kann nur gewinnen, Google nur verlieren**"
