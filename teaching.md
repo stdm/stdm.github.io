@@ -31,7 +31,7 @@ I try to make my main courses available as free online ressources as a best effo
 | --- | --- | --- | --- |
 | Spring 2022 | PhD | Thesis | Deep Learning for Robust and Explainable Models in Computer Vision |
 | Spring 2022 | MSc | MT | Deep-Learning-based Pattern Recognition and the Principle of Self Organization |
-| Spring 2022 | MSc | MT | t.b.d. |
+| Spring 2022 | MSc | MT | Predicting DARPin Protein Binding using Geometric Graph Neural Networks |
 | Spring 2022 | MSc | VT2 | t.b.d. |
 | Spring 2022 | MSc | VT2 | t.b.d. |
 | Spring 2022 | BSc | BA | RoboDog III: Building a Vision and /or Sound-Based AI Demonstrator on a Robotic Platform |
