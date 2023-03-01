@@ -47,7 +47,7 @@ I try to make my main courses available as free online ressources as a best effo
 | Spring 2022 | MSc | MT | Leveraging Neuroscience for Deep Learning Based Object Recognition |
 | Spring 2022 | MSc | VT1 | Automatic extraction of anthropometric features and body composition parameters from computer tomography images enables improved BMI prediction at scale |
 | Spring 2022 | BSc | BA | Making AI Tangible: Building a Computer Vision Demonstrator on a Robotic Platform |
-| Spring 2022 | BSc | BA | Learning to Learn: Learning Successful Weight Patterns for Instant Deep Neural Network Training <br> _top grade_ <br> Students: Urban Lutz and Alexandre Manai |
+| Spring 2022 | BSc | BA | **Learning to Learn: Learning Successful Weight Patterns for Instant Deep Neural Network Training** <br> _top grade_ <br> Students: Urban Lutz and Alexandre Manai |
 | Fall 2022 | MSc | MT | Entropy-Aware Active Vision through Voxelized Octree Exploration of 3D Scenes |
 | Fall 2021 | MAS | Thesis | Similarity Analysis of Jazz Tunes with Vector Space Models |
 | Fall 2021 | MAS | Thesis | Confidence-Rated Predictions with Deep Learning for Music Object Detection |
