@@ -531,6 +531,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="press"></a>
 ## In the press 
   
+  * March 01, 2023, [20 Minuten](https://www.20min.ch/story/unis-ruesten-sich-gegen-schummeleien-mit-kuenstlicher-intelligenz-856642319378): "**Bschiss mit KI: Unis reagieren bei Prüfungen**" (front page lead story)
+  
   * February 20, 2023, [20 Minuten](https://www.20min.ch/story/diese-jobs-fallen-kuenftig-durch-ki-weg-851437985259): "**KI-Revolution: Diese Jobs fallen künftig durch KI weg**" (front page lead story)
   
   * February 17, 2023, [Schaffhauser Nachrichten](https://www.shn.ch/multimedia/podcast/2023-02-17/braucht-es-uns-journalisten-in-zukunft-ueberhaupt-noch): "**Braucht es uns Journalisten überhaupt noch?**" ('Call the Boss' podcast with Beat Rechsteiner)
