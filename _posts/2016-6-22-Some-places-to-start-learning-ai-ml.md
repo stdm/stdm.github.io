@@ -33,6 +33,7 @@ These reading resources might also be of interest (use cases, deep dives into sp
       * [Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/) by Brandon Amos (on DCGANs)
       * [Generative Models](https://openai.com/blog/generative-models/) by the OpenAI team (on DCGANs, VAEs and PixelRNNs)
       * [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) by the DeepMind team (on PixelCNNs)
+      * ...this area of course exploded in 2022 with new image and text generating models - see my AI2 module
   * on RNNs 
       * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) by Andrej Karpathy
       * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) by Chris Olah
@@ -48,8 +49,9 @@ These reading resources might also be of interest (use cases, deep dives into sp
   * on meta learning
       * [Deep Learning-to-Learn Robotic Control](https://www.youtube.com/watch?v=TERCdog1ddE) by Pieter Abbeel
       * [Learning to learn](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/) by Chelsea Finn
-      * [From zero to research — An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a) by Thomas Wolf 
+      * [From zero to research — An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a) by Thomas Wolf
   * other
+      * [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497) by Michael A. Lones
       * [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook) by staff @Google
       * [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html) by Horace He of PyTorch on how to optimize DL code on GPUs
       * [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) by Andrej Karpathy
