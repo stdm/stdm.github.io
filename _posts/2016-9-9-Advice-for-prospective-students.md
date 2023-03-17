@@ -24,8 +24,8 @@ Here you go: you first may want to have a look at...
   * [PA_BA-Howto](../downloads/PA_BA-Howto.pdf) by Martin Braschler and myself on how to write a thesis at ZHAW; very good supplementary material to Karpathy's post (in German).
   * [Bewertungsschema_CH](http://stdm.github.io/downloads/Bewertungsschema_CH.xlsx) edited by myself, serving as my "Bauchgefühlobjektivierer" when it comes to grading theses and presentations (in German). If you have a careful look at the criteria and their weighting, you know exactly what matters (to me). 
   * [LaTex template](http://stdm.github.io/downloads/LaTeX_PABA_Vorlage_Rev.0.zip) for ZHAW thesis reports.
-  * [Standard outline](http://stdm.github.io/downloads/standard-outline-thesis.txt) for a student thesis in ML/computer science.
-  
+  * [Standard outline](http://stdm.github.io/downloads/standard-outline-thesis.txt) for a student thesis in our field.
+
 Related, here are a couple of links to blog posts of myself that pertain to successfully study, write a thesis, become an applied researcher, and by that start your career:
 
   * [Some places to start learning AI & ML](../Some-places-to-start-learning-ai-ml) on where to find additional resorces to be educated in AI and machine learning. Includes links to very good MOOCs, to exciting blog posts with intuitive explanations and code for recent techniques and applications, and to more general advice on how to build a career as a [data scientist](http://www.zhaw.ch/datalab) out of this.
