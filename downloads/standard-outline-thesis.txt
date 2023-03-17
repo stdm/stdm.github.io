@@ -1,0 +1,25 @@
+Abstract
+- [typical architecture: ca. 1-2 sentences for each of motivation; problem statement; approach; results; relevency of results]
+
+1. Introduction
+- Motivation [understandable also for a general audience]
+- Problem statement [formulation of research question]
+(- Own contributions [novelties you claim as your own])
+(- Organization of thesis [brief description of how the remaining chapters are organized])
+
+2. Foundations
+- [Introduction of foundations not generally known to professionals in computer science]
+- Related work [simiarl to respective chapters in papers: review the relevant related work by briefly summarizing it incl.used methods and achieved results, and then contrasting it with own task, i.e., show any gaps to own problem statement]
+
+3. Methods [title could be made less generic]
+- [Describe and argue for own methodology/approach: how does you approach work, why did you choose it? The latter could also be discussed in ch. 2]
+
+4. Experiments & Results
+- [Experimental setup, results, discussion of results incl. their relevancy & limitations; specific organization is very depedenent on the individual situation]
+
+5. Conclusions
+- Summary [Summarize your thesis, including approach, results, and main knowledge gaines; brag about what you have achieved! Speculate about future]
+- Future work [short-, mid-, and long-term things one sould do; this can be a very valuable, and hence, longer, section]
+
+Bibliography
+- [take care to format entries well]
