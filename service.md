@@ -537,6 +537,10 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="press"></a>
 ## In the press 
   
+  March 31, 2023, SRF 10vor10
+  
+  March 31, 2023, [20 Minuten](https://www.20min.ch/story/wie-gefaehrlich-wird-ki-fuer-uns-drei-horrorszenarien-im-faktencheck-497564063384): "**Wie gefährlich wird KI für uns? Drei Horrorszenarien im Faktencheck**"
+  
   March 23, 2023, [SwissLife-Select Blog](https://www.swisslife-select.ch/de/swiss-life-select/blog/interview-thilo-stadelmann.html): "**Alleskönner ChatGPT: Wie selbstbestimmt ist die Künstliche Intelligenz?**" (interview)
   
   * March 01, 2023, [20 Minuten](https://www.20min.ch/story/unis-ruesten-sich-gegen-schummeleien-mit-kuenstlicher-intelligenz-856642319378): "**Bschiss mit KI: Unis reagieren bei Prüfungen**" (front page lead story)
