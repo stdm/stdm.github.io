@@ -23,12 +23,16 @@ Much to the suprise of my younger self, I have become a very active networker, p
 #### 2023 
 
   * Keynote at the [Schweizer Bibliothekskongress](https://bibliosuisse.ch/Aktivit%C3%A4ten/Schweizer-Bibliothekskongress), Zurich, Switzerland, November 03, 2023
+  
+  * Invited talk for the data protection officer of the Canton of Zurich's office, Zurich, Switzerland, June 27, 2023
+  
+  * Invited talk for suva top management on "Current state of AI", Luzern, Switzerland, June 05, 2023
 
-  * Invited Talk and panel discussion at [Kongress Christlicher Führungskräfte 2023](https://www.kcf.de/kcf23/programm/plenum), Berlin, Germany, April 27, 2023
+  * Invited talk and panel discussion at [Kongress Christlicher Führungskräfte 2023](https://www.kcf.de/kcf23/programm/plenum), Berlin, Germany, April 27, 2023
 
-  * Invited Talk at SBB Inspire meeting for top management, Bern Switzerland, April 03, 2023
+  * Invited talk at SBB Inspire meeting for top management, Bern Switzerland, April 03, 2023
 
-  * Invited Talk on **"Introduction to Generative AI"** at the Rotary Club Zürich Sihltal, Kilchberg, Switzerland, March 09, 2023
+  * Invited talk on **"Introduction to Generative AI"** at the Rotary Club Zürich Sihltal, Kilchberg, Switzerland, March 09, 2023
 
   * Workshop ("Atelier") on **"KI als Chance für die angewandten Wissenschaften im Wettbewerb der Hochschulen"** at the [Bürgenstock-Konferenz der Schweizer Fachhochschulen und Pädagogischen Hochschulen](https://buergenstock-konferenz.ch/index.php/de/component/content/?view=featured), Luzern, Schweiz, 20. Januar 2023.
 
@@ -537,13 +541,13 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="press"></a>
 ## In the press 
   
-  April 01, 2023, [Fenster zum Sonntag](https://www.sonntag.ch/tv-programm/mensch-20/): "**Mensch 2.0**"
+  * April 01, 2023, [Fenster zum Sonntag](https://www.sonntag.ch/tv-programm/mensch-20/): "**Mensch 2.0**"
   
-  March 31, 2023, [SRF 10vor10](https://www.srf.ch/play/tv/redirect/detail/8ee89778-093d-443b-9c38-b466361c2b2a): "**Eine Einordnung der geforderten "Denkpause" für künstliche Intelligenz**"
+  * March 31, 2023, [SRF 10vor10](https://www.srf.ch/play/tv/redirect/detail/8ee89778-093d-443b-9c38-b466361c2b2a): "**Eine Einordnung der geforderten "Denkpause" für künstliche Intelligenz**"
   
-  March 31, 2023, [20 Minuten](https://www.20min.ch/story/wie-gefaehrlich-wird-ki-fuer-uns-drei-horrorszenarien-im-faktencheck-497564063384): "**Wie gefährlich wird KI für uns? Drei Horrorszenarien im Faktencheck**"
+  * March 31, 2023, [20 Minuten](https://www.20min.ch/story/wie-gefaehrlich-wird-ki-fuer-uns-drei-horrorszenarien-im-faktencheck-497564063384): "**Wie gefährlich wird KI für uns? Drei Horrorszenarien im Faktencheck**"
   
-  March 23, 2023, [SwissLife-Select Blog](https://www.swisslife-select.ch/de/swiss-life-select/blog/interview-thilo-stadelmann.html): "**Alleskönner ChatGPT: Wie selbstbestimmt ist die Künstliche Intelligenz?**" (interview)
+  * March 23, 2023, [SwissLife-Select Blog](https://www.swisslife-select.ch/de/swiss-life-select/blog/interview-thilo-stadelmann.html): "**Alleskönner ChatGPT: Wie selbstbestimmt ist die Künstliche Intelligenz?**" (interview)
   
   * March 01, 2023, [20 Minuten](https://www.20min.ch/story/unis-ruesten-sich-gegen-schummeleien-mit-kuenstlicher-intelligenz-856642319378): "**Bschiss mit KI: Unis reagieren bei Prüfungen**" (front page lead story)
   
