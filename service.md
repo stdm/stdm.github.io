@@ -537,7 +537,9 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="press"></a>
 ## In the press 
   
-  March 31, 2023, SRF 10vor10
+  April 01, 2023, [Fenster zum Sonntag](https://www.sonntag.ch/tv-programm/mensch-20/): "**Mensch 2.0**"
+  
+  March 31, 2023, [SRF 10vor10](https://www.srf.ch/play/tv/redirect/detail/8ee89778-093d-443b-9c38-b466361c2b2a): "**Eine Einordnung der geforderten "Denkpause" für künstliche Intelligenz**"
   
   March 31, 2023, [20 Minuten](https://www.20min.ch/story/wie-gefaehrlich-wird-ki-fuer-uns-drei-horrorszenarien-im-faktencheck-497564063384): "**Wie gefährlich wird KI für uns? Drei Horrorszenarien im Faktencheck**"
   
