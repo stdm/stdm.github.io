@@ -31,6 +31,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
   * Invited talk and panel discussion at [Kongress Christlicher Führungskräfte 2023](https://www.kcf.de/kcf23/programm/plenum), Berlin, Germany, April 27, 2023
 
   * Invited talk at SBB Inspire meeting for top management, Bern Switzerland, April 03, 2023
+  
+  * Invited talk and panelist at Meilen KI Dialog **"KI und Zukunft: Wohin geht die Reise?"**, Meilen, Switzerland, April 02, 2023
 
   * Invited talk on **"Introduction to Generative AI"** at the Rotary Club Zürich Sihltal, Kilchberg, Switzerland, March 09, 2023
 
