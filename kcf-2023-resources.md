@@ -4,9 +4,9 @@ layout: page
 comments: true
 ---
 
-### KCF 2023, 27. April, berlin, Deutschland
+### KCF 2023, 27. April, Berlin, Deutschland
 
-Diese Seite stellt einige Ressourcen in Ergänzung merrines Vortrags am [KCF 2023](https://www.kcf.de/kcf23) in Berlin zusammen. Diese können helfen, einige der angesprochenen Themen weiter zu vertiefen. Ich erachte sie als Hilfreich, ohne unbedingt jede Aussage voll zu unterstützen (in den nicht von mir stammenden Ressourcen).
+Diese Seite stellt einige Ressourcen in Ergänzung meines Vortrags am [KCF 2023](https://www.kcf.de/kcf23) in Berlin zusammen. Diese können helfen, einige der angesprochenen Themen weiter zu vertiefen. Ich erachte sie als Hilfreich, ohne unbedingt jede Aussage voll zu unterstützen (in den nicht von mir stammenden Ressourcen).
 
 [<img alt="Thilo Stadelmann als Sprecher" src="http://stdm.github.io/images/stdm-digitalday-2019.jpg"/>](http://stdm.github.io/images/stdm-digitalday-2019.jpg)
 
@@ -28,7 +28,7 @@ Diese Links führen zu Demoversionen aktueller generativer KI-Verfahren, mittels
   * OpenAI's [**ChatGPT**](https://chat.openai.com/chat)
   * StabilityAI's [**Stable Diffusion**](https://stablediffusionweb.com/#demo) (inoffiziell)
   * Microsoft's	[**365 Copilot**](https://news.microsoft.com/de-ch/2023/03/16/der-neue-microsoft-365-copilot-ihr-copilot-fur-die-arbeit/) (Ankündigung)
-  * c't über [**AutoGPT**](https://www.heise.de/news/c-t-3003-Kann-alles-und-macht-alles-und-ist-kaputt-AutoGPT-ausprobiert-8975808.html)
+  * c't über [**AutoGPT**](https://www.heise.de/news/c-t-3003-Kann-alles-und-macht-alles-und-ist-kaputt-AutoGPT-ausprobiert-8975808.html) (redaktioneller Bericht)
 
 
 ## Hintergrund zum christlichen Weltbild
