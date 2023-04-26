@@ -23,7 +23,7 @@ Folgende Beiträge geben einen allgemeinverständlichen Einblick in und Einordnu
 
 ## Aktuelle KI-Tools zum Ausprobieren
 
-Diese Links führen zu Demoversionen aktueller generativer KI-Verfahren mittels derer man sich selbst ein Bild der Nützlichkeit entsprechender Verfahren machen kann:
+Diese Links führen zu Demoversionen aktueller generativer KI-Verfahren, mittels derer man sich selbst ein Bild der Nützlichkeit entsprechender Verfahren machen kann:
 
   * OpenAI's [**ChatGPT**](https://chat.openai.com/chat)
   * StabilityAI's [**Stable Diffusion**](https://stablediffusionweb.com/#demo) (inoffiziell)
@@ -33,8 +33,9 @@ Diese Links führen zu Demoversionen aktueller generativer KI-Verfahren mittels 
 
 ## Hintergrund zum christlichen Weltbild
 
-Folgende Bücher geben umfangreicher Auskunft über eine mit optimistischer Zukunftsaussicht ausgestattete christliche Weltsicht:
+Folgende Medien geben umfangreicher Auskunft über eine mit optimistischer Zukunftsaussicht ausgestattete christliche Weltsicht:
 
+  * Thilo Stadelmann. [**Künstliche Intelligenz - Chance oder Gefahr?**](https://www.youtube.com/watch?v=P89cDOqlATw). SRF Fenster zum Sonntag Magazin, 2023.
   * David M. Taylor. [**FaithTech**](https://faithtechbook.com/). SoundsWrite, 2019.
   * Bill Johnson. [**Gott ist gut: Er ist besser als du denkst**](https://www.amazon.de/Gott-ist-gut-besser-denkst/dp/3944794796/). Grain Press, 2017.
   * Harold R. Eberle und Martin Trench. [**Victorious Eschatology, third edition**](https://www.amazon.de/Victorious-Eschatology-Dr-Harold-Eberle/dp/1953087264). Worldcast Publishing, 2021. 
