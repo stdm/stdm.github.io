@@ -28,7 +28,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
   
   * Invited talk for suva top management on "Current state of AI", Luzern, Switzerland, June 05, 2023
 
-  * Invited talk and panel discussion at [Kongress Christlicher Führungskräfte 2023](https://www.kcf.de/kcf23/programm/plenum), Berlin, Germany, April 27, 2023
+  * Key note, panel discussion and workshop on **"Die Macht der künstliche Intelligenz"** at [Kongress Christlicher Führungskräfte 2023](https://www.kcf.de/kcf23/programm/plenum), Berlin, Germany, April 27, 2023
 
   * Invited talk at SBB Inspire meeting for top management, Bern Switzerland, April 03, 2023
   
@@ -542,6 +542,12 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 <a name="press"></a>
 ## In the press 
+
+	* April 27, 2023, [PRO Medienmagazin](https://www.pro-medienmagazin.de/ki-wissenschaftler-ki-kann-zur-renaissance-des-glaubens-fuehren/): ""**Forscher: KI kann zur Renaissance des Glaubens führen**"
+
+	* April 27, 2023, [Idea](https://www.idea.de/artikel/informatiker-ki-ist-das-maechtigste-werkzeug-der-menschheit): "**Informatiker: KI ist das mächtigste Werkzeug der Menschheit**"
+  
+  * April 12, 2023, [Idea](https://www.idea.de/artikel/kuenstliche-intelligenz-ist-ein-werkzeug-keine-macht-die-ueber-uns-steht): "**Künstliche Intelligenz ist ein Werkzeug, keine Macht, die über uns steht**"
   
   * April 01, 2023, [Fenster zum Sonntag](https://youtu.be/P89cDOqlATw): "**Mensch 2.0**"
   
