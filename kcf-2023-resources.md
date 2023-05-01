@@ -37,6 +37,7 @@ Folgende Medien geben umfangreicher Auskunft über eine mit optimistischer Zukun
 
   * Thilo Stadelmann. [**Künstliche Intelligenz - Chance oder Gefahr?**](https://www.youtube.com/watch?v=P89cDOqlATw). SRF Fenster zum Sonntag Magazin, 2023.
   * David M. Taylor. [**FaithTech**](https://faithtechbook.com/). SoundsWrite, 2019.
+  * Dallas Willard. [**The Divine Conspiracy: Rediscovering Our Hidden Life in God**](https://www.amazon.de/Divine-Conspiracy-Rediscovering-Hidden-Life/dp/0007596545). Harper Collins, 2014 (see also video trainings [here](https://dwillard.org/divine-conspiracy-teaching-series)).
   * Bill Johnson. [**Gott ist gut: Er ist besser als du denkst**](https://www.amazon.de/Gott-ist-gut-besser-denkst/dp/3944794796/). Grain Press, 2017.
   * Harold R. Eberle und Martin Trench. [**Victorious Eschatology, third edition**](https://www.amazon.de/Victorious-Eschatology-Dr-Harold-Eberle/dp/1953087264). Worldcast Publishing, 2021. 
 

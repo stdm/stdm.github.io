@@ -543,6 +543,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="press"></a>
 ## In the press 
 
+  * April 29, 2023, [PRO Medienmagazin](https://www.pro-medienmagazin.de/kcf-mit-zuversicht-in-die-zukunft/): "**KCF: Mit Zuversicht in die Zukunft**"
+
   * April 28, 2023, [Junge Freiheit](https://jungefreiheit.de/kultur/gesellschaft/2023/kuenstliche-intelligenz-terminator/): "**Künstliche Intelligenz erschafft keinen Terminator**"
 
   * April 27, 2023, [PRO Medienmagazin](https://www.pro-medienmagazin.de/ki-wissenschaftler-ki-kann-zur-renaissance-des-glaubens-fuehren/): "**Forscher: KI kann zur Renaissance des Glaubens führen**"
