@@ -563,6 +563,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
   
   * March 23, 2023, [SwissLife-Select Blog](https://www.swisslife-select.ch/de/swiss-life-select/blog/interview-thilo-stadelmann.html): "**Alleskönner ChatGPT: Wie selbstbestimmt ist die Künstliche Intelligenz?**" (interview)
   
+  * March 09, 2023, [Sky News](https://skynews.ch/zivilluftfahrt/drohnen-testinfrastruktur-auf-flugplatz-duebendorf/): "**Drohnen-Testinfrastruktur auf Flugplatz Dübendorf**"
+  
   * March 01, 2023, [20 Minuten](https://www.20min.ch/story/unis-ruesten-sich-gegen-schummeleien-mit-kuenstlicher-intelligenz-856642319378): "**Bschiss mit KI: Unis reagieren bei Prüfungen**" (front page lead story)
   
   * February 20, 2023, [20 Minuten](https://www.20min.ch/story/diese-jobs-fallen-kuenftig-durch-ki-weg-851437985259): "**KI-Revolution: Diese Jobs fallen künftig durch KI weg**" (front page lead story)
