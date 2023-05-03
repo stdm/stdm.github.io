@@ -553,6 +553,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
   
   * April 12, 2023, [Idea](https://www.idea.de/artikel/kuenstliche-intelligenz-ist-ein-werkzeug-keine-macht-die-ueber-uns-steht): "**Künstliche Intelligenz ist ein Werkzeug, keine Macht, die über uns steht**"
   
+  * April 05, 2023, [Meilener Anzeiger](https://meileneranzeiger.ch/kuenstliche-intelligenz-wohin-geht-die-reise/): "**Künstliche Intelligenz - wohin geht die Reise?**"
+  
   * April 01, 2023, [Fenster zum Sonntag](https://youtu.be/P89cDOqlATw): "**Mensch 2.0**"
   
   * March 31, 2023, [SRF 10vor10](https://www.srf.ch/play/tv/redirect/detail/8ee89778-093d-443b-9c38-b466361c2b2a): "**Eine Einordnung der geforderten "Denkpause" für künstliche Intelligenz**"
