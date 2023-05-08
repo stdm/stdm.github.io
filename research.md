@@ -293,6 +293,8 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 #### 2023
 
+Raphael Emberger, Jens Michael Boss, Daniel Baumann, Marko Seric, Shufan Huo, Lukas Tuggener, Emanuela Keller, and Thilo Stadelmann. ["**Video object detection for privacy-preserving patient monitoring in intensive care**"](https://stdm.github.io/downloads/papers/SDS_2023b.pdf). In: Proceedings of the 10th IEEE Swiss Conference on Data Science (**SDS'23**), Zurich, Switzerland, 2023.
+
 Paul-Philipp Luley, Jan M. Deriu, Peng Yan, Gerrit A. Schatte, and Thilo Stadelmann. ["**From Concept to Implementation: The Data-Centric Development Process for AI in Industry**"](https://stdm.github.io/downloads/papers/SDS_2023a.pdf). In: Proceedings of the 10th IEEE Swiss Conference on Data Science (**SDS'23**), Zurich, Switzerland, 2023.
 
 Mohammadreza Amirian, Javier A. Montoya-Zegarra, Lukas Lichtensteiger, Ivo Herzig, Peter Eggenberger Hotz,  Marco Morf, Alexander Züst, Rudolf Marcel Füchslin, Pascal Paysan, Igor Peterlik, Stefan Scheib, Thilo Stadelmann, and Frank-Peter Schilling. ["**Mitigation of Motion-Induced Artifacts in Cone Beam Computed Tomography using Deep Convolutional Neural Networks**"](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.16405). **Med. Phys.**, Wiley, March 2023. DOI [10.1002/mp.16405](https://doi.org/10.1002/mp.16405).
