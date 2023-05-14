@@ -543,6 +543,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="press"></a>
 ## In the press 
 
+.. * Mai 13, 2023, [NZZ](https://www.msn.com/de-de/finanzen/top-stories/chat-gpt-w%C3%A4chst-so-schnell-wie-keine-anwendung-zuvor-verschwinden-bald-die-b%C3%BCrojobs/ar-AA1b80SI): "**Chat-GPT wächst so schnell wie keine Anwendung zuvor. Verschwinden bald die Bürojobs?** [...] Thilo Stadelmann von der ZHAW sieht die Entwicklung der KI-Technologien vorwiegend als Chance. Wenn ein KI-System in der Pflege für das Schreiben von Reports eingesetzt werden kann, macht das diesen Job wieder etwas attraktiver. «Vielleicht können wir mit KI die Jobs von dem befreien, was sie mühsam macht», sagt er."
+
   * April 29, 2023, [PRO Medienmagazin](https://www.pro-medienmagazin.de/kcf-mit-zuversicht-in-die-zukunft/): "**KCF: Mit Zuversicht in die Zukunft**"
 
   * April 28, 2023, [Junge Freiheit](https://jungefreiheit.de/kultur/gesellschaft/2023/kuenstliche-intelligenz-terminator/): "**Künstliche Intelligenz erschafft keinen Terminator**"
