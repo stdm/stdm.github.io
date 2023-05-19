@@ -20,17 +20,27 @@ Much to the suprise of my younger self, I have become a very active networker, p
 <a name="talks"></a>
 ## Talks 
 
+#### 2024
+
+  * Invited talk at Politlunch Thun, Thun, Switzerland, January 16, 2024
+
 #### 2023 
 
   * Keynote at the [Schweizer Bibliothekskongress](https://bibliosuisse.ch/Aktivit%C3%A4ten/Schweizer-Bibliothekskongress), Zurich, Switzerland, November 03, 2023
   
+  * Keynote on AI in dentistry at Zahnmedizinkongress Bayreuth, Bayreuth, Germany, October 21, 2023
+  
   * Invited talk for the data protection officer of the Canton of Zurich's office, Zurich, Switzerland, June 27, 2023
   
   * Invited talk for suva top management on "Current state of AI", Luzern, Switzerland, June 05, 2023
+  
+  * Invited talk on "Die Macht der künstlichen Intelligenz zum Guten" at the 2023 "[EDEN FEST](https://eden-fest.de/)", Augsburg, Germany, June 03, 2023 
+
+  * Invited talk on generative AI at SBB Inspire meeting for management, Bern Switzerland, May 22, 2023
 
   * Key note, panel discussion and workshop on **"Die Macht der künstliche Intelligenz"** at [Kongress Christlicher Führungskräfte 2023](https://www.kcf.de/kcf23/programm/plenum), Berlin, Germany, April 27, 2023
 
-  * Invited talk at SBB Inspire meeting for top management, Bern Switzerland, April 03, 2023
+  * Invited talk on generative AI at SBB Inspire meeting for top management, Bern Switzerland, April 03, 2023
   
   * Invited talk and panelist at Meilen KI Dialog **"KI und Zukunft: Wohin geht die Reise?"**, Meilen, Switzerland, April 02, 2023
 
