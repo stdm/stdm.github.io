@@ -14,7 +14,7 @@ Much to the suprise of my younger self, I have become a very active networker, p
 2. [Community offices](#offices)
 3. [In the press](#press) 
 
-[<img alt="Interview" src="http://stdm.github.io/images/stdm-konferenz-digitale-schweiz.png"/>](http://stdm.github.io/images/stdm-konferenz-digitale-schweiz.png)
+[<img alt="Interview" src="http://stdm.github.io/images/stdm-kcf-2023.jpg"/>](http://stdm.github.io/images/stdm-kcf-2023.jpg)
 
 
 <a name="talks"></a>
@@ -552,6 +552,8 @@ Much to the suprise of my younger self, I have become a very active networker, p
 
 <a name="press"></a>
 ## In the press 
+
+  * May 23, 2023, [Idea](https://www.idea.de/artikel/kongress-christlicher-fuehrungskraefte-erhaelt-top-bewertungen): "**Kongress Christlicher Führungskräfte erhält Top-Bewertungen** _[...] Rund 2.200 Menschen besuchten den KCF in Berlin [...] Die meisten bezeichneten den Vortrag von dem Experten für Künstliche Intelligenz (KI), Prof. Thilo Stadelmann, als ihr 'Highlight'_"
 
   * May 13, 2023, [NZZ](https://www.nzz.ch/wirtschaft/chat-gpt-waechst-so-schnell-wie-keine-anwendung-zuvor-verschwinden-bald-die-buerojobs-ld.1737257?reduced=true): "**Chat-GPT wächst so schnell wie keine Anwendung zuvor. Verschwinden bald die Bürojobs?** _[...] Thilo Stadelmann von der ZHAW sieht die Entwicklung der KI-Technologien vorwiegend als Chance. Wenn ein KI-System in der Pflege für das Schreiben von Reports eingesetzt werden kann, macht das diesen Job wieder etwas attraktiver. «Vielleicht können wir mit KI die Jobs von dem befreien, was sie mühsam macht», sagt er._"
 
