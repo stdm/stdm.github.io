@@ -8,7 +8,9 @@ comments: true
 
 Diese Seite stellt einige Ressourcen in Ergänzung meines Vortrags am [KCF 2023](https://www.kcf.de/kcf23) in Berlin zusammen. Diese können helfen, einige der angesprochenen Themen weiter zu vertiefen. Ich erachte sie als Hilfreich, ohne unbedingt jede Aussage voll zu unterstützen (in den nicht von mir stammenden Ressourcen).
 
-[<img alt="Thilo Stadelmann als Sprecher" src="http://stdm.github.io/images/kcf2023.jpg"/>](http://stdm.github.io/images/kcf2023.jpg)
+[<img alt="Thilo Stadelmann als Sprecher" src="http://stdm.github.io/images/kcf2023.jpg"/>](https://www.youtube.com/watch?v=0Sk_mX0dSCQ)
+
+[Slides](https://stdm.github.io/downloads/talks/2023-04-27_KCF_Macht-KI.pdf), [video](https://www.youtube.com/watch?v=0Sk_mX0dSCQ)
 
 
 ## Hintergrund zu KI

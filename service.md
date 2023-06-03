@@ -6,7 +6,7 @@ comments: true
 
 I enjoy active networking (matching people, organizations and ideas), public speaking, and leadership in different organizations. You find information related to such academic and public services below.
 
-**Booking**: I regularly give **keynote talks at public or private events** outside of the academic sphere. Current topics are [what to expect from AI and deep learning](https://stdm.github.io/downloads/talks/2018-11-22_Was-Sie-von-KI-erwarten-koennen.pdf), including an introduction to the methodology for laypersons; a [showcase of current industrial applications of deep learning technology](https://stdm.github.io/downloads/talks/2019-02-01_Industrial-Applications-DL-AI.pdf); and discussions of specific lessons learned for businesses and society in the areas of [data science](https://stdm.github.io/downloads/talks/2018-10-19_DS-Lessons-Learned.pdf) and [digitalization](https://stdm.github.io/downloads/talks/2018-08-29_SMEs_Digitalization.pdf), including a risky forecast to [a future with AI](https://stdm.github.io/downloads/talks/2018-07-21_InauguralLecture.pdf). If you want to hire me as a speaker for your event, please get in touch [via email](https://stdm.github.io/about). 
+**Booking**: I regularly give **keynote talks at public or private events** outside of the academic sphere. Current topics are [generative AI and ChatGPT](https://stdm.github.io/downloads/talks/2023-04-02_Usecases-ChatGPT.pdf), [a hope-filled outlook on a future with AI](https://www.youtube.com/watch?v=0Sk_mX0dSCQ), [what to expect from AI and deep learning](https://stdm.github.io/downloads/talks/2018-11-22_Was-Sie-von-KI-erwarten-koennen.pdf), including an introduction to the methodology for laypersons; a [showcase of current industrial applications of deep learning technology](https://stdm.github.io/downloads/talks/2019-02-01_Industrial-Applications-DL-AI.pdf) and [recent research puzzles](https://stdm.github.io/downloads/talks/2022-03-18_Scientific-debt-wonder.pdf); and discussions of specific lessons learned for businesses and society in the areas of [data science](https://stdm.github.io/downloads/talks/2018-10-19_DS-Lessons-Learned.pdf) and [digitalization](https://stdm.github.io/downloads/talks/2018-08-29_SMEs_Digitalization.pdf). If you want to hire me as a speaker for your event, please get in touch [via email](https://stdm.github.io/about). 
 
 
 ### TOC 
@@ -38,11 +38,13 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
   * Invited talk on generative AI at SBB Inspire meeting for management, Bern Switzerland, May 22, 2023
 
-  * Key note, panel discussion and workshop on **"Die Macht der künstliche Intelligenz"** at [Kongress Christlicher Führungskräfte 2023](https://www.kcf.de/kcf23/programm/plenum), Berlin, Germany, April 27, 2023
+  * Key note, panel discussion and workshop on [**"Die Macht der künstliche Intelligenz"**](https://www.youtube.com/watch?v=0Sk_mX0dSCQ) at [Kongress Christlicher Führungskräfte 2023](https://www.kcf.de/kcf23/programm/plenum), Berlin, Germany, April 27, 2023
+  
+  [Slides](https://stdm.github.io/downloads/talks/2023-04-27_KCF_Macht-KI.pdf), [video](https://www.youtube.com/watch?v=0Sk_mX0dSCQ)
 
   * Invited talk on generative AI at SBB Inspire meeting for top management, Bern Switzerland, April 03, 2023
   
-  * Invited talk and panelist at Meilen KI Dialog **"KI und Zukunft: Wohin geht die Reise?"**, Meilen, Switzerland, April 02, 2023
+  * Invited talk and panelist at Meilen KI Dialog [**"KI und Zukunft: Wohin geht die Reise?"**](https://stdm.github.io/downloads/talks/2023-04-02_Usecases-ChatGPT.pdf), Meilen, Switzerland, April 02, 2023
 
   * Invited talk on **"Introduction to Generative AI"** at the Rotary Club Zürich Sihltal, Kilchberg, Switzerland, March 09, 2023
 
