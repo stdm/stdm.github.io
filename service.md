@@ -28,9 +28,27 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
   * Keynote at the [Schweizer Bibliothekskongress](https://bibliosuisse.ch/Aktivit%C3%A4ten/Schweizer-Bibliothekskongress), Zurich, Switzerland, November 03, 2023
   
-  * Keynote on AI in dentistry at Zahnmedizinkongress Bayreuth, Bayreuth, Germany, October 21, 2023
+  * Strategy seminar at KLARA Business AG, Zurich, Switzerland, November 06, 2023
   
-  * Invited talk for the data protection officer of the Canton of Zurich's office, Zurich, Switzerland, June 27, 2023
+  * Invited talk at Finance & Services Workshop, Winterthur, Switzerland, October 31, 2023
+  
+  * Keynote at Direct Day, Zurich, Switzerland, October 24, 2023
+  
+  * Keynote at kida-dental'23, Bayreuth, Germany, October 21, 2023
+  
+  * Invited talk at ERF, Wetzlar, Germany, October 16, 2023
+  
+  * Invited talk at Albin Kistler AG, Zurich, Switzerland, September 08, 2023
+  
+  * Panelist at Swiss Green Economy Symposium, Winterthur, Switzerland, September 06, 2023
+  
+  * Keynote at Recht&Compliance Tag die Mobiliar, Bern, Switzerland, August 24, 2023
+  
+  * Invited talk at LKG Pfuhl, Pfuhl, Germany, July 19, 2023
+  
+  * Invited talk & round table at Meier + Cie AG, Schaffhausen, Switzerland, June 28, 2023
+  
+  * Individual team training for the data protection officer of the Canton of Zurich, Zurich, Switzerland, June 27, 2023
   
   * Invited talk for suva top management on "Current state of AI", Luzern, Switzerland, June 05, 2023
   
