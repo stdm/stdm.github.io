@@ -126,8 +126,8 @@ I try to make my main courses available as free online ressources as a best effo
 
 | Tag | Name | Format | Type | Content | Did what? | When? |
 | --- | --- | --- | --- | --- | --- | --- |
-| [AI1](http://stdm.github.io/ai-course) | **Artificial Intelligence 1** | lecture & lab | final year BSc computer science elective course; won [best teaching award (3rd place)](https://stdm.github.io/ATLAS/) in 2019 | foundational AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017-2022 |
-| AI2 | **Artificial Intelligence 2** | lecture & lab | finale year BSc computer science / data science elective course | developing fair algorithms; towards more general neural models | responsible, co-initiate, co-create | Fall 2017, spring 2023 |
+| [AI1](http://stdm.github.io/ai-course) | **Artificial Intelligence 1** | lecture & lab | final year BSc computer science elective course; won [best teaching award (3rd place)](https://stdm.github.io/ATLAS/) in 2019 | foundational AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017-2023 |
+| AI2 | **Artificial Intelligence 2** | lecture & lab | finale year BSc computer science / data science elective course | developing fair algorithms; towards more general neural models | responsible, co-initiate, co-create | Fall 2017, spring 2023-2024 |
 | CVDL | **Computer Vision with Deep Learning** | lecture & lab | finale year BSc computer science / data science elective course | modern computer vision based on deep learning methodology (beyond CNNs and classification) | responsible, initiate, co-create | Fall 2022 |
 | ML | **Machine Learning** | lecture & lab | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Machine Intelligence](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-machine-intelligence.html) | practical machine learning for data scientists | responsible, initiate, create, teach | Fall 2015-2016, spring 2017-2018, spring 2021, spring 2023 |
 

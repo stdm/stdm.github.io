@@ -568,7 +568,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 &nbsp;
 
-&nbsp;  
+&nbsp;
 
 <a name="press"></a>
 ## In the press 
