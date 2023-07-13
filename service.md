@@ -58,7 +58,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
   * Key note, panel discussion and workshop on [**"Die Macht der künstliche Intelligenz"**](https://www.youtube.com/watch?v=0Sk_mX0dSCQ) at [Kongress Christlicher Führungskräfte 2023](https://www.kcf.de/kcf23/programm/plenum), Berlin, Germany, April 27, 2023
   
-  [Slides](https://stdm.github.io/downloads/talks/2023-04-27_KCF_Macht-KI.pdf), [video](https://www.youtube.com/watch?v=0Sk_mX0dSCQ)
+    [Slides](https://stdm.github.io/downloads/talks/2023-04-27_KCF_Macht-KI.pdf), [video](https://www.youtube.com/watch?v=0Sk_mX0dSCQ)
   
   * Invited talk on generative AI at SBB Inspire meeting for top management, Bern Switzerland, April 03, 2023
   
