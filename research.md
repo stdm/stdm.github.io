@@ -293,6 +293,8 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 #### 2023
 
+Peng Yan, Ahmed Abdulkadir, Paul-Philipp Luley, Matthias Rosenthal, Gerrit A. Schatte, Benjamin F. Grewe, and Thilo Stadelmann. ["**A Comprehensive Survey of Deep Transfer Learning for Anomaly Detection in Industrial Time Series: Methods, Applications, and Directions**"](https://arxiv.org/pdf/2307.05638.pdf). In: arXiv Preprint 2307.05638, 2023.
+
 Raphael Emberger, Jens Michael Boss, Daniel Baumann, Marko Seric, Shufan Huo, Lukas Tuggener, Emanuela Keller, and Thilo Stadelmann. ["**Video object detection for privacy-preserving patient monitoring in intensive care**"](https://stdm.github.io/downloads/papers/SDS_2023b.pdf). In: Proceedings of the 10th IEEE Swiss Conference on Data Science (**SDS'23**), Zurich, Switzerland, 2023.
 
 Paul-Philipp Luley, Jan M. Deriu, Peng Yan, Gerrit A. Schatte, and Thilo Stadelmann. ["**From Concept to Implementation: The Data-Centric Development Process for AI in Industry**"](https://stdm.github.io/downloads/papers/SDS_2023a.pdf). In: Proceedings of the 10th IEEE Swiss Conference on Data Science (**SDS'23**), Zurich, Switzerland, 2023.
