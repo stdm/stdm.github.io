@@ -33,7 +33,7 @@ I try to make my main courses available as free online ressources as a best effo
 | Spring 2023 | MSc | MT | Deep-Learning-based Pattern Recognition and the Principle of Self Organization |
 | Spring 2023 | MSc | MT | Predicting DARPin Protein Binding using Geometric Graph Neural Networks |
 | Spring 2023 | BSc | BA | RoboDog III: Building a Vision and /or Sound-Based AI Demonstrator on a Robotic Platform <br> _top grade_ <br> Students: Juri Pfammatter, Daniel Schweizer |
-| Spring 2023 | BSc | BA | Deep-Learning-based Cell Segmentation for the Detection of Thyroid Cancer in Single Cells <br> _top grade_ <br> Students: Tenzin Samdrup Langdun, Martin Oswald |
+| Spring 2023 | BSc | BA | Deep-Learning-based Cell Segmentation for the Detection of Thyroid Cancer in Single Cells <br> _top grade, [Siemens Excellence Award](https://www.linkedin.com/feed/update/urn:li:activity:7086340647128817664/)_ <br> Students: Tenzin Samdrup Langdun, Martin Oswald |
 | Spring 2023 | BSc | BA | Teaching Neural Nets to Learn Dynamic Voice Features for Automatic Speaker Verification |
 | Spring 2023 | MAS | Thesis | Lean Production Monitoring (with Cameras) |
 | Fall 2022 | MSc | VT2 | Supporting DARPin binder selection through deep learning |
