@@ -575,6 +575,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
   * July 06, 2023, [Der Landbote](https://www.landbote.ch/faelle-von-betrug-sind-heute-deutlich-besser-erkennbar-736605549248): "**Fälle von Betrug sind heute deutlich besser erkennbar**"
 
+  * June 21, 2023, [Beobachter](https://www.beobachter.ch/digital/kunstliche-intelligenz-wie-lassen-sich-chatgpt-co-kontrollieren-612878):: "**Der Geist, der aus der Maschine kommt - Wie man künstliche Intelligenz bändigt und warum sie trotzdem unberechenbar bleiben wird.**"
+
   * May 23, 2023, [Idea](https://www.idea.de/artikel/kongress-christlicher-fuehrungskraefte-erhaelt-top-bewertungen): "**Kongress Christlicher Führungskräfte erhält Top-Bewertungen** _[...] Rund 2.200 Menschen besuchten den KCF in Berlin [...] Die meisten bezeichneten den Vortrag von dem Experten für Künstliche Intelligenz (KI), Prof. Thilo Stadelmann, als ihr 'Highlight'_"
 
   * May 13, 2023, [NZZ](https://www.nzz.ch/wirtschaft/chat-gpt-waechst-so-schnell-wie-keine-anwendung-zuvor-verschwinden-bald-die-buerojobs-ld.1737257?reduced=true): "**Chat-GPT wächst so schnell wie keine Anwendung zuvor. Verschwinden bald die Bürojobs?** _[...] Thilo Stadelmann von der ZHAW sieht die Entwicklung der KI-Technologien vorwiegend als Chance. Wenn ein KI-System in der Pflege für das Schreiben von Reports eingesetzt werden kann, macht das diesen Job wieder etwas attraktiver. «Vielleicht können wir mit KI die Jobs von dem befreien, was sie mühsam macht», sagt er._"
