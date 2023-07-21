@@ -573,6 +573,10 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 <a name="press"></a>
 ## In the press 
 
+  * August 15, 2023, [OJC Salzkorn Magazin](https://www.ojc-salzkorn.de/) und [OJC feinhörig Podcast](https://podcasters.spotify.com/pod/show/ojc-ev/episodes/Science--Fiction---ber-knstliche-Intelligenz-e271eje): "**Science & Fiction - Wie schlau ist Künstliche Intelligenz?**" Konstantin Mascher im Gespräch mit Thilo Stadelmann.
+
+  * July 19. 2023, [SRF Echo der Zeit](https://www.srf.ch/audio/echo-der-zeit/wettbewerb-um-echte-daten-fuer-ki-laeuft?partId=12424300): "**Wettbewerb um 'echte' Daten für KI läuft**"
+
   * July 06, 2023, [Der Landbote](https://www.landbote.ch/faelle-von-betrug-sind-heute-deutlich-besser-erkennbar-736605549248): "**Fälle von Betrug sind heute deutlich besser erkennbar**"
 
   * June 21, 2023, [Beobachter](https://www.beobachter.ch/digital/kunstliche-intelligenz-wie-lassen-sich-chatgpt-co-kontrollieren-612878):: "**Der Geist, der aus der Maschine kommt - Wie man künstliche Intelligenz bändigt und warum sie trotzdem unberechenbar bleiben wird.**"
