@@ -579,7 +579,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
   * July 06, 2023, [Der Landbote](https://www.landbote.ch/faelle-von-betrug-sind-heute-deutlich-besser-erkennbar-736605549248): "**Fälle von Betrug sind heute deutlich besser erkennbar**"
 
-  * June 21, 2023, [Beobachter](https://www.beobachter.ch/digital/kunstliche-intelligenz-wie-lassen-sich-chatgpt-co-kontrollieren-612878):: "**Der Geist, der aus der Maschine kommt - Wie man künstliche Intelligenz bändigt und warum sie trotzdem unberechenbar bleiben wird.**"
+  * June 21, 2023, [Beobachter](https://www.beobachter.ch/digital/kunstliche-intelligenz-wie-lassen-sich-chatgpt-co-kontrollieren-612878): "**Der Geist, der aus der Maschine kommt - Wie man künstliche Intelligenz bändigt und warum sie trotzdem unberechenbar bleiben wird.**"
 
   * May 23, 2023, [Idea](https://www.idea.de/artikel/kongress-christlicher-fuehrungskraefte-erhaelt-top-bewertungen): "**Kongress Christlicher Führungskräfte erhält Top-Bewertungen** _[...] Rund 2.200 Menschen besuchten den KCF in Berlin [...] Die meisten bezeichneten den Vortrag von dem Experten für Künstliche Intelligenz (KI), Prof. Thilo Stadelmann, als ihr 'Highlight'_"
 
