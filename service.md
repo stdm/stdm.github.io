@@ -573,7 +573,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 <a name="press"></a>
 ## In the press 
 
-  * August 15, 2023, [OJC Salzkorn Magazin](https://www.ojc-salzkorn.de/) und [OJC feinhörig Podcast](https://podcasters.spotify.com/pod/show/ojc-ev/episodes/Science--Fiction---ber-knstliche-Intelligenz-e271eje): "**Science & Fiction - Wie schlau ist Künstliche Intelligenz?**" Konstantin Mascher im Gespräch mit Thilo Stadelmann.
+  * August 15, 2023, [OJC Salzkorn Magazin](https://www.ojc-salzkorn.de/stadelmann-kuenstliche-intelligenz/) und [OJC feinhörig Podcast](https://podcasters.spotify.com/pod/show/ojc-ev/episodes/Science--Fiction---ber-knstliche-Intelligenz-e271eje): "**Science & Fiction - Wie schlau ist Künstliche Intelligenz?**" Konstantin Mascher im Gespräch mit Thilo Stadelmann.
 
   * July 19. 2023, [SRF Echo der Zeit](https://www.srf.ch/audio/echo-der-zeit/wettbewerb-um-echte-daten-fuer-ki-laeuft?partId=12424300): "**Wettbewerb um 'echte' Daten für KI läuft**"
 
