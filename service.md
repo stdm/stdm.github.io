@@ -26,6 +26,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 #### 2023 
 
+  * Workshop at the **Pädagogischer Tag** of [AHF Gesamtschule Schlangen](https://www.ahfs-paderborn.de/), Schlangen, Germany, November 27, 2023
+
   * Keynote at the [Schweizer Bibliothekskongress](https://bibliosuisse.ch/Aktivit%C3%A4ten/Schweizer-Bibliothekskongress), Zurich, Switzerland, November 03, 2023
   
   * Strategy seminar at KLARA Business AG, Zurich, Switzerland, November 06, 2023
@@ -572,6 +574,20 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+
+  * August 22, 2023, [Netzwoche](https://www.netzwoche.ch/news/2023-08-22/wie-alpineai-die-schweiz-zur-ki-nation-machen-will): "**Wie AlpineAI die Schweiz zur KI-Nation machen will**"
+
+  * August 21, 2023, [Handelszeitung](https://www.msn.com/de-ch/news/other/schweizer-startup-alpine-ai-lanciert-swiss-gpt-f%C3%BCr-firmen/ar-AA1fzmpu): "**Chat GPT für die Schweiz: Alpine AI lanciert Swiss GPT für Firmen**"
+
+  * August 21, 2023, [Nau.ch](https://www.nau.ch/news/wirtschaft/alpineai-lanciert-swissgpt-fur-firmen-66579345): "**AlpineAI lanciert SwissGPT für Firmen**"
+
+  * August 21, 2023, [Persoenlich](https://www.persoenlich.com/digital/swissgpt-fur-firmen-lanciert): "**SwissGPT für Firmen lanciert**"
+
+  * August 21, 2023, [moneycab.com](https://www.moneycab.com/it/schweizer-startup-alpineai-lanciert-swissgpt-fuer-firmen/): "**Schweizer Startup AlpineAI lanciert SwissGPT für Firmen**"
+
+  * August 21, 2023, [Inside IT](https://www.inside-it.ch/wie-sich-alpineai-als-schweizer-alternative-zu-chatgpt-positionieren-will-20230821): "**Wie sich AlpineAI als Schweizer Alternative zu ChatGPT positionieren will**"
+
+  * August 21, 2023, [Watson](https://www.watson.ch/digital/schweiz/172022307-schweizer-ki-startup-alpineai-lanciert-swissgpt): "**Schweizer KI-Startup AlpineAI lanciert SwissGPT**"
 
   * August 15, 2023, [OJC Salzkorn Magazin](https://www.ojc-salzkorn.de/stadelmann-kuenstliche-intelligenz/) und [OJC feinhörig Podcast](https://podcasters.spotify.com/pod/show/ojc-ev/episodes/Science--Fiction---ber-knstliche-Intelligenz-e271eje): "**Science & Fiction - Wie schlau ist Künstliche Intelligenz?**" Konstantin Mascher im Gespräch mit Thilo Stadelmann.
 

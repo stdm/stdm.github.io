@@ -33,8 +33,6 @@ The group has very diverse backgrounds, which helps us complement each other's s
   
   * [Lukas Tuggener](https://tuggeluk.github.io/), PhD student: B.Sc. industrial engineering (ZHAW), M.Sc. statistics (ETH), doctorate in conjunction with [Juergen Schmidhuber](http://people.idsia.ch/~juergen/) of the University of Lugano / Switzerland
   
-  * [Mohammadreza Amirian](https://www.zhaw.ch/en/about-us/person/amir/), PhD student: B.Sc. (U. Shiraz) & M.Sc. (U. Ulm) in electrical engineering, doctorate in conjunction with [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/institut/hidden/f-schwenker/) of Ulm University / Germany
-  
   * [Waqar Ali](https://www.linkedin.com/in/waqar-ali-92468910b/), PhD student: M.Sc. (CU Islamabad) in computer science, doctorate in conjunction with [Marcello Pelillo](https://www.dsi.unive.it/~pelillo/) of the University of Venice / Italy
 
   * [Peng Yan](https://www.linkedin.com/in/peng520/), PhD student: B.Sc. measuring & control technology (Jianghan U.) & M.Sc. control engineering (Xiamen U.), doctorate in junctionion with [Benjamin F. Grewe](https://www.ini.uzh.ch/en/research/groups/grewe.html) of the University of Zurich / Switzerland
@@ -55,6 +53,8 @@ The group has very diverse backgrounds, which helps us complement each other's s
   
     
 Our Alumni are:
+
+  * [Mohammadreza Amirian](https://www.zhaw.ch/en/about-us/person/amir/), B.Sc. (U. Shiraz) & M.Sc. (U. Ulm) in electrical engineering, PhD in conjunction with [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/institut/hidden/f-schwenker/) of Ulm University / Germany
 
   * [Adhiraj Ghosh](https://www.linkedin.com/in/adhiraj-ghosh/), B.Tech. (Manipal Institute of Technology), research intern 2021/22 (ZHAW), now M.Sc. student at Tübingen University
 
