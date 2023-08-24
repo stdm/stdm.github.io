@@ -22,6 +22,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 #### 2024
 
+  * Talk at [Volkshochschule Jestetten-Lottstetten](https://www.vhs-jestetten-lottstetten.de/startseite) on **Künstliche Intelligenz -ein Leitfaden**, JEstetten, Germany, March 07, 2024
+
   * Invited talk at Politlunch Thun, Thun, Switzerland, January 16, 2024
 
 #### 2023 
