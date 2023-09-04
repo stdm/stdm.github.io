@@ -42,6 +42,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Invited talk at ERF, Wetzlar, Germany, October 16, 2023
   
+  * Invite talk at [DesignRaum GmbH / Swiss Life Network for Entrepreneurs](https://www.designraum.ch/einladung-swisslife-netzwerk-anlass), Winterthur, Switzerland, September 28, 2023 
+  
   * Invited talk at Albin Kistler AG, Zurich, Switzerland, September 08, 2023
   
   * Panelist at Swiss Green Economy Symposium, Winterthur, Switzerland, September 06, 2023
