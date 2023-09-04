@@ -577,6 +577,16 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 <a name="press"></a>
 ## In the press 
 
+  * September 03, 2023, [20 Minuten](https://www.20min.ch/story/kuenstliche-intelligenz-bei-ki-steht-die-schweiz-auf-der-bremse-kritiker-machen-druck-772356848560): "**Bei KI steht die Schweiz auf der Bremse - Kritiker machen Druck** _[...] 'Mit dem steigenden Einfluss von KI-Systemen auf alle Aspekte unseres Alltags ist es immens wichtig, dass wir uns als Gesellschaft Gedanken darüber machen, wie wir mit dieser Technologie umgehen wollen', sagt Thilo Stadelmann [...] Vor diesem Hintergrund sei die fehlende KI-Strategie der Schweiz vor allem deshalb fatal, da sie das Signal sende, das Thema sei nicht wichtig._"
+
+  * September 01, 2023, [20 Minuten](https://www.20min.ch/story/kuenstliche-intelligenz-schweizer-chatgpt-alternative-swissgpt-wird-mit-anfragen-ueberrannt-281748524337): "**Schweizer ChatGPT-Alternative wird mit Anfragen überrannt**"
+
+  * August 25, 2023, [Schaffhauser Nachrichten](https://www.shn.ch/diverses/zahltag/2023-08-25/die-schweizer-antwort-auf-chatgpt-swissgpt): "**Die Schweizer Antwort auf ChatGPT: SwissGPT**"
+
+  * August 23, 2023, [Der Landbote](https://www.landbote.ch/kuenstliche-intelligenz-in-winterthur-schweizer-variante-von-chat-gpt-soll-die-datensicherheit-erhoehen-579591028649): "**Künstliche Intelligenz in Winterthur – Regionale Variante von Chat-GPT soll die Datensicherheit erhöhen**"
+
+  * August 23, 2023, [Netzwoche](https://www.netzwoche.ch/news/2023-08-23/so-will-alpineai-mit-swissgpt-gegen-chatgpt-co-antreten): "**So will AlpineAI mit SwissGPT gegen ChatGPT & Co. antreten** _Der Schweizer KI-Pionier Pascal Kaufmann schart für das Start-up AlpineAI top KI-Experten um sich._"
+
   * August 22, 2023, [Netzwoche](https://www.netzwoche.ch/news/2023-08-22/wie-alpineai-die-schweiz-zur-ki-nation-machen-will): "**Wie AlpineAI die Schweiz zur KI-Nation machen will**"
 
   * August 21, 2023, [Handelszeitung](https://www.msn.com/de-ch/news/other/schweizer-startup-alpine-ai-lanciert-swiss-gpt-f%C3%BCr-firmen/ar-AA1fzmpu): "**Chat GPT für die Schweiz: Alpine AI lanciert Swiss GPT für Firmen**"
