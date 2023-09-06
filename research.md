@@ -293,6 +293,8 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 #### 2023
 
+Lukas Tuggener, Raphael Emberger, Adhiraj Ghosh, Pascal Sager, Yvan Putra Satyawan, Javier Montoya, Simon Goldschagg, Florian Seibold, Urs Gut, Philipp Ackermann, Jürgen Schmidhuber, and Thilo Stadelmann. [**RealWorld Music Object Recognition**](https://stdm.github.io/downloads/papers/TISMIR_2023.pdf). In: **TISMIR**, September 2023.
+
 Matthia Battaglia, Ennio Comi, Thilo Stadelmann, Roman Hiestand, Beat Ruhstaller, and Evelyne Knapp. [**Deep Ensemble Inverse Model for Image-Based Estimation of Solar Cell Parameters**](https://stdm.github.io/downloads/papers/APLML_2023.pdf). In: **APL Machine Learning** 1(3). 01. September 2023. DOI [10.1063/5.0139707](https://doi.org/10.1063/5.0139707).
 
 Peng Yan, Ahmed Abdulkadir, Paul-Philipp Luley, Matthias Rosenthal, Gerrit A. Schatte, Benjamin F. Grewe, and Thilo Stadelmann. ["**A Comprehensive Survey of Deep Transfer Learning for Anomaly Detection in Industrial Time Series: Methods, Applications, and Directions**"](https://stdm.github.io/downloads/papers/ArXiv_2023.pdf). **arXiv preprint**, [arXiv:2307.05638](https://arxiv.org/pdf/2307.05638.pdf), July 2023.
