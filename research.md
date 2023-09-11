@@ -295,7 +295,7 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 Lukas Tuggener, Raphael Emberger, Adhiraj Ghosh, Pascal Sager, Yvan Putra Satyawan, Javier Montoya, Simon Goldschagg, Florian Seibold, Urs Gut, Philipp Ackermann, Jürgen Schmidhuber, and Thilo Stadelmann. [**RealWorld Music Object Recognition**](https://stdm.github.io/downloads/papers/TISMIR_2023.pdf). In: **TISMIR**, September 2023.
 
-Jan Segessenmann, Thilo Stadelmann, Andrew Davison, and Oliver Dürr. [**Assessing Deep Learning: A Work Program for the Humanities in the Age of Artificial Intelligence**](https://stdm.github.io/downloads/papers/SSRN_2023.pdf). In: **SSRN preprint**, [abstract:4554234](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4554234), August 28, 2023.
+Jan Segessenmann, Thilo Stadelmann, Andrew Davison, and Oliver Dürr. [**Assessing Deep Learning: A Work Program for the Humanities in the Age of Artificial Intelligence**](https://stdm.github.io/downloads/papers/SSRN_2023.pdf). In: **SSRN preprint**, [ssrn.4554234](https://ssrn.com/abstract=4554234), August 28, 2023. DOI [10.2139/ssrn.4554234](http://dx.doi.org/10.2139/ssrn.4554234)
 
 Matthia Battaglia, Ennio Comi, Thilo Stadelmann, Roman Hiestand, Beat Ruhstaller, and Evelyne Knapp. [**Deep Ensemble Inverse Model for Image-Based Estimation of Solar Cell Parameters**](https://stdm.github.io/downloads/papers/APLML_2023.pdf). In: **APL Machine Learning** 1(3). 01. September 2023. DOI [10.1063/5.0139707](https://doi.org/10.1063/5.0139707).
 
