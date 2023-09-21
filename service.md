@@ -22,6 +22,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 #### 2024
 
+  * Keynote at the **SPI-Tagung 2024** of the SPI Swiss Police Institute, Olten, Switzerland, June 13, 2024
+
   * Talk at [Volkshochschule Jestetten-Lottstetten](https://www.vhs-jestetten-lottstetten.de/startseite) on **Künstliche Intelligenz -ein Leitfaden**, JEstetten, Germany, March 07, 2024
 
   * Invited talk at Politlunch Thun, Thun, Switzerland, January 16, 2024
@@ -578,6 +580,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+
+  * September 19, 2023, [ZHAW Impact No 62 / September 2023](https://impact.zhaw.ch/de/artikel/eine-schweizer-version-von-chatgpt-transparenter-und-sicherer): "**Eine Schweizer Version von ChatGPT - transparenter und sicherer**"
 
   * September 03, 2023, [20 Minuten](https://www.20min.ch/story/kuenstliche-intelligenz-bei-ki-steht-die-schweiz-auf-der-bremse-kritiker-machen-druck-772356848560): "**Bei KI steht die Schweiz auf der Bremse - Kritiker machen Druck** _[...] 'Mit dem steigenden Einfluss von KI-Systemen auf alle Aspekte unseres Alltags ist es immens wichtig, dass wir uns als Gesellschaft Gedanken darüber machen, wie wir mit dieser Technologie umgehen wollen', sagt Thilo Stadelmann [...] Vor diesem Hintergrund sei die fehlende KI-Strategie der Schweiz vor allem deshalb fatal, da sie das Signal sende, das Thema sei nicht wichtig._"
 

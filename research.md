@@ -27,8 +27,6 @@ The group has very diverse backgrounds, which helps us complement each other's s
   
   * Prof. Dr. Thilo Stadelmann, team lead: Diplom (THM) & PhD (U. Marburg) in computer science; I come from the tradition of the field of **artificial intelligence**, and my tool is **machine learning**. My research interest is to discover and understand how smart behaviour can be evoked through self-learning, including practical (robustness, generalization) and ethical (algorithmic bias) side effects. 
   
-  * [Dr. Ricardo Chavarriaga](https://scholar.google.com/citations?user=ZU1fTMYAAAAJ&hl=en), senior researcher & head of CLAIRE office Zurich: B.Sc. electronics engineering (Pontificia Universidad Javeriana, Columbia), graduate school in computer/communication/information science (EPFL), PhD neuroscience (EPFL), Postdoc neuroscience/brain-computer interfaces (EPFL & IDIAP)
-  
   * [Dr. Ahmed Abdulkadir](https://scholar.google.com/citations?user=XqaePW0AAAAJ), senior researcher: B.Sc. systems engineering (NTB Buchs), BSc & MSc Life Sciences (EPFL), PhD computer engineering (University of Freiburg / Germany), PostDoc University Hospital Bern / University of Pennsylvania / Lausanne University Hospital
   
   * [Lukas Tuggener](https://tuggeluk.github.io/), PhD student: B.Sc. industrial engineering (ZHAW), M.Sc. statistics (ETH), doctorate in conjunction with [Juergen Schmidhuber](http://people.idsia.ch/~juergen/) of the University of Lugano / Switzerland
@@ -37,11 +35,9 @@ The group has very diverse backgrounds, which helps us complement each other's s
 
   * [Peng Yan](https://www.linkedin.com/in/peng520/), PhD student: B.Sc. measuring & control technology (Jianghan U.) & M.Sc. control engineering (Xiamen U.), doctorate in junctionion with [Benjamin F. Grewe](https://www.ini.uzh.ch/en/research/groups/grewe.html) of the University of Zurich / Switzerland
   
-  * [Pascal Sager](https://www.linkedin.com/in/pascal-sager-3b7403168), research assistant & M.Sc. student: B.Sc. computer science (ZHAW)
+  * [Pascal Sager](https://www.linkedin.com/in/pascal-sager-3b7403168), PhD student: B.Sc. & M.Sc. computer science (ZHAW)
   
   * [Raphael Emberger](https://www.linkedin.com/in/raphael-emberger-206015bb), research assistant & M.Sc. student: B.Sc. computer science (ZHAW)
-
-  * [Paul Luley](https://www.linkedin.com/in/paul-l-821892247/), research assistent & M.Sc. student at UZH: B.Sc. biomedical engineering (Technikum Vienna)
   
   * [Benjamin Meyer](https://www.linkedin.com/in/benjamin-meyer-b87077151), research assistent & M.Sc. student at U Basel: B.Sc. Information Technology (FHNW)
   
@@ -54,7 +50,11 @@ The group has very diverse backgrounds, which helps us complement each other's s
     
 Our Alumni are:
 
-  * [Mohammadreza Amirian](https://www.zhaw.ch/en/about-us/person/amir/), B.Sc. (U. Shiraz) & M.Sc. (U. Ulm) in electrical engineering, PhD in conjunction with [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/institut/hidden/f-schwenker/) of Ulm University / Germany
+  * [Paul Luley](https://www.linkedin.com/in/paul-l-821892247/), research assistent 2022-2023, B.Sc. biomedical engineering (Technikum Vienna), now data science researcher in the banking sector
+
+  * [Dr. Ricardo Chavarriaga](https://scholar.google.com/citations?user=ZU1fTMYAAAAJ&hl=en), B.Sc. electronics engineering (Pontificia Universidad Javeriana, Columbia), graduate school in computer/communication/information science (EPFL), PhD neuroscience (EPFL), Postdoc neuroscience/brain-computer interfaces (EPFL & IDIAP), senior researcher 2019-2023, now head of Responsible AI Innovation Group at ZHAW CAI
+  
+  * [Mohammadreza Amirian](https://www.zhaw.ch/en/about-us/person/amir/), B.Sc. (U. Shiraz) & M.Sc. (U. Ulm) in electrical engineering, PhD 2017-2023 in conjunction with [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/institut/hidden/f-schwenker/) of Ulm University / Germany
 
   * [Adhiraj Ghosh](https://www.linkedin.com/in/adhiraj-ghosh/), B.Tech. (Manipal Institute of Technology), research intern 2021/22 (ZHAW), now M.Sc. student at Tübingen University
 
