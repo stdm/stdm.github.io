@@ -18,10 +18,10 @@ This page is dedicated to the research of me and my group. My academic profile i
 
 [<img alt="Team" src="http://stdm.github.io/images/20230118-cvpc-group-picture-2023.jpg"/>](http://stdm.github.io/images/20230118-cvpc-group-picture-2023.jpg)
 
-The [Computer Vision, Perception and Cognition Group](https://www.zhaw.ch/en/engineering/institutes-centres/cai/computer-vision-perception-and-cognition-group/) at the [ZHAW Centre for Artificial Intelligence](https://www.zhaw.ch/en/engineering/institutes-centres/cai/), January 2023 (from the right): Lukas Tuggener, Peng Yan, Paul Luley, Ricardo Chavarriaga, Pascal Sager, Jasmina Bogojeska (guest, head of XAI group), Benjamin Meyer, Mohammadreza Amirian, Philipp Denzel (guest, postdoc IVS group). Missing are Raphael Emberger, Waqar Ali, and the Masters students Sebastian Salzmann, Sydney Nguyen and Livia Lüscher.
+The Machine Perception and Cognition Group (fomerly [Computer Vision, Perception and Cognition Group](https://www.zhaw.ch/en/engineering/institutes-centres/cai/computer-vision-perception-and-cognition-group/)) at the [ZHAW Centre for Artificial Intelligence](https://www.zhaw.ch/en/engineering/institutes-centres/cai/), January 2023 (from the right): Lukas Tuggener, Peng Yan, Paul Luley, Ricardo Chavarriaga, Pascal Sager, Jasmina Bogojeska (guest, head of XAI group), Benjamin Meyer, Mohammadreza Amirian, Philipp Denzel (guest, postdoc IVS group). Missing are Raphael Emberger, Waqar Ali, and the Masters students Sebastian Salzmann, Sydney Nguyen and Livia Lüscher.
 
 
-My Computer Vision, Perception and Cognition Group performs **pattern recognition** research, working on a wide variety of tasks on image, audio or generally "signal" data. As a group, we focus on **deep learning** and **reinforcement learning** methodology, inspired by biological learning. Each task that we study has its own learning target (e.g., detection, classification, clustering, segmentation, novelty detection, control) and use case (e.g., **predictive maintenance**, **speaker diarization**  for multimedia indexing, **document analysis**, **optical music recognition**, **computer vision** for industrial quality control, **automated machine learning**, **deep reinforcement learning** for automated game play or building control), which in turn sheds light on different aspects of the learning process. 
+My Machine Perception and Cognition Group performs **pattern recognition** research, working on a wide variety of tasks on image, audio or generally "signal" data. As a group, we focus on **deep learning** and **reinforcement learning** methodology, inspired by biological learning. Each task that we study has its own learning target (e.g., detection, classification, clustering, segmentation, novelty detection, control) and use case (e.g., **predictive maintenance**, **speaker diarization**  for multimedia indexing, **document analysis**, **optical music recognition**, **computer vision** for industrial quality control, **automated machine learning**, **deep reinforcement learning** for automated game play or building control), which in turn sheds light on different aspects of the learning process. 
 
 The group has very diverse backgrounds, which helps us complement each other's skills:
   
@@ -50,7 +50,7 @@ The group has very diverse backgrounds, which helps us complement each other's s
     
 Our Alumni are:
 
-  * [Paul Luley](https://www.linkedin.com/in/paul-l-821892247/), research assistent 2022-2023, B.Sc. biomedical engineering (Technikum Vienna), now data science researcher in the banking sector
+  * [Paul Luley](https://www.linkedin.com/in/paul-l-821892247/), research assistent 2022-2023, B.Sc. biomedical engineering (Technikum Vienna), now data science researcher with Julius Bär
 
   * [Dr. Ricardo Chavarriaga](https://scholar.google.com/citations?user=ZU1fTMYAAAAJ&hl=en), B.Sc. electronics engineering (Pontificia Universidad Javeriana, Columbia), graduate school in computer/communication/information science (EPFL), PhD neuroscience (EPFL), Postdoc neuroscience/brain-computer interfaces (EPFL & IDIAP), senior researcher 2019-2023, now head of Responsible AI Innovation Group at ZHAW CAI
   
