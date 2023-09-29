@@ -24,7 +24,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
   * Keynote at the **SPI-Tagung 2024** of the SPI Swiss Police Institute, Olten, Switzerland, June 13, 2024
 
-  * Talk at [Volkshochschule Jestetten-Lottstetten](https://www.vhs-jestetten-lottstetten.de/startseite) on **Künstliche Intelligenz -ein Leitfaden**, Jestetten, Germany, March 07, 2024
+  * Talk at [Volkshochschule Jestetten-Lottstetten](https://www.vhs-jestetten-lottstetten.de/startseite) on **Kuenstliche Intelligenz - ein Leitfaden**, Jestetten, Germany, March 07, 2024
 
   * Panelist at Communication Summit 2024, Zurich, Switzerland, February 07, 2024
 
