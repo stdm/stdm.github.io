@@ -18,7 +18,7 @@ This page is dedicated to the research of me and my group. My academic profile i
 
 [<img alt="Team" src="http://stdm.github.io/images/20230118-cvpc-group-picture-2023.jpg"/>](http://stdm.github.io/images/20230118-cvpc-group-picture-2023.jpg)
 
-The Machine Perception and Cognition Group (fomerly [Computer Vision, Perception and Cognition Group](https://www.zhaw.ch/en/engineering/institutes-centres/cai/computer-vision-perception-and-cognition-group/)) at the [ZHAW Centre for Artificial Intelligence](https://www.zhaw.ch/en/engineering/institutes-centres/cai/), January 2023 (from the right): Lukas Tuggener, Peng Yan, Paul Luley, Ricardo Chavarriaga, Pascal Sager, Jasmina Bogojeska (guest, head of XAI group), Benjamin Meyer, Mohammadreza Amirian, Philipp Denzel (guest, postdoc IVS group). Missing are Raphael Emberger, Waqar Ali, and the Masters students Sebastian Salzmann, Sydney Nguyen and Livia Lüscher.
+The [Machine Perception and Cognition Group](https://www.zhaw.ch/en/engineering/institutes-centres/cai/machine-perception-and-cognition-group/) (fomerly Computer Vision, Perception and Cognition Group) at the [ZHAW Centre for Artificial Intelligence](https://www.zhaw.ch/en/engineering/institutes-centres/cai/), January 2023 (from the right): Lukas Tuggener, Peng Yan, Paul Luley, Ricardo Chavarriaga, Pascal Sager, Jasmina Bogojeska (guest, head of XAI group), Benjamin Meyer, Mohammadreza Amirian, Philipp Denzel (guest, postdoc IVS group). Missing are Raphael Emberger, Waqar Ali, and the Masters students Sebastian Salzmann, Sydney Nguyen and Livia Lüscher.
 
 
 My Machine Perception and Cognition Group performs **pattern recognition** research, working on a wide variety of tasks on image, audio or generally "signal" data. As a group, we focus on **deep learning** and **reinforcement learning** methodology, inspired by biological learning. Each task that we study has its own learning target (e.g., detection, classification, clustering, segmentation, novelty detection, control) and use case (e.g., **predictive maintenance**, **speaker diarization**  for multimedia indexing, **document analysis**, **optical music recognition**, **computer vision** for industrial quality control, **automated machine learning**, **deep reinforcement learning** for automated game play or building control), which in turn sheds light on different aspects of the learning process. 
@@ -46,6 +46,8 @@ The group has very diverse backgrounds, which helps us complement each other's s
   * [Sydney M. Nguyen](https://www.linkedin.com/in/sydney-nguyen-117987180/), M.Sc. student: B.Sc. in computer science (ZHAW)
   
   * [Livia Luescher](https://www.linkedin.com/in/livia-l%C3%BCscher-72aaaa139/), M.Sc. student: B.Sc. in business administration with honors (HWZ Zurich)
+  
+  * [Erdal Ayfer](https://www.zhaw.ch/en/about-us/person/ayfe/), intern and B.Sc. student computer science at ZHAW
   
     
 Our Alumni are:
@@ -293,7 +295,7 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 #### 2023
 
-Lukas Tuggener, Raphael Emberger, Adhiraj Ghosh, Pascal Sager, Yvan Putra Satyawan, Javier Montoya, Simon Goldschagg, Florian Seibold, Urs Gut, Philipp Ackermann, Jürgen Schmidhuber, and Thilo Stadelmann. [**RealWorld Music Object Recognition**](https://stdm.github.io/downloads/papers/TISMIR_2023.pdf). In: **TISMIR**, September 2023.
+Lukas Tuggener, Raphael Emberger, Adhiraj Ghosh, Pascal Sager, Yvan Putra Satyawan, Javier Montoya, Simon Goldschagg, Florian Seibold, Urs Gut, Philipp Ackermann, Jürgen Schmidhuber, and Thilo Stadelmann. [**Real World Music Object Recognition**](https://stdm.github.io/downloads/papers/TISMIR_2023.pdf). In: **TISMIR**, September 2023.
 
 Jan Segessenmann, Thilo Stadelmann, Andrew Davison, and Oliver Dürr. [**Assessing Deep Learning: A Work Program for the Humanities in the Age of Artificial Intelligence**](https://stdm.github.io/downloads/papers/SSRN_2023.pdf). In: **SSRN preprint**, [ssrn.4554234](https://ssrn.com/abstract=4554234), August 28, 2023. DOI [10.2139/ssrn.4554234](http://dx.doi.org/10.2139/ssrn.4554234)
 
