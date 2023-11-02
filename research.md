@@ -297,7 +297,7 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 Daniel Neururer, Volker Dellowo, and Thilo Stadelmann. [**Deep Neural Networks for Automatic Speaker Recognition Do Not Learn Supra-Segmental Temporal Features**](https://stdm.github.io/downloads/papers/ArXiv_2023b.pdf). In: **arXiv preprint**, [arXiv:2311.00489](https://arxiv.org/pdf/2311.00489.pdf), November 2023.
 
-Lukas Tuggener, Raphael Emberger, Adhiraj Ghosh, Pascal Sager, Yvan Putra Satyawan, Javier Montoya, Simon Goldschagg, Florian Seibold, Urs Gut, Philipp Ackermann, Jürgen Schmidhuber, and Thilo Stadelmann. [**Real World Music Object Recognition**](https://stdm.github.io/downloads/papers/TISMIR_2023.pdf). In: **TISMIR**, September 2023.
+Lukas Tuggener, Raphael Emberger, Adhiraj Ghosh, Pascal Sager, Yvan Putra Satyawan, Javier Montoya, Simon Goldschagg, Florian Seibold, Urs Gut, Philipp Ackermann, Jürgen Schmidhuber, and Thilo Stadelmann. [**Real World Music Object Recognition**](https://stdm.github.io/downloads/papers/TISMIR_2023.pdf). In: [**TISMIR**](https://transactions.ismir.net/), September 2023.
 
 Jan Segessenmann, Thilo Stadelmann, Andrew Davison, and Oliver Dürr. [**Assessing Deep Learning: A Work Program for the Humanities in the Age of Artificial Intelligence**](https://stdm.github.io/downloads/papers/SSRN_2023.pdf). In: **SSRN preprint**, [ssrn.4554234](https://ssrn.com/abstract=4554234), August 28, 2023. DOI [10.2139/ssrn.4554234](http://dx.doi.org/10.2139/ssrn.4554234)
 
