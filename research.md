@@ -295,6 +295,8 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 #### 2023
 
+Lukas Tuggener, Thilo Stadelmann, and Jürgen Schmidhuber. [**Efficient Rotation Invariance in Deep Neural Networks through Artificial Mental Rotation**](https://stdm.github.io/downloads/papers/ArXiv_2023c.pdf). In: **arXiv preprint**, [arXiv:2311.08525](https://arxiv.org/pdf/2311.08525.pdf), November 2023.
+
 Daniel Neururer, Volker Dellowo, and Thilo Stadelmann. [**Deep Neural Networks for Automatic Speaker Recognition Do Not Learn Supra-Segmental Temporal Features**](https://stdm.github.io/downloads/papers/ArXiv_2023b.pdf). In: **arXiv preprint**, [arXiv:2311.00489](https://arxiv.org/pdf/2311.00489.pdf), November 2023.
 
 Lukas Tuggener, Raphael Emberger, Adhiraj Ghosh, Pascal Sager, Yvan Putra Satyawan, Javier Montoya, Simon Goldschagg, Florian Seibold, Urs Gut, Philipp Ackermann, Jürgen Schmidhuber, and Thilo Stadelmann. [**Real World Music Object Recognition**](https://stdm.github.io/downloads/papers/TISMIR_2023.pdf). In: [**TISMIR**](https://transactions.ismir.net/), September 2023.
