@@ -22,6 +22,10 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 #### 2024
 
+  * Keynote at **Unternehmerforum Gummersbach**, Gummersbach, Germany, November 14, 2024
+
+  * Keynote at Kaderanlass of the **Kantonspolizeit Zürich**, Zurich, Switzerland, June 28, 2024
+
   * Keynote at the **SPI-Tagung 2024** of the SPI Swiss Police Institute, Olten, Switzerland, June 13, 2024
 
   * Talk at [Volkshochschule Jestetten-Lottstetten](https://www.vhs-jestetten-lottstetten.de/startseite) on **Kuenstliche Intelligenz - ein Leitfaden**, Jestetten, Germany, March 07, 2024
@@ -32,8 +36,16 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 #### 2023 
 
+  * Guest lecture at **Hochschule Fresenius**, Idstein, Germany, December 15, 2023
+  
+  * Seminar for **SwissLife**, Zürich (online), Switzerland, December 13, 2023
+  
   * Workshop at the **Pädagogischer Tag** of [AHF Gesamtschule Schlangen](https://www.ahfs-paderborn.de/), Schlangen, Germany, November 27, 2023
-
+  
+  * Learning Nugget at **Georg Fischer Casting Solutions**, Schaffhausen (online), Switzerland, November 23 & 28, 2023
+  
+  * Invited talk on "**Assessing Deep Learning: A Work Program for the Humanities in the Age of Artificial Intelligence**, Forschungscolloquium Chur, Chur (online), Switzerland, November 03, 2023
+  
   * Keynote at the [Schweizer Bibliothekskongress](https://bibliosuisse.ch/Aktivit%C3%A4ten/Schweizer-Bibliothekskongress), Zurich, Switzerland, November 03, 2023
   
   * Strategy seminar at KLARA Business AG, Zurich, Switzerland, November 06, 2023
@@ -499,7 +511,9 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   * Topic editor for the [Journal of Imaging](http://www.mdpi.com/journal/jimaging), an international multi/interdisciplinary peer-reviewed open access journal of imaging techniques published online monthly by MDPI (postponed until special issue for sister journal "Computers" is completed)
   
   * Reviewer for [IEEE Transactions on Systems, Man and Cybernetics: Systems](https://www.ieeesmc.org/publications/transactions-on-smc-systems), [IEEE/ACM Transactions on Audio, Speech and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655), [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78), [EURASIP Journal on Audio, Speech, and Music Processing](https://asmp-eurasipjournals.springeropen.com/), [PLOS ONE](https://journals.plos.org/plosone/) and the [Science Media Center Germany](https://www.sciencemediacenter.de/)
-
+  
+  * Program Co-Chair, [IEEE Swiss Conference on Data Science 2024](https://sds2024.ch/), May 30-31, 2024, Zurich, Switzerland
+  
   * Member of program committee, [CVPR 2023](https://cvpr2023.thecvf.com/), June 18-22, 2023, Vancouver, Canada
   
   * Program Co-Chair, [IEEE Swiss Conference on Data Science 2023](https://sds2023.ch/), June 22-23, 2023, Zurich, Switzerland
@@ -582,6 +596,10 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+
+  * November 22, 2023, [SRF 10 vor 10](https://www.srf.ch/play/tv/10-vor-10/video/10-vor-10-vom-22-11-2023?urn=urn:srf:video:31d6539f-6488-4b75-bff0-9c350099f63b): "**OpenAI: Streit um Kommerzialisierung von KI-Anwendungen**"
+
+  * November 11, 2023, [NZZ am Sonntag title page](https://www.nzz.ch/wirtschaft/ai-die-schweiz-ist-eine-ki-nation-ld.1765298): "**Experten halten Aufbau neuer KI-Modelle 'für eine aktive Geldvernichtung': Das macht die Schweiz besser**"
 
   * September 19, 2023, [ZHAW Impact No 62 / September 2023](https://impact.zhaw.ch/de/artikel/eine-schweizer-version-von-chatgpt-transparenter-und-sicherer): "**Eine Schweizer Version von ChatGPT - transparenter und sicherer**"
 
