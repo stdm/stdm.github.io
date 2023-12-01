@@ -597,6 +597,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 <a name="press"></a>
 ## In the press 
 
+  * November 30, 2023, [Livenet Schweiz](https://www.youtube.com/watch?v=-_1ntQz6124): "**Eine christliche Sicht auf Künstliche Intelligenz / im Gespräch mit Prof. Dr. Thilo Stadelmann**"
+
   * November 22, 2023, [SRF 10 vor 10](https://www.srf.ch/play/tv/10-vor-10/video/10-vor-10-vom-22-11-2023?urn=urn:srf:video:31d6539f-6488-4b75-bff0-9c350099f63b): "**OpenAI: Streit um Kommerzialisierung von KI-Anwendungen**"
 
   * November 11, 2023, [NZZ am Sonntag title page](https://www.nzz.ch/wirtschaft/ai-die-schweiz-ist-eine-ki-nation-ld.1765298): "**Experten halten Aufbau neuer KI-Modelle 'für eine aktive Geldvernichtung': Das macht die Schweiz besser**"
