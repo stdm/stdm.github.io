@@ -295,7 +295,7 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 #### 2023
 
-Peng Yan, Ahmed Abdulkadir, Paul-Philipp Luley, Matthias Rosenthal, Gerrit A. Schatte, Benjamin F. Grewe, and Thilo Stadelmann. ["**A Comprehensive Survey of Deep Transfer Learning for Anomaly Detection in Industrial Time Series: Methods, Applications, and Directions**"](https://stdm.github.io/downloads/papers/ArXiv_2023a.pdf). In: **IEEE Access**, December 2023. DOI 10.1109/ACCESS.2023.3349132 (see also **arXiv preprint**, [arXiv:2307.05638](https://arxiv.org/pdf/2307.05638.pdf), July 2023).
+Peng Yan, Ahmed Abdulkadir, Paul-Philipp Luley, Matthias Rosenthal, Gerrit A. Schatte, Benjamin F. Grewe, and Thilo Stadelmann. ["**A Comprehensive Survey of Deep Transfer Learning for Anomaly Detection in Industrial Time Series: Methods, Applications, and Directions**"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10379639). In: **IEEE Access**, December 2023. DOI [10.1109/ACCESS.2023.3349132](https://doi.org/10.1109/ACCESS.2023.3349132) (see also **arXiv preprint**, [arXiv:2307.05638](https://arxiv.org/pdf/2307.05638.pdf), July 2023).
 
 Jan Segessenmann, Thilo Stadelmann, Andrew Davison, and Oliver Dürr. [**Assessing Deep Learning: A Work Program for the Humanities in the Age of Artificial Intelligence**](https://stdm.github.io/downloads/papers/AIEthics_2023.pdf). In: **AI and Ethics**, Springer, November 30, 2023 (see also extended **SSRN preprint**, [ssrn.4554234](https://ssrn.com/abstract=4554234), August 28, 2023. DOI [10.2139/ssrn.4554234](http://dx.doi.org/10.2139/ssrn.4554234)).
 
