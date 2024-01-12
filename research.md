@@ -292,6 +292,10 @@ If you are interested in a collaboration, please [contact](http://www.zhaw.ch/=s
 
 Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?user=6U6ZXzUAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Thilo_Stadelmann2).
 
+#### 2024
+
+Lukas Tuggener, Raphael Emberger, Adhiraj Ghosh, Pascal Sager, Yvan Putra Satyawan, Javier Montoya, Simon Goldschagg, Florian Seibold, Urs Gut, Philipp Ackermann, Jürgen Schmidhuber, and Thilo Stadelmann. [**Real World Music Object Recognition**](https://stdm.github.io/downloads/papers/TISMIR_2023.pdf). In: [**TISMIR**](https://transactions.ismir.net/) 7(1), 1–14, 2024. DOI [10.5334/tismir.1572024](https://doi.org/10.5334/tismir.1572024).
+
 
 #### 2023
 
@@ -303,7 +307,6 @@ Lukas Tuggener, Thilo Stadelmann, and Jürgen Schmidhuber. [**Efficient Rotation
 
 Daniel Neururer, Volker Dellwo, and Thilo Stadelmann. [**Deep Neural Networks for Automatic Speaker Recognition Do Not Learn Supra-Segmental Temporal Features**](https://stdm.github.io/downloads/papers/ArXiv_2023b.pdf). In: **arXiv preprint**, [arXiv:2311.00489](https://arxiv.org/pdf/2311.00489.pdf), November 2023.
 
-Lukas Tuggener, Raphael Emberger, Adhiraj Ghosh, Pascal Sager, Yvan Putra Satyawan, Javier Montoya, Simon Goldschagg, Florian Seibold, Urs Gut, Philipp Ackermann, Jürgen Schmidhuber, and Thilo Stadelmann. [**Real World Music Object Recognition**](https://stdm.github.io/downloads/papers/TISMIR_2023.pdf). In: [**TISMIR**](https://transactions.ismir.net/), September 2023.
 
 Matthia Battaglia, Ennio Comi, Thilo Stadelmann, Roman Hiestand, Beat Ruhstaller, and Evelyne Knapp. [**Deep Ensemble Inverse Model for Image-Based Estimation of Solar Cell Parameters**](https://stdm.github.io/downloads/papers/APLML_2023.pdf). In: **APL Machine Learning** 1(3). 01. September 2023. DOI [10.1063/5.0139707](https://doi.org/10.1063/5.0139707).
 
