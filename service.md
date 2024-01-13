@@ -483,6 +483,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 ## Community offices
 
 #### Boards & leadership
+  * 07/2023-ongoing: Member of the scientific council of the [Israeli Association for Ethics in Artificial Intelligence](https://iaeai.org/)
+  
   * 04/2021-01/2023: Member of the Interdisciplinary AI Working Group Law and Technology of [SATW](https://www.satw.ch/en/) and [FDFA](https://www.eda.admin.ch/eda/en/fdfa.html)
 
   * 01/2019-ongoing: Fellow of the [European Centre for Living Technology (ECLT)](https://www.unive.it/pag/23664/), Venice, Italy
@@ -596,6 +598,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+
+  * January 12, 2024, [ERF Plus](https://www.mediathek-hessen.de/podcast_32532_ERF-Plus-Keine-Angst-vor-K%C3%BCnstlicher-Intelligenz.html): "Keine Angst vor Künstlicher Intelligenz! Experte Thilo Stadelmann sieht Chancen und handhabbare Risiken."
 
   * December 09, 2023, [Boersenradio CREDO Podcast](https://www.brn-ag.de/42819): "Will man eine KI mit Emotion? Vielleicht. Könnte das gefährlich sein? Sicher. Und nützlich"
 
