@@ -294,6 +294,8 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 #### 2024
 
+Peter R. Jermain, Martin Oswald, Tenzin Langdun, Santana Wright, Ashraf Khan, Thilo Stadelmann, Ahmed Abdulkadir, and Anna N. Yaroslavsky. [**Rapid Optical Cytology with Deep Learning-Based Cell Segmentation for Diagnosis of Thyroid Lesions**](https://stdm.github.io/downloads/papers/BioMed_2024.pdf). In: Proceedings of the 2024 **Optica Biophotonics Congress: Biomedical Optics**, Fort Lauderdale, FL, USA, April 07-10, 2024.
+
 Lukas Tuggener, Raphael Emberger, Adhiraj Ghosh, Pascal Sager, Yvan Putra Satyawan, Javier Montoya, Simon Goldschagg, Florian Seibold, Urs Gut, Philipp Ackermann, Jürgen Schmidhuber, and Thilo Stadelmann. [**Real World Music Object Recognition**](https://stdm.github.io/downloads/papers/TISMIR_2023.pdf). In: [**TISMIR**](https://transactions.ismir.net/) 7(1), 1–14, 2024. DOI [10.5334/tismir.157](https://doi.org/10.5334/tismir.157).
 
 
