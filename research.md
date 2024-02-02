@@ -298,10 +298,10 @@ Peter R. Jermain, Martin Oswald, Tenzin Langdun, Santana Wright, Ashraf Khan, Th
 
 Lukas Tuggener, Raphael Emberger, Adhiraj Ghosh, Pascal Sager, Yvan Putra Satyawan, Javier Montoya, Simon Goldschagg, Florian Seibold, Urs Gut, Philipp Ackermann, Jürgen Schmidhuber, and Thilo Stadelmann. [**Real World Music Object Recognition**](https://stdm.github.io/downloads/papers/TISMIR_2023.pdf). In: [**TISMIR**](https://transactions.ismir.net/) 7(1), 1–14, 2024. DOI [10.5334/tismir.157](https://doi.org/10.5334/tismir.157).
 
+Peng Yan, Ahmed Abdulkadir, Paul-Philipp Luley, Matthias Rosenthal, Gerrit A. Schatte, Benjamin F. Grewe, and Thilo Stadelmann. ["**A Comprehensive Survey of Deep Transfer Learning for Anomaly Detection in Industrial Time Series: Methods, Applications, and Directions**"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10379639). In: **IEEE Access**, January 2024. DOI [10.1109/ACCESS.2023.3349132](https://doi.org/10.1109/ACCESS.2023.3349132).
+
 
 #### 2023
-
-Peng Yan, Ahmed Abdulkadir, Paul-Philipp Luley, Matthias Rosenthal, Gerrit A. Schatte, Benjamin F. Grewe, and Thilo Stadelmann. ["**A Comprehensive Survey of Deep Transfer Learning for Anomaly Detection in Industrial Time Series: Methods, Applications, and Directions**"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10379639). In: **IEEE Access**, December 2023. DOI [10.1109/ACCESS.2023.3349132](https://doi.org/10.1109/ACCESS.2023.3349132).
 
 Jan Segessenmann, Thilo Stadelmann, Andrew Davison, and Oliver Dürr. [**Assessing Deep Learning: A Work Program for the Humanities in the Age of Artificial Intelligence**](https://stdm.github.io/downloads/papers/AIEthics_2023.pdf). In: **AI and Ethics**, Springer, November 30, 2023 (see also extended **SSRN preprint**, [ssrn.4554234](https://ssrn.com/abstract=4554234), August 28, 2023. DOI [10.2139/ssrn.4554234](http://dx.doi.org/10.2139/ssrn.4554234)).
 
