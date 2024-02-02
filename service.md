@@ -25,14 +25,31 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   * Keynote at **Unternehmerforum Gummersbach**, Gummersbach, Germany, November 14, 2024
 
   * Keynote at Kaderanlass of the **Kantonspolizeit Zürich**, Zurich, Switzerland, June 28, 2024
+  
+  * Keynote at **Hospitality Summit**, Zurich, Switzerland, June 13, 2024
 
   * Keynote at the **SPI-Tagung 2024** of the SPI Swiss Police Institute, Olten, Switzerland, June 13, 2024
+  
+  * Keynote at **Stadtwerke Winterthur**, Winterthur, Switzerland, May 30, 2024
+  
+  * Keynote at **KSA Research & Innovation Day**, Aarau, Switzerland, May 29, 2024
+  
+  * Keynote at **JLU TOP Congress**, Wasselonne, France, May 22, 2024
+  
+  * Invited talk at **IVCG**, Nagold, Gernmany, March 08 2023
 
   * Talk at [Volkshochschule Jestetten-Lottstetten](https://www.vhs-jestetten-lottstetten.de/startseite) on **Kuenstliche Intelligenz - ein Leitfaden**, Jestetten, Germany, March 07, 2024
+  
+  * Keynote at [**Oracle Data & AI Forum**](https://www.oracle.com/ch-de/cloud/events/data-ai-forum/), Zurich, Switzerland February 27, 2024
 
-  * Panelist at Communication Summit 2024, Zurich, Switzerland, February 07, 2024
+  * Panelist at **Communication Summit 2024**, Zurich, Switzerland, February 07, 2024
+  
+  * Talk at **Christliche Gemeinde Lottstetten**, Lottstetten, Germany, January 26, 2024
+  
+  * Keynote at **ZHAW ICT**, Winterthur, Switzerland, January 25, 2024
 
-  * Invited talk at Politlunch Thun, Thun, Switzerland, January 16, 2024
+  * Invited talk at **Politlunch Thun**, Thun, Switzerland, January 16, 2024
+   
 
 #### 2023 
 
@@ -491,7 +508,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
     [<img alt="ECLT" src="http://stdm.github.io/images/eclt.png"/>](https://www.unive.it/pag/23664/)
 
-  * 09/2016-ongoing: Co-founder and member of the board of the [data innovation alliance](https://data-innovation.org/) (formerly known as the [Swiss Alliance for Data-Intensive Services](http://www.data-service-alliance.ch)), a Innosuisse-funded [National Thematic Network](https://www.kti.admin.ch/kti/en/home/unsere-foerderangebote/fuer-forschende/vernetzungsmoeglichkeiten.html)
+  * 09/2016-12/2023: Co-founder and member of the board of the [data innovation alliance](https://data-innovation.org/) (formerly known as the [Swiss Alliance for Data-Intensive Services](http://www.data-service-alliance.ch)), a Innosuisse-funded [National Thematic Network](https://www.kti.admin.ch/kti/en/home/unsere-foerderangebote/fuer-forschende/vernetzungsmoeglichkeiten.html)
     
     <!--- [<img alt="Data+Service" src="http://stdm.github.io/images/data+service.png"/>](http://www.data-service-alliance.ch) -->
     
@@ -599,9 +616,13 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 <a name="press"></a>
 ## In the press 
 
-  * January 12, 2024, [ERF Plus](https://www.mediathek-hessen.de/podcast_32532_ERF-Plus-Keine-Angst-vor-K%C3%BCnstlicher-Intelligenz.html): "Keine Angst vor Künstlicher Intelligenz! Experte Thilo Stadelmann sieht Chancen und handhabbare Risiken."
+  * February 01, 2024, [ERF Plus](https://www.erf.de/hoeren-sehen/erf-plus/audiothek/das-gespraech/keine-angst-vor-kollege-computer/38142-922): "**Keine Angst vor Kollege Computer. KI-Professor Thilo Stadelmann: Es liegt am Menschen, was künstliche Intelligenz kann.**"
 
-  * December 09, 2023, [Boersenradio CREDO Podcast](https://www.brn-ag.de/42819): "Will man eine KI mit Emotion? Vielleicht. Könnte das gefährlich sein? Sicher. Und nützlich"
+  * January 12, 2024, [ERF Plus](https://www.mediathek-hessen.de/podcast_32532_ERF-Plus-Keine-Angst-vor-K%C3%BCnstlicher-Intelligenz.html): "**Keine Angst vor Künstlicher Intelligenz! Experte Thilo Stadelmann sieht Chancen und handhabbare Risiken.**"
+
+  * December 09, 2023, [Boersenradio CREDO Podcast](https://www.brn-ag.de/42819): "**Will man eine KI mit Emotion? Vielleicht. Könnte das gefährlich sein? Sicher. Und nützlich**"
+
+  * December 03, 2023, [Jesus.ch](https://www.jesus.ch/themen/people/43729_kuenstliche_intelligenz_warum_so_viel_angst): "**Künstliche Intelligenz – warum so viel Angst?**"
 
   * November 30, 2023, [Livenet Schweiz](https://www.youtube.com/watch?v=-_1ntQz6124): "**Eine christliche Sicht auf Künstliche Intelligenz / im Gespräch mit Prof. Dr. Thilo Stadelmann**"
 
