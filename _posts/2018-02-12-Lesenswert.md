@@ -2,7 +2,7 @@
 layout: post
 title: Lesenswert
 date: 2018-02-12
-modified: 2022-12-06
+modified: 2024-02-15
 category: society, readings
 comments: true
 ---
@@ -10,6 +10,22 @@ comments: true
 This is an occasionally updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title). Some might be after a paywall afte some time - sorry for that!
 
 <!-- more -->
+
+* ["Silicon Valley Has a Harvard Problem"](https://time.com/6692111/silicon-valley-palantir-alexander-karp/) by Alexander C. Karp, and Nicholas W. Zamiska, February 12, 2024.
+
+  Subject: Ideas, Technology
+  
+  Key words: belief, worldview, cancel culture, elite, culture, society, avoiding offense as principal sin, pragmatism, taking a stand, shallow inner life
+  
+  Abstract: An entire generation of executives and entrepreneurs that came of age in recent years was essentially robbed of an opportunity to form actual views about the world—both descriptive, what it is, and normative, what it should be—leaving us with a managerial class whose principal purpose often seems to be little more than ensuring its own survival and re-creation.
+
+* ["ChatGPT Heralds an Intellectual Revolution"](https://www.henryakissinger.com/articles/chatgpt-heralds-an-intellectual-revolution/) by Henry A. Kissinger, Eric Schmid, and Daniel Huttenlocher, Feb 24, 2023.
+
+  Subject: ChatGPT
+  
+  Key words: generative AI, ChatGPT, societal impact
+  
+  Abstract: Generative artificial intelligence presents a philosophical and practical challenge on a scale not experienced since the start of the Enlightenment.
 
 * ["Die Gedanken sind nicht mehr frei"](https://www.faz.net/aktuell/feuilleton/debatten/ayad-akhtar-ueber-identitaetspolitik-in-amerika-18506051.html) by Ayad Akhtar, Dec 03, 2022.
 
