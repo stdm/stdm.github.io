@@ -616,6 +616,12 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 <a name="press"></a>
 ## In the press 
 
+  * February 17, 2024, [m&k Werbewoche](https://www.werbewoche.ch/de/digital/2024-02-17/da-geht-was-wir-koennen-diese-sachen-zum-guten-einsetzen/): "**Da geht was, wir können diese Sachen zum Guten einsetzen**"
+  
+  * February 08, 2024, [Bernetblog](https://bernet.ch/blog/2024/02/08/20-jahre-communication-summit-ki-mmunikation/): "**20 Jahre Communication Summit: KI-mmunikation?**"
+  
+  * February 07, 2024, Berner Landbote: "Echte beziehungen werden wieder wichtig."
+
   * February 01, 2024, [ERF Plus](https://www.erf.de/hoeren-sehen/erf-plus/audiothek/das-gespraech/keine-angst-vor-kollege-computer/38142-922): "**Keine Angst vor Kollege Computer. KI-Professor Thilo Stadelmann: Es liegt am Menschen, was künstliche Intelligenz kann.**"
 
   * January 12, 2024, [ERF Plus](https://www.mediathek-hessen.de/podcast_32532_ERF-Plus-Keine-Angst-vor-K%C3%BCnstlicher-Intelligenz.html): "**Keine Angst vor Künstlicher Intelligenz! Experte Thilo Stadelmann sieht Chancen und handhabbare Risiken.**"
