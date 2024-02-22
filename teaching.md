@@ -29,11 +29,14 @@ I try to make my main courses available as free online ressources as a best effo
 
 | **When** | **Level** | **Type** | **Title** |
 | --- | --- | --- | --- |
+| Spring 2024 | BSc | BA | Transformers for Voice Recognition: Build automatic speaker recognition using LLM technology |
+| Spring 2024 | BSc | BA | Towards Action Transformers |
+| Spring 2024 | MAS | Thesis | Beaker detection using realtime image analysis and artificial neural networks |
 | Fall 2023 | PhD | Thesis | Deep Learning for Robust and Explainable Models in Computer Vision |
 | Fall 2023 | MSc | MT | Predicting DARPin Protein Binding using Geometric Graph Neural Networks |
-| Spring 2023 | MSc | MT | Self-Organisation in a Biologically Inspired Learning Framework Based on Bernoulli Neurons <br> _top grade_ <br> Student: Pascal Sager |
-| Spring 2023 | BSc | BA | RoboDog III: Building a Vision and /or Sound-Based AI Demonstrator on a Robotic Platform <br> _top grade_ <br> Students: Juri Pfammatter, Daniel Schweizer |
-| Spring 2023 | BSc | BA | Deep-Learning-based Cell Segmentation for the Detection of Thyroid Cancer in Single Cells <br> _top grade, [Siemens Excellence Award](https://www.linkedin.com/feed/update/urn:li:activity:7086340647128817664/), [Lab Sciences Award 2024](https://toolpoint.ch/en/winner.87/)_ <br> Students: Tenzin Samdrup Langdun, Martin Oswald |
+| Spring 2023 | MSc | MT | **Self-Organisation in a Biologically Inspired Learning Framework Based on Bernoulli Neurons** <br> _top grade_ <br> Student: Pascal Sager |
+| Spring 2023 | BSc | BA | **RoboDog III: Building a Vision and /or Sound-Based AI Demonstrator on a Robotic Platform** <br> _top grade_ <br> Students: Juri Pfammatter, Daniel Schweizer |
+| Spring 2023 | BSc | BA | **Deep-Learning-based Cell Segmentation for the Detection of Thyroid Cancer in Single Cells** <br> _top grade, [Siemens Excellence Award](https://www.linkedin.com/feed/update/urn:li:activity:7086340647128817664/), [Lab Sciences Award 2024](https://toolpoint.ch/en/winner.87/)_ <br> Students: Tenzin Samdrup Langdun, Martin Oswald |
 | Spring 2023 | BSc | BA | Teaching Neural Nets to Learn Dynamic Voice Features for Automatic Speaker Verification |
 | Spring 2023 | MAS | Thesis | Lean Production Monitoring (with Cameras) |
 | Fall 2022 | MSc | VT2 | Supporting DARPin binder selection through deep learning |
@@ -54,7 +57,7 @@ I try to make my main courses available as free online ressources as a best effo
 | Fall 2021 | BSc | PA | Forschungs-PA: Continual Deep Learning for Visual Recognition |
 | Spring 2021 | MSc | VT1 | Exploiting Temporal Information in Speech using Deep Learning |
 | Spring 2021 | MSc | VT2 | Multimedia Retrieval using Vision Transformers |
-| Spring 2021 | MSc | MT @ HSLU | Deep Learning with Noisy Image Labels in Real-World Computer Vision Applications |
+| Spring 2021 | MSc | MT @ HSLU | [**Deep Learning with Noisy Image Labels in Real-World Computer Vision Applications**](https://stdm.github.io/downloads/papers/SDS_2021a.pdf) <br> _paper at SDS2021> <br> Student: Niclas Simmler |
 | Spring 2021 | BSc | BA | [**Neural Network-based Image Synthesis to Improve Automatic Segmentation of Medical Images for COVID**](https://stdm.github.io/downloads/papers/CISP_BMEI_2021.pdf) <br> _paper at CISP-BMEI 2021_ <br> Students: Jonathan Gruss and Yves D. Stebler |
 | Spring 2021 | BSc | BA | **Transfer Learning of Deep Neural Network Representations of Brain Activity** <br> _top grade_ <br> Students: Benjamin Bertalan and Gian Andri Hess |
 | Fall 2020 | PhD | Thesis @ Ca'Foscari / Venice | external examiner for "Using Contextual Information In Weakly Supervised Learning" |
@@ -128,7 +131,7 @@ I try to make my main courses available as free online ressources as a best effo
 | --- | --- | --- | --- | --- | --- | --- |
 | [AI1](http://stdm.github.io/ai-course) | **Artificial Intelligence 1** | lecture & lab | final year BSc computer science elective course; won [best teaching award (3rd place)](https://stdm.github.io/ATLAS/) in 2019 | foundational AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017-2023 |
 | AI2 | **Artificial Intelligence 2** | lecture & lab | finale year BSc computer science / data science elective course | developing fair algorithms; towards more general neural models | responsible, co-initiate, co-create | Fall 2017, spring 2023-2024 |
-| CVDL | **Computer Vision with Deep Learning** | lecture & lab | finale year BSc computer science / data science elective course | modern computer vision based on deep learning methodology (beyond CNNs and classification) | responsible, initiate, co-create | Fall 2022 |
+| CVDL | **Computer Vision with Deep Learning** | lecture & lab | finale year BSc computer science / data science elective course | modern computer vision based on deep learning methodology (beyond CNNs and classification) | responsible, initiate | Fall 2022 |
 | ML | **Machine Learning** | lecture & lab | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Machine Intelligence](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-machine-intelligence.html) | practical machine learning for data scientists | responsible, initiate, create, teach | Fall 2015-2016, spring 2017-2018, spring 2021, spring 2023 |
 
 
