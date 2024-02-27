@@ -615,6 +615,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * February 27, 2024, [Amen Magazin](https://stdm.github.io/downloads/press/20240227_Amen.pdf): "**Stärken und Grenzen eines grossen Werkzeugs**"
 
   * February 17, 2024, [m&k Werbewoche](https://www.werbewoche.ch/de/digital/2024-02-17/da-geht-was-wir-koennen-diese-sachen-zum-guten-einsetzen/): "**Da geht was, wir können diese Sachen zum Guten einsetzen**"
   
