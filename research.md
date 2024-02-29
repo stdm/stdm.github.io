@@ -29,6 +29,8 @@ The group has very diverse backgrounds, which helps us complement each other's s
   
   * [Dr. Ahmed Abdulkadir](https://scholar.google.com/citations?user=XqaePW0AAAAJ), senior researcher: B.Sc. systems engineering (NTB Buchs), BSc & MSc Life Sciences (EPFL), PhD computer engineering (University of Freiburg / Germany), PostDoc University Hospital Bern / University of Pennsylvania / Lausanne University Hospital
   
+  * [Dr. Hella Bolck](https://www.linkedin.com/in/hella-bolck-783a6526), coordinator for complex projects: M.Sc. biochemistry and molecular biology (U Jena), PhD cancer biology (U Zurich), postdoc & senior scientist (USZ)
+  
   * [Lukas Tuggener](https://tuggeluk.github.io/), PhD student: B.Sc. industrial engineering (ZHAW), M.Sc. statistics (ETH), doctorate in conjunction with [Juergen Schmidhuber](http://people.idsia.ch/~juergen/) of the University of Lugano / Switzerland
   
   * [Waqar Ali](https://www.linkedin.com/in/waqar-ali-92468910b/), PhD student: M.Sc. (CU Islamabad) in computer science, doctorate in conjunction with [Marcello Pelillo](https://www.dsi.unive.it/~pelillo/) of the University of Venice / Italy
@@ -41,10 +43,6 @@ The group has very diverse backgrounds, which helps us complement each other's s
   
   * [Benjamin Meyer](https://www.linkedin.com/in/benjamin-meyer-b87077151), research assistent & M.Sc. student at U Basel: B.Sc. Information Technology (FHNW)
   
-  * [Sebastian Salzmann](https://www.linkedin.com/in/sebastian-salzmann-8214b911b), M.Sc. student: B.Sc. biology (ETH) & M.Sc. molecular health sciences (ETH)
-    
-  * [Sydney M. Nguyen](https://www.linkedin.com/in/sydney-nguyen-117987180/), M.Sc. student: B.Sc. in computer science (ZHAW)
-  
   * [Livia Luescher](https://www.linkedin.com/in/livia-l%C3%BCscher-72aaaa139/), M.Sc. student: B.Sc. in business administration with honors (HWZ Zurich)
   
   * [Erdal Ayfer](https://www.zhaw.ch/en/about-us/person/ayfe/), intern and B.Sc. student computer science at ZHAW
@@ -52,6 +50,10 @@ The group has very diverse backgrounds, which helps us complement each other's s
     
 Our Alumni are:
 
+  * [Sydney M. Nguyen](https://www.linkedin.com/in/sydney-nguyen-117987180/), M.Sc. student 2022-2024, B.Sc. in computer science (ZHAW)
+
+  * [Sebastian Salzmann](https://www.linkedin.com/in/sebastian-salzmann-8214b911b), M.Sc. student 2021-2024, B.Sc. biology (ETH) & M.Sc. molecular health sciences (ETH)
+  
   * [Paul Luley](https://www.linkedin.com/in/paul-l-821892247/), research assistent 2022-2023, B.Sc. biomedical engineering (Technikum Vienna), now data science researcher with Julius Bär
 
   * [Dr. Ricardo Chavarriaga](https://scholar.google.com/citations?user=ZU1fTMYAAAAJ&hl=en), B.Sc. electronics engineering (Pontificia Universidad Javeriana, Columbia), graduate school in computer/communication/information science (EPFL), PhD neuroscience (EPFL), Postdoc neuroscience/brain-computer interfaces (EPFL & IDIAP), senior researcher 2019-2023, now head of Responsible AI Innovation Group at ZHAW CAI
