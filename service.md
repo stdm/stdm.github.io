@@ -23,6 +23,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 #### 2024
 
   * Keynote at **Unternehmerforum Gummersbach**, Gummersbach, Germany, November 14, 2024
+  
+  * Invited talk at **Kodak Alaris**, Lucerne, Switzerland, September 13, 2024
 
   * Keynote at Kaderanlass of the **Kantonspolizeit Zürich**, Zurich, Switzerland, June 28, 2024
   
@@ -35,6 +37,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   * Keynote at **KSA Research & Innovation Day**, Aarau, Switzerland, May 29, 2024
   
   * Keynote at **JLU TOP Congress**, Wasselonne, France, May 22, 2024
+  
+  * Invited talk at **Repower AG** AI Day, Landquart, Switzerland, March 20, 2024
   
   * Invited talk at **IVCG**, Nagold, Gernmany, March 08 2023
 
