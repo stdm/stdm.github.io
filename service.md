@@ -535,6 +535,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Reviewer for [IEEE Transactions on Systems, Man and Cybernetics: Systems](https://www.ieeesmc.org/publications/transactions-on-smc-systems), [IEEE/ACM Transactions on Audio, Speech and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655), [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78), [EURASIP Journal on Audio, Speech, and Music Processing](https://asmp-eurasipjournals.springeropen.com/), [PLOS ONE](https://journals.plos.org/plosone/) and the [Science Media Center Germany](https://www.sciencemediacenter.de/)
   
+  * Member of program committee, [ANNPR 2024](https://users.encs.concordia.ca/~annpr24/), October 10-12, 2024, Montreal, Canada
+  
   * Program Co-Chair, [IEEE Swiss Conference on Data Science 2024](https://sds2024.ch/), May 30-31, 2024, Zurich, Switzerland
   
   * Member of program committee, [CVPR 2023](https://cvpr2023.thecvf.com/), June 18-22, 2023, Vancouver, Canada

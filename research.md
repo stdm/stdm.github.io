@@ -296,6 +296,12 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 #### 2024
 
+Peng Yan, Ahmed Abdulkadir, Giulia Aguzzi, Gerrit A. Schatte, Benjamin F. Grewe, and Thilo Stadelmann. **Automated process monitoring in injection molding via representation learning and setpoint regression**. Accepted at the 11th IEEE Swiss Conference on Data Science (**SDS'24**), Zurich, Switzerland, May 31, 2024.
+
+Lukas Tuggener, Pascal Sager, Yassine Taoudi-Benchekroun, Benjamin Fr. Grewe, and Thilo Stadelmann. **So you want your private LLM at home? A survey and benchmark of methods for efficient GPTs**. Accepted at the 11th IEEE Swiss Conference on Data Science (**SDS'24**), Zurich, Switzerland, May 31, 2024.
+
+Benjamin Meyer, Thilo Stadelmann, and Marcel Lüthi. **ScalaGrad: A Statically Typed Automatic Differentiation Library for Safer Data Science**. Accepted at the 11th IEEE Swiss Conference on Data Science (**SDS'24**), Zurich, Switzerland, May 31, 2024.
+
 Peter R. Jermain, Martin Oswald, Tenzin Langdun, Santana Wright, Ashraf Khan, Thilo Stadelmann, Ahmed Abdulkadir, and Anna N. Yaroslavsky. [**Rapid Optical Cytology with Deep Learning-Based Cell Segmentation for Diagnosis of Thyroid Lesions**](https://stdm.github.io/downloads/papers/BioMed_2024.pdf). In: Proceedings of the 2024 **Optica Biophotonics Congress: Biomedical Optics**, Fort Lauderdale, FL, USA, April 07-10, 2024.
 
 Lukas Tuggener, Raphael Emberger, Adhiraj Ghosh, Pascal Sager, Yvan Putra Satyawan, Javier Montoya, Simon Goldschagg, Florian Seibold, Urs Gut, Philipp Ackermann, Jürgen Schmidhuber, and Thilo Stadelmann. [**Real World Music Object Recognition**](https://stdm.github.io/downloads/papers/TISMIR_2023.pdf). In: [**TISMIR**](https://transactions.ismir.net/) 7(1), 1–14, 2024. DOI [10.5334/tismir.157](https://doi.org/10.5334/tismir.157).
@@ -305,7 +311,7 @@ Peng Yan, Ahmed Abdulkadir, Paul-Philipp Luley, Matthias Rosenthal, Gerrit A. Sc
 
 #### 2023
 
-Jan Segessenmann, Thilo Stadelmann, Andrew Davison, and Oliver Dürr. [**Assessing Deep Learning: A Work Program for the Humanities in the Age of Artificial Intelligence**](https://stdm.github.io/downloads/papers/AIEthics_2023.pdf). In: **AI and Ethics**, Springer, November 30, 2023 (see also extended **SSRN preprint**, [ssrn.4554234](https://ssrn.com/abstract=4554234), August 28, 2023. DOI [10.2139/ssrn.4554234](http://dx.doi.org/10.2139/ssrn.4554234)).
+Jan Segessenmann, Thilo Stadelmann, Andrew Davison, and Oliver Dürr. [**Assessing Deep Learning: A Work Program for the Humanities in the Age of Artificial Intelligence**](https://stdm.github.io/downloads/papers/AIEthics_2023.pdf). In: **AI and Ethics**, Springer, November 30, 2023, DOI [10.1007/s43681-023-00408-z](https://link.springer.com/article/10.1007/s43681-023-00408-z) (see also extended **SSRN preprint**, [ssrn.4554234](https://ssrn.com/abstract=4554234), August 28, 2023. DOI [10.2139/ssrn.4554234](http://dx.doi.org/10.2139/ssrn.4554234)).
 
 Lukas Tuggener, Thilo Stadelmann, and Jürgen Schmidhuber. [**Efficient Rotation Invariance in Deep Neural Networks through Artificial Mental Rotation**](https://stdm.github.io/downloads/papers/ArXiv_2023c.pdf). In: **arXiv preprint**, [arXiv:2311.08525](https://arxiv.org/pdf/2311.08525.pdf), November 2023.
 
