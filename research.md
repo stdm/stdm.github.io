@@ -298,7 +298,7 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 Peng Yan, Ahmed Abdulkadir, Giulia Aguzzi, Gerrit A. Schatte, Benjamin F. Grewe, and Thilo Stadelmann. **Automated process monitoring in injection molding via representation learning and setpoint regression**. Accepted at the 11th IEEE Swiss Conference on Data Science (**SDS'24**), Zurich, Switzerland, May 31, 2024.
 
-Lukas Tuggener, Pascal Sager, Yassine Taoudi-Benchekroun, Benjamin F. Grewe, and Thilo Stadelmann. **So you want your private LLM at home? A survey and benchmark of methods for efficient GPTs**. Accepted at the 11th IEEE Swiss Conference on Data Science (**SDS'24**), Zurich, Switzerland, May 31, 2024.
+Lukas Tuggener, Pascal Sager, Yassine Taoudi-Benchekroun, Benjamin F. Grewe, and Thilo Stadelmann. [**So you want your private LLM at home? A survey and benchmark of methods for efficient GPTs**](https://stdm.github.io/downloads/papers/SDS_2024b.pdf). Accepted at the 11th IEEE Swiss Conference on Data Science (**SDS'24**), Zurich, Switzerland, May 31, 2024.
 
 Benjamin Meyer, Thilo Stadelmann, and Marcel Lüthi. **ScalaGrad: A Statically Typed Automatic Differentiation Library for Safer Data Science**. Accepted at the 11th IEEE Swiss Conference on Data Science (**SDS'24**), Zurich, Switzerland, May 31, 2024.
 
