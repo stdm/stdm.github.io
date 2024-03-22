@@ -16,9 +16,9 @@ This page is dedicated to the research of me and my group. My academic profile i
 <a name="group"></a>
 ## The group
 
-[<img alt="Team" src="http://stdm.github.io/images/20230118-cvpc-group-picture-2023.jpg"/>](http://stdm.github.io/images/20230118-cvpc-group-picture-2023.jpg)
+[<img alt="Team" src="http://stdm.github.io/images/CAI-2024.jpg"/>](http://stdm.github.io/images/CAI-2024.jpg)
 
-The [Machine Perception and Cognition Group](https://www.zhaw.ch/en/engineering/institutes-centres/cai/machine-perception-and-cognition-group/) (fomerly Computer Vision, Perception and Cognition Group) at the [ZHAW Centre for Artificial Intelligence](https://www.zhaw.ch/en/engineering/institutes-centres/cai/), January 2023 (from the right): Lukas Tuggener, Peng Yan, Paul Luley, Ricardo Chavarriaga, Pascal Sager, Jasmina Bogojeska (guest, head of XAI group), Benjamin Meyer, Mohammadreza Amirian, Philipp Denzel (guest, postdoc IVS group). Missing are Raphael Emberger, Waqar Ali, and the Masters students Sebastian Salzmann, Sydney Nguyen and Livia Lüscher.
+The [Machine Perception and Cognition Group](https://www.zhaw.ch/en/engineering/institutes-centres/cai/machine-perception-and-cognition-group/) (fomerly Computer Vision, Perception and Cognition Group) is part of the [ZHAW Centre for Artificial Intelligence](https://www.zhaw.ch/en/engineering/institutes-centres/cai/), here depicted in its entirety in March 2024.
 
 
 My Machine Perception and Cognition Group performs **pattern recognition** research, working on a wide variety of tasks on image, audio or generally "signal" data. As a group, we focus on **deep learning** and **reinforcement learning** methodology, inspired by biological learning. Each task that we study has its own learning target (e.g., detection, classification, clustering, segmentation, novelty detection, control) and use case (e.g., **predictive maintenance**, **speaker diarization**  for multimedia indexing, **document analysis**, **optical music recognition**, **computer vision** for industrial quality control, **automated machine learning**, **deep reinforcement learning** for automated game play or building control), which in turn sheds light on different aspects of the learning process. 
