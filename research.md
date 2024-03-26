@@ -300,9 +300,9 @@ Daniel Neururer, Volker Dellwo, and Thilo Stadelmann. [**Deep Neural Networks fo
 
 Peng Yan, Ahmed Abdulkadir, Giulia Aguzzi, Gerrit A. Schatte, Benjamin F. Grewe, and Thilo Stadelmann. **Automated process monitoring in injection molding via representation learning and setpoint regression**. Accepted at the 11th IEEE Swiss Conference on Data Science (**SDS'24**), Zurich, Switzerland, May 31, 2024.
 
-Lukas Tuggener, Pascal Sager, Yassine Taoudi-Benchekroun, Benjamin F. Grewe, and Thilo Stadelmann. [**So you want your private LLM at home? A survey and benchmark of methods for efficient GPTs**](https://stdm.github.io/downloads/papers/SDS_2024b.pdf). Accepted at the 11th IEEE Swiss Conference on Data Science (**SDS'24**), Zurich, Switzerland, May 31, 2024.
+Lukas Tuggener, Pascal Sager, Yassine Taoudi-Benchekroun, Benjamin F. Grewe, and Thilo Stadelmann. [**So you want your private LLM at home? A survey and benchmark of methods for efficient GPTs**](https://stdm.github.io/downloads/papers/SDS_2024b.pdf). In: Proceedings of the 11th IEEE Swiss Conference on Data Science (**SDS'24**), Zurich, Switzerland, May 31, 2024.
 
-Benjamin Meyer, Thilo Stadelmann, and Marcel Lüthi. **ScalaGrad: A Statically Typed Automatic Differentiation Library for Safer Data Science**. Accepted at the 11th IEEE Swiss Conference on Data Science (**SDS'24**), Zurich, Switzerland, May 31, 2024.
+Benjamin Meyer, Thilo Stadelmann, and Marcel Lüthi. [**ScalaGrad: A Statically Typed Automatic Differentiation Library for Safer Data Science**](https://stdm.github.io/downloads/papers/SDS_2024a.pdf). In: Proceedings of the 11th IEEE Swiss Conference on Data Science (**SDS'24**), Zurich, Switzerland, May 31, 2024.
 
 Peter R. Jermain, Martin Oswald, Tenzin Langdun, Santana Wright, Ashraf Khan, Thilo Stadelmann, Ahmed Abdulkadir, and Anna N. Yaroslavsky. [**Rapid Optical Cytology with Deep Learning-Based Cell Segmentation for Diagnosis of Thyroid Lesions**](https://stdm.github.io/downloads/papers/BioMed_2024.pdf). In: Proceedings of the 2024 **Optica Biophotonics Congress: Biomedical Optics**, Fort Lauderdale, FL, USA, April 07-10, 2024.
 
