@@ -2,14 +2,30 @@
 layout: post
 title: Lesenswert
 date: 2018-02-12
-modified: 2024-02-15
+modified: 2024-04-01
 category: society, readings
 comments: true
 ---
 
-This is an occasionally updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. In German (thus the title). Some might be after a paywall afte some time - sorry for that!
+This is an occasionally updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. (Mostly) in German (thus the title). Some might be after a paywall after some time - sorry for that!
 
 <!-- more -->
+
+* ["Die Engländer haben die Nase voll von Identitätspolitik"](https://www.faz.net/aktuell/feuilleton/debatten/die-englaender-schwoeren-der-identitaetspolitik-ab-19611707.html) by Eva Ladipo, April 01, 2024.
+  
+  Subject: Kultukämpfe in Grossbritannien
+  
+  Key words: Wokeness, Identitätspolitik, Beruhigung, keep calm, Revolution frisst ihre Kinder, Besonnenheit
+  
+  Asbtract: Die Briten schwören der Identitätspolitik ab. Im Wahlkampf spielt sie fast keine Rolle mehr. Fragen der sexuellen Identität, des Geschlechts und der Hautfarbe besitzen nicht mehr die spalterische Sprengkraft.
+
+* ["The Acronym Behind Our Wildest AI Dreams and Nightmares"](https://www.truthdig.com/articles/the-acronym-behind-our-wildest-ai-dreams-and-nightmares/) by Emile P. Torres, June 15, 2023.
+
+  Subject: Eugenics in the twenty-first century - new names, old ideas
+  
+  Key words: Transhumanism, extropianism, singularitarianism, cosmism, rationalism, effective altruism, longtermism, eugenics of 21st century, pseudo-religion, OpenAI, Elon Musk, Future of Life Institute, California, tech bros
+  
+  Abstract: To understand the deepening divide between AI boosters and doomers, it’s necessary to unpack their common origins in a bundle of ideologies known as TESCREAL.
 
 * ["Silicon Valley Has a Harvard Problem"](https://time.com/6692111/silicon-valley-palantir-alexander-karp/) by Alexander C. Karp, and Nicholas W. Zamiska, February 12, 2024.
 
