@@ -122,6 +122,8 @@ At the same time, the existence of adversarial attacks on convolutional neural n
 
 #### Selected references (see also [below](#publications))
 
+  * [Yan, P., Abdulkadir, A., Luley, P. P., Rosenthal, M., Schatte, G. A., Grewe, B. F., and Stadelmann, T. (2024). **A comprehensive survey of deep transfer learning for anomaly detection in industrial time series: Methods, applications, and directions**. IEEE Access.](https://scholar.google.de/citations?view_op=view_citation&hl=de&user=6U6ZXzUAAAAJ&cstart=20&pagesize=80&citation_for_view=6U6ZXzUAAAAJ:CHSYGLWDkRkC)
+
   * [Stadelmann, T., Amirian, M., Arabaci, I., Arnold, M., Duivesteijn, G.F., Elezi, I., Geiger, M., Lörwald, S., Meier, B.B., Rombach, K. and Tuggener, L., 2018, September. **Deep Learning in the Wild**. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 17-38). Springer, Cham.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=10271253292885532857)
 
   * [Stadelmann, T., Tolkachev, V., Sick, B., Stampfli, J. and Dürr, O., 2019. **Beyond ImageNet-deep learning in industrial practice**. _Applied Data Science-Lessons Learned for the Data-Driven Business_. Springer.](https://scholar.google.ch/scholar?hl=en&as_sdt=0%2C5&q=Beyond+ImageNet-deep+learning+in+industrial+practice&btnG=)
@@ -137,6 +139,8 @@ At the same time, the existence of adversarial attacks on convolutional neural n
 A rich source for open research questions in deep-learning-based pattern recognition is found in various industrial processes like engineering and production. For example, we developed methods to reliably classify and quantify [food waste](https://www.zhaw.ch/en/engineering/about-us/news/news/event-news/tackling-food-waste-with-artificial-intelligence/) in large kitches through new semantic segmentation pipeline and worked a lot on automatic quality control. Other work in this area is going address the problem of [transferability](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/zhaw-and-kistler-team-up-to-evaluate-the-possibilities-of-deep-transfer-learning-for-controlling-injection-molding-processes/) of learnt knowledge from one tool to the next. As in industrial settings labelled data is usually scarce, a particular focus of our work is to make approaches more sample (or label) efficient than usual benchmark-beating models from the literature.
 
 #### Selected references (see also [below](#publications))
+
+  * [Tuggener, L., Schmidhuber, J., and Stadelmann, T. (2022). **Is it enough to optimize CNN architectures on ImageNet?**. Frontiers in Computer Science, 4, 1041703.](https://scholar.google.de/citations?view_op=view_citation&hl=de&user=6U6ZXzUAAAAJ&citation_for_view=6U6ZXzUAAAAJ:RGFaLdJalmkC)
 
   * [Knapp, E., Battaglia, M., Stadelmann, T., Jenatsch, S., and Ruhstaller, B., 2021. **XGBoost Trained on Synthetic Data to Extract Material Parameters of Organic Semiconductors**. In: _Proceedings of the 8th Swiss Conference on Data Science (SDS’21)_, Lucerne, Switzerland, 2021.](https://stdm.github.io/downloads/papers/SDS_2021b.pdf)
 
@@ -156,6 +160,8 @@ Additional applications include the [reduction of motion artifacts in CT images]
 
 #### Selected references (see also [below](#publications))
 
+  * [Amirian, M., Montoya‐Zegarra, J. A., Herzig, I., Eggenberger Hotz, P., Lichtensteiger, L., Morf, M., Züst, A., Paysan, P., Peterlik, I., Scheib, S., Füchslin, R. M., Stadelmann, T., and Schilling, F. P. (2023). **Mitigation of motion‐induced artifacts in cone beam computed tomography using deep convolutional neural networks**. Medical Physics, 50(10), 6228-6242.](https://scholar.google.de/citations?view_op=view_citation&hl=de&user=6U6ZXzUAAAAJ&cstart=20&pagesize=80&citation_for_view=6U6ZXzUAAAAJ:abG-DnoFyZgC)
+
   * [Sager, P., Salzmann, S., Burn, F., and Stadelmann, T., 2022. **Unsupervised Domain Adaptation for Vertebrae Detection and Identification in 3D CT Volumes Using a Domain Sanity Loss**. _J. Imaging_ 2022, 8(8), 222, MDPI, Basel, Switzerland.](https://www.mdpi.com/2313-433X/8/8/222/pdf)
 
   * [Amirian, M., Montoya-Zegarra, J. A., Gruss, J., Stebler, Y. D. , Bozkir, A. S., Calandri, M., Schwenker, F., and Stadelmann, T., 2021. **PrepNet: A Convolutional Auto-Encoder to Homogenize CT Scans for Cross-Dataset Medical Image Analysis**. In: _Proceedings of the 14th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI’21)_, Shanghai, China, 2021.](https://stdm.github.io/downloads/papers/CISP_BMEI_2021.pdf)
@@ -171,6 +177,8 @@ Additional applications include the [reduction of motion artifacts in CT images]
 Deep learning has propelled the surge in AI in the last decade and will continue to find new applications and improvements. However, it is [forseeable](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/interdisziplinaere-diskussionsrunde-am-cai-kolloquium-eroertert-was-intelligenz-ist-und-wie-man-die-ki-der-gegenwart-voranbringen-kann/) that the methodology in itself will not produce higher-level cognition. Inspiration comes from neuroscientific research on understanding brain functionality. Here, we find the principle of self-organizing net fragments to be the inductive bias that fits models (developed brains) to the natural environment. We seek ways of implementing related ideas into deep learning frameworks to increas the generability and robustness of the approaches, which for example means to move away from purely error-driven learning by backgpropagation.
 
 #### Selected references (see also [below](#publications))
+
+  * [von der Malsburg, C., Grewe, B. F., and Stadelmann, T. (2022, September). **Making sense of the natural environment**. In The Biannual Conference of the German Cognitive Science Society (KogWis).](https://scholar.google.de/citations?view_op=view_citation&hl=de&user=6U6ZXzUAAAAJ&cstart=20&pagesize=80&citation_for_view=6U6ZXzUAAAAJ:dfsIfKJdRG4C)
 
   * [von der Malsburg, C., Stadelmann, T., and Grewe, B. F., 2022. **A Theory of Natural Intelligence**. _arXiv preprint_, arXiv:2205.00002.](https://arxiv.org/abs/2205.00002)
 
@@ -188,6 +196,8 @@ We also follow this thread of trustworthiness through projects on AI [verificati
 
 #### Selected references (see also [below](#publications))
 
+  * [Segessenmann, J., Stadelmann, T., Davison, A., and Dürr, O. (2023). **Assessing deep learning: a work program for the humanities in the age of artificial intelligence**. AI and Ethics, 1-32.](https://scholar.google.de/citations?view_op=view_citation&hl=de&user=6U6ZXzUAAAAJ&cstart=20&pagesize=80&citation_for_view=6U6ZXzUAAAAJ:KxtntwgDAa4C)
+
   * [Wehrli, S., Hertweck, C., Amirian, M., Glüge, S., and Stadelmann, T., 2021. **Bias, awareness and ignorance in deep-learning-based face recognition**. _AI and Ethics_, DOI 10.1007/s43681-021-00108-6, Springer, October 27, 2021.](https://link.springer.com/article/10.1007/s43681-021-00108-6)
 
   * [Glüge, S., Amirian, M., Flumini, D., and Stadelmann, T., 2020. **How (Not) to Measure Bias in Face Recognition Networks**. In: _Proceedings of the 9th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (ANNPR’20)_, Springer, LNAI, Winterthur, Switzerland, September 02-04, 2020.](https://stdm.github.io/downloads/papers/ANNPR_2020.pdf)
@@ -204,6 +214,8 @@ We also follow this thread of trustworthiness through projects on AI [verificati
 We have for instance built a novel end-to-end neural network architecture that, once trained, directly outputs a probabilistic clustering of a batch of input examples in one pass. It estimates a distribution over the number of clusters and, for each number of clusters up to a maximum, distributions over the respective data partitioning. The neural network is trained in a supervised fashion to group data by any perceptual similarity criterion based on pairwise labels (same/different group). It does not expect to have seen any of the groups that appear during model application already during training. We demonstrate promising performance on high-dimensional data like images (COIL-100) and speech (TIMIT). We call this [learning to cluster](http://stdm.github.io/downloads/papers/ANNPR_2018a.pdf). We have also produced a survey and some novel results on the more general topic of [learning to learn](https://stdm.github.io/downloads/papers/SDS_2019.pdf).
 
 #### Selected references (see also [below](#publications))
+
+  * [Tuggener, L., Amirian, M., Benites, F., von Däniken, P., Gupta, P., Schilling, F. P., and Stadelmann, T. (2020). **Design patterns for resource-constrained automated deep-learning methods**. AI, 1(4), 510-538.](https://scholar.google.de/citations?view_op=view_citation&hl=de&user=6U6ZXzUAAAAJ&cstart=20&pagesize=80&citation_for_view=6U6ZXzUAAAAJ:BqipwSGYUEgC)
 
   * [Meier, B.B., Elezi, I., Amirian, M., Dürr, O. and Stadelmann, T., 2018, September. **Learning Neural Models for End-to-End Clustering**. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 126-138). Springer, Cham.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=10223989052804093264)
   
@@ -225,7 +237,9 @@ We introduced a novel object detection method, based on synthetic energy maps an
 
 #### Selected references (see also [below](#publications))
 
-  * [Tuggener, L., Satyawan, Y. P., Pacha, A., Schmidhuber, J., and Stadelmann, T., 2020. **The DeepScoresV2 Dataset and Benchmark for Music Object Detection**. In _Proceedings of the 25th International Conference on Pattern Recognition (ICPR 2000)_, IAPR, Milan, Italy, January 10-15 (online), 2021.](https://stdm.github.io/downloads/papers/ICPR_2020.pdf)
+  * [Tuggener, L., Emberger, R., Ghosh, A., Sager, P., Satyawan, Y. P., Montoya, J., Goldschagg, S., Seibold, F., Gut, U., Ackermann, P., Schmidhuber, J., and Stadelmann, T. (2024). **Real world music object recognition**. Transactions of the International Society for Music Information Retrieval, 7(1), 1-14.](https://scholar.google.de/citations?view_op=view_citation&hl=de&user=6U6ZXzUAAAAJ&cstart=20&pagesize=80&citation_for_view=6U6ZXzUAAAAJ:nb7KW1ujOQ8C)
+
+  * [Schmitt-Koopmann, F. M., Huang, E. M., Hutter, H. P., Stadelmann, T., and Darvishy, A. (2022). **FormulaNet: A benchmark dataset for mathematical formula detection**. IEEE Access, 10, 91588-91596.](https://scholar.google.de/citations?view_op=view_citation&hl=de&user=6U6ZXzUAAAAJ&cstart=20&pagesize=80&citation_for_view=6U6ZXzUAAAAJ:cFHS6HbyZ2cC)
   
   * [Tuggener, L., Elezi, I., Schmidhuber, J. and Stadelmann, T., 2018. **Deep watershed detector for music object recognition**. In _19th International Society for Music Information Retrieval Conference_, Paris, 23.-27. September 2018. Society for Music Information Retrieval.](https://scholar.google.ch/scholar?cluster=15201184947089209442&hl=en&as_sdt=0,5)
  
@@ -245,7 +259,7 @@ This line of research has also lead to work on other audio processing tasks like
 
 #### Selected references (see also [below](#publications))
 
-  * [Stadelmann, T., Glinski-Haefeli, S., Gerber, P. and Dürr, O., 2018, September. **Capturing Suprasegmental Features of a Voice with RNNs for Improved Speaker Clustering**. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 333-345). Springer, Cham.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=9694244880148272626)
+  * [Neururer, D., Dellwo, V., and Stadelmann, T. (2024). **Deep neural networks for automatic speaker recognition do not learn supra-segmental temporal features**. Pattern Recognition Letters.](https://scholar.google.de/citations?view_op=view_citation&hl=de&user=6U6ZXzUAAAAJ&cstart=20&pagesize=80&citation_for_view=6U6ZXzUAAAAJ:dshw04ExmUIC)
 
   * [Lukic, Y., Vogt, C., Dürr, O. and Stadelmann, T., 2016. **Speaker identification and clustering using convolutional neural networks**. In _2016 IEEE 26th International Workshop on Machine Learning for Signal Processing (MLSP)_, Vietri sul Mare, Italy, 13-16 Sept. 2016. IEEE.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=8378514520107037777)
 
@@ -296,11 +310,11 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 #### 2024
 
-Ali Dashti, Thilo Stadelmann, and Thomas Kohl. [**Machine learning for robust structural uncertainty quantification in fractured reservoirs**](https://stdm.github.io/downloads/papers/Geothermics_2024.pdf). Geothermics 120, p. 103012, Elsevier, June 2024, DOI [10.1016/j.geothermics.2024.103012](https://doi.org/10.1016/j.geothermics.2024.103012).
+Ali Dashti, Thilo Stadelmann, and Thomas Kohl. [**Machine learning for robust structural uncertainty quantification in fractured reservoirs**](https://stdm.github.io/downloads/papers/Geothermics_2024.pdf). **Geothermics** 120, p. 103012, Elsevier, June 2024, DOI [10.1016/j.geothermics.2024.103012](https://doi.org/10.1016/j.geothermics.2024.103012).
 
-Daniel Neururer, Volker Dellwo, and Thilo Stadelmann. [**Deep Neural Networks for Automatic Speaker Recognition Do Not Learn Supra-Segmental Temporal Features**](https://stdm.github.io/downloads/papers/ArXiv_2023b.pdf). Pattern Recognition Letters 181, pp. 64-49, Elsevier, May 2024, DOI [10.1016/j.patrec.2024.03.016](https://doi.org/10.1016/j.patrec.2024.03.016) (see also **arXiv preprint**, [arXiv:2311.00489](https://arxiv.org/pdf/2311.00489.pdf), November 2023).
+Daniel Neururer, Volker Dellwo, and Thilo Stadelmann. [**Deep Neural Networks for Automatic Speaker Recognition Do Not Learn Supra-Segmental Temporal Features**](https://stdm.github.io/downloads/papers/ArXiv_2023b.pdf). **Pattern Recognition Letters** 181, pp. 64-49, Elsevier, May 2024, DOI [10.1016/j.patrec.2024.03.016](https://doi.org/10.1016/j.patrec.2024.03.016) (see also **arXiv preprint**, [arXiv:2311.00489](https://arxiv.org/pdf/2311.00489.pdf), November 2023).
 
-Peng Yan, Ahmed Abdulkadir, Giulia Aguzzi, Gerrit A. Schatte, Benjamin F. Grewe, and Thilo Stadelmann. **Automated process monitoring in injection molding via representation learning and setpoint regression**. Accepted at the 11th IEEE Swiss Conference on Data Science (**SDS'24**), Zurich, Switzerland, May 31, 2024.
+Peng Yan, Ahmed Abdulkadir, Giulia Aguzzi, Gerrit A. Schatte, Benjamin F. Grewe, and Thilo Stadelmann. [**Automated process monitoring in injection molding via representation learning and setpoint regression**](https://stdm.github.io/downloads/papers/SDS_2024c.pdf). In: Proceedings of the 11th IEEE Swiss Conference on Data Science (**SDS'24**), Zurich, Switzerland, May 31, 2024.
 
 Lukas Tuggener, Pascal Sager, Yassine Taoudi-Benchekroun, Benjamin F. Grewe, and Thilo Stadelmann. [**So you want your private LLM at home? A survey and benchmark of methods for efficient GPTs**](https://stdm.github.io/downloads/papers/SDS_2024b.pdf). In: Proceedings of the 11th IEEE Swiss Conference on Data Science (**SDS'24**), Zurich, Switzerland, May 31, 2024.
 
@@ -308,7 +322,7 @@ Benjamin Meyer, Thilo Stadelmann, and Marcel Lüthi. [**ScalaGrad: A Statically 
 
 Peter R. Jermain, Martin Oswald, Tenzin Langdun, Santana Wright, Ashraf Khan, Thilo Stadelmann, Ahmed Abdulkadir, and Anna N. Yaroslavsky. [**Rapid Optical Cytology with Deep Learning-Based Cell Segmentation for Diagnosis of Thyroid Lesions**](https://stdm.github.io/downloads/papers/BioMed_2024.pdf). In: Proceedings of the 2024 **Optica Biophotonics Congress: Biomedical Optics**, Fort Lauderdale, FL, USA, April 07-10, 2024.
 
-Lukas Tuggener, Raphael Emberger, Adhiraj Ghosh, Pascal Sager, Yvan Putra Satyawan, Javier Montoya, Simon Goldschagg, Florian Seibold, Urs Gut, Philipp Ackermann, Jürgen Schmidhuber, and Thilo Stadelmann. [**Real World Music Object Recognition**](https://stdm.github.io/downloads/papers/TISMIR_2023.pdf). In: [**TISMIR**](https://transactions.ismir.net/) 7(1), 1–14, 2024. DOI [10.5334/tismir.157](https://doi.org/10.5334/tismir.157).
+Lukas Tuggener, Raphael Emberger, Adhiraj Ghosh, Pascal Sager, Yvan Putra Satyawan, Javier Montoya, Simon Goldschagg, Florian Seibold, Urs Gut, Philipp Ackermann, Jürgen Schmidhuber, and Thilo Stadelmann. [**Real World Music Object Recognition**](https://stdm.github.io/downloads/papers/TISMIR_2023.pdf). In: **TISMIR** 7(1), 1–14, 2024. DOI [10.5334/tismir.157](https://doi.org/10.5334/tismir.157).
 
 Peng Yan, Ahmed Abdulkadir, Paul-Philipp Luley, Matthias Rosenthal, Gerrit A. Schatte, Benjamin F. Grewe, and Thilo Stadelmann. ["**A Comprehensive Survey of Deep Transfer Learning for Anomaly Detection in Industrial Time Series: Methods, Applications, and Directions**"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10379639). In: **IEEE Access**, January 2024. DOI [10.1109/ACCESS.2023.3349132](https://doi.org/10.1109/ACCESS.2023.3349132).
 
