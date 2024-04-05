@@ -310,9 +310,9 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 #### 2024
 
-Ali Dashti, Thilo Stadelmann, and Thomas Kohl. [**Machine learning for robust structural uncertainty quantification in fractured reservoirs**](https://stdm.github.io/downloads/papers/Geothermics_2024.pdf). **Geothermics** 120, p. 103012, Elsevier, June 2024, DOI [10.1016/j.geothermics.2024.103012](https://doi.org/10.1016/j.geothermics.2024.103012).
+Ali Dashti, Thilo Stadelmann, and Thomas Kohl. [**Machine learning for robust structural uncertainty quantification in fractured reservoirs**](https://stdm.github.io/downloads/papers/Geothermics_2024.pdf). In: **Geothermics** 120, p. 103012, Elsevier, June 2024, DOI [10.1016/j.geothermics.2024.103012](https://doi.org/10.1016/j.geothermics.2024.103012).
 
-Daniel Neururer, Volker Dellwo, and Thilo Stadelmann. [**Deep Neural Networks for Automatic Speaker Recognition Do Not Learn Supra-Segmental Temporal Features**](https://stdm.github.io/downloads/papers/ArXiv_2023b.pdf). **Pattern Recognition Letters** 181, pp. 64-49, Elsevier, May 2024, DOI [10.1016/j.patrec.2024.03.016](https://doi.org/10.1016/j.patrec.2024.03.016) (see also **arXiv preprint**, [arXiv:2311.00489](https://arxiv.org/pdf/2311.00489.pdf), November 2023).
+Daniel Neururer, Volker Dellwo, and Thilo Stadelmann. [**Deep Neural Networks for Automatic Speaker Recognition Do Not Learn Supra-Segmental Temporal Features**](https://stdm.github.io/downloads/papers/ArXiv_2023b.pdf). In: **Pattern Recognition Letters** 181, pp. 64-49, Elsevier, May 2024, DOI [10.1016/j.patrec.2024.03.016](https://doi.org/10.1016/j.patrec.2024.03.016).
 
 Peng Yan, Ahmed Abdulkadir, Giulia Aguzzi, Gerrit A. Schatte, Benjamin F. Grewe, and Thilo Stadelmann. [**Automated process monitoring in injection molding via representation learning and setpoint regression**](https://stdm.github.io/downloads/papers/SDS_2024c.pdf). In: Proceedings of the 11th IEEE Swiss Conference on Data Science (**SDS'24**), Zurich, Switzerland, May 31, 2024.
 
