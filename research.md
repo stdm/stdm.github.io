@@ -324,7 +324,7 @@ Peter R. Jermain, Martin Oswald, Tenzin Langdun, Santana Wright, Ashraf Khan, Th
 
 Lukas Tuggener, Raphael Emberger, Adhiraj Ghosh, Pascal Sager, Yvan Putra Satyawan, Javier Montoya, Simon Goldschagg, Florian Seibold, Urs Gut, Philipp Ackermann, Jürgen Schmidhuber, and Thilo Stadelmann. [**Real World Music Object Recognition**](https://stdm.github.io/downloads/papers/TISMIR_2023.pdf). In: **TISMIR** 7(1), 1–14, 2024. DOI [10.5334/tismir.157](https://doi.org/10.5334/tismir.157).
 
-Peng Yan, Ahmed Abdulkadir, Paul-Philipp Luley, Matthias Rosenthal, Gerrit A. Schatte, Benjamin F. Grewe, and Thilo Stadelmann. ["**A Comprehensive Survey of Deep Transfer Learning for Anomaly Detection in Industrial Time Series: Methods, Applications, and Directions**"](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10379639). In: **IEEE Access**, January 2024. DOI [10.1109/ACCESS.2023.3349132](https://doi.org/10.1109/ACCESS.2023.3349132).
+Peng Yan, Ahmed Abdulkadir, Paul-Philipp Luley, Matthias Rosenthal, Gerrit A. Schatte, Benjamin F. Grewe, and Thilo Stadelmann. [**A Comprehensive Survey of Deep Transfer Learning for Anomaly Detection in Industrial Time Series: Methods, Applications, and Directions**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10379639). In: **IEEE Access**, January 2024. DOI [10.1109/ACCESS.2023.3349132](https://doi.org/10.1109/ACCESS.2023.3349132).
 
 
 #### 2023
@@ -335,209 +335,209 @@ Lukas Tuggener, Thilo Stadelmann, and Jürgen Schmidhuber. [**Efficient Rotation
 
 Matthia Battaglia, Ennio Comi, Thilo Stadelmann, Roman Hiestand, Beat Ruhstaller, and Evelyne Knapp. [**Deep Ensemble Inverse Model for Image-Based Estimation of Solar Cell Parameters**](https://stdm.github.io/downloads/papers/APLML_2023.pdf). In: **APL Machine Learning** 1(3). 01. September 2023. DOI [10.1063/5.0139707](https://doi.org/10.1063/5.0139707).
 
-Raphael Emberger, Jens Michael Boss, Daniel Baumann, Marko Seric, Shufan Huo, Lukas Tuggener, Emanuela Keller, and Thilo Stadelmann. ["**Video object detection for privacy-preserving patient monitoring in intensive care**"](https://stdm.github.io/downloads/papers/SDS_2023b.pdf). In: Proceedings of the 10th IEEE Swiss Conference on Data Science (**SDS'23**), Zurich, Switzerland, 2023.
+Raphael Emberger, Jens Michael Boss, Daniel Baumann, Marko Seric, Shufan Huo, Lukas Tuggener, Emanuela Keller, and Thilo Stadelmann. [**Video object detection for privacy-preserving patient monitoring in intensive care**](https://stdm.github.io/downloads/papers/SDS_2023b.pdf). In: Proceedings of the 10th IEEE Swiss Conference on Data Science (**SDS'23**), Zurich, Switzerland, 2023.
 
-Paul-Philipp Luley, Jan M. Deriu, Peng Yan, Gerrit A. Schatte, and Thilo Stadelmann. ["**From Concept to Implementation: The Data-Centric Development Process for AI in Industry**"](https://stdm.github.io/downloads/papers/SDS_2023a.pdf). In: Proceedings of the 10th IEEE Swiss Conference on Data Science (**SDS'23**), Zurich, Switzerland, 2023.
+Paul-Philipp Luley, Jan M. Deriu, Peng Yan, Gerrit A. Schatte, and Thilo Stadelmann. [**From Concept to Implementation: The Data-Centric Development Process for AI in Industry**](https://stdm.github.io/downloads/papers/SDS_2023a.pdf). In: Proceedings of the 10th IEEE Swiss Conference on Data Science (**SDS'23**), Zurich, Switzerland, 2023.
 
-Mohammadreza Amirian, Javier A. Montoya-Zegarra, Lukas Lichtensteiger, Ivo Herzig, Peter Eggenberger Hotz,  Marco Morf, Alexander Züst, Rudolf Marcel Füchslin, Pascal Paysan, Igor Peterlik, Stefan Scheib, Thilo Stadelmann, and Frank-Peter Schilling. ["**Mitigation of Motion-Induced Artifacts in Cone Beam Computed Tomography using Deep Convolutional Neural Networks**"](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.16405). **Med. Phys.** 50: 6228-6242, Wiley, March 2023. DOI [10.1002/mp.16405](https://doi.org/10.1002/mp.16405).
+Mohammadreza Amirian, Javier A. Montoya-Zegarra, Lukas Lichtensteiger, Ivo Herzig, Peter Eggenberger Hotz,  Marco Morf, Alexander Züst, Rudolf Marcel Füchslin, Pascal Paysan, Igor Peterlik, Stefan Scheib, Thilo Stadelmann, and Frank-Peter Schilling. [**Mitigation of Motion-Induced Artifacts in Cone Beam Computed Tomography using Deep Convolutional Neural Networks**](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.16405). **Med. Phys.** 50: 6228-6242, Wiley, March 2023. DOI [10.1002/mp.16405](https://doi.org/10.1002/mp.16405).
 
-Waqar Ali, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. ["**Quasi-CliquePool: Hierarchical Graph Pooling for Graph Classification**"](https://stdm.github.io/downloads/papers/GMLR_2023.pdf). ACM SAC 2023 Track on Graph Models for Learning and Recognition (**GMLR**), Tallinn, Estonia, March 27 - April 2, 2023. DOI [10.1145/3555776.3578600](https://doi.org/10.1145/3555776.3578600).
+Waqar Ali, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. [**Quasi-CliquePool: Hierarchical Graph Pooling for Graph Classification**](https://stdm.github.io/downloads/papers/GMLR_2023.pdf). ACM SAC 2023 Track on Graph Models for Learning and Recognition (**GMLR**), Tallinn, Estonia, March 27 - April 2, 2023. DOI [10.1145/3555776.3578600](https://doi.org/10.1145/3555776.3578600).
 
-Thilo Stadelmann. ["**KI als Chance für die angewandten Wissenschaften im Wettbewerb der Hochschulen**"](https://stdm.github.io/downloads/papers/Buergenstock_2023.pdf). Workshop ("Atelier") at the **Bürgenstock-Konferenz der Schweizer Fachhochschulen und Pädagogischen Hochschulen** 2023, Luzern, Schweiz, 20. Januar 2023.
+Thilo Stadelmann. [**KI als Chance für die angewandten Wissenschaften im Wettbewerb der Hochschulen**](https://stdm.github.io/downloads/papers/Buergenstock_2023.pdf). Workshop ("Atelier") at the **Bürgenstock-Konferenz der Schweizer Fachhochschulen und Pädagogischen Hochschulen** 2023, Luzern, Schweiz, 20. Januar 2023.
 
 
 #### 2022
 
-Lukas Tuggener, Jürgen Schmidhuber, and Thilo Stadelmann. ["**Is it enough to optimize CNN architectures on ImageNet?**"](https://stdm.github.io/downloads/papers/Frontiers_2022.pdf). Computer Vision - **Frontiers in Computer Science**, DOI [10.3389/fcomp.2022.1041703](https://doi.org/10.3389/fcomp.2022.1041703), 15 November 2022.
+Lukas Tuggener, Jürgen Schmidhuber, and Thilo Stadelmann. [**Is it enough to optimize CNN architectures on ImageNet?**](https://stdm.github.io/downloads/papers/Frontiers_2022.pdf). Computer Vision - **Frontiers in Computer Science**, DOI [10.3389/fcomp.2022.1041703](https://doi.org/10.3389/fcomp.2022.1041703), 15 November 2022.
 
-Felix M. Schmitt-Koopmann, Elaine M. Huang, Hans-Peter Hutter, Thilo Stadelmann, and Alireza Darvishy. ["**FormulaNet: A Benchmark Dataset for Mathematical Formula Detection**"](https://stdm.github.io/downloads/papers/Access_2022.pdf). **IEEE Access** 2022, 10, pp. 91588-91596, DOI [10.1109/ACCESS.2022.3202639](https://ieeexplore.ieee.org/document/9869643), August 2022.
+Felix M. Schmitt-Koopmann, Elaine M. Huang, Hans-Peter Hutter, Thilo Stadelmann, and Alireza Darvishy. [**FormulaNet: A Benchmark Dataset for Mathematical Formula Detection**](https://stdm.github.io/downloads/papers/Access_2022.pdf). **IEEE Access** 2022, 10, pp. 91588-91596, DOI [10.1109/ACCESS.2022.3202639](https://ieeexplore.ieee.org/document/9869643), August 2022.
 
-Pascal Sager, Sebastian Salzmann, Felice Burn, and Thilo Stadelmann. ["**Unsupervised Domain Adaptation for Vertebrae Detection and Identification in 3D CT Volumes Using a Domain Sanity Loss**"](https://www.mdpi.com/2313-433X/8/8/222/pdf). **J. Imaging** 2022, 8(8), 222, MDPI, Basel, Switzerland.
+Pascal Sager, Sebastian Salzmann, Felice Burn, and Thilo Stadelmann. [**Unsupervised Domain Adaptation for Vertebrae Detection and Identification in 3D CT Volumes Using a Domain Sanity Loss**](https://www.mdpi.com/2313-433X/8/8/222/pdf). **J. Imaging** 2022, 8(8), 222, MDPI, Basel, Switzerland.
 
-Christoph von der Malsburg, Benjamin F. Grewe, and Thilo Stadelmann. ["**Making Sense of the Natural Environment**"](https://stdm.github.io/downloads/papers/KogWis_2022.pdf). Proceedings of the **KogWis 2022 - Understanding Minds** Biannual Conference of the German Cognitive Science Society, Freiburg, Germany, September 5-7, 2022.
+Christoph von der Malsburg, Benjamin F. Grewe, and Thilo Stadelmann. [**Making Sense of the Natural Environment**](https://stdm.github.io/downloads/papers/KogWis_2022.pdf). Proceedings of the **KogWis 2022 - Understanding Minds** Biannual Conference of the German Cognitive Science Society, Freiburg, Germany, September 5-7, 2022.
 
-Christoph von der Malsburg, Thilo Stadelmann, and Benjamin F. Grewe. ["**A Theory of Natural Intelligence**"](https://stdm.github.io/downloads/papers/ArXiv_2022.pdf). **arXiv preprint**, [arXiv:2205.00002](https://arxiv.org/abs/2205.00002), April 2022.
+Christoph von der Malsburg, Thilo Stadelmann, and Benjamin F. Grewe. [**A Theory of Natural Intelligence**](https://stdm.github.io/downloads/papers/ArXiv_2022.pdf). **arXiv preprint**, [arXiv:2205.00002](https://arxiv.org/abs/2205.00002), April 2022.
 
-Frank-Peter Schilling, Dandolo Flumini, Rudolf M. Füchslin, Elena Gavagnin, Armando Geller, Silvia Quarteroni and Thilo Stadelmann. ["**Foundations of Data Science: A Comprehensive Overview Formed at the 1st International Symposium on the Science of Data Science**"](https://stdm.github.io/downloads/papers/AoDSA_2022b.pdf). **Archives of Data Science, Series A 8(2)**, accepted for publication, 2022.
+Frank-Peter Schilling, Dandolo Flumini, Rudolf M. Füchslin, Elena Gavagnin, Armando Geller, Silvia Quarteroni and Thilo Stadelmann. [**Foundations of Data Science: A Comprehensive Overview Formed at the 1st International Symposium on the Science of Data Science**](https://stdm.github.io/downloads/papers/AoDSA_2022b.pdf). **Archives of Data Science, Series A 8(2)**, accepted for publication, 2022.
 
-Ivo Herzig, Pascal Paysan, Stefan Scheib, Frank-Peter Schilling, Javier Montoya, Mohammadreza Amirian, Thilo Stadelmann, Peter Eggenberger, Rudolf M. Fuechslin, and Lukas Lichtensteiger. "**Deep Learning-Based Simultaneous Multi-Phase Deformable Image Registration of Sparse 4D-CBCT**". In: Proceedings of the American Association of Physics in Medicine Annual Meeting (**AAPM'22**), Washington, DC, USA, July 10-14, 2022.
+Ivo Herzig, Pascal Paysan, Stefan Scheib, Frank-Peter Schilling, Javier Montoya, Mohammadreza Amirian, Thilo Stadelmann, Peter Eggenberger, Rudolf M. Fuechslin, and Lukas Lichtensteiger. **Deep Learning-Based Simultaneous Multi-Phase Deformable Image Registration of Sparse 4D-CBCT**. In: Proceedings of the American Association of Physics in Medicine Annual Meeting (**AAPM'22**), Washington, DC, USA, July 10-14, 2022.
 
-Thilo Stadelmann, Tino Klamt, and Philipp H. Merkt. ["**Data Centrism and the Core of Data Science as a Scientific Discipline**"](https://stdm.github.io/downloads/papers/AoDSA_2022a.pdf). **Archives of Data Science, Series A 8(2)**, pp.1-16, April 2022.
+Thilo Stadelmann, Tino Klamt, and Philipp H. Merkt. [**Data Centrism and the Core of Data Science as a Scientific Discipline**](https://stdm.github.io/downloads/papers/AoDSA_2022a.pdf). **Archives of Data Science, Series A 8(2)**, pp.1-16, April 2022.
 
-Andreas Geyer-Schultz and Thilo Stadelmann (Editors). ["**Archives of Data Science, Series A 8(2)**"](https://www.archivesofdatascience.org/journals/series_a/publications#articles), April 2022. **Special Issue**.
+Andreas Geyer-Schultz and Thilo Stadelmann (Editors). [**Archives of Data Science, Series A 8(2)**](https://www.archivesofdatascience.org/journals/series_a/publications#articles), April 2022. **Special Issue**.
 
-Frank-Peter Schilling and Thilo Stadelmann (Editors). ["**Special Issue "Advances in Deep Neural Networks for Visual Pattern Recognition"**"](https://www.mdpi.com/journal/jimaging/special_issues/deep_neural_network), **J. Imaging**, MDPI, March 2022. 
+Frank-Peter Schilling and Thilo Stadelmann (Editors). [**Special Issue "Advances in Deep Neural Networks for Visual Pattern Recognition**](https://www.mdpi.com/journal/jimaging/special_issues/deep_neural_network), **J. Imaging**, MDPI, March 2022. 
 
 
 #### 2021
 
-Samuel Wehrli, Corinna Hertweck, Mohammadreza Amirian, Stefan Glüge, and Thilo Stadelmann. ["**Bias, awareness and ignorance in deep-learning-based face recognition**"](https://stdm.github.io/downloads/papers/AIEthics_2021.pdf). **AI and Ethics**, DOI [10.1007/s43681-021-00108-6](https://link.springer.com/article/10.1007%2Fs43681-021-00108-6), Springer, October 27, 2021.
+Samuel Wehrli, Corinna Hertweck, Mohammadreza Amirian, Stefan Glüge, and Thilo Stadelmann. [**Bias, awareness and ignorance in deep-learning-based face recognition**](https://stdm.github.io/downloads/papers/AIEthics_2021.pdf). **AI and Ethics**, DOI [10.1007/s43681-021-00108-6](https://link.springer.com/article/10.1007%2Fs43681-021-00108-6), Springer, October 27, 2021.
 
-Mohammadreza Amirian, Javier A. Montoya-Zegarra, Jonathan Gruss, Yves D. Stebler, Ahmet Selman Bozkir, Marco Calandri, Friedhelm Schwenker, and Thilo Stadelmann. ["**PrepNet: A Convolutional Auto-Encoder to Homogenize CT Scans for Cross-Dataset Medical Image Analysis**"](https://stdm.github.io/downloads/papers/CISP_BMEI_2021.pdf). In: Proceedings of the 14th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (**CISP-BMEI'21**), Shanghai, China, 2021.
+Mohammadreza Amirian, Javier A. Montoya-Zegarra, Jonathan Gruss, Yves D. Stebler, Ahmet Selman Bozkir, Marco Calandri, Friedhelm Schwenker, and Thilo Stadelmann. [**PrepNet: A Convolutional Auto-Encoder to Homogenize CT Scans for Cross-Dataset Medical Image Analysis**](https://stdm.github.io/downloads/papers/CISP_BMEI_2021.pdf). In: Proceedings of the 14th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (**CISP-BMEI'21**), Shanghai, China, 2021.
 
-Thilo Stadelmann, Julian Keuzenkamp, Helmut Grabner, and Christoph Würsch. ["**The AI Atlas: Didactics for Teaching AI and Machine Learning On-Site, Online, and hybrid**"](https://www.mdpi.com/2227-7102/11/7/318/pdf). **Educ. Sci.** 2021, 11, 318, MDPI, Basel, Switzerland, June 25, 2021.
+Thilo Stadelmann, Julian Keuzenkamp, Helmut Grabner, and Christoph Würsch. [**The AI Atlas: Didactics for Teaching AI and Machine Learning On-Site, Online, and hybrid**](https://www.mdpi.com/2227-7102/11/7/318/pdf). **Educ. Sci.** 2021, 11, 318, MDPI, Basel, Switzerland, June 25, 2021.
 
-Evelyne Knapp, Mattia Battaglia, Thilo Stadelmann, Sandra Jenatsch, and Beat Ruhstaller. ["**XGBoost Trained on Synthetic Data to Extract Material Parameters of Organic Semiconductors**"](https://stdm.github.io/downloads/papers/SDS_2021b.pdf). In: Proceedings of the 8th Swiss Conference on Data Science (**SDS'21**), Lucerne, Switzerland, 2021. **[Best paper award](https://twitter.com/thilo_on_data/status/1402663898289950727)**.
+Evelyne Knapp, Mattia Battaglia, Thilo Stadelmann, Sandra Jenatsch, and Beat Ruhstaller. [**XGBoost Trained on Synthetic Data to Extract Material Parameters of Organic Semiconductors**](https://stdm.github.io/downloads/papers/SDS_2021b.pdf). In: Proceedings of the 8th Swiss Conference on Data Science (**SDS'21**), Lucerne, Switzerland, 2021. **[Best paper award](https://twitter.com/thilo_on_data/status/1402663898289950727)**.
 
-Niclas Simmler, Pascal Sager, Philipp Andermatt, Ricardo Chavarriaga, Frank-Peter Schilling, Matthias Rosenthal, and Thilo Stadelmann. ["**A Survey of Un-, Weakly-, and Semi-Supervised Learning Methods for Noisy, Missing and Partial Labels in Industrial Vision Applications**"](https://stdm.github.io/downloads/papers/SDS_2021a.pdf). In: Proceedings of the 8th Swiss Conference on Data Science (**SDS'21**), Lucerne, Switzerland, 2021.
+Niclas Simmler, Pascal Sager, Philipp Andermatt, Ricardo Chavarriaga, Frank-Peter Schilling, Matthias Rosenthal, and Thilo Stadelmann. [**A Survey of Un-, Weakly-, and Semi-Supervised Learning Methods for Noisy, Missing and Partial Labels in Industrial Vision Applications**](https://stdm.github.io/downloads/papers/SDS_2021a.pdf). In: Proceedings of the 8th Swiss Conference on Data Science (**SDS'21**), Lucerne, Switzerland, 2021.
 
 
 #### 2020
 
-Thilo Stadelmann, and Christoph Würsch. ["**Maps for an Uncertain Future: Teaching AI and Machine Learning Using the ATLAS Concept**"](https://stdm.github.io/downloads/papers/TR_2020.pdf). Technical report (didactic concept), **ZHAW**, Winterthur, Switzerland, 2020.
+Thilo Stadelmann, and Christoph Würsch. [**Maps for an Uncertain Future: Teaching AI and Machine Learning Using the ATLAS Concept**](https://stdm.github.io/downloads/papers/TR_2020.pdf). Technical report (didactic concept), **ZHAW**, Winterthur, Switzerland, 2020.
 
-Lukas Tuggener, Mohammadreza Amirian, Fernando Benites, Pius von Däniken, Prakhar Gupta, Frank-Peter Schilling, and Thilo Stadelmann. ["**Design Patterns for Resource-Constrained Automated Deep-Learning Methods**"](https://www.mdpi.com/2673-2688/1/4/31/pdf). **AI** section "Intelligent Systems: Theory and Applications" 1(4):510-538, MDPI, Basel, Switzerland, November 06, 2020.
+Lukas Tuggener, Mohammadreza Amirian, Fernando Benites, Pius von Däniken, Prakhar Gupta, Frank-Peter Schilling, and Thilo Stadelmann. [**Design Patterns for Resource-Constrained Automated Deep-Learning Methods**](https://www.mdpi.com/2673-2688/1/4/31/pdf). **AI** section "Intelligent Systems: Theory and Applications" 1(4):510-538, MDPI, Basel, Switzerland, November 06, 2020.
 
-Lukas Tuggener, Yvan Putra Satyawan, Alexander Pacha, Jürgen Schmidhuber, and Thilo Stadelmann. ["**The DeepScoresV2 Dataset and Benchmark for Music Object Detection**"](https://stdm.github.io/downloads/papers/ICPR_2020.pdf). In: Proceedings of the 25th International Conference on Pattern Recognition (**ICPR'20**), IAPR, Milan, Italy, January 10-15 (online), 2021.
+Lukas Tuggener, Yvan Putra Satyawan, Alexander Pacha, Jürgen Schmidhuber, and Thilo Stadelmann. [**The DeepScoresV2 Dataset and Benchmark for Music Object Detection**](https://stdm.github.io/downloads/papers/ICPR_2020.pdf). In: Proceedings of the 25th International Conference on Pattern Recognition (**ICPR'20**), IAPR, Milan, Italy, January 10-15 (online), 2021.
 
-Frank-Peter Schilling, and Thilo Stadelmann (Eds.). "**Artificial Neural Networks in Pattern Recognition - 9th IAPR TC3 Workshop, ANNPR 2020, Winterthur, Switzerland, September 2–4, 2020, Proceedings**". Lecture Notes in Artificial Intelligence 12294, Springer, September 02, 2020.
+Frank-Peter Schilling, and Thilo Stadelmann (Eds.). **Artificial Neural Networks in Pattern Recognition - 9th IAPR TC3 Workshop, ANNPR 2020, Winterthur, Switzerland, September 2–4, 2020, Proceedings**. Lecture Notes in Artificial Intelligence 12294, Springer, September 02, 2020.
 
-Dano Roost, Ralph Meier, Giovanni Toffetti Carughi, and Thilo Stadelmann. ["**Combining Reinforcement Learning with Supervised Deep Learning for Neural Active Scene Understanding**"](https://stdm.github.io/downloads/papers/AVHRC_2020.pdf). In: Proceedings of the Active Vision and Perception in Human(-Robot) Collaboration Workshop at IEEE RO-MAN 2020 (**AVHRC'20**), online, August 31, 2020. **[Dr. Waldemar Jucker award 2020](https://www.gst.ch/aktivit%C3%A4ten/f%C3%B6rderpreis/)**.
+Dano Roost, Ralph Meier, Giovanni Toffetti Carughi, and Thilo Stadelmann. [**Combining Reinforcement Learning with Supervised Deep Learning for Neural Active Scene Understanding**](https://stdm.github.io/downloads/papers/AVHRC_2020.pdf). In: Proceedings of the Active Vision and Perception in Human(-Robot) Collaboration Workshop at IEEE RO-MAN 2020 (**AVHRC'20**), online, August 31, 2020. **[Dr. Waldemar Jucker award 2020](https://www.gst.ch/aktivit%C3%A4ten/f%C3%B6rderpreis/)**.
 
-Stefan Glüge, Mohammadreza Amirian, Dandolo Flumini, and Thilo Stadelmann. ["**How (Not) to Measure Bias in Face Recognition Networks**"](https://stdm.github.io/downloads/papers/ANNPR_2020.pdf). In: Proceedings of the 9th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (**ANNPR'20**), Springer, LNAI, Winterthur, Switzerland, September 02-04, 2020. **Top-5 paper, invitation for extended journal paper**.
+Stefan Glüge, Mohammadreza Amirian, Dandolo Flumini, and Thilo Stadelmann. [**How (Not) to Measure Bias in Face Recognition Networks**](https://stdm.github.io/downloads/papers/ANNPR_2020.pdf). In: Proceedings of the 9th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (**ANNPR'20**), Springer, LNAI, Winterthur, Switzerland, September 02-04, 2020. **Top-5 paper, invitation for extended journal paper**.
 
-Mohammadreza Amirian, Lukas Tuggener, Ricardo Chavarriaga, Yvan Putra Satyawan, Frank-Peter Schilling, Friedhelm Schwenker, and Thilo Stadelmann. ["**Two to Trust: AutoML for Safe Modelling and Interpretable Deep Learning for Robustness**"](https://stdm.github.io/downloads/papers/TAILOR_2020.pdf). In: Proceedings of the 1st **TAILOR Workshop on Trustworthy AI at ECAI 2020**, Santiago de Compostela, Spain, September 04-06, 2020. Springer.
+Mohammadreza Amirian, Lukas Tuggener, Ricardo Chavarriaga, Yvan Putra Satyawan, Frank-Peter Schilling, Friedhelm Schwenker, and Thilo Stadelmann. [**Two to Trust: AutoML for Safe Modelling and Interpretable Deep Learning for Robustness**](https://stdm.github.io/downloads/papers/TAILOR_2020.pdf). In: Proceedings of the 1st **TAILOR Workshop on Trustworthy AI at ECAI 2020**, Santiago de Compostela, Spain, September 04-06, 2020. Springer.
 
-Dano Roost, Ralph Meier, Stephan Huschauer, Erik Nygren, Adrian Egli, Andreas Weiler, and Thilo Stadelmann. ["**Improving Sample Efficiency and Multi-Agent Communication in RL-based Train Rescheduling**"](https://stdm.github.io/downloads/papers/SDS_2020.pdf). In: Proceedings of the 7th Swiss Conference on Data Science (**SDS'20**), Lucerne, Switzerland, June 26, 2020. IEEE. **[Best poster presentation award](https://twitter.com/i/status/1258367206846541825)**.
+Dano Roost, Ralph Meier, Stephan Huschauer, Erik Nygren, Adrian Egli, Andreas Weiler, and Thilo Stadelmann. [**Improving Sample Efficiency and Multi-Agent Communication in RL-based Train Rescheduling**](https://stdm.github.io/downloads/papers/SDS_2020.pdf). In: Proceedings of the 7th Swiss Conference on Data Science (**SDS'20**), Lucerne, Switzerland, June 26, 2020. IEEE. **[Best poster presentation award](https://twitter.com/i/status/1258367206846541825)**.
 
 
 #### 2019
 
-Mohammadreza Amirian, Katharina Rombach, Lukas Tuggener, Frank-Peter Schilling, and Thilo Stadelmann. ["**Efficient Deep CNNs for Cross-Modal Automated Computer Vision under Time and Space Constraints**"](https://stdm.github.io/downloads/papers/ECML_PKDD_2019.pdf). In: **AutoCV2 Workshop** at European Conference on Machine Learning / European Conference on Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD**), Wuerzburg, Germany, September 16-19, 2019.
+Mohammadreza Amirian, Katharina Rombach, Lukas Tuggener, Frank-Peter Schilling, and Thilo Stadelmann. [**Efficient Deep CNNs for Cross-Modal Automated Computer Vision under Time and Space Constraints**](https://stdm.github.io/downloads/papers/ECML_PKDD_2019.pdf). In: **AutoCV2 Workshop** at European Conference on Machine Learning / European Conference on Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD**), Wuerzburg, Germany, September 16-19, 2019.
 
-Kurt Stockinger, Martin Braschler, and Thilo Stadelmann. ["**Lessons Learned from Challenging Data Science Case Studies**"](https://stdm.github.io/downloads/papers/ADS_2019_LessonsLearned.pdf). In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). **Springer**, 2019.
+Kurt Stockinger, Martin Braschler, and Thilo Stadelmann. [**Lessons Learned from Challenging Data Science Case Studies**](https://stdm.github.io/downloads/papers/ADS_2019_LessonsLearned.pdf). In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). **Springer**, 2019.
 
-Lukas Hollenstein, Lukas Lichtensteiger, Thilo Stadelmann, Mohammadreza Amirian, Lukas Budde, Jürg Meierhofer, Rudolf M. Füchslin, and Thomas Friedli. ["**Unsupervised Learning and Simulation for Complexity Management in Business Operations**"](https://stdm.github.io/downloads/papers/ADS_2019_Complexity.pdf). In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). **Springer**, 2019.
+Lukas Hollenstein, Lukas Lichtensteiger, Thilo Stadelmann, Mohammadreza Amirian, Lukas Budde, Jürg Meierhofer, Rudolf M. Füchslin, and Thomas Friedli. [**Unsupervised Learning and Simulation for Complexity Management in Business Operations**](https://stdm.github.io/downloads/papers/ADS_2019_Complexity.pdf). In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). **Springer**, 2019.
 
-Thilo Stadelmann, Vasily Tolkachev, Beate Sick, Jan Stampfli, and Oliver Dürr. ["**Beyond ImageNet - Deep Learning in Industrial Practice**"](https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf). In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). **Springer**, 2019.
+Thilo Stadelmann, Vasily Tolkachev, Beate Sick, Jan Stampfli, and Oliver Dürr. [**Beyond ImageNet - Deep Learning in Industrial Practice**](https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf). In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). **Springer**, 2019.
 
-Jürg Meierhofer, Thilo Stadelmann, and Mark Cieliebak. ["**Data Products**"](https://stdm.github.io/downloads/papers/ADS_2019_DataProducts.pdf). In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). **Springer**, 2019.
+Jürg Meierhofer, Thilo Stadelmann, and Mark Cieliebak. [**Data Products**](https://stdm.github.io/downloads/papers/ADS_2019_DataProducts.pdf). In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). **Springer**, 2019.
 
-Thilo Stadelmann, Kurt Stockinger, Gundula Heinatz-Bürki, and Martin Braschler. ["**Data Scientists**"](https://stdm.github.io/downloads/papers/ADS_2019_DataScientists.pdf). In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). **Springer**, 2019.
+Thilo Stadelmann, Kurt Stockinger, Gundula Heinatz-Bürki, and Martin Braschler. [**Data Scientists**](https://stdm.github.io/downloads/papers/ADS_2019_DataScientists.pdf). In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). **Springer**, 2019.
 
-Martin Braschler, Thilo Stadelmann, and Kurt Stockinger. ["**Data Science**"](https://stdm.github.io/downloads/papers/ADS_2019_DataScience.pdf). In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). **Springer**, 2019.
+Martin Braschler, Thilo Stadelmann, and Kurt Stockinger. [**Data Science**](https://stdm.github.io/downloads/papers/ADS_2019_DataScience.pdf). In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). **Springer**, 2019.
 
-Thilo Stadelmann, Martin Braschler, and Kurt Stockinger. ["**Introduction to Applied Data Science**"](https://stdm.github.io/downloads/papers/ADS_2019_Introduction.pdf). In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). **Springer**, 2019.
+Thilo Stadelmann, Martin Braschler, and Kurt Stockinger. [**Introduction to Applied Data Science**](https://stdm.github.io/downloads/papers/ADS_2019_Introduction.pdf). In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["Applied Data Science - Lessons Learned for the Data-Driven Business"](https://stdm.github.io/data-science-book/). **Springer**, 2019.
 
-Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). ["**Applied Data Science - Lessons Learned for the Data-Driven Business**"](https://stdm.github.io/downloads/papers/ADS_2019_Preface.pdf). **Springer**, 2019.
+Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). [**Applied Data Science - Lessons Learned for the Data-Driven Business**](https://stdm.github.io/downloads/papers/ADS_2019_Preface.pdf). **Springer**, 2019.
 
-Thilo Stadelmann. ["**Wie maschinelles Lernen den Markt verändert**"](https://stdm.github.io/downloads/papers/FCW_2019.pdf). In: Reinhard Haupt, Stephan Schmitz (Editors), "Digitalisierung: Datenhype mit Werteverlust? Ethische Perspektiven für eine Schlüsseltechnologie", pp. 67-79, ISBN 377516040X, **SCM Hänssler**, 2019.
+Thilo Stadelmann. [**Wie maschinelles Lernen den Markt verändert**](https://stdm.github.io/downloads/papers/FCW_2019.pdf). In: Reinhard Haupt, Stephan Schmitz (Editors), "Digitalisierung: Datenhype mit Werteverlust? Ethische Perspektiven für eine Schlüsseltechnologie", pp. 67-79, ISBN 377516040X, **SCM Hänssler**, 2019.
 
-Lukas Tuggener, Mohammadreza Amirian, Katharina Rombach, Stefan Lörwald, Anastasia Varlet, Christian Westermann, and Thilo Stadelmann. ["**Automated Machine Learning in Practice: State of the Art and Recent Results**"](https://stdm.github.io/downloads/papers/SDS_2019.pdf). In: Proceedings of the 6th Swiss Conference on Data Science (**SDS'19**), Bern, Switzerland, June 14, 2019. IEEE.
+Lukas Tuggener, Mohammadreza Amirian, Katharina Rombach, Stefan Lörwald, Anastasia Varlet, Christian Westermann, and Thilo Stadelmann. [**Automated Machine Learning in Practice: State of the Art and Recent Results**](https://stdm.github.io/downloads/papers/SDS_2019.pdf). In: Proceedings of the 6th Swiss Conference on Data Science (**SDS'19**), Bern, Switzerland, June 14, 2019. IEEE.
 
 
 #### 2018
 
-Ismail Elezi, Lukas Tuggener, Marcello Pelillo, and Thilo Stadelmann. ["**DeepScores and Deep Watershed Detection: current state and open issues**"](https://stdm.github.io/downloads/papers/WoRMS_2018.pdf). In: Proceedings of the 1st International Workshop on Reading Music Systems (**WoRMS'18**), Paris, France, September 20, 2018.
+Ismail Elezi, Lukas Tuggener, Marcello Pelillo, and Thilo Stadelmann. [**DeepScores and Deep Watershed Detection: current state and open issues**](https://stdm.github.io/downloads/papers/WoRMS_2018.pdf). In: Proceedings of the 1st International Workshop on Reading Music Systems (**WoRMS'18**), Paris, France, September 20, 2018.
 
-Thilo Stadelmann, Mohammadreza Amirian, Ismail Arabaci, Marek Arnold, Gilbert François Duivesteijn, Ismail Elezi, Melanie Geiger, Stefan Lörwald, Benjamin Bruno Meier, Katharina Rombach, and Lukas Tuggener. ["**Deep Learning in the Wild**"](https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf). In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (**ANNPR'18**), Springer, LNAI 11081, pp. 17-38, Siena, Italy, September 19-21, 2018. **Invited paper**.
+Thilo Stadelmann, Mohammadreza Amirian, Ismail Arabaci, Marek Arnold, Gilbert François Duivesteijn, Ismail Elezi, Melanie Geiger, Stefan Lörwald, Benjamin Bruno Meier, Katharina Rombach, and Lukas Tuggener. [**Deep Learning in the Wild**](https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf). In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (**ANNPR'18**), Springer, LNAI 11081, pp. 17-38, Siena, Italy, September 19-21, 2018. **Invited paper**.
 
-Mohammadreza Amirian, Friedhelm Schwenker, and Thilo Stadelmann. ["**Trace and Detect Adversarial Attacks on CNNs using Feature Response Maps**"](https://stdm.github.io/downloads/papers/ANNPR_2018c.pdf). In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (**ANNPR'18**), Springer, LNAI 11081, pp. 346-358, Siena, Italy, September 19-21, 2018.
+Mohammadreza Amirian, Friedhelm Schwenker, and Thilo Stadelmann. [**Trace and Detect Adversarial Attacks on CNNs using Feature Response Maps**](https://stdm.github.io/downloads/papers/ANNPR_2018c.pdf). In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (**ANNPR'18**), Springer, LNAI 11081, pp. 346-358, Siena, Italy, September 19-21, 2018.
 
-Thilo Stadelmann, Sebastian Glinski-Haefeli, Patrick Gerber, and Oliver Dürr. ["**Capturing Suprasegmental Features of a Voice with RNNs for Improved Speaker Clustering**"](https://stdm.github.io/downloads/papers/ANNPR_2018b.pdf). In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (**ANNPR'18**), Springer, LNAI 11081, pp. 333-345, Siena, Italy, September 19-21, 2018.
+Thilo Stadelmann, Sebastian Glinski-Haefeli, Patrick Gerber, and Oliver Dürr. [**Capturing Suprasegmental Features of a Voice with RNNs for Improved Speaker Clustering**](https://stdm.github.io/downloads/papers/ANNPR_2018b.pdf). In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (**ANNPR'18**), Springer, LNAI 11081, pp. 333-345, Siena, Italy, September 19-21, 2018.
 
-Benjamin Bruno Meier, Ismail Elezi, Mohammadreza Amirian, Oliver Dürr, and Thilo Stadelmann. ["**Learning Neural Models for End-to-End Clustering**"](https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf). In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (**ANNPR'18**), Springer, LNAI 11081, pp. 126-138, Siena, Italy, September 19-21, 2018.
+Benjamin Bruno Meier, Ismail Elezi, Mohammadreza Amirian, Oliver Dürr, and Thilo Stadelmann. [**Learning Neural Models for End-to-End Clustering**](https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf). In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (**ANNPR'18**), Springer, LNAI 11081, pp. 126-138, Siena, Italy, September 19-21, 2018.
 
-Lukas Tuggener, Ismail Elezi, Jürgen Schmidhuber, and Thilo Stadelmann. ["**Deep watershed detector for music object recognition**"](https://stdm.github.io/downloads/papers/ISMIR_2018.pdf). In: Proceedings of the 19th International Society for Music Information Retrieval Conference (**ISMIR'18**), Paris, 23. - 27. September 2018. Paris: Society for Music Information Retrieval. DOI [10.21256/zhaw-3760](https://doi.org/10.21256/zhaw-3760).
+Lukas Tuggener, Ismail Elezi, Jürgen Schmidhuber, and Thilo Stadelmann. [**Deep watershed detector for music object recognition**](https://stdm.github.io/downloads/papers/ISMIR_2018.pdf). In: Proceedings of the 19th International Society for Music Information Retrieval Conference (**ISMIR'18**), Paris, 23. - 27. September 2018. Paris: Society for Music Information Retrieval. DOI [10.21256/zhaw-3760](https://doi.org/10.21256/zhaw-3760).
 
-Feliks Hibraj, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. ["**Speaker clustering using dominant sets**"](https://stdm.github.io/downloads/papers/ICPR_2018b.pdf). In: Proceedings of the 24th International Conference on Pattern Recognition (ICPR 2018). 24th International Conference on Pattern Recognition (**ICPR'18**), Beijing, China, 20-28 August 2018. Beijing: IAPR. DOI [10.21256/zhaw-4254](https://doi.org/10.21256/zhaw-4254).
+Feliks Hibraj, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. [**Speaker clustering using dominant sets**](https://stdm.github.io/downloads/papers/ICPR_2018b.pdf). In: Proceedings of the 24th International Conference on Pattern Recognition (ICPR 2018). 24th International Conference on Pattern Recognition (**ICPR'18**), Beijing, China, 20-28 August 2018. Beijing: IAPR. DOI [10.21256/zhaw-4254](https://doi.org/10.21256/zhaw-4254).
 
-Lukas Tuggener, Ismail Elezi, Jürgen Schmidhuber, Marcello Pelillo, and Thilo Stadelmann. ["**DeepScores: a dataset for segmentation, detection and classification of tiny objects**"](https://stdm.github.io/downloads/papers/ICPR_2018a.pdf). In: Proceedings of the 24th International Conference on Pattern Recognition. 24th International Conference on Pattern Recognition (**ICPR'18**), Beijing, China, 20-28 August 2018. Beijing: IAPR. 1-6. DOI [10.21256/zhaw-4255](https://doi.org/10.21256/zhaw-4255).
+Lukas Tuggener, Ismail Elezi, Jürgen Schmidhuber, Marcello Pelillo, and Thilo Stadelmann. [**DeepScores: a dataset for segmentation, detection and classification of tiny objects**](https://stdm.github.io/downloads/papers/ICPR_2018a.pdf). In: Proceedings of the 24th International Conference on Pattern Recognition. 24th International Conference on Pattern Recognition (**ICPR'18**), Beijing, China, 20-28 August 2018. Beijing: IAPR. 1-6. DOI [10.21256/zhaw-4255](https://doi.org/10.21256/zhaw-4255).
 
 
 #### 2017
 
-Benjamin Meier, Thilo Stadelmann, Jan Stampfli, Marek Arnold, and Mark Cieliebak. ["**Fully convolutional neural networks for newspaper article segmentation**"](https://stdm.github.io/downloads/papers/ICDAR_2017.pdf). In: Proceedings of the 14th IAPR International Conference on Document Analysis and Recognition (**ICDAR'17**). 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), Kyoto Japan, November 13-15, 2017. Kyoto, Japan: CPS. DOI [10.21256/zhaw-1533](https://doi.org/10.21256/zhaw-1533).
+Benjamin Meier, Thilo Stadelmann, Jan Stampfli, Marek Arnold, and Mark Cieliebak. [**Fully convolutional neural networks for newspaper article segmentation**](https://stdm.github.io/downloads/papers/ICDAR_2017.pdf). In: Proceedings of the 14th IAPR International Conference on Document Analysis and Recognition (**ICDAR'17**). 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), Kyoto Japan, November 13-15, 2017. Kyoto, Japan: CPS. DOI [10.21256/zhaw-1533](https://doi.org/10.21256/zhaw-1533).
 
-Yanick X. Lukic, Carlo Vogt, Oliver Dürr, and Thilo Stadelmann. ["**Learning Embeddings for Speaker Clustering Based on Voice Equality**"](https://stdm.github.io/downloads/papers/MLSP_2017.pdf). In: Proceedings of the 27th IEEE International Workshop on Machine Learning for Signal Processing (**MLSP'17**). Roppongi, Tokyo, Japan: IEEE. DOI [10.21256/zhaw-3762](https://doi.org/10.21256/zhaw-3762).
+Yanick X. Lukic, Carlo Vogt, Oliver Dürr, and Thilo Stadelmann. [**Learning Embeddings for Speaker Clustering Based on Voice Equality**](https://stdm.github.io/downloads/papers/MLSP_2017.pdf). In: Proceedings of the 27th IEEE International Workshop on Machine Learning for Signal Processing (**MLSP'17**). Roppongi, Tokyo, Japan: IEEE. DOI [10.21256/zhaw-3762](https://doi.org/10.21256/zhaw-3762).
 
 
 #### 2016
 
-Yanick Lukic, Carlo Vogt, Oliver Dürr, and Thilo Stadelmann. ["**Speaker Identification and Clustering using Convolutional Neural Networks**"](https://stdm.github.io/downloads/papers/MLSP_2016.pdf). In: Proceedings of IEEE International Workshop on Machine Learning for Signal Processing (**MLSP'16**). Salerno: IEEE. DOI [10.21256/zhaw-3761](https://doi.org/10.21256/zhaw-3761).
+Yanick Lukic, Carlo Vogt, Oliver Dürr, and Thilo Stadelmann. [**Speaker Identification and Clustering using Convolutional Neural Networks**](https://stdm.github.io/downloads/papers/MLSP_2016.pdf). In: Proceedings of IEEE International Workshop on Machine Learning for Signal Processing (**MLSP'16**). Salerno: IEEE. DOI [10.21256/zhaw-3761](https://doi.org/10.21256/zhaw-3761).
 
-Kurt Stockinger, Thilo Stadelmann, and Andreas Ruckstuhl. ["**Data Scientist als Beruf**"](https://stdm.github.io/downloads/papers/HMD_2016.pdf). Big Data – Grundlagen, Systeme und Nutzungspotenziale, Springer Verlag, **Edition HMD** 59-81, 2016. DOI [10.1007/978-3-658-11589-0_4](https://doi.org/10.1007/978-3-658-11589-0_4).
+Kurt Stockinger, Thilo Stadelmann, and Andreas Ruckstuhl. [**Data Scientist als Beruf**](https://stdm.github.io/downloads/papers/HMD_2016.pdf). Big Data – Grundlagen, Systeme und Nutzungspotenziale, Springer Verlag, **Edition HMD** 59-81, 2016. DOI [10.1007/978-3-658-11589-0_4](https://doi.org/10.1007/978-3-658-11589-0_4).
 
 
 #### 2015
 
-Jean-Daniel Dessimoz, Jana Koehler, and Thilo Stadelmann. ["**AI in Switzerland**"](https://stdm.github.io/downloads/papers/AIMAG_2015.pdf). **AI Magazine**. 36(2), S. 102-105, 2015. DOI [10.21256/zhaw-3642](https://doi.org/10.21256/zhaw-3642). **Invited paper**.
+Jean-Daniel Dessimoz, Jana Koehler, and Thilo Stadelmann. [**AI in Switzerland**](https://stdm.github.io/downloads/papers/AIMAG_2015.pdf). **AI Magazine**. 36(2), S. 102-105, 2015. DOI [10.21256/zhaw-3642](https://doi.org/10.21256/zhaw-3642). **Invited paper**.
 
-Thilo Stadelmann, Mark Cieliebak, and Kurt Stockinger. ["**Toward automatic data curation for open data**"](https://stdm.github.io/downloads/papers/ERCIM_2015.pdf). **ERCIM News**. 2015(100), S. 32-33. DOI [10.21256/zhaw-3643](https://doi.org/10.21256/zhaw-3643).
+Thilo Stadelmann, Mark Cieliebak, and Kurt Stockinger. [**Toward automatic data curation for open data**](https://stdm.github.io/downloads/papers/ERCIM_2015.pdf). **ERCIM News**. 2015(100), S. 32-33. DOI [10.21256/zhaw-3643](https://doi.org/10.21256/zhaw-3643).
 
 
 #### 2014
 
-Kurt Stockinger, and Thilo Stadelmann. ["**Data Science für Lehre, Forschung und Praxis**"](https://stdm.github.io/downloads/papers/HMD_2014.pdf). **HMD Praxis der Wirtschaftsinformatik**. 51(4), S. 469-479, 2014. DOI [10.21256/zhaw-3759](https://doi.org/10.21256/zhaw-3759).
+Kurt Stockinger, and Thilo Stadelmann. [**Data Science für Lehre, Forschung und Praxis**](https://stdm.github.io/downloads/papers/HMD_2014.pdf). **HMD Praxis der Wirtschaftsinformatik**. 51(4), S. 469-479, 2014. DOI [10.21256/zhaw-3759](https://doi.org/10.21256/zhaw-3759).
 
 
 #### 2013
 
-Thilo Stadelmann, Kurt Stockinger, Martin Braschler, Mark Cieliebak, Gerold Baudinot, Oliver Dürr, and Andreas Ruckstuhl. ["**Applied data science in Europe: challenges for academia in keeping up with a highly demanded topic**"](https://stdm.github.io/downloads/papers/ECSS_2013.pdf). In: Proceedings of the 9th European Computer Science Summit (**ECSS'13**), Amsterdam, October 8–9, 2013.
+Thilo Stadelmann, Kurt Stockinger, Martin Braschler, Mark Cieliebak, Gerold Baudinot, Oliver Dürr, and Andreas Ruckstuhl. [**Applied data science in Europe: challenges for academia in keeping up with a highly demanded topic**](https://stdm.github.io/downloads/papers/ECSS_2013.pdf). In: Proceedings of the 9th European Computer Science Summit (**ECSS'13**), Amsterdam, October 8–9, 2013.
 
 
 #### 2012
 
-Thilo Stadelmann, Sven Johr, Michael Ditze, Florian Dittman, and Viktor Fässler. ["**FABELHAFT - Fahrerablenkung: Entwicklung eines Meta-Fahrerassistenzsystems durch Echtzeit-Audioklassifikation**"](https://stdm.github.io/downloads/papers/VDIFASIS_2012.pdf). In Proceedings of 28. **VDI-VW Gemeinschaftstagung Fahrerassistenzsysteme und Integrierte Sicherheit '12**, Wolfsburg, Germany, October 10.-11., 2012. VDI Wissensforum.
+Thilo Stadelmann, Sven Johr, Michael Ditze, Florian Dittman, and Viktor Fässler. [**FABELHAFT - Fahrerablenkung: Entwicklung eines Meta-Fahrerassistenzsystems durch Echtzeit-Audioklassifikation**](https://stdm.github.io/downloads/papers/VDIFASIS_2012.pdf). In Proceedings of 28. **VDI-VW Gemeinschaftstagung Fahrerassistenzsysteme und Integrierte Sicherheit '12**, Wolfsburg, Germany, October 10.-11., 2012. VDI Wissensforum.
 
 
 #### 2010
 
-Thilo Stadelmann. ["**Voice Modeling Methods for Automatic Speaker Recognition**"](https://stdm.github.io/downloads/papers/PhdThesis_2010.pdf). Dissertation, **Philipps-Universität Marburg**. [Available online, 2010](http://archiv.ub.uni-marburg.de/diss/z2010/0465/view.html).
+Thilo Stadelmann. [**Voice Modeling Methods for Automatic Speaker Recognition**](https://stdm.github.io/downloads/papers/PhdThesis_2010.pdf). Dissertation, **Philipps-Universität Marburg**. [Available online, 2010](http://archiv.ub.uni-marburg.de/diss/z2010/0465/view.html).
 
-Thilo Stadelmann & Bernd Freisleben. ["**On the MixMax Model and Cepstral Features for Noise-Robust Voice Recognition**"](https://stdm.github.io/downloads/papers/TR_2010.pdf). Technical report, Philipps-Universität Marburg, April 2010.
+Thilo Stadelmann & Bernd Freisleben. [**On the MixMax Model and Cepstral Features for Noise-Robust Voice Recognition**](https://stdm.github.io/downloads/papers/TR_2010.pdf). Technical report, Philipps-Universität Marburg, April 2010.
 
-Christian Beecks, Thilo Stadelmann, Bernd Freisleben, and Thomas Seidl. ["**Visual Speaker Model Exploration**"](https://stdm.github.io/downloads/papers/ICME_2010.pdf), In Proceedings of the IEEE International Conference on Multimedia and Expo (**ICME'2010**), pages 727-728, Singapore, July 19-23, 2010, IEEE.
+Christian Beecks, Thilo Stadelmann, Bernd Freisleben, and Thomas Seidl. [**Visual Speaker Model Exploration**](https://stdm.github.io/downloads/papers/ICME_2010.pdf), In Proceedings of the IEEE International Conference on Multimedia and Expo (**ICME'2010**), pages 727-728, Singapore, July 19-23, 2010, IEEE.
 
-Thilo Stadelmann, Yinghui Wang, Matthew Smith, Ralph Ewerth, and Bernd Freisleben. ["**Rethinking Algorithm Development and Design in Speech Processing**"](https://stdm.github.io/downloads/papers/ICPR_2010b.pdf). In Proceedings of the 20th International Conference on Pattern Recognition (**ICPR'10**), pages 4476-4479, Istanbul, Turkey, August 2010a. IAPR.
+Thilo Stadelmann, Yinghui Wang, Matthew Smith, Ralph Ewerth, and Bernd Freisleben. [**Rethinking Algorithm Development and Design in Speech Processing**](https://stdm.github.io/downloads/papers/ICPR_2010b.pdf). In Proceedings of the 20th International Conference on Pattern Recognition (**ICPR'10**), pages 4476-4479, Istanbul, Turkey, August 2010a. IAPR.
 
-Thilo Stadelmann and Bernd Freisleben. ["**Dimension-Decoupled Gaussian Mixture Model for Short Utterance Speaker Recognition**"](https://stdm.github.io/downloads/papers/ICPR_2010a.pdf). In Proceedings of the 20th International Conference on Pattern Recognition (**ICPR'10**), pages 1602-1605, Istanbul, Turkey, August 2010a. IAPR.
+Thilo Stadelmann and Bernd Freisleben. [**Dimension-Decoupled Gaussian Mixture Model for Short Utterance Speaker Recognition**](https://stdm.github.io/downloads/papers/ICPR_2010a.pdf). In Proceedings of the 20th International Conference on Pattern Recognition (**ICPR'10**), pages 1602-1605, Istanbul, Turkey, August 2010a. IAPR.
 
 
 #### 2009
 
-Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bing Shi, and Bernd Freisleben. ["**University of Marburg at TRECVID 2009: High-Level Feature Extraction**"](https://stdm.github.io/downloads/papers/TRECVID_2009.pdf). In Proceedings of TREC Video Retrieval Evaluation Workshop (**TRECVid'09**).
+Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bing Shi, and Bernd Freisleben. [**University of Marburg at TRECVID 2009: High-Level Feature Extraction**](https://stdm.github.io/downloads/papers/TRECVID_2009.pdf). In Proceedings of TREC Video Retrieval Evaluation Workshop (**TRECVid'09**).
 
-Ernst Juhnke, Dominik Seiler, Thilo Stadelmann, Tim Dörnemann, and Bernd Freisleben. ["**LCDL: An Extensible Framework for Wrapping Legacy Code**"](https://stdm.github.io/downloads/papers/ERPAS_2009.pdf). In Proceedings of International Workshop on @WAS Emerging Research Projects, Applications and Services (**ERPAS'09**), pages 638-642, Kuala Lumpur, Malaysia, December 2009.
+Ernst Juhnke, Dominik Seiler, Thilo Stadelmann, Tim Dörnemann, and Bernd Freisleben. [**LCDL: An Extensible Framework for Wrapping Legacy Code**](https://stdm.github.io/downloads/papers/ERPAS_2009.pdf). In Proceedings of International Workshop on @WAS Emerging Research Projects, Applications and Services (**ERPAS'09**), pages 638-642, Kuala Lumpur, Malaysia, December 2009.
 
-Dominik Seiler, Ralph Ewerth, Steffen Heinzl, Thilo Stadelmann, Markus Mühling, Bernd Freisleben, and Manfred Grauer. ["**Eine Service-Orientierte Grid-Infrastruktur zur Unterstützung Medienwissenschaftlicher Filmanalyse**"](https://stdm.github.io/downloads/papers/GeNeMe_2009.pdf). In Proceedings of the Workshop on Gemeinschaften in Neuen Medien (**GeNeMe'09**"), pages 79-89, Dresden, Germany, September 2009.
+Dominik Seiler, Ralph Ewerth, Steffen Heinzl, Thilo Stadelmann, Markus Mühling, Bernd Freisleben, and Manfred Grauer. [**Eine Service-Orientierte Grid-Infrastruktur zur Unterstützung Medienwissenschaftlicher Filmanalyse**](https://stdm.github.io/downloads/papers/GeNeMe_2009.pdf). In Proceedings of the Workshop on Gemeinschaften in Neuen Medien (**GeNeMe'09**), pages 79-89, Dresden, Germany, September 2009.
 
-Thilo Stadelmann and Bernd Freisleben. ["**Unfolding Speaker Clustering Potential: A Biomimetic Approach**"](https://stdm.github.io/downloads/papers/ACMMM_2009.pdf). In Proceedings of the ACM International Conference on Multimedia (**ACMMM'09**"), pages 185-194, Beijing, China, October 2009. ACM.
+Thilo Stadelmann and Bernd Freisleben. [**Unfolding Speaker Clustering Potential: A Biomimetic Approach**](https://stdm.github.io/downloads/papers/ACMMM_2009.pdf). In Proceedings of the ACM International Conference on Multimedia (**ACMMM'09**), pages 185-194, Beijing, China, October 2009. ACM.
 
-Thilo Stadelmann, Steffen Heinzl, Markus Unterberger, and Bernd Freisleben. ["**WebVoice: A Toolkit for Perceptual Insights into Speech Processing**"](https://stdm.github.io/downloads/papers/CISP_2009.pdf). In Proceedings of the 2nd International Congress on Image and Signal Processing (**CISP'09**), pages 4358-4362, Tianjin, China, October 2009.
+Thilo Stadelmann, Steffen Heinzl, Markus Unterberger, and Bernd Freisleben. [**WebVoice: A Toolkit for Perceptual Insights into Speech Processing**](https://stdm.github.io/downloads/papers/CISP_2009.pdf). In Proceedings of the 2nd International Congress on Image and Signal Processing (**CISP'09**), pages 4358-4362, Tianjin, China, October 2009.
 
-Steffen Heinzl, Markus Mathes, Thilo Stadelmann, Dominik Seiler, Marcel Diegelmann, Helmut Dohmann, and Bernd Freisleben. ["**The Web Service Browser: Automatic Client Generation and Efficient Data Transfer for Web Services**"](https://stdm.github.io/downloads/papers/ICWS_2009.pdf). In Proceedings of the 7th IEEE International Conference on Web Services (**ICWS'09**), pages 743-750, Los Angeles, CA, USA, July 2009. IEEE Press.
+Steffen Heinzl, Markus Mathes, Thilo Stadelmann, Dominik Seiler, Marcel Diegelmann, Helmut Dohmann, and Bernd Freisleben. [**The Web Service Browser: Automatic Client Generation and Efficient Data Transfer for Web Services**](https://stdm.github.io/downloads/papers/ICWS_2009.pdf). In Proceedings of the 7th IEEE International Conference on Web Services (**ICWS'09**), pages 743-750, Los Angeles, CA, USA, July 2009. IEEE Press.
 
-Steffen Heinzl, Dominik Seiler, Ernst Juhnke, Thilo Stadelmann, Ralph Ewerth, Manfred Grauer, and Bernd Freisleben. ["**A Scalable Service-Oriented Architecture for Multimedia Analysis, Synthesis, and Consumption**"](https://stdm.github.io/downloads/papers/IJWGS_2009.pdf). **International Journal of Web and Grid Services**, 5(3):219-260, 2009. Inderscience Publishers.
+Steffen Heinzl, Dominik Seiler, Ernst Juhnke, Thilo Stadelmann, Ralph Ewerth, Manfred Grauer, and Bernd Freisleben. [**A Scalable Service-Oriented Architecture for Multimedia Analysis, Synthesis, and Consumption**](https://stdm.github.io/downloads/papers/IJWGS_2009.pdf). **International Journal of Web and Grid Services**, 5(3):219-260, 2009. Inderscience Publishers.
 
 
 #### 2008
 
-Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bing Shi, and Bernd Freisleben. ["**University of Marburg at TRECVID 2008: High-Level Feature Extraction**"](https://stdm.github.io/downloads/papers/TRECVID_2008.pdf). In Proceedings of TREC Video Retrieval Evaluation Workshop (**TRECVid'08**). 
+Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bing Shi, and Bernd Freisleben. [**University of Marburg at TRECVID 2008: High-Level Feature Extraction**](https://stdm.github.io/downloads/papers/TRECVID_2008.pdf). In Proceedings of TREC Video Retrieval Evaluation Workshop (**TRECVid'08**). 
 
 
 #### 2007
 
-Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bing Shi, Christian Zöfel, and Bernd Freisleben. ["**University of Marburg at TRECVID 2007: Shot Boundary Detection and High-Level Feature Extraction**"](https://stdm.github.io/downloads/papers/TRECVID_2007.pdf). In Proceedings of TREC Video Retrieval Evaluation Workshop (**TRECVid'07**).
+Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bing Shi, Christian Zöfel, and Bernd Freisleben. [**University of Marburg at TRECVID 2007: Shot Boundary Detection and High-Level Feature Extraction**](https://stdm.github.io/downloads/papers/TRECVID_2007.pdf). In Proceedings of TREC Video Retrieval Evaluation Workshop (**TRECVid'07**).
 
-Ralph Ewerth, Markus Mühling, Thilo Stadelmann, Julinda Gllavata, Manfred Grauer, and Bernd Freisleben. ["**Videana: A Software Toolkit for Scientific Film Studies**"](https://stdm.github.io/downloads/papers/DTiMS_2007.pdf). In Proceedings of the **International Workshop on Digital Tools in Film Studies '07**, pages 1-16, Siegen, Germany, 2007. Transcript Verlag.
+Ralph Ewerth, Markus Mühling, Thilo Stadelmann, Julinda Gllavata, Manfred Grauer, and Bernd Freisleben. [**Videana: A Software Toolkit for Scientific Film Studies**](https://stdm.github.io/downloads/papers/DTiMS_2007.pdf). In Proceedings of the **International Workshop on Digital Tools in Film Studies '07**, pages 1-16, Siegen, Germany, 2007. Transcript Verlag.
 
-Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bernd Freisleben, Rene Weber, and Klaus Mathiak. ["**Semantic Video Analysis for Psychological Research on Violence in Computer Games**"](https://stdm.github.io/downloads/papers/CIVR_2007.pdf). In Proceedings of the ACM International Conference on Image and Video Retrieval (**CIVR'07**), pages 611-618, Amsterdam, The Netherlands, July 2007. ACM.
+Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bernd Freisleben, Rene Weber, and Klaus Mathiak. [**Semantic Video Analysis for Psychological Research on Violence in Computer Games**](https://stdm.github.io/downloads/papers/CIVR_2007.pdf). In Proceedings of the ACM International Conference on Image and Video Retrieval (**CIVR'07**), pages 611-618, Amsterdam, The Netherlands, July 2007. ACM.
 
 
 #### 2006
 
-Ralph Ewerth, Markus Mühling, Thilo Stadelmann, Ermir Qeli, Björn Agel, Dominik Seiler, and Bernd Freisleben. ["**University of Marburg at TRECVID 2006: Shot Boundary Detection and Rushes Task Results**"](https://stdm.github.io/downloads/papers/TRECVID_2006.pdf). In Proceedings of TREC Video Retrieval Evaluation Workshop (**TRECVid'06**).
+Ralph Ewerth, Markus Mühling, Thilo Stadelmann, Ermir Qeli, Björn Agel, Dominik Seiler, and Bernd Freisleben. [**University of Marburg at TRECVID 2006: Shot Boundary Detection and Rushes Task Results**](https://stdm.github.io/downloads/papers/TRECVID_2006.pdf). In Proceedings of TREC Video Retrieval Evaluation Workshop (**TRECVid'06**).
 
-Thilo Stadelmann and Bernd Freisleben. ["**Fast and Robust Speaker Clustering Using the Earth Mover's Distance and MixMax Models**"](https://stdm.github.io/downloads/papers/ICASSP_2006.pdf). In Proceedings of the 31st IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP'06**), volume 1, pages 989-992, Toulouse, France, April 2006. IEEE.
+Thilo Stadelmann and Bernd Freisleben. [**Fast and Robust Speaker Clustering Using the Earth Mover's Distance and MixMax Models**](https://stdm.github.io/downloads/papers/ICASSP_2006.pdf). In Proceedings of the 31st IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP'06**), volume 1, pages 989-992, Toulouse, France, April 2006. IEEE.
 
 
 #### 2005 
 
-Ralph Ewerth, Christian Behringer, Tobias Kopp, Michael Niebergall, Thilo Stadelmann, and Bernd Freisleben. ["**University of Marburg at TRECVID 2005: Shot Boundary Detection and Camera Motion Estimation Results**"](https://stdm.github.io/downloads/papers/TRECVID_2005.pdf). In Proceedings of TREC Video Retrieval Evaluation Workshop (**TRECVid'05**).
+Ralph Ewerth, Christian Behringer, Tobias Kopp, Michael Niebergall, Thilo Stadelmann, and Bernd Freisleben. [**University of Marburg at TRECVID 2005: Shot Boundary Detection and Camera Motion Estimation Results**](https://stdm.github.io/downloads/papers/TRECVID_2005.pdf). In Proceedings of TREC Video Retrieval Evaluation Workshop (**TRECVid'05**).
 
 
 #### 2004
 
-Thilo Stadelmann. ["**Sprechererkennung in Videos**"](https://stdm.github.io/downloads/papers/DiplomaThesis_2004.pdf). Diplomarbeit, **Fachhochschule Giessen-Friedberg**, 2004.
+Thilo Stadelmann. [**Sprechererkennung in Videos**](https://stdm.github.io/downloads/papers/DiplomaThesis_2004.pdf). Diplomarbeit, **Fachhochschule Giessen-Friedberg**, 2004.
 
