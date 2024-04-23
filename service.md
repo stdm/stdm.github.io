@@ -20,27 +20,47 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 <a name="talks"></a>
 ## Talks 
 
+#### 2025
+
+  * Invited talk at **KIWANIS Waldshut**, Tiengen, Germany, June 03, 2025
+
+  * Invited talk at **Rotary Club Kyburg**, Winterthur, Switzerland, March 21, 2025
+
+  * Invited talk at **Männervesper St. Johann**, St. Johann, Germany, March 14, 2025
+
+  * Keynote at **KCF 2025**, Karlsruhe, Germany, March 07, 2025
+ 
+  * Invited talk at **Club Efforce**, Schaffhausen, Switzerland, January 23, 2025
+
 #### 2024
 
   * Keynote at **Unternehmerforum Gummersbach**, Gummersbach, Germany, November 14, 2024
   
-  * Invited talk at **Kodak Alaris**, Lucerne, Switzerland, September 13, 2024
-
+  * Keynote at **Belinfor Hochschulevent**, Kongresshaus Zürich, Zurich, Switzerland, November 13, 2024
+  
+  * Keynote at **SIX Data & AI Horizons**, Zurich, Switzerland, May 29, 2024
+  
   * Keynote at Kaderanlass of the **Kantonspolizeit Zürich**, Zurich, Switzerland, June 28, 2024
   
   * Keynote at **Hospitality Summit**, Zurich, Switzerland, June 13, 2024
 
   * Keynote at the **SPI-Tagung 2024** of the SPI Swiss Police Institute, Olten, Switzerland, June 13, 2024
   
-  * Keynote at **Stadtwerke Winterthur**, Winterthur, Switzerland, May 30, 2024
+  * Keynote at **Stadtwerke Winterthur** Kundenapero, Winterthur, Switzerland, May 30, 2024
+  
+  * Inviteds talk at *Credit Suisse/UBS** Private Customer Event, May 29, 2024
   
   * Keynote at **KSA Research & Innovation Day**, Aarau, Switzerland, May 29, 2024
   
   * Keynote at **JLU TOP Congress**, Wasselonne, France, May 22, 2024
   
-  * Invited talk at **Repower AG** AI Day, Landquart, Switzerland, March 20, 2024
+  * AI Seminar at **Parlamentsdienste des Kanstonsrat Zürich**, Zurich, Switzerland, April 17, 2024
   
-  * Invited talk at **IVCG**, Nagold, Gernmany, March 08 2023
+  * Invited talk at **Repower AG** AI Day, Landquart, Switzerland, March 20, 2024
+
+  * Invited talk at **Kodak Alaris**, Lucerne, Switzerland, March 13, 2024
+  
+  * Invited talk at **IVCG**, Nagold, Gernmany, March 08, 2024
 
   * Talk at [Volkshochschule Jestetten-Lottstetten](https://www.vhs-jestetten-lottstetten.de/startseite) on **Kuenstliche Intelligenz - ein Leitfaden**, Jestetten, Germany, March 07, 2024
   
@@ -621,6 +641,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * April 18, 2024, [htr Hotelrevue](https://www.htr.ch/story/hotellerie/den-terminator-gibt-es-nicht-39869): "**Den Terminator gibt es nicht**"
+
   * February 27, 2024, [Amen Magazin](https://stdm.github.io/downloads/press/20240227_Amen.pdf): "**Stärken und Grenzen eines grossen Werkzeugs**"
 
   * February 17, 2024, [m&k Werbewoche](https://www.werbewoche.ch/de/digital/2024-02-17/da-geht-was-wir-koennen-diese-sachen-zum-guten-einsetzen/): "**Da geht was, wir können diese Sachen zum Guten einsetzen**"
