@@ -54,6 +54,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Keynote at **JLU TOP Congress**, Wasselonne, France, May 22, 2024
   
+  * Talk at **Motrona GmbH**, Gottmadingen, Germany, April 24, 2024
+  
   * AI Seminar at **Parlamentsdienste des Kanstonsrat Zürich**, Zurich, Switzerland, April 17, 2024
   
   * Invited talk at **Repower AG** AI Day, Landquart, Switzerland, March 20, 2024
@@ -641,6 +643,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * April 22, 2024, [BauernZeitung](https://www.bauernzeitung.ch/artikel/landtechnik/noch-ist-die-natur-der-kuenstlichen-intelligenz-zu-hoch-517632): **Häufig einfach falsch und blöd**
+
   * April 18, 2024, [htr Hotelrevue](https://www.htr.ch/story/hotellerie/den-terminator-gibt-es-nicht-39869): "**Den Terminator gibt es nicht**"
 
   * February 27, 2024, [Amen Magazin](https://stdm.github.io/downloads/press/20240227_Amen.pdf): "**Stärken und Grenzen eines grossen Werkzeugs**"
