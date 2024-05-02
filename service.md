@@ -42,6 +42,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Keynote at Kaderanlass of the **Kantonspolizeit Zürich**, Zurich, Switzerland, June 28, 2024
   
+  * Keynote at **Kistler** Kaderanlass, Dübendorf, Switzerland, June 21, 2024
+  
   * Keynote at **Hospitality Summit**, Zurich, Switzerland, June 13, 2024
 
   * Keynote at the **SPI-Tagung 2024** of the SPI Swiss Police Institute, Olten, Switzerland, June 13, 2024
@@ -643,7 +645,9 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
-  * April 22, 2024, [BauernZeitung](https://www.bauernzeitung.ch/artikel/landtechnik/noch-ist-die-natur-der-kuenstlichen-intelligenz-zu-hoch-517632): **Häufig einfach falsch und blöd**
+  * April 29, 2024 [KCF News](https://www.kcf.de/medien-mehr/news/mit-ki-in-die-zukunft-die-wir-uns-vorstellen-koennen): "**Mit KI in die Zukunft, die wir uns vorstellen können**"
+
+  * April 22, 2024, [BauernZeitung](https://www.bauernzeitung.ch/artikel/landtechnik/noch-ist-die-natur-der-kuenstlichen-intelligenz-zu-hoch-517632): "**Häufig einfach falsch und blöd**
 
   * April 18, 2024, [htr Hotelrevue](https://www.htr.ch/story/hotellerie/den-terminator-gibt-es-nicht-39869): "**Den Terminator gibt es nicht**"
 
