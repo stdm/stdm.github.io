@@ -11,6 +11,14 @@ This is an occasionally updated collection of links to valuable reads from non-t
 
 <!-- more -->
 
+* ["Aussterben ist schwierig, selbst mit Atombomben bekämen wir es nicht hin."](https://www.nzz.ch/folio/aussterben-ist-schwierig-selbst-mit-atombomben-bekaemen-wir-es-nicht-hin-ld.1827734) by Reto U. Schneider, May 03, 2024.
+
+  Subject: Weltuntergansszenarien
+  
+  Key words: Apokalypse, AI, science fiction, fear
+  
+  Abstract: Das Ende der Menschheit wurde schon oft vorausgesagt, doch wer die vermeintlichen Apokalypsen studiert, wird überrascht: Es ist erstaunlich schwierig unterzugehen.
+
 * ["Die Engländer haben die Nase voll von Identitätspolitik"](https://www.faz.net/aktuell/feuilleton/debatten/die-englaender-schwoeren-der-identitaetspolitik-ab-19611707.html) by Eva Ladipo, April 01, 2024.
   
   Subject: Kultukämpfe in Grossbritannien
