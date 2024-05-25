@@ -310,7 +310,7 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 #### 2024
 
-Felix M. Schmitt-Koopmann, Elaine M. Huang, Hans-Peter Hutter, Thilo Stadelmann, and Alireza Darvishy. [**MathNet: A Data-Centric Approach for Printed Mathematical Expression Recognition**](https://arxiv.org/abs/2404.13667). In: **arXiv preprint**, [arXiv:2404.13667](https://arxiv.org/pdf/2404.13667), April 2024.
+Felix M. Schmitt-Koopmann, Elaine M. Huang, Hans-Peter Hutter, Thilo Stadelmann, and Alireza Darvishy. [**MathNet: A Data-Centric Approach for Printed Mathematical Expression Recognition**](https://ieeexplore.ieee.org/document/10538105). In: **IEEE Access**, May 2024, DOI [10.1109/ACCESS.2024.3404834](https://dx.doi.org/10.1109/ACCESS.2024.3404834).
 
 Ali Dashti, Thilo Stadelmann, and Thomas Kohl. [**Machine learning for robust structural uncertainty quantification in fractured reservoirs**](https://stdm.github.io/downloads/papers/Geothermics_2024.pdf). In: **Geothermics** 120, p. 103012, Elsevier, June 2024, DOI [10.1016/j.geothermics.2024.103012](https://doi.org/10.1016/j.geothermics.2024.103012).
 
