@@ -645,6 +645,10 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * June 03, 2024 [SRF ECO Talk](https://www.srf.ch/play/tv/eco-talk/video/krempelt-kuenstliche-intelligenz-die-wirtschaft-um?urn=urn:srf:video:bc6ec10f-ff46-4c83-af2c-b86817726452): "**Krempelt künstliche Intelligenz die Wirtschaft um?**"
+  
+  * June 03, 2024 [goMagazin](https://gomagazin.de/video/thilo-stadelmann): "**Thilo Stadelmann: 'Die Bibel braucht keine KI-Revision'**"
+
   * April 29, 2024 [KCF News](https://www.kcf.de/medien-mehr/news/mit-ki-in-die-zukunft-die-wir-uns-vorstellen-koennen): "**Mit KI in die Zukunft, die wir uns vorstellen können**"
 
   * April 22, 2024, [BauernZeitung](https://www.bauernzeitung.ch/artikel/landtechnik/noch-ist-die-natur-der-kuenstlichen-intelligenz-zu-hoch-517632): "**Häufig einfach falsch und blöd**
