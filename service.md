@@ -48,13 +48,17 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
   * Keynote at the **SPI-Tagung 2024** of the SPI Swiss Police Institute, Olten, Switzerland, June 13, 2024
   
+  * Workshop at **#weareready allianz** on AI in construction, Watt, Switzerland, June 04, 2024
+  
   * Keynote at **Stadtwerke Winterthur** Kundenapero, Winterthur, Switzerland, May 30, 2024
   
-  * Inviteds talk at *Credit Suisse/UBS** Private Customer Event, May 29, 2024
+  * Panelist at Private Customer Event of a **major Swiss Bank**, May 29, 2024
   
   * Keynote at **KSA Research & Innovation Day**, Aarau, Switzerland, May 29, 2024
   
   * Keynote at **JLU TOP Congress**, Wasselonne, France, May 22, 2024
+  
+  * Talk at **Informatik Schaffhausen** on SwissGPT and the use of AI in the public sector, Schaffhausen, Switzerland, May 17, 2024
   
   * Talk at **Motrona GmbH**, Gottmadingen, Germany, April 24, 2024
   
