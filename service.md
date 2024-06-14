@@ -649,6 +649,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  *June 13, 2024 [ERF Medien](https://erf-medien.ch/gesellschaft/wissen/warum-ki-unser-leben-erleichtern-kann/): "**Warum KI unser Leben erleichtern kann**"
+
   * June 08, 2024 [Idea](https://www.idea.de/artikel/technologie-mit-hoffnung-christliche-antworten-auf-die-ki-debatte): "**Technologie mit Hoffnung: Christliche Antworten auf die KI-Debatte**"
 
   * June 03, 2024 [SRF ECO Talk](https://www.srf.ch/play/tv/eco-talk/video/krempelt-kuenstliche-intelligenz-die-wirtschaft-um?urn=urn:srf:video:bc6ec10f-ff46-4c83-af2c-b86817726452): "**Krempelt künstliche Intelligenz die Wirtschaft um?**"
