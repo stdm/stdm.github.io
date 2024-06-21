@@ -564,7 +564,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   * Reviewer for [IEEE Transactions on Systems, Man and Cybernetics: Systems](https://www.ieeesmc.org/publications/transactions-on-smc-systems), [IEEE/ACM Transactions on Audio, Speech and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655), [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78), [EURASIP Journal on Audio, Speech, and Music Processing](https://asmp-eurasipjournals.springeropen.com/), [PLOS ONE](https://journals.plos.org/plosone/) and the [Science Media Center Germany](https://www.sciencemediacenter.de/)
   
   * Member of program committee, [ANNPR 2024](https://users.encs.concordia.ca/~annpr24/), October 10-12, 2024, Montreal, Canada
-  
+
   * Program Co-Chair, [IEEE Swiss Conference on Data Science 2024](https://sds2024.ch/), May 30-31, 2024, Zurich, Switzerland
   
   * Member of program committee, [CVPR 2023](https://cvpr2023.thecvf.com/), June 18-22, 2023, Vancouver, Canada
@@ -649,7 +649,9 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
-  *June 13, 2024 [ERF Medien](https://erf-medien.ch/gesellschaft/wissen/warum-ki-unser-leben-erleichtern-kann/): "**Warum KI unser Leben erleichtern kann**"
+  * June 19, 2024 [Radio Life Channel](https://erf-medien.ch/gesellschaft/wissen/was-hinter-der-kuenstlichen-intelligenz-steckt/): "**Was hinter der künstlichen Intelligenz steckt**"
+
+  * June 13, 2024 [ERF Medien](https://erf-medien.ch/gesellschaft/wissen/warum-ki-unser-leben-erleichtern-kann/): "**Warum KI unser Leben erleichtern kann**"
 
   * June 08, 2024 [Idea](https://www.idea.de/artikel/technologie-mit-hoffnung-christliche-antworten-auf-die-ki-debatte): "**Technologie mit Hoffnung: Christliche Antworten auf die KI-Debatte**"
 
