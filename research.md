@@ -354,7 +354,7 @@ Lukas Tuggener, Jürgen Schmidhuber, and Thilo Stadelmann. [**Is it enough to op
 
 Felix M. Schmitt-Koopmann, Elaine M. Huang, Hans-Peter Hutter, Thilo Stadelmann, and Alireza Darvishy. [**FormulaNet: A Benchmark Dataset for Mathematical Formula Detection**](https://stdm.github.io/downloads/papers/Access_2022.pdf). **IEEE Access** 2022, 10, pp. 91588-91596, DOI [10.1109/ACCESS.2022.3202639](https://ieeexplore.ieee.org/document/9869643), August 2022.
 
-Pascal Sager, Sebastian Salzmann, Felice Burn, and Thilo Stadelmann. [**Unsupervised Domain Adaptation for Vertebrae Detection and Identification in 3D CT Volumes Using a Domain Sanity Loss**](https://www.mdpi.com/2313-433X/8/8/222/pdf). **J. Imaging** 2022, 8(8), 222, MDPI, Basel, Switzerland.
+Pascal Sager, Sebastian Salzmann, Felice Burn, and Thilo Stadelmann. [**Unsupervised Domain Adaptation for Vertebrae Detection and Identification in 3D CT Volumes Using a Domain Sanity Loss**](https://www.mdpi.com/2313-433X/8/8/222/pdf). **J. Imaging** 2022, 8(8), 222, MDPI, Basel, Switzerland. DOI [10.3390/jimaging8080222](https://doi.org/10.3390/jimaging8080222).
 
 Christoph von der Malsburg, Benjamin F. Grewe, and Thilo Stadelmann. [**Making Sense of the Natural Environment**](https://stdm.github.io/downloads/papers/KogWis_2022.pdf). Proceedings of the **KogWis 2022 - Understanding Minds** Biannual Conference of the German Cognitive Science Society, Freiburg, Germany, September 5-7, 2022.
 
