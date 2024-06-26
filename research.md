@@ -360,11 +360,11 @@ Christoph von der Malsburg, Benjamin F. Grewe, and Thilo Stadelmann. [**Making S
 
 Christoph von der Malsburg, Thilo Stadelmann, and Benjamin F. Grewe. [**A Theory of Natural Intelligence**](https://stdm.github.io/downloads/papers/ArXiv_2022.pdf). **arXiv preprint**, [arXiv:2205.00002](https://arxiv.org/abs/2205.00002), April 2022.
 
-Frank-Peter Schilling, Dandolo Flumini, Rudolf M. Füchslin, Elena Gavagnin, Armando Geller, Silvia Quarteroni and Thilo Stadelmann. [**Foundations of Data Science: A Comprehensive Overview Formed at the 1st International Symposium on the Science of Data Science**](https://stdm.github.io/downloads/papers/AoDSA_2022b.pdf). **Archives of Data Science, Series A 8(2)**, accepted for publication, 2022.
+Frank-Peter Schilling, Dandolo Flumini, Rudolf M. Füchslin, Elena Gavagnin, Armando Geller, Silvia Quarteroni and Thilo Stadelmann. [**Foundations of Data Science: A Comprehensive Overview Formed at the 1st International Symposium on the Science of Data Science**](https://stdm.github.io/downloads/papers/AoDSA_2022b.pdf). **Archives of Data Science, Series A 8(2)**, pp. 1-21, 2022. DOI [10.5445/IR/1000146422](https://dx.doi.org/10.5445/IR/1000146422).
 
 Ivo Herzig, Pascal Paysan, Stefan Scheib, Frank-Peter Schilling, Javier Montoya, Mohammadreza Amirian, Thilo Stadelmann, Peter Eggenberger, Rudolf M. Fuechslin, and Lukas Lichtensteiger. **Deep Learning-Based Simultaneous Multi-Phase Deformable Image Registration of Sparse 4D-CBCT**. In: Proceedings of the American Association of Physics in Medicine Annual Meeting (**AAPM'22**), Washington, DC, USA, July 10-14, 2022.
 
-Thilo Stadelmann, Tino Klamt, and Philipp H. Merkt. [**Data Centrism and the Core of Data Science as a Scientific Discipline**](https://stdm.github.io/downloads/papers/AoDSA_2022a.pdf). **Archives of Data Science, Series A 8(2)**, pp.1-16, April 2022.
+Thilo Stadelmann, Tino Klamt, and Philipp H. Merkt. [**Data Centrism and the Core of Data Science as a Scientific Discipline**](https://stdm.github.io/downloads/papers/AoDSA_2022a.pdf). **Archives of Data Science, Series A 8(2)**, pp.1-16, April 2022. DOI [10.5445/IR/1000143637](https://dx.doi.org/10.5445/IR/1000143637).
 
 Andreas Geyer-Schultz and Thilo Stadelmann (Editors). [**Archives of Data Science, Series A 8(2)**](https://www.archivesofdatascience.org/journals/series_a/publications#articles), April 2022. **Special Issue**.
 
