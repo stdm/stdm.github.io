@@ -653,6 +653,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * July 01, 2024 [Krone Denkfabrik](https://www.krone-trailer.com/fileadmin/media/magazin/krone-denkfabrik-ausgabe-6-de.pdf): "**KI ist ein Werkzeug** - Thilo Stadelmann im Gespräch mit Alfons B. Veer"
+
   * June 19, 2024 [Radio Life Channel](https://erf-medien.ch/gesellschaft/wissen/was-hinter-der-kuenstlichen-intelligenz-steckt/): "**Was hinter der künstlichen Intelligenz steckt**"
   
   * June 14, 2024 [Hotellerie Gastronomie Zeitung](https://www.hotellerie-gastronomie.ch/de/artikel/die-hospitality-branche-diskutiert-brennende-themen): "Muss man Angst vor der KI haben? «Nein», sagt Thilo Stadelmann"
