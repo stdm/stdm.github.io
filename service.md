@@ -40,7 +40,11 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Keynote at **SIX Data & AI Horizons**, Zurich, Switzerland, May 29, 2024
   
+  * Talk **AI - The usefulness revolution** at the AI-Booster - Managing Smarter with Generative AI event of the **Global Peter Drucker Forum**, online, July 02, 2024
+  
   * Keynote at Kaderanlass of the **Kantonspolizeit Zürich**, Zurich, Switzerland, June 28, 2024
+  
+  * Talk **AI - Where are we heading?** at **150 Years Technikum Winterthur** celebration, Winterthur, Switzerland, Jun2 25, 2024
   
   * Keynote at **Kistler** Kaderanlass, Dübendorf, Switzerland, June 21, 2024
   
