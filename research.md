@@ -38,17 +38,26 @@ The group has very diverse backgrounds, which helps us complement each other's s
   * [Peng Yan](https://www.linkedin.com/in/peng520/), PhD student: B.Sc. measuring & control technology (Jianghan U.) & M.Sc. control engineering (Xiamen U.), doctorate in junctionion with [Benjamin F. Grewe](https://www.ini.uzh.ch/en/research/groups/grewe.html) of the University of Zurich / Switzerland
   
   * [Pascal Sager](https://www.linkedin.com/in/pascal-sager-3b7403168), PhD student: B.Sc. & M.Sc. computer science (ZHAW)
+ 
+  * [Benjamin Meyer](https://www.linkedin.com/in/benjamin-meyer-b87077151), PhD student: B.Sc. information technology (FHNW), M.Sc. computer science (U Basel)
   
-  * [Raphael Emberger](https://www.linkedin.com/in/raphael-emberger-206015bb), research assistant & M.Sc. student: B.Sc. computer science (ZHAW)
+  * [Livia Luescher](https://www.linkedin.com/in/livia-l%C3%BCscher-72aaaa139/), M.Sc. student: B.Sc. business administration with honors (HWZ Zurich)
   
-  * [Benjamin Meyer](https://www.linkedin.com/in/benjamin-meyer-b87077151), research assistent & M.Sc. student at U Basel: B.Sc. Information Technology (FHNW)
+  * [Adrian Thuer](https://www.linkedin.com/in/adrian-th%C3%BCr-01976b160/), M.Sc. student: B.Sc. computer science (ZHAW)
   
-  * [Livia Luescher](https://www.linkedin.com/in/livia-l%C3%BCscher-72aaaa139/), M.Sc. student: B.Sc. in business administration with honors (HWZ Zurich)
+  * [Elia Unternährer](https://www.linkedin.com/in/elia-untern%C3%A4hrer-201593255/), M.Sc. student: B.Sc. business information technology (ZHAW)
   
-  * [Erdal Ayfer](https://www.zhaw.ch/en/about-us/person/ayfe/), intern and B.Sc. student computer science at ZHAW
+  * [Jakub Hanuska](https://www.linkedin.com/in/jakub-hanush/), M.Sc. student: B.Sc. open informatics (Mendel University of Brno)
+  
+  * [Rebekka von Wartburg](https://www.linkedin.com/in/rebekka-von-wartburg-3b807b298/), M.Sc. student: B.Sc. computer science (ZHAW)
+  
   
     
 Our Alumni are:
+
+  * [Raphael Emberger](https://www.linkedin.com/in/raphael-emberger-206015bb), research assistant 2012-2024, & M.Sc. and B.Sc. computer science (ZHAW)
+
+  * [Erdal Ayfer](https://www.zhaw.ch/en/about-us/person/ayfe/), intern 2023-2024 B.Sc. student computer science(ZHAW)
 
   * [Sydney M. Nguyen](https://www.linkedin.com/in/sydney-nguyen-117987180/), M.Sc. student 2022-2024, B.Sc. in computer science (ZHAW)
 
@@ -309,6 +318,10 @@ If you are interested in a collaboration, please [contact](http://www.zhaw.ch/=s
 Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?user=6U6ZXzUAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Thilo_Stadelmann2).
 
 #### 2024
+
+Peter Bolt, Volker Ziebart, Christian Jaeger, Nicolas Schmid, Thilo Stadelmann, and Rudolf M. Füchslin. **A Simulation Study on Energy Optimization in Building Control with Reinforcement Learning**. Accepted to the 11th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (**ANNPR'24**), Springer, Montreal, Canada, October 10-12, 2024.
+
+Peter R. Jermain, Martin Oswald, Tenzin Langdun, Santana Wright, Ashraf Khan, Thilo Stadelmann, Ahmed Abdulkadir, and Anna N. Yaroslavsky. **Deep-learning-based Cell Segmentation for Rapid Optical Cytopathology of Thyroid Cancer**. Accepted to Nature **Scientific Reports**, June 2024.
 
 Felix M. Schmitt-Koopmann, Elaine M. Huang, Hans-Peter Hutter, Thilo Stadelmann, and Alireza Darvishy. [**MathNet: A Data-Centric Approach for Printed Mathematical Expression Recognition**](https://ieeexplore.ieee.org/document/10538105). In: **IEEE Access**, May 2024, DOI [10.1109/ACCESS.2024.3404834](https://dx.doi.org/10.1109/ACCESS.2024.3404834).
 
