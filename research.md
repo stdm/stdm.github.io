@@ -319,7 +319,7 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 #### 2024
 
-Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christoph von der Malsburg. [**The Dynamic Net Architecture: Learning Robust and Holistic Visual Representations Through Self-Organizing Networks**]https://stdm.github.io/downloads/papers/ArXiv_2024.pdf). In: **arXiv preprint**, [arXiv:2407.05650](https://arxiv.org/pdf/2407.05650.pdf), July 2024.
+Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christoph von der Malsburg. [**The Dynamic Net Architecture: Learning Robust and Holistic Visual Representations Through Self-Organizing Networks**](https://stdm.github.io/downloads/papers/ArXiv_2024.pdf). In: **arXiv preprint**, [arXiv:2407.05650](https://arxiv.org/pdf/2407.05650.pdf), July 2024.
 
 Peter Bolt, Volker Ziebart, Christian Jaeger, Nicolas Schmid, Thilo Stadelmann, and Rudolf M. Füchslin. [**A Simulation Study on Energy Optimization in Building Control with Reinforcement Learning**](https://stdm.github.io/downloads/papers/ANNPR_2024.pdf). In: Proceedings of the 11th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (**ANNPR'24**), Springer, Montreal, Canada, October 10-12, 2024.
 
