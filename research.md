@@ -35,11 +35,11 @@ The group has very diverse backgrounds, which helps us complement each other's s
   
   * [Waqar Ali](https://www.linkedin.com/in/waqar-ali-92468910b/), PhD student: M.Sc. (CU Islamabad) in computer science, doctorate in conjunction with [Marcello Pelillo](https://www.dsi.unive.it/~pelillo/) of the University of Venice / Italy
 
-  * [Peng Yan](https://www.linkedin.com/in/peng520/), PhD student: B.Sc. measuring & control technology (Jianghan U.) & M.Sc. control engineering (Xiamen U.), doctorate in junctionion with [Benjamin F. Grewe](https://www.ini.uzh.ch/en/research/groups/grewe.html) of the University of Zurich / Switzerland
+  * [Peng Yan](https://www.linkedin.com/in/peng520/), PhD student: B.Sc. measuring & control technology (Jianghan U.) & M.Sc. control engineering (Xiamen U.), M.Sc. data science (UZH), doctorate in conjunctionion with [Benjamin F. Grewe](https://www.ini.uzh.ch/en/research/groups/grewe.html) of the University of Zurich / Switzerland
   
-  * [Pascal Sager](https://www.linkedin.com/in/pascal-sager-3b7403168), PhD student: B.Sc. & M.Sc. computer science (ZHAW)
+  * [Pascal Sager](https://www.linkedin.com/in/pascal-sager-3b7403168), PhD student: B.Sc. & M.Sc. computer science (ZHAW), doctorate in conjunctionion with [Benjamin F. Grewe](https://www.ini.uzh.ch/en/research/groups/grewe.html) of the University of Zurich / Switzerland
  
-  * [Benjamin Meyer](https://www.linkedin.com/in/benjamin-meyer-b87077151), PhD student: B.Sc. information technology (FHNW), M.Sc. computer science (U Basel)
+  * [Benjamin Meyer](https://www.linkedin.com/in/benjamin-meyer-b87077151), PhD student: B.Sc. information technology (FHNW), M.Sc. computer science (U Basel), doctorate in conjunctionion with [Benjamin F. Grewe](https://www.ini.uzh.ch/en/research/groups/grewe.html) of the University of Zurich / Switzerland
   
   * [Livia Luescher](https://www.linkedin.com/in/livia-l%C3%BCscher-72aaaa139/), M.Sc. student: B.Sc. business administration with honors (HWZ Zurich)
   
@@ -55,9 +55,9 @@ The group has very diverse backgrounds, which helps us complement each other's s
     
 Our Alumni are:
 
-  * [Raphael Emberger](https://www.linkedin.com/in/raphael-emberger-206015bb), research assistant 2012-2024, & M.Sc. and B.Sc. computer science (ZHAW)
+  * [Raphael Emberger](https://www.linkedin.com/in/raphael-emberger-206015bb), research assistant 2012-2024, M.Sc. and B.Sc. computer science (ZHAW)
 
-  * [Erdal Ayfer](https://www.zhaw.ch/en/about-us/person/ayfe/), intern 2023-2024 B.Sc. student computer science(ZHAW)
+  * [Erdal Ayfer](https://www.zhaw.ch/en/about-us/person/ayfe/), intern 2023-2024, B.Sc. student computer science(ZHAW)
 
   * [Sydney M. Nguyen](https://www.linkedin.com/in/sydney-nguyen-117987180/), M.Sc. student 2022-2024, B.Sc. in computer science (ZHAW)
 
