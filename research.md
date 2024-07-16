@@ -323,7 +323,7 @@ Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christop
 
 Peter Bolt, Volker Ziebart, Christian Jaeger, Nicolas Schmid, Thilo Stadelmann, and Rudolf M. Füchslin. [**A Simulation Study on Energy Optimization in Building Control with Reinforcement Learning**](https://stdm.github.io/downloads/papers/ANNPR_2024.pdf). In: Proceedings of the 11th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (**ANNPR'24**), Springer, Montreal, Canada, October 10-12, 2024.
 
-Peter R. Jermain, Martin Oswald, Tenzin Langdun, Santana Wright, Ashraf Khan, Thilo Stadelmann, Ahmed Abdulkadir, and Anna N. Yaroslavsky. **Deep-learning-based Cell Segmentation for Rapid Optical Cytopathology of Thyroid Cancer**. Accepted to Nature **Scientific Reports**, June 2024.
+Peter R. Jermain, Martin Oswald, Tenzin Langdun, Santana Wright, Ashraf Khan, Thilo Stadelmann, Ahmed Abdulkadir, and Anna N. Yaroslavsky. [**Deep-learning-based Cell Segmentation for Rapid Optical Cytopathology of Thyroid Cancer**](https://www.nature.com/articles/s41598-024-64855-2.epdf). In: **Scientific Reports** 14, article nr. 16389 (2024), Nature, July 2024, DOI [10.1038/s41598-024-64855-2](https://doi.org/10.1038/s41598-024-64855-2).
 
 Felix M. Schmitt-Koopmann, Elaine M. Huang, Hans-Peter Hutter, Thilo Stadelmann, and Alireza Darvishy. [**MathNet: A Data-Centric Approach for Printed Mathematical Expression Recognition**](https://ieeexplore.ieee.org/document/10538105). In: **IEEE Access**, May 2024, DOI [10.1109/ACCESS.2024.3404834](https://dx.doi.org/10.1109/ACCESS.2024.3404834).
 
