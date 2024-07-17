@@ -38,6 +38,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Keynote at **Belinfor Hochschulevent**, Kongresshaus Zürich, Zurich, Switzerland, November 13, 2024
   
+  * Talk at the **UBS Unternehmerkongress**, Horgen ZH, Switzerland, August 26, 2024
+  
   * Keynote at **SIX Data & AI Horizons**, Zurich, Switzerland, May 29, 2024
   
   * Talk **AI - The usefulness revolution** at the AI-Booster - Managing Smarter with Generative AI event of the **Global Peter Drucker Forum**, online, July 02, 2024
@@ -566,6 +568,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   * Topic editor for the [Journal of Imaging](http://www.mdpi.com/journal/jimaging), an international multi/interdisciplinary peer-reviewed open access journal of imaging techniques published online monthly by MDPI (postponed until special issue for sister journal "Computers" is completed)
   
   * Reviewer for [IEEE Transactions on Systems, Man and Cybernetics: Systems](https://www.ieeesmc.org/publications/transactions-on-smc-systems), [IEEE/ACM Transactions on Audio, Speech and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655), [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78), [EURASIP Journal on Audio, Speech, and Music Processing](https://asmp-eurasipjournals.springeropen.com/), [PLOS ONE](https://journals.plos.org/plosone/) and the [Science Media Center Germany](https://www.sciencemediacenter.de/)
+
+  * Reviewer for [ICPR 2024](https://icpr2024.org/), December 01-05, 2024, Kolkata, India
   
   * Member of program committee, [ANNPR 2024](https://users.encs.concordia.ca/~annpr24/), October 10-12, 2024, Montreal, Canada
 
@@ -653,6 +657,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * July 15, 2024 [Radio Life Channel](https://erf-medien.ch/gesellschaft/wissen/so-schnell-kann-ki-menschen-nicht-ersetzen/): **So schnell kann KI Menschen nicht ersetzen**
+  
   * July 01, 2024 [Krone Denkfabrik](https://www.krone-trailer.com/fileadmin/media/magazin/krone-denkfabrik-ausgabe-6-de.pdf): "**KI ist ein Werkzeug** - Thilo Stadelmann im Gespräch mit Alfons B. Veer"
 
   * June 19, 2024 [Radio Life Channel](https://erf-medien.ch/gesellschaft/wissen/was-hinter-der-kuenstlichen-intelligenz-steckt/): "**Was hinter der künstlichen Intelligenz steckt**"
