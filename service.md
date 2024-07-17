@@ -657,7 +657,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
-  * July 15, 2024 [Radio Life Channel](https://erf-medien.ch/gesellschaft/wissen/so-schnell-kann-ki-menschen-nicht-ersetzen/): **So schnell kann KI Menschen nicht ersetzen**
+  * July 15, 2024 [Radio Life Channel](https://erf-medien.ch/gesellschaft/wissen/so-schnell-kann-ki-menschen-nicht-ersetzen/): "**So schnell kann KI Menschen nicht ersetzen**"
   
   * July 01, 2024 [Krone Denkfabrik](https://www.krone-trailer.com/fileadmin/media/magazin/krone-denkfabrik-ausgabe-6-de.pdf): "**KI ist ein Werkzeug** - Thilo Stadelmann im Gespräch mit Alfons B. Veer"
 
