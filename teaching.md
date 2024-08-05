@@ -29,14 +29,18 @@ I try to make my main courses available as free online ressources as a best effo
 
 | **When** | **Level** | **Type** | **Title** |
 | --- | --- | --- | --- |
-| Spring 2024 | BSc | BA | Transformers for Voice Recognition: Build automatic speaker recognition using LLM technology |
-| Spring 2024 | BSc | BA | Towards Action Transformers |
+| Fall 2024 | PhD | Thesis | Strategies for Practical Deep Learning |
+| Fall 2024 | BSc | PA | AI-based interpretation of engineering drawings |
+| Fall 2024 | BSc | PA | Enhancing SwissGPT with Agentic RAG |
+| Spring 2024 | MSc | VT1 | Overcoming Sample Scarcity and Label Ambiguity in Cell Segmentation and Classification of Thyroid Cancer: A Kernel-Based Approach on Top of CellSAM |
+| Spring 2024 | BSc | BA | Prosodic Feature Modelling in Transformers for Speaker Verification <br> _follow-up research internship_ <br> Students: Fabian Bosshard, Andrin Fassbind |
+| Spring 2024 | BSc | BA | A2C2 - Natural Language-Instructed Autonomous Agent for Computer Control |
 | Spring 2024 | MAS | Thesis | Beaker detection using realtime image analysis and artificial neural networks |
 | Fall 2023 | PhD | Thesis | Deep Learning for Robust and Explainable Models in Computer Vision |
 | Fall 2023 | MSc | MT | Predicting DARPin Protein Binding using Geometric Graph Neural Networks |
-| Spring 2023 | MSc | MT | **Self-Organisation in a Biologically Inspired Learning Framework Based on Bernoulli Neurons** <br> _top grade_ <br> Student: Pascal Sager |
+| Spring 2023 | MSc | MT | **[Self-Organisation in a Biologically Inspired Learning Framework Based on Bernoulli Neurons](https://arxiv.org/pdf/2407.05650.pdf)** <br> _top grade, paper_ <br> Student: Pascal Sager |
 | Spring 2023 | BSc | BA | **RoboDog III: Building a Vision and /or Sound-Based AI Demonstrator on a Robotic Platform** <br> _top grade_ <br> Students: Juri Pfammatter, Daniel Schweizer |
-| Spring 2023 | BSc | BA | **Deep-Learning-based Cell Segmentation for the Detection of Thyroid Cancer in Single Cells** <br> _top grade, [Regional Siemens Excellence Award](https://www.linkedin.com/feed/update/urn:li:activity:7086340647128817664/), [Lab Sciences Award 2024](https://toolpoint.ch/en/winner.87/), [National Siemens Excellence Award](https://www.linkedin.com/feed/update/urn:li:activity:7176933607553302528)_ <br> Students: Tenzin Samdrup Langdun, Martin Oswald |
+| Spring 2023 | BSc | BA | **[Deep-Learning-based Cell Segmentation for the Detection of Thyroid Cancer in Single Cells](https://www.nature.com/articles/s41598-024-64855-2)** <br> _top grade, [Regional Siemens Excellence Award](https://www.linkedin.com/feed/update/urn:li:activity:7086340647128817664/), [Lab Sciences Award 2024](https://toolpoint.ch/en/winner.87/), [National Siemens Excellence Award, Publikumspreis](https://www.linkedin.com/feed/update/urn:li:activity:7176933607553302528), [ZHAW SGD Award, 3rd. prize](https://www.zhaw.ch/de/fokusthemen/zhaw-sustainable/sustainable-impact-program/#c206838), paper_ <br> Students: Tenzin Samdrup Langdun, Martin Oswald |
 | Spring 2023 | BSc | BA | Teaching Neural Nets to Learn Dynamic Voice Features for Automatic Speaker Verification |
 | Spring 2023 | MAS | Thesis | Lean Production Monitoring (with Cameras) |
 | Fall 2022 | MSc | VT2 | Supporting DARPin binder selection through deep learning |
@@ -130,9 +134,10 @@ I try to make my main courses available as free online ressources as a best effo
 | Tag | Name | Format | Type | Content | Did what? | When? |
 | --- | --- | --- | --- | --- | --- | --- |
 | [AI1](http://stdm.github.io/ai-course) | **Artificial Intelligence 1** | lecture & lab | final year BSc computer science elective course; won [best teaching award (3rd place)](https://stdm.github.io/ATLAS/) in 2019 | foundational AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017-2023 |
-| AI2 | **Artificial Intelligence 2** | lecture & lab | finale year BSc computer science / data science elective course | developing fair algorithms; towards more general neural models | responsible, co-initiate, co-create | Fall 2017, spring 2023-2024 |
+| AI2 | **Artificial Intelligence 2** | lecture & lab | finale year BSc computer science / data science elective course | developing fair algorithms; towards more general neural models | responsible, co-initiate, co-create, co-teach | Fall 2017, spring 2023-2025 |
 | CVDL | **Computer Vision with Deep Learning** | lecture & lab | finale year BSc computer science / data science elective course | modern computer vision based on deep learning methodology (beyond CNNs and classification) | responsible, initiate | Fall 2022 |
 | ML | **Machine Learning** | lecture & lab | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Machine Intelligence](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-machine-intelligence.html) | practical machine learning for data scientists | responsible, initiate, create, teach | Fall 2015-2016, spring 2017-2018, spring 2021, spring 2023 |
+| INTAI | **Introduction to AI for Engineers** | block week | elective final year block course for all engineering programmes | short introduction based on AI1 | responsible, initiate, create, teach | Fall 2024 |
 
 
 #### Previously
