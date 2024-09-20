@@ -319,6 +319,8 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 #### 2024
 
+Ahmed Begga, Waqar Ali, Gabriel Niculescu, Francisco Escolano, Thilo Stadelmann, and Marcello Pelillo. [**Community-Hop: Enhancing Node Classification through Community Preference**](https://stdm.github.io/downloads/papers/S+SSPR_2024.pdf). In: Proceedings of the Joint IAPR International Workshops on Statistical Techniques in Pattern Recognition and Structural and Syntactic Pattern Recognition (**S+SSPR**), 2024.
+
 Waqar Ali, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. [**Hierarchical Glocal Attention Pooling for Graph Classification**](https://stdm.github.io/downloads/papers/PRL_2024b.pdf). In: **Pattern Recognition Letters** 186, pp. 71-77, Elsevier, September 2024, DOI [10.1016/j.patrec.2024.09.009](https://doi.org/10.1016/j.patrec.2024.09.009).
 
 Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christoph von der Malsburg. [**The Dynamic Net Architecture: Learning Robust and Holistic Visual Representations Through Self-Organizing Networks**](https://stdm.github.io/downloads/papers/ArXiv_2024.pdf). In: **arXiv preprint**, [arXiv:2407.05650](https://arxiv.org/pdf/2407.05650.pdf), July 2024.
