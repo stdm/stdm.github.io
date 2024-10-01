@@ -504,7 +504,7 @@ Thilo Stadelmann, Sven Johr, Michael Ditze, Florian Dittman, and Viktor Fässler
 
 #### 2010
 
-Thilo Stadelmann. [**Voice Modeling Methods for Automatic Speaker Recognition**](https://stdm.github.io/downloads/papers/PhdThesis_2010.pdf). Dissertation, **Philipps-Universität Marburg**. [Available online, 2010](http://archiv.ub.uni-marburg.de/diss/z2010/0465/view.html).
+Thilo Stadelmann. [**Voice Modeling Methods for Automatic Speaker Recognition**](https://stdm.github.io/downloads/papers/PhdThesis_2010.pdf). Dissertation, **Philipps-Universität Marburg**. [Available online, 2010](https://archiv.ub.uni-marburg.de/ubfind/Record/urn:nbn:de:hebis:04-z2010-0465?sid=1980300).
 
 Thilo Stadelmann & Bernd Freisleben. [**On the MixMax Model and Cepstral Features for Noise-Robust Voice Recognition**](https://stdm.github.io/downloads/papers/TR_2010.pdf). Technical report, Philipps-Universität Marburg, April 2010.
 
