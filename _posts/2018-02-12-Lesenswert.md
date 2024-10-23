@@ -2,7 +2,7 @@
 layout: post
 title: Lesenswert
 date: 2018-02-12
-modified: 2024-04-01
+modified: 2024-10-23
 category: society, readings
 comments: true
 ---
@@ -10,6 +10,22 @@ comments: true
 This is an occasionally updated collection of links to valuable reads from non-technical newspapers: opinion pieces though, but thought-provoking. (Mostly) in German (thus the title). Some might be after a paywall after some time - sorry for that!
 
 <!-- more -->
+
+* ["Peter Thiel on the dangers of progress"](https://unherd.com/2022/07/peter-thiel-on-the-dangers-of-progress/) by Mary Harrington, July 25, 2022.
+
+  Subject: Peter Thiel
+  
+  Key words: Stagnation, big tech, Christianity, democracy, JD Vance, progress, Silicon Valley, technology
+  
+  Abstract: The tech billionaire discusses Silicon Valley, Christianity and apocalypse
+
+* ["Herr Has effiliert seine Bücher"](https://www.faz.net/aktuell/stil/trends-nischen/leserbriefschreiber-uwe-jens-has-erzaehlt-vom-leben-als-taxifahrer-und-vielleser-110026283.html) by Leonie Feuerbach, October 19, 2024.
+
+  Subject: Leserbriefe
+  
+  Key words: Philosophy, literature, love and respect in partnership, ADHD, poor but happy, book nerd 
+  
+  Abstract: Uwe-Jens Has schreibt der F.A.Z. seit Jahrzehnten Leserbriefe. Sie erzählen von einem anekdotenreichen Leben als Taxifahrer und Vielleser. Eine Begegnung in Berlin-Zehlendorf.
 
 * ["Aussterben ist schwierig, selbst mit Atombomben bekämen wir es nicht hin."](https://www.nzz.ch/folio/aussterben-ist-schwierig-selbst-mit-atombomben-bekaemen-wir-es-nicht-hin-ld.1827734) by Reto U. Schneider, May 03, 2024.
 
