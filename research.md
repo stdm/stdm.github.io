@@ -317,6 +317,11 @@ If you are interested in a collaboration, please [contact](http://www.zhaw.ch/=s
 
 Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?user=6U6ZXzUAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Thilo_Stadelmann2).
 
+#### 2025
+
+Thilo Stadelmann. [**Wegweiser Künstliche Intelligenz: Verstehen, anwenden und zuversichtlich Zukunft gestalten**](https://stdm.github.io/downloads/papers/KIW_2025.pdf). In: Sebastian Hersberger and Christian Hugo Hoffmann (Editors). "Wie die Künstliche Intelligenz die Wirtschaft verändert - Überblick über die theoretischen Grundlagen und Praxisbeispiele entlang von Ökosystemen", **Springr**, 2025.
+
+
 #### 2024
 
 Ahmed Begga, Waqar Ali, Gabriel Niculescu, Francisco Escolano, Thilo Stadelmann, and Marcello Pelillo. [**Community-Hop: Enhancing Node Classification through Community Preference**](https://stdm.github.io/downloads/papers/S+SSPR_2024.pdf). In: Proceedings of the Joint IAPR International Workshops on Statistical Techniques in Pattern Recognition and Structural and Syntactic Pattern Recognition (**S+SSPR**), 2024.
