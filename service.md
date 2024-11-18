@@ -34,51 +34,85 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 #### 2024
 
-  * Keynote at **Unternehmerforum Gummersbach**, Gummersbach, Germany, November 14, 2024
+  * Talk at **Victoria University of Wellington**, Wellington, New Zealand, December 18, 2024
+
+  * Talk at **University of Queensland**, Brisbane, Australia, December 04, 2024
+
+  * Talk at QUT Centre for Robotics, **Queensland University of Technology**, Brisbane, Australia, December 03, 2024
+
+  * Talk at Sports Data Science & AI Workshop, QUT Centre for Data Science, Queensland University of Technology, Brisbane, Australia, November 26, 2024
   
-  * Keynote at **Belinfor Hochschulevent**, Kongresshaus Zürich, Zurich, Switzerland, November 13, 2024
+  * Keynote "AI in sports: a real-world laboratory for upcoming societal change?" at QUT Centre for Data Science, **Queensland University of Technology**, Brisbane, Australia, November 25, 2024
   
-  * Talk at the **UBS Unternehmerkongress**, Horgen ZH, Switzerland, August 26, 2024
+  * Workshop at **Archipel Generalplanung AG**, Bern, Switzerland, November 22, 2024
+
+  * Keynote "The AI Advantage" at **AXA Investment Managers**, Zurich, Switzerland, November 21, 2024
   
-  * Keynote at **SIX Data & AI Horizons**, Zurich, Switzerland, May 29, 2024
+  * Keynote "KI - Wert & Werte fuer eine lebenswerte Zukunft" at **FCBG Unternehmerforum**, Gummersbach, Germany, November 14, 2024
+
+  * Talk at Yaroslavsky Lab, **University of Massachusetts**, Lovell, MA, USA, October 17, 2024
   
-  * Talk **AI - The usefulness revolution** at the AI-Booster - Managing Smarter with Generative AI event of the **Global Peter Drucker Forum**, online, July 02, 2024
+  * Talk at Peterka Lab, Zuckerman Institute, **Columbia University**, New York, NY, USA, October 16, 2024
+  
+  * Co-Talk (together with Prof. B. Grewe) at FAIR, **Meta**, New York, NY, USA, October 14, 2024
+  
+  * Talk at **Huawei Noah's Arc**, London, UK, October 10, 2024
+  
+  * Talk "Campus 2024+ - KI als Imperativ im Hochschulmanagement" at **Belinfor Hochschulevent**, Kongresshaus Zürich, Zurich, Switzerland, November 13, 2024
+  
+  * Talk ["Artificial Intelligence - A Tale of Two Meanings"](https://www.faraday.cam.ac.uk/event/prof-thilo-stadelmann-artificial-intelligence-a-tale-of-two-meanings/) at Faraday Institute for Science and Religion, **Cambridge University**, Cambridge, UK, October 08, 2024
+  
+  * Moderation "GenAI Track" at **AI+X Summit**, Zurich, Switzerland, October 04, 2024
+  
+  * Talk "Real life machine learning - How research, inspired by use cases, helps me getting alongwith AI" at Grewe Lab, Institute of Neuroinformatics, University and ETH Zurich, Zurich, Switzerland, September 27, 2024
+
+  * Guest lecture "Digitalization, Faith and AI - A Practice Perspective" at **University of Fribourg**, CAS Integral Economics, Biel, Switzerland, September 20, 2024
+  
+  * Talk "Was in Zukunft wichtig wird - Bildung in Zeiten von KI" at **EVP Basel-Stadt**, Basel, Switzerland, September 17, 2024
+  
+  * Talk "Was hat es mit kuenstlicher Intelligenz auf sich?" at **Nikodemus.AI vernissage**, ERF, Wetzlar, Germany (online), September 10, 2024
+  
+  * Talk "KI - Die Nuetzlichkeitsrevolution im Unternehmen" at the **UBS Unternehmerkongress**, Horgen ZH, Switzerland, August 26, 2024
+  
+  * Keynote "Contemporary AI possibilities and an attempt to predict what's next" at **SIX Data & AI Horizons**, Zurich, Switzerland, May 29, 2024
+  
+  * Talk "AI - The usefulness revolution" at the "AI-Booster - Managing Smarter with Generative AI" event of the **Global Peter Drucker Forum**, online, July 02, 2024
   
   * Keynote at Kaderanlass of the **Kantonspolizeit Zürich**, Zurich, Switzerland, June 28, 2024
   
-  * Talk **AI - Where are we heading?** at **150 Years Technikum Winterthur** celebration, Winterthur, Switzerland, Jun2 25, 2024
+  * Talk "AI - Where are we heading?" at **150 Years Technikum Winterthur** celebration, Winterthur, Switzerland, Jun2 25, 2024
   
-  * Keynote at **Kistler** Kaderanlass, Dübendorf, Switzerland, June 21, 2024
+  * Keynote "Everyday AI" at **Kistler** Kaderanlass, Dübendorf, Switzerland, June 21, 2024
   
-  * Keynote at **Hospitality Summit**, Zurich, Switzerland, June 13, 2024
+  * Keynote "AI Now!" at **Hospitality Summit**, Zurich, Switzerland, June 13, 2024
 
-  * Keynote at the **SPI-Tagung 2024** of the SPI Swiss Police Institute, Olten, Switzerland, June 13, 2024
+  * Keynote "KI & Maschinelles Lernen - Revolutionaere Potenziale fuer die Polizeiausbildung?" at the **SPI-Tagung 2024** of the SPI Swiss Police Institute, Olten, Switzerland, June 13, 2024
   
   * Workshop at **#weareready allianz** on AI in construction, Watt, Switzerland, June 04, 2024
   
-  * Keynote at **Stadtwerke Winterthur** Kundenapero, Winterthur, Switzerland, May 30, 2024
+  * Keynote "Kuenstliche Intelligenz - Eine Geschichte 2er Bedeutungen" at **Stadtwerke Winterthur** Kundenapero, Winterthur, Switzerland, May 30, 2024
   
   * Panelist at Private Customer Event of a **major Swiss Bank**, May 29, 2024
   
-  * Keynote at **KSA Research & Innovation Day**, Aarau, Switzerland, May 29, 2024
+  * Keynote "Wie kuenstliche Intelligenz unsere Arbeit praegt" at **KSA Research & Innovation Day**, Aarau, Switzerland, May 29, 2024
   
-  * Keynote at **JLU TOP Congress**, Wasselonne, France, May 22, 2024
+  * Keynote "Vorteil KI - Wert & Werte fuer spannende Zeiten" at **JLU TOP Congress**, Wasselonne, France, May 22, 2024
   
-  * Talk at **Informatik Schaffhausen** on SwissGPT and the use of AI in the public sector, Schaffhausen, Switzerland, May 17, 2024
+  * Talk "Zukunft getsalten mit kuenstlicher Intelligenz" at **Informatik Schaffhausen** on SwissGPT and the use of AI in the public sector, Schaffhausen, Switzerland, May 17, 2024
   
-  * Talk at **Motrona GmbH**, Gottmadingen, Germany, April 24, 2024
+  * Talk "Kuenstliche Intelligenz - Ein Leitfaden" at **Motrona GmbH**, Gottmadingen, Germany, April 24, 2024
   
-  * AI Seminar at **Parlamentsdienste des Kanstonsrat Zürich**, Zurich, Switzerland, April 17, 2024
+  * AI Seminar "Was KI ist - und wie man sie nutzt" at **Parlamentsdienste des Kanstonsrat Zürich**, Zurich, Switzerland, April 17, 2024
   
-  * Invited talk at **Repower AG** AI Day, Landquart, Switzerland, March 20, 2024
+  * Talk at **Repower AG** AI Day, Landquart, Switzerland, March 20, 2024
 
-  * Invited talk at **Kodak Alaris**, Lucerne, Switzerland, March 13, 2024
+  * Talk "Die Implikationen der KI fuer Unternehmen verstehen" at **Kodak Alaris**, Lucerne, Switzerland, March 13, 2024
   
-  * Invited talk at **IVCG**, Nagold, Gernmany, March 08, 2024
+  * Talk at **IVCG**, Nagold, Gernmany, March 08, 2024
 
   * Talk at [Volkshochschule Jestetten-Lottstetten](https://www.vhs-jestetten-lottstetten.de/startseite) on **Kuenstliche Intelligenz - ein Leitfaden**, Jestetten, Germany, March 07, 2024
   
-  * Keynote at [**Oracle Data & AI Forum**](https://www.oracle.com/ch-de/cloud/events/data-ai-forum/), Zurich, Switzerland February 27, 2024
+  * Keynote "Decoding tomorrow - Where's AI headed in the real world?" at [**Oracle Data & AI Forum**](https://www.oracle.com/ch-de/cloud/events/data-ai-forum/), Zurich, Switzerland February 27, 2024
 
   * Panelist at **Communication Summit 2024**, Zurich, Switzerland, February 07, 2024
   
@@ -86,7 +120,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Keynote at **ZHAW ICT**, Winterthur, Switzerland, January 25, 2024
 
-  * Invited talk at **Politlunch Thun**, Thun, Switzerland, January 16, 2024
+  * Talk "Kuenstliche Intelligenz, lebenswerte Zukunft" at **Politlunch Thun**, Thun, Switzerland, January 16, 2024
    
 
 #### 2023 
