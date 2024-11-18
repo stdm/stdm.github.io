@@ -48,7 +48,13 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
   * Keynote "The AI Advantage" at **AXA Investment Managers**, Zurich, Switzerland, November 21, 2024
   
+  * [Q&A](https://www.youtube.com/live/Q1IhtzT5fT0?si=hRdMXfAFKVuQOz2f&t=1808) at **EFG Derschlag**, Derschlag, Germany, November 17, 2024
+  
+  * Talk at Innovation Hub Bergisches RheinLand, **TH Köln**, Gummersbach, Germany, November 15, 2024
+  
   * Keynote "KI - Wert & Werte fuer eine lebenswerte Zukunft" at **FCBG Unternehmerforum**, Gummersbach, Germany, November 14, 2024
+  
+  * Talk "Campus 2024+: KI als Imperativ im Hochschulmanagement" at **Belinfor Hochschulevent**, Kongresshaus Zürich, Zurich, Switzerland, November 13, 2024
 
   * Talk at Yaroslavsky Lab, **University of Massachusetts**, Lovell, MA, USA, October 17, 2024
   
@@ -57,8 +63,6 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   * Co-Talk (together with Prof. B. Grewe) at FAIR, **Meta**, New York, NY, USA, October 14, 2024
   
   * Talk at **Huawei Noah's Arc**, London, UK, October 10, 2024
-  
-  * Talk "Campus 2024+ - KI als Imperativ im Hochschulmanagement" at **Belinfor Hochschulevent**, Kongresshaus Zürich, Zurich, Switzerland, November 13, 2024
   
   * Talk ["Artificial Intelligence - A Tale of Two Meanings"](https://www.faraday.cam.ac.uk/event/prof-thilo-stadelmann-artificial-intelligence-a-tale-of-two-meanings/) at Faraday Institute for Science and Religion, **Cambridge University**, Cambridge, UK, October 08, 2024
   
