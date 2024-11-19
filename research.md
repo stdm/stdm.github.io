@@ -55,47 +55,47 @@ The group has very diverse backgrounds, which helps us complement each other's s
     
 Our Alumni are:
 
-  * [Raphael Emberger](https://www.linkedin.com/in/raphael-emberger-206015bb), research assistant 2012-2024, M.Sc. and B.Sc. computer science (ZHAW)
+  * [Raphael Emberger](https://www.linkedin.com/in/raphael-emberger-206015bb), research assistant 2012-2024, M.Sc. and B.Sc. computer science (ZHAW) -> Deep Learning Engineer @ Rheinmetall Air Defence
 
   * [Erdal Ayfer](https://www.zhaw.ch/en/about-us/person/ayfe/), intern 2023-2024, B.Sc. student computer science(ZHAW)
 
-  * [Sydney M. Nguyen](https://www.linkedin.com/in/sydney-nguyen-117987180/), M.Sc. student 2022-2024, B.Sc. in computer science (ZHAW)
+  * [Sydney M. Nguyen](https://www.linkedin.com/in/sydney-nguyen-117987180/), M.Sc. student 2022-2024, B.Sc. in computer science (ZHAW) -> Solution Engineer Data & AI @ mesoneer
 
-  * [Sebastian Salzmann](https://www.linkedin.com/in/sebastian-salzmann-8214b911b), M.Sc. student 2021-2024, B.Sc. biology (ETH) & M.Sc. molecular health sciences (ETH)
+  * [Sebastian Salzmann](https://www.linkedin.com/in/sebastian-salzmann-8214b911b), M.Sc. student 2021-2024, B.Sc. biology (ETH) & M.Sc. molecular health sciences (ETH) -> Scientific IT @ EAWAG
   
-  * [Paul Luley](https://www.linkedin.com/in/paul-l-821892247/), research assistent 2022-2023, B.Sc. biomedical engineering (Technikum Vienna), now data science researcher with Julius Bär
+  * [Paul Luley](https://www.linkedin.com/in/paul-l-821892247/), research assistent 2022-2023, B.Sc. biomedical engineering (Technikum Vienna) -> Data Science Researcher @ Julius Bär
 
-  * [Dr. Ricardo Chavarriaga](https://scholar.google.com/citations?user=ZU1fTMYAAAAJ&hl=en), B.Sc. electronics engineering (Pontificia Universidad Javeriana, Columbia), graduate school in computer/communication/information science (EPFL), PhD neuroscience (EPFL), Postdoc neuroscience/brain-computer interfaces (EPFL & IDIAP), senior researcher 2019-2023, now head of Responsible AI Innovation Group at ZHAW CAI
+  * [Dr. Ricardo Chavarriaga](https://scholar.google.com/citations?user=ZU1fTMYAAAAJ&hl=en), B.Sc. electronics engineering (Pontificia Universidad Javeriana, Columbia), graduate school in computer/communication/information science (EPFL), PhD neuroscience (EPFL), Postdoc neuroscience/brain-computer interfaces (EPFL & IDIAP), senior researcher 2019-2023 -> Head of Responsible AI Innovation Group @ ZHAW CAI
   
-  * [Mohammadreza Amirian](https://www.zhaw.ch/en/about-us/person/amir/), B.Sc. (U. Shiraz) & M.Sc. (U. Ulm) in electrical engineering, PhD 2017-2023 in conjunction with [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/institut/hidden/f-schwenker/) of Ulm University / Germany
+  * [Mohammadreza Amirian](https://www.zhaw.ch/en/about-us/person/amir/), B.Sc. (U. Shiraz) & M.Sc. (U. Ulm) in electrical engineering, PhD 2017-2023 in conjunction with [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/institut/hidden/f-schwenker/) of Ulm University / Germany -> Deep learning and computer vision researcher @ HES-SO Valais-Wallis
 
-  * [Adhiraj Ghosh](https://www.linkedin.com/in/adhiraj-ghosh/), B.Tech. (Manipal Institute of Technology), research intern 2021/22 (ZHAW), now M.Sc. student at Tübingen University
+  * [Adhiraj Ghosh](https://www.linkedin.com/in/adhiraj-ghosh/), B.Tech. (Manipal Institute of Technology), research intern 2021/22 (ZHAW) -> M.Sc. student @ Tübingen University
 
-  * [Claude Olivier Lehmann](https://www.zhaw.ch/en/about-us/person/lehl/), M.Sc. and B.Sc. (ZHAW), now PhD student with Prof. Kurt Stockinger of ZHAW InIT
+  * [Claude Olivier Lehmann](https://www.zhaw.ch/en/about-us/person/lehl/), M.Sc. and B.Sc. (ZHAW) -> PhD student with Prof. Kurt Stockinger @ ZHAW InIT
   
-  * [Dr. Frank-Peter Schilling](http://www.fp-schilling.de) Diplom & PhD (U. Heidelberg) in physics, PostDoc at CERN, now senior lecturer at ZHAW Centre for AI
+  * [Dr. Frank-Peter Schilling](http://www.fp-schilling.de) Diplom & PhD (U. Heidelberg) in physics, PostDoc at CERN -> Head of Intelligent Vision Systems Group @ ZHAW CAI
 
-  * [Dr. Javier Montoya](https://scholar.google.de/citations?user=5cpeK3MAAAAJ&hl=en), B.Sc. computer engineering (UCSP, Arequipa, Peru), M.Sc. computer science (Unicamp, Sao Paulo, Brazil), M.Sc. computer science (ENSIMAG, Grenoble, France), PhD computer vision and machine learning (ETHZ), now senior lecturer with Lucerne University of Applied Sciences
+  * [Dr. Javier Montoya](https://scholar.google.de/citations?user=5cpeK3MAAAAJ&hl=en), B.Sc. computer engineering (UCSP, Arequipa, Peru), M.Sc. computer science (Unicamp, Sao Paulo, Brazil), M.Sc. computer science (ENSIMAG, Grenoble, France), PhD computer vision and machine learning (ETHZ) -> Senior lecturer of computer science @ Lucerne University of Applied Sciences
 
-  * Stefan Huschauer: B.Sc. computer science (ETH & ZHAW), M.Sc. (ZHAW), now with Noimos, an AXA insuretech company
+  * Stefan Huschauer: B.Sc. computer science (ETH & ZHAW), M.Sc. (ZHAW) -> Noimos, an AXA insuretech company
 
-  * [Daniel Neururer](https://ba-pub.engineering.zhaw.ch/WebPublication/Flyer.pdf?version=Bachelorarbeit2018&code=BA18_wyrs_3&language=de), B.Sc. in systems engineering (ZHAW), M.Sc. 2020 (ZHAW), now software/ML engineer with Prof. Cieliebak of ZHAW
+  * [Daniel Neururer](https://ba-pub.engineering.zhaw.ch/WebPublication/Flyer.pdf?version=Bachelorarbeit2018&code=BA18_wyrs_3&language=de), B.Sc. in systems engineering (ZHAW), M.Sc. 2020 (ZHAW) -> Software Engineer @ mcs software AG
 
-  * [Dr. Ismail Elezi](https://github.com/TheRevanchist), B.Sc. (U. Pristina), M.Sc. (Ca'Foscari) & PhD (Ca'Foscari & ZHAW, July 2020) in computer science, now PostDoc with Prof. Laura Leal-Taixé of TU Munich
+  * [Dr. Ismail Elezi](https://github.com/TheRevanchist), B.Sc. (U. Pristina), M.Sc. (Ca'Foscari) & PhD (Ca'Foscari & ZHAW, July 2020) in computer science -> Senior Research Scientist / Tech Lead @ Huawei Noah’s Ark
 
-  * [Yvan Satyawan](https://www.linkedin.com/in/yvan-satyawan), B.Sc. computer science (U. Freiburg, Germany), now pursuing a M.Sc. degree in Denmark
+  * [Yvan Satyawan](https://www.linkedin.com/in/yvan-satyawan), B.Sc. computer science (U. Freiburg, Germany) -> Founder @ stealth-mode start-up
 
-  * [Katharina Rombach](https://dblp.uni-trier.de/pers/hd/r/Rombach:Katharina), B.Sc. & M.Sc. (ETH Zurich; admitted to EDIC and ERDS doctoral schools at EPFL), now PhD student with Prof. Olga Fink of ETH Zurich
+  * [Katharina Rombach](https://dblp.uni-trier.de/pers/hd/r/Rombach:Katharina), B.Sc. & M.Sc. (ETH Zurich; admitted to EDIC and ERDS doctoral schools at EPFL) -> PhD student with Prof. Olga Fink @ EPFL
 
-  * [Reza Kakooee](https://www.linkedin.com/in/reza-kakooee/), M.Sc. (U. Mashhad), now PhD student with Prof. Marc Pouly of Lucerne University of Applied Sciences
+  * [Reza Kakooee](https://www.linkedin.com/in/reza-kakooee/), M.Sc. (U. Mashhad) -> PhD student with Prof. Marc Pouly @ Lucerne University of Applied Sciences
 
-  * [Benjamin Bruno Meier](https://www.linkedin.com/in/benjamin-meier-61ab078b/), M.Sc. (ZHAW; Hirschmann scholarship holder & Dr. Waldemar Jucker laureate), now Software Engineer at Argus Data Insights Schweiz AG
+  * [Benjamin Bruno Meier](https://www.linkedin.com/in/benjamin-meier-61ab078b/), M.Sc. (ZHAW; Hirschmann scholarship holder & Dr. Waldemar Jucker laureate) -> Software Engineer @ Argus Data Insights Schweiz AG
   
-  * [Gabriel Eyyi](https://www.linkedin.com/in/gabriel-eyyi/), M.Sc. (ZHAW), now Software Engineer / Machine Learning Engineer at dizmo AG
+  * [Gabriel Eyyi](https://www.linkedin.com/in/gabriel-eyyi/), M.Sc. (ZHAW) -> Software Engineer / Machine Learning Engineer @ dizmo AG
   
-  * [Thierry Musy](https://www.linkedin.com/in/thierrymusy/), B.Sc. (ZHAW), now Partner / Senior Data Scientist at Foursight Digital AG
+  * [Thierry Musy](https://www.linkedin.com/in/thierrymusy/), B.Sc. (ZHAW) -> Partner / Senior Data Scientist @ Foursight Digital AG
   
-  * [Jan Stampfli](https://www.linkedin.com/in/janstampfli/), B.Sc. (ZHAW), now Big Data Engineer at Migros-Genossenschafts-Bund
+  * [Jan Stampfli](https://www.linkedin.com/in/janstampfli/), B.Sc. (ZHAW) -> Big Data Engineer @ Migros-Genossenschafts-Bund
 
 &nbsp;
 
