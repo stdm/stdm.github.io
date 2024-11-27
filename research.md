@@ -4,7 +4,14 @@ layout: page
 comments: true
 ---
 
-This page is dedicated to the research of me and my group. My academic profile including a CV and a list of grants (projects) can also be found via my [ZHAW profile page](http://www.zhaw.ch/=stdm). A preserved version of my research website at the University of Marburg can be found at my [Phillips University profile page](http://www.informatik.uni-marburg.de/~stadelmann/research.html).
+This is the academic website of <a href="http://www.zhaw.ch/=stdm">Thilo Stadelmann</a>, professor of AI/ML at <a href="https://www.zhaw.ch/en/university/">ZHAW</a> <a href="https://www.zhaw.ch/en/engineering/">School of Engineering</a> and holder of the chair of Engineering-Information, director of centre of the <a href="https://www.zhaw.ch/en/engineering/institutes-centres/cai/">Centre for Artificial Intelligence</a> and head of the <a href="https://www.zhaw.ch/en/engineering/institutes-centres/cai/machine-perception-and-cognition-group/">Machine Perception and Cognition Group</a>. I am also a (co-)founder and board member of <a href="https://alpineai.ch/">AlpineAI AG</a>, the <a href="https://www.zhaw.ch/datalab">ZHAW Datalab</a>, and the <a href="https://data-innovation.org/">data innovation alliance</a>, a frequent [keynote speaker](https://premium-speakers.com/en/speaker-presenter/thilo-stadelmann/), and holder of several [awards](https://www.zhaw.ch/en/about-us/person/stdm/). All views expressed are mine.</p>
+
+<img src="http://stdm.github.io/images/thilo-2024.jpg"/>
+
+I am a computer scientist by training, an AI guy by passion, and a machine learning researcher by area of study. My work revolves around general principles of representation learning, specifically deep learning, for pattern recognition. I approach these by means of use cases from very diverse areas, e.g. multimedia analysis, speech and audio processing, optical music recognition, predictive maintenance, automated game playing, data mining, driving assistants, computer vision, face recognition, etc. My current research interests revolve around robust and interpretable deep neural networks for pattern recognition problems; how to learn structured and actionable representations for world models; and societal effects of AI.
+
+Personally, I like kitesurfing, enjoy playing music on stringed instruments (guitars, bass), and am a follower of <a href="https://odb.org/">Jesus Christ</a>. I try living by the following values (my closer colleagues know I am not there yet): excellence; wisdom; honor all people; mercy for failure; and courage.</p>
+
 
 ### TOC
 1. [The group](#group)
@@ -18,10 +25,10 @@ This page is dedicated to the research of me and my group. My academic profile i
 
 [<img alt="Team" src="http://stdm.github.io/images/CAI-2024.jpg"/>](http://stdm.github.io/images/CAI-2024.jpg)
 
-The [Machine Perception and Cognition Group](https://www.zhaw.ch/en/engineering/institutes-centres/cai/machine-perception-and-cognition-group/) (fomerly Computer Vision, Perception and Cognition Group) is part of the [ZHAW Centre for Artificial Intelligence](https://www.zhaw.ch/en/engineering/institutes-centres/cai/), here depicted in its entirety in March 2024.
+The [Machine Perception and Cognition Group](https://www.zhaw.ch/en/engineering/institutes-centres/cai/machine-perception-and-cognition-group/) (fomerly Computer Vision, Perception and Cognition Group) is part of the [ZHAW Centre for Artificial Intelligence](https://www.zhaw.ch/en/engineering/institutes-centres/cai/) (the latter depicted here as of March 2024).
 
 
-My Machine Perception and Cognition Group performs **pattern recognition** research, working on a wide variety of tasks on image, audio or generally "signal" data. As a group, we focus on **deep learning** and **representation learning** methodology, inspired by biological learning. Each task that we study has its own learning target (e.g., detection, classification, clustering, segmentation, novelty detection, control) and use case (e.g., **predictive maintenance**, **speaker diarization**  for multimedia indexing, **document analysis**, **optical music recognition**, **computer vision** for industrial quality control, **automated machine learning**, **deep reinforcement learning** for automated game play or building control), which in turn sheds light on different aspects of the learning process. 
+The Machine Perception and Cognition Group performs **representation learning for pattern recognition** research, working on a wide variety of tasks on image, audio or generally "signal" data. As a group, we focus on **deep learning** methodology, inspired by biological learning. Each task that we study has its own learning target (e.g., detection, classification, clustering, segmentation, novelty detection, control) and use case (e.g., **predictive maintenance**, **speaker diarization**  for multimedia indexing, **document analysis**, **optical music recognition**, **computer vision** for industrial quality control, **automated machine learning**, **deep reinforcement learning** for automated game play or building control), which in turn sheds light on different aspects of the learning process. 
 
 The group has very diverse backgrounds, which helps us complement each other's skills:
   
