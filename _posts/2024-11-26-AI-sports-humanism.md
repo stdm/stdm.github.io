@@ -1,5 +1,5 @@
 ---
-title: AI in sports – a real-world laboratory for upcoming societal change? 
+title: AI in sports - a real-world laboratory for upcoming societal change? 
 layout: post
 date: 2024-11-26
 modified: 2024-11-26
