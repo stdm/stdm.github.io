@@ -2,7 +2,7 @@
 title: AI in sports: A real-world laboratory for upcoming societal change? 
 layout: post
 date: 2024-11-27
-modified: 
+modified: 2024-11-27
 category: AI, society, hope, risk, human value, humanism, philosophy
 comments: true
 ---
