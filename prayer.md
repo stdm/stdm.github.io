@@ -1,7 +1,7 @@
 ---
 title: Staff prayer meeting @ ZHAW
 layout: page
-comments: true
+comments: false
 ---
 
 [<img alt="Thilo & Lasse" src="http://stdm.github.io/images/thilo-lasse-rheinfall.jpg"/>](http://stdm.github.io/images/thilo-lasse-rheinfall.jpg)

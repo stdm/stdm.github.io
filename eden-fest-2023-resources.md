@@ -1,7 +1,7 @@
 ---
 title: Ressourcen zum Vortrag "Die Macht der künstlichen Intelligenz zum Guten"
 layout: page
-comments: true
+comments: false
 ---
 
 ### EDEN FEST 2023, 03. Juni, Augsburg, Deutschland

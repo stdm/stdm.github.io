@@ -1,7 +1,7 @@
 ---
 title: Service
 layout: page
-comments: true
+comments: false
 ---
 
 I enjoy active networking (matching people, organizations and ideas), public speaking, and leadership in different organizations. You find information related to such academic and public services below.

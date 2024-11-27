@@ -1,7 +1,7 @@
 ---
 title: 1st International Symposium on the Science of Data Science ISSDS 2021
 layout: page
-comments: true
+comments: false
 ---
 
 (Please find the call for contributions also [here](https://stdm.github.io/downloads/CfP_ISSDS-2021.pdf) as a PDF.)

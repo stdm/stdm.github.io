@@ -1,7 +1,7 @@
 ---
 title: Research
 layout: page
-comments: true
+comments: false
 ---
 
 This is the academic website of [Thilo Stadelmann](https://www.zhaw.ch/en/about-us/person/stdm/), professor of AI/ML at the [ZHAW](https://www.zhaw.ch/en/university/) [School of Engineering](https://www.zhaw.ch/en/engineering) and holder of the chair of Engineering-Information, director of the [Centre for Artificial Intelligence](https://www.zhaw.ch/en/engineering/institutes-centres/cai/) and head of its [Machine Perception and Cognition Group](https://www.zhaw.ch/en/engineering/institutes-centres/cai/machine-perception-and-cognition-group/). I am also (co-)founder and board member of [AlpineAI AG](https://alpineai.swiss/) and the [ZHAW Datalab](https://www.zhaw.ch/datalab), pioneered [several other organizations](https://www.linkedin.com/in/thilo-stadelmann/), frequently give [keynote talks](https://premium-speakers.com/en/speaker-presenter/thilo-stadelmann/), and received several [awards](https://www.zhaw.ch/en/about-us/person/stdm/) for my teaching, research, and ecosystem engagement. All views expressed are mine.
