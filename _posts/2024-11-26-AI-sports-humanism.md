@@ -1,15 +1,15 @@
 ---
 title: AI in sports: A real-world laboratory for upcoming societal change? 
 layout: post
-date: 2024-11-27
-modified: 2024-11-27
+date: 2024-11-26
+modified: 2024-11-26
 category: AI, society, hope, risk, human value, humanism, philosophy
 comments: true
 ---
 
 So what is happening in sports due to AI? Well, the game has changed, as one could say.
-<!-- more -->
 
+<!-- more -->
 
 Diverse AI methods, from data analysis on wearables' data streams to computer vision methods for electronic line calling in Tennis, are improving many aspects, from athletes' health and game plan to fairness of decisions. 
 
