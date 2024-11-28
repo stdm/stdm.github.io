@@ -289,6 +289,8 @@ If you are interested in a collaboration, please [contact](http://www.zhaw.ch/=s
 <a name="publications"></a>
 ## Publications
 
+<img alt="Our work won the Most Cited Paper Award at SDS 2023" src="http://stdm.github.io/images/sds_award.jpeg"/>
+
 Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?user=6U6ZXzUAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Thilo_Stadelmann2).
 
 #### 2025
