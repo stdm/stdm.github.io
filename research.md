@@ -1,5 +1,5 @@
 ---
-title: Research
+title:
 layout: page
 comments: false
 ---
@@ -27,7 +27,9 @@ Personally, I like kitesurfing, enjoy playing music on stringed instruments (gui
 
 The [Machine Perception and Cognition Group](https://www.zhaw.ch/en/engineering/institutes-centres/cai/machine-perception-and-cognition-group/) performs project-based research in **representation learning** for **pattern recognition**, working on a wide variety of tasks on image, audio or generally "signal" data. As a group, we focus on **deep learning** methodology, inspired by biological learning. Each task that we study has its own learning target (e.g., detection, classification, clustering, segmentation, novelty detection, control) and use case (e.g., **predictive maintenance**, **speaker diarization**  for multimedia indexing, **document analysis**, **optical music recognition**, **computer vision** for industrial quality control, **automated machine learning**, **deep reinforcement learning** for automated game play or building control), which in turn sheds light on different aspects of the learning process. We also engage in interdisciplinary work on the ethical and societal aspects of AI.
 
-The group has very diverse backgrounds, which helps us complement each other's skills:
+The group has very diverse backgrounds, which helps us complement each other's skills.
+
+#### Staff and students
   
   * [Prof. Dr. Thilo Stadelmann](https://de.wikipedia.org/wiki/Thilo_Stadelmann), group lead: Diplom (THM) & PhD (U. Marburg) in computer science
   
@@ -56,7 +58,7 @@ The group has very diverse backgrounds, which helps us complement each other's s
   * [Rebekka von Wartburg](https://www.linkedin.com/in/rebekka-von-wartburg-3b807b298/), M.Sc. student: B.Sc. computer science (ZHAW)
   
     
-Our Alumni are:
+#### Alumni
 
   * [Raphael Emberger](https://www.linkedin.com/in/raphael-emberger-206015bb), research assistant 2012-2024, M.Sc. and B.Sc. computer science (ZHAW) &rarr; Deep Learning Engineer @ Rheinmetall Air Defence
 
@@ -104,17 +106,10 @@ Our Alumni are:
 <a name="work"></a>
 ## Research examples
 
-1. [Robust and practical deep learning](#robust)
-2. [Representation learning for next-level AI](#general)
-3. [AI and society](#trust)
-4. [Industrial and medical computer vision](#industrial)
-5. [Document recognition](#documents)
-6. [Meta learning](#l2l)
-7. [Voice recognition](#voice)
-8. [Data science](#datascience)
 
 <a name="robust"></a>
-### Robust and practical deep learning
+<details>
+### <summary>Robust and practical deep learning</summary>
 
 [<img alt="Examples of automatic segmentation" src="http://stdm.github.io/images/article_segmentation.jpg"/>](http://stdm.github.io/images/article_segmentation.jpg)
 [<img alt="Newspaper article segmentation architecture" src="http://stdm.github.io/images/fcnn_architecture.jpg"/>](http://stdm.github.io/images/fcnn_architecture.jpg)
@@ -136,10 +131,12 @@ As a final example, the prediction of product quality in an industrial plastic i
   * [Stadelmann, T., Amirian, M., Arabaci, I., Arnold, M., Duivesteijn, G.F., Elezi, I., Geiger, M., Lörwald, S., Meier, B.B., Rombach, K. and Tuggener, L., 2018, September. **Deep Learning in the Wild**. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 17-38). Springer, Cham.](https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf)
 
   * [Stadelmann, T., Tolkachev, V., Sick, B., Stampfli, J. and Dürr, O., 2019. **Beyond ImageNet - deep learning in industrial practice**. _Applied Data Science-Lessons Learned for the Data-Driven Business_. Springer.](https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf)
+</details>
 
 
 <a name="general"></a>
-### Representation learning for next-level AI
+<details>
+### <summary>Representation learning for next-level AI</summary>
 
 [<img alt="Illustration of Kolmogorov complexity: Perception and efficient learning are possible by reducing the flood of sensory signals produced by the environment to an underlying low-complexity description" src="http://stdm.github.io/images/kolmogorov.jpg"/>](http://stdm.github.io/images/kolmogorov.jpg)
 
@@ -152,10 +149,12 @@ A current theme that makes the above arguments more tangible is how to learn act
   * [von der Malsburg, C., Grewe, B. F., and Stadelmann, T. (2022, September). **Making sense of the natural environment**. In The Biannual Conference of the German Cognitive Science Society (KogWis).](https://stdm.github.io/downloads/papers/KogWis_2022.pdf)
 
   * [von der Malsburg, C., Stadelmann, T., and Grewe, B. F., 2022. **A Theory of Natural Intelligence**. _arXiv preprint_, arXiv:2205.00002.](https://arxiv.org/abs/2205.00002)
+</details>
 
 
 <a name="trust"></a>
-### AI and society
+<details>
+### <summary>AI and society</summary>
 
 [<img alt="t-SNE visualization of the embedding space created by two face recognition models, coloured by ethnicity and gender" src="http://stdm.github.io/images/face-bias.jpg"/>](http://stdm.github.io/images/face-bias.jpg)
 
@@ -170,10 +169,12 @@ We also follow this thread of trustworthiness through projects on AI [verificati
   * [Wehrli, S., Hertweck, C., Amirian, M., Glüge, S., and Stadelmann, T., 2021. **Bias, awareness and ignorance in deep-learning-based face recognition**. _AI and Ethics_, DOI 10.1007/s43681-021-00108-6, Springer, October 27, 2021.](https://link.springer.com/article/10.1007/s43681-021-00108-6)
 
   * [Glüge, S., Amirian, M., Flumini, D., and Stadelmann, T., 2020. **How (Not) to Measure Bias in Face Recognition Networks**. In: _Proceedings of the 9th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (ANNPR’20)_, Springer, LNAI, Winterthur, Switzerland, September 02-04, 2020.](https://stdm.github.io/downloads/papers/ANNPR_2020.pdf)
+</details>
 
 
 <a name="industrial"></a>
-### Industrial and medical computer vision
+<details>
+### <summary>Industrial and medical computer vision</summary>
 
 [<img alt="Semantic segmentation pipeline to detect food waste" src="http://stdm.github.io/images/foodwaste.jpg"/>](http://stdm.github.io/images/foodwaste.jpg)
 
@@ -194,10 +195,12 @@ Additional applications include the [reduction of motion artifacts in CT images]
   * [Amirian, M., Montoya‐Zegarra, J. A., Herzig, I., Eggenberger Hotz, P., Lichtensteiger, L., Morf, M., Züst, A., Paysan, P., Peterlik, I., Scheib, S., Füchslin, R. M., Stadelmann, T., and Schilling, F. P. (2023). **Mitigation of motion‐induced artifacts in cone beam computed tomography using deep convolutional neural networks**. Medical Physics, 50(10), 6228-6242.](https://doi.org/10.1002/mp.16405)
 
   * [Sager, P., Salzmann, S., Burn, F., and Stadelmann, T., 2022. **Unsupervised Domain Adaptation for Vertebrae Detection and Identification in 3D CT Volumes Using a Domain Sanity Loss**. _J. Imaging_ 2022, 8(8), 222, MDPI, Basel, Switzerland.](https://www.mdpi.com/2313-433X/8/8/222/pdf)
+</details>
 
 
 <a name="documents"></a>
-### Document recognition
+<details>
+### <summary>Document recognition</summary>
 
 [<img alt="Deep Watershed Detector architecture" src="http://stdm.github.io/images/dwd.jpg"/>](http://stdm.github.io/images/dwd.jpg)
 
@@ -216,10 +219,12 @@ Current work focuses on building a foundation model for document recognition, ba
   * [Schmitt-Koopmann, F. M., Huang, E. M., Hutter, H. P., Stadelmann, T., and Darvishy, A. (2022). **FormulaNet: A benchmark dataset for mathematical formula detection**. IEEE Access, 10, 91588-91596.](https://ieeexplore.ieee.org/document/9869643)
   
   * [Tuggener, L., Elezi, I., Schmidhuber, J. and Stadelmann, T., 2018. **Deep watershed detector for music object recognition**. In _19th International Society for Music Information Retrieval Conference_, Paris, 23.-27. September 2018. Society for Music Information Retrieval.](https://stdm.github.io/downloads/papers/ISMIR_2018.pdf)
+</details>
 
 
 <a name="l2l"></a>
-### Meta learning
+<details>
+### <summary>Meta learning</summary>
 
 [<img alt="Learning to cluster model architecture" src="http://stdm.github.io/images/l2c_architecture.jpg"/>](http://stdm.github.io/images/l2c_architecture.jpg)
 [<img alt="Example clusterings" src="http://stdm.github.io/images/l2c_clustering.jpg"/>](http://stdm.github.io/images/l2c_clustering.jpg)
@@ -233,10 +238,12 @@ Meta learning, or learning to learn is very interesting from the perspective of 
   * [Meier, B.B., Elezi, I., Amirian, M., Dürr, O. and Stadelmann, T., 2018, September. **Learning Neural Models for End-to-End Clustering**. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 126-138). Springer, Cham.](https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf)
   
   * [Tuggener, L., Amirian, M., Rombach, K., Lörwald, S., Varlet, A., Westermann, C., and Stadelmann, T., 2019, June. **Automated Machine Learning in Practice: State of the Art and Recent Results**. In: _Proceedings of the 6th Swiss Conference on Data Science_ (SDS’19), Bern, Switzerland, June 14, 2019. IEEE.](https://stdm.github.io/downloads/papers/SDS_2019.pdf)
+</details>
 
 
 <a name="voice"></a>
-### Voice recognition
+<details>
+### <summary>Voice recognition</summary>
 
 [<img alt="Architecture of the successful RNN model for speaker clustering" src="http://stdm.github.io/images/RNN_architecture.jpg"/>](http://stdm.github.io/images/RNN_architecture.jpg)
 
@@ -253,10 +260,12 @@ This line of research has also lead to work on other audio processing tasks like
   * [Lukic, Y., Vogt, C., Dürr, O. and Stadelmann, T., 2016. **Speaker identification and clustering using convolutional neural networks**. In _2016 IEEE 26th International Workshop on Machine Learning for Signal Processing (MLSP)_, Vietri sul Mare, Italy, 13-16 Sept. 2016. IEEE.](https://stdm.github.io/downloads/papers/MLSP_2016.pdf)
 
   * [Stadelmann, T. and Freisleben, B., 2009, October. **Unfolding speaker clustering potential: a biomimetic approach**. In _Proceedings of the 17th ACM international conference on Multimedia_ (pp. 185-194). ACM.](https://stdm.github.io/downloads/papers/ACMMM_2009.pdf)
+</details>
 
 
 <a name="datascience"></a>
-### Data science
+<details>
+### <summary>Data science</summary>
 
 [<img alt="The data science skill set map" src="http://stdm.github.io/images/skillset.jpg"/>](http://stdm.github.io/images/skillset.jpg)
 
@@ -271,6 +280,7 @@ In 2021, I co-chaired the [1st International Symposium on the Science of Data Sc
   * [Braschler, M., Stadelmann, T., and Stockinger, K., (Eds.), 2019. _**Applied Data Science - Lessons Learned for the Data-Driven Business**_. Springer.](https://stdm.github.io/data-science-book/)
 
   * [Stadelmann, T., Stockinger, K., Braschler, M., Cieliebak, M., Baudinot, G., Dürr, O. and Ruckstuhl, A., 2013. **Applied data science in Europe: challenges for academia in keeping up with a highly demanded topic**. In _9th European Computer Science Summit_, Amsterdam, October 8–9, 2013.](https://stdm.github.io/downloads/papers/ECSS_2013.pdf)
+</details>
 
 
 <a name="collaborations"></a>
@@ -537,4 +547,3 @@ Ralph Ewerth, Christian Behringer, Tobias Kopp, Michael Niebergall, Thilo Stadel
 #### 2004
 
 Thilo Stadelmann. [**Sprechererkennung in Videos**](https://stdm.github.io/downloads/papers/DiplomaThesis_2004.pdf). Diplomarbeit, **Fachhochschule Giessen-Friedberg**, 2004.
-
