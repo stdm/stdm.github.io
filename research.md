@@ -29,7 +29,7 @@ The [Machine Perception and Cognition Group](https://www.zhaw.ch/en/engineering/
 
 The group has very diverse backgrounds, which helps us complement each other's skills.
 
-#### Staff and students
+### Staff and students
   
   * [Prof. Dr. Thilo Stadelmann](https://de.wikipedia.org/wiki/Thilo_Stadelmann), group lead: Diplom (THM) & PhD (U. Marburg) in computer science
   
@@ -59,7 +59,7 @@ The group has very diverse backgrounds, which helps us complement each other's s
   
 
 <details>
-<summary><h4>Alumni</h4></summary>
+<summary><b>Alumni</b></summary>
 
 <ul>
   <li> <a href="https://www.linkedin.com/in/raphael-emberger-206015bb">Raphael Emberger</a>, research assistant 2012-2024, M.Sc. and B.Sc. computer science (ZHAW) &rarr; Deep Learning Engineer @ Rheinmetall Air Defence</li>
@@ -266,16 +266,11 @@ The group has very diverse backgrounds, which helps us complement each other's s
 <a name="collaborations"></a>
 ## Collaborations
 
-<details>
-<summary>...</summary>
+I frequently collaborate with industry to work on novel pattern recognition use cases. Partners come from start-ups, SMEs and multi-national enterprises alike. 
 
-I frequently collaborate with industry to work on novel pattern recognition applications. Partners come from start-ups, SMEs and multi-national enterprises alike. 
-
-In academia, I collaborate e.g. with [Benjamin F. Grewe's](https://www.ini.uzh.ch/en/research/groups/grewe.html) **Neural Learning and Intelligent Systems Group** at **UZH/ETHz's Institute of Neuroinformatics** and our joint visiting professor [Christoph von der Malsburg](https://www.fias.science/en/life-and-neurosciences/research-groups/christoph-von-der-malsburg/) of the **Frankfurt Institute of Advanced Studies**, [Marcello Pelillo](http://www.dsi.unive.it/~pelillo/) of the **Ca'Foscari University of Venice**, [Juergen Schmidhuber](http://people.idsia.ch/~juergen/), [Carmody Grey](https://www.ru.nl/en/about-us/news/carmody-grey-appointed-professor-by-special-appointment-of-integral-ecology) at **Radboud Universiteit** and [Oliver Duerr](https://www.unifr.ch/glaubeundgesellschaft/en/center/people/team-en/oliver-duerr.html) of the **Centre for Faith & Society** at University of Fribourg, or the **Machine Learning and Optimization Lab** of [Martin Jaggi](https://mlo.epfl.ch/) at **EPFL**. We have joint research projects, publications and/or co-supervise PhD students.
+In academia, I collaborate e.g. with [Benjamin F. Grewe's](https://www.ini.uzh.ch/en/research/groups/grewe.html) Neural Learning and Intelligent Systems Group at UZH/ETH's Institute of Neuroinformatics, [Christoph von der Malsburg](https://www.fias.science/en/life-and-neurosciences/research-groups/christoph-von-der-malsburg/) of the Frankfurt Institute of Advanced Studies, [Marcello Pelillo](http://www.dsi.unive.it/~pelillo/) of the Ca'Foscari University of Venice, [Juergen Schmidhuber](http://people.idsia.ch/~juergen/), [Carmody Grey](https://www.ru.nl/en/about-us/news/carmody-grey-appointed-professor-by-special-appointment-of-integral-ecology) at Radboud Universiteit and [Oliver Duerr](https://www.unifr.ch/glaubeundgesellschaft/en/center/people/team-en/oliver-duerr.html) of the Centre for Faith & Society at University of Fribourg, or the Machine Learning and Optimization Lab of [Martin Jaggi](https://mlo.epfl.ch/) at EPFL. We have joint research projects, publications and/or co-supervise PhD students.
 
 If you are interested in a collaboration, please [contact](http://www.zhaw.ch/=stdm) me.
-
-</details>
 
 
 <a name="publications"></a>
