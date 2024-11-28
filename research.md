@@ -84,7 +84,7 @@ The group has very diverse backgrounds, which helps us complement each other's s
 <a name="work"></a>
 ## Research examples
 
-<img alt="Neural network architecture to detect anomalies in injection molding processes." src="http://stdm.github.io/images/sds2024-architecture.jpg"/>
+<img alt="Neural network architecture to detect anomalies in injection molding processes" src="http://stdm.github.io/images/sds2024-architecture.jpg"/>
 
 <a name="robust"></a>
 <details>
@@ -260,15 +260,14 @@ The group has very diverse backgrounds, which helps us complement each other's s
 <a name="collaborations"></a>
 ## Collaborations
 
+<img alt="Meeting friends and colleagues in Brisbane, Australia" src="http://stdm.github.io/images/collaboration.jpg"/>
+
 We usually collaborate with industry to work on novel pattern recognition use cases after funding is secured. Partners come from start-ups, SMEs and multi-national enterprises alike. It is actually helpful, in our experience over more than a decade, to work across domains (e.g., industrial production, medicine/health, entertainment, ...): The methodical questions are very comparable (robustness, transferability, ...), while the different application areas help to not make subsequent partners competitors. For any concrete project, we build the team that is best suited to solve the particular challenges, which often leads to collaborations with other research groups from the ZHAW.
 
 <details>
 <summary><b>Research partnerships</b></summary>
 
 We collaborate a lot with different universities and research institutions worldwide, also for joint supervision of our PhD students.
-
-
-<a href="url"></a>
 
 <ul>
 	<li><a href="https://sites.uml.edu/abl">Prof. Benjamin Grewe</a> (neuroinformatics and machine learning) of ETH Zurich</li>
@@ -282,7 +281,6 @@ We collaborate a lot with different universities and research institutions world
 	<li><a href="https://www.empa.ch/web/s799/mirko-kovac">Prof. Mirko Kovac</a> (sustainability robotics) EMPA/EPFL</li>
 	<li><a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Prof. Davide Scaramuzza</a> (robotics, perception) University of Zurich</li>
 </ul>
-
 </details>
 
 If you are interested in a collaboration, please [contact](http://www.zhaw.ch/=stdm) me.
