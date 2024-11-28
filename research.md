@@ -4,13 +4,13 @@ layout: page
 comments: false
 ---
 
-This is the academic website of [Thilo Stadelmann](https://www.zhaw.ch/en/about-us/person/stdm/), professor of AI/ML at the [ZHAW](https://www.zhaw.ch/en/university/) [School of Engineering](https://www.zhaw.ch/en/engineering) and holder of the chair of Engineering-Information, director of the [Centre for Artificial Intelligence](https://www.zhaw.ch/en/engineering/institutes-centres/cai/) and head of its [Machine Perception and Cognition Group](https://www.zhaw.ch/en/engineering/institutes-centres/cai/machine-perception-and-cognition-group/). I am also (co-)founder and board member of [AlpineAI AG](https://alpineai.swiss/) and the [ZHAW Datalab](https://www.zhaw.ch/datalab), pioneered [several other organizations](https://www.linkedin.com/in/thilo-stadelmann/), frequently give [keynote talks](https://premium-speakers.com/en/speaker-presenter/thilo-stadelmann/), and received several [awards](https://www.zhaw.ch/en/about-us/person/stdm/) for my teaching, research, and ecosystem engagement. All views expressed are mine.
+This is the academic website of [Thilo Stadelmann](https://www.zhaw.ch/en/about-us/person/stdm/), professor of **artificial intelligence** and **machine learning** at the [ZHAW](https://www.zhaw.ch/en/university/) [School of Engineering](https://www.zhaw.ch/en/engineering) and holder of the chair of Engineering-Information, director of the [Centre for Artificial Intelligence](https://www.zhaw.ch/en/engineering/institutes-centres/cai/) and head of its [Machine Perception and Cognition Group](https://www.zhaw.ch/en/engineering/institutes-centres/cai/machine-perception-and-cognition-group/). I am also (co-)founder and board member of [AlpineAI AG](https://alpineai.swiss/) and the [ZHAW Datalab](https://www.zhaw.ch/datalab), pioneered [several other organizations](https://www.linkedin.com/in/thilo-stadelmann/), frequently give [keynote talks](https://premium-speakers.com/en/speaker-presenter/thilo-stadelmann/), and received several [awards](https://www.zhaw.ch/en/about-us/person/stdm/) for my teaching, research, and ecosystem engagement. All views expressed are mine.
 
 <img src="http://stdm.github.io/images/thilo-2024.jpg"/>
 
 I studied computer science in Giessen and Marburg and received the Doctor of Science degree from [Marburg University](https://www.informatik.uni-marburg.de/~stadelmann/), Germany, in 2010, where I worked on multimedia analysis and voice recognition. I held engineering and leadership roles in the automotive industry for several years prior to my appointment at the ZHAW. My current research interests revolve around robust representation learning in deep neural networks for pattern recognition problems; how to learn structured and actionable representations for world models; and societal effects of AI. My group and research is introduced in more detail [below](#group).
 
-Personally, I like kitesurfing, enjoy playing music on stringed instruments (guitars, bass), and am a follower of <a href="https://odb.org/">Jesus Christ</a>. If this makes you curious, send me an email with a meeting request (subject "30 minutes on faith"), I am happy to explain. I try living by the following values (my closer colleagues know I am not there yet): excellence; wisdom; honor all people; mercy for failure; and courage.</p>
+Personally, I like kitesurfing, enjoy playing music on stringed instruments (guitars, bass), and am a follower of <a href="https://odb.org/">Jesus Christ</a>. If this makes you curious, send me an email with a meeting request (subject "30 minutes on faith"), I am happy to explain. I try living by the following values (my closer colleagues know I am not there yet): excellence; wisdom; honor all people; mercy for failure; and courage.
 
 
 ### TOC
@@ -25,11 +25,11 @@ Personally, I like kitesurfing, enjoy playing music on stringed instruments (gui
 
 [<img alt="The ZHAW Centre for AI members as of March 2024" src="http://stdm.github.io/images/CAI-2024.jpg"/>](http://stdm.github.io/images/CAI-2024.jpg)
 
-The [Machine Perception and Cognition Group](https://www.zhaw.ch/en/engineering/institutes-centres/cai/machine-perception-and-cognition-group/) performs **representation learning for pattern recognition** research, working on a wide variety of tasks on image, audio or generally "signal" data. As a group, we focus on **deep learning** methodology, inspired by biological learning. Each task that we study has its own learning target (e.g., detection, classification, clustering, segmentation, novelty detection, control) and use case (e.g., **predictive maintenance**, **speaker diarization**  for multimedia indexing, **document analysis**, **optical music recognition**, **computer vision** for industrial quality control, **automated machine learning**, **deep reinforcement learning** for automated game play or building control), which in turn sheds light on different aspects of the learning process. We also engage in interdisciplinary work on the ethical and societal aspects of AI.
+The [Machine Perception and Cognition Group](https://www.zhaw.ch/en/engineering/institutes-centres/cai/machine-perception-and-cognition-group/) performs project-based research in **representation learning** for **pattern recognition**, working on a wide variety of tasks on image, audio or generally "signal" data. As a group, we focus on **deep learning** methodology, inspired by biological learning. Each task that we study has its own learning target (e.g., detection, classification, clustering, segmentation, novelty detection, control) and use case (e.g., **predictive maintenance**, **speaker diarization**  for multimedia indexing, **document analysis**, **optical music recognition**, **computer vision** for industrial quality control, **automated machine learning**, **deep reinforcement learning** for automated game play or building control), which in turn sheds light on different aspects of the learning process. We also engage in interdisciplinary work on the ethical and societal aspects of AI.
 
 The group has very diverse backgrounds, which helps us complement each other's skills:
   
-  * Prof. Dr. Thilo Stadelmann, team lead: Diplom (THM) & PhD (U. Marburg) in computer science; I come from the tradition of the field of **artificial intelligence**, and my tool is **machine learning**.  
+  * [rof. Dr. Thilo Stadelmann](https://de.wikipedia.org/wiki/Thilo_Stadelmann), group lead: Diplom (THM) & PhD (U. Marburg) in computer science
   
   * [Dr. Ahmed Abdulkadir](https://scholar.google.com/citations?user=XqaePW0AAAAJ), senior researcher: B.Sc. systems engineering (NTB Buchs), BSc & MSc Life Sciences (EPFL), PhD computer engineering (University of Freiburg / Germany), PostDoc University Hospital Bern / University of Pennsylvania / Lausanne University Hospital
   
@@ -55,69 +55,65 @@ The group has very diverse backgrounds, which helps us complement each other's s
   
   * [Rebekka von Wartburg](https://www.linkedin.com/in/rebekka-von-wartburg-3b807b298/), M.Sc. student: B.Sc. computer science (ZHAW)
   
-  
     
 Our Alumni are:
 
-  * [Raphael Emberger](https://www.linkedin.com/in/raphael-emberger-206015bb), research assistant 2012-2024, M.Sc. and B.Sc. computer science (ZHAW) -> Deep Learning Engineer @ Rheinmetall Air Defence
+  * [Raphael Emberger](https://www.linkedin.com/in/raphael-emberger-206015bb), research assistant 2012-2024, M.Sc. and B.Sc. computer science (ZHAW) &rarr; Deep Learning Engineer @ Rheinmetall Air Defence
 
   * [Erdal Ayfer](https://www.zhaw.ch/en/about-us/person/ayfe/), intern 2023-2024, B.Sc. student computer science(ZHAW)
 
-  * [Sydney M. Nguyen](https://www.linkedin.com/in/sydney-nguyen-117987180/), M.Sc. student 2022-2024, B.Sc. in computer science (ZHAW) -> Solution Engineer Data & AI @ mesoneer
+  * [Sydney M. Nguyen](https://www.linkedin.com/in/sydney-nguyen-117987180/), M.Sc. student 2022-2024, B.Sc. in computer science (ZHAW) &rarr; Solution Engineer Data & AI @ mesoneer
 
-  * [Sebastian Salzmann](https://www.linkedin.com/in/sebastian-salzmann-8214b911b), M.Sc. student 2021-2024, B.Sc. biology (ETH) & M.Sc. molecular health sciences (ETH) -> Scientific IT @ EAWAG
+  * [Sebastian Salzmann](https://www.linkedin.com/in/sebastian-salzmann-8214b911b), M.Sc. student 2021-2024, B.Sc. biology (ETH) & M.Sc. molecular health sciences (ETH) &rarr; Scientific IT @ EAWAG
   
-  * [Paul Luley](https://www.linkedin.com/in/paul-l-821892247/), research assistent 2022-2023, B.Sc. biomedical engineering (Technikum Vienna) -> Data Science Researcher @ Julius Bär
+  * [Paul Luley](https://www.linkedin.com/in/paul-l-821892247/), research assistent 2022-2023, B.Sc. biomedical engineering (Technikum Vienna) &rarr; Data Science Researcher @ Julius Bär
 
-  * [Dr. Ricardo Chavarriaga](https://scholar.google.com/citations?user=ZU1fTMYAAAAJ&hl=en), B.Sc. electronics engineering (Pontificia Universidad Javeriana, Columbia), graduate school in computer/communication/information science (EPFL), PhD neuroscience (EPFL), Postdoc neuroscience/brain-computer interfaces (EPFL & IDIAP), senior researcher 2019-2023 -> Head of Responsible AI Innovation Group @ ZHAW CAI
+  * [Dr. Ricardo Chavarriaga](https://scholar.google.com/citations?user=ZU1fTMYAAAAJ&hl=en), B.Sc. electronics engineering (Pontificia Universidad Javeriana, Columbia), graduate school in computer/communication/information science (EPFL), PhD neuroscience (EPFL), Postdoc neuroscience/brain-computer interfaces (EPFL & IDIAP), senior researcher 2019-2023 &rarr; Head of Responsible AI Innovation Group @ ZHAW CAI
   
-  * [Mohammadreza Amirian](https://www.zhaw.ch/en/about-us/person/amir/), B.Sc. (U. Shiraz) & M.Sc. (U. Ulm) in electrical engineering, PhD 2017-2023 in conjunction with [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/institut/hidden/f-schwenker/) of Ulm University / Germany -> Deep learning and computer vision researcher @ HES-SO Valais-Wallis
+  * [Mohammadreza Amirian](https://www.zhaw.ch/en/about-us/person/amir/), B.Sc. (U. Shiraz) & M.Sc. (U. Ulm) in electrical engineering, PhD 2017-2023 in conjunction with [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/institut/hidden/f-schwenker/) of Ulm University / Germany &rarr; Deep learning and computer vision researcher @ HES-SO Valais-Wallis
 
-  * [Adhiraj Ghosh](https://www.linkedin.com/in/adhiraj-ghosh/), B.Tech. (Manipal Institute of Technology), research intern 2021/22 (ZHAW) -> M.Sc. student @ Tübingen University
+  * [Adhiraj Ghosh](https://www.linkedin.com/in/adhiraj-ghosh/), B.Tech. (Manipal Institute of Technology), research intern 2021/22 (ZHAW) &rarr; M.Sc. student @ Tübingen University
 
-  * [Claude Olivier Lehmann](https://www.zhaw.ch/en/about-us/person/lehl/), M.Sc. and B.Sc. (ZHAW) -> PhD student with Prof. Kurt Stockinger @ ZHAW InIT
+  * [Claude Olivier Lehmann](https://www.zhaw.ch/en/about-us/person/lehl/), M.Sc. and B.Sc. (ZHAW) &rarr; PhD student with Prof. Kurt Stockinger @ ZHAW InIT
   
-  * [Dr. Frank-Peter Schilling](http://www.fp-schilling.de) Diplom & PhD (U. Heidelberg) in physics, PostDoc at CERN -> Head of Intelligent Vision Systems Group @ ZHAW CAI
+  * [Dr. Frank-Peter Schilling](http://www.fp-schilling.de) Diplom & PhD (U. Heidelberg) in physics, PostDoc at CERN &rarr; Head of Intelligent Vision Systems Group @ ZHAW CAI
 
-  * [Dr. Javier Montoya](https://scholar.google.de/citations?user=5cpeK3MAAAAJ&hl=en), B.Sc. computer engineering (UCSP, Arequipa, Peru), M.Sc. computer science (Unicamp, Sao Paulo, Brazil), M.Sc. computer science (ENSIMAG, Grenoble, France), PhD computer vision and machine learning (ETHZ) -> Senior lecturer of computer science @ Lucerne University of Applied Sciences
+  * [Dr. Javier Montoya](https://scholar.google.de/citations?user=5cpeK3MAAAAJ&hl=en), B.Sc. computer engineering (UCSP, Arequipa, Peru), M.Sc. computer science (Unicamp, Sao Paulo, Brazil), M.Sc. computer science (ENSIMAG, Grenoble, France), PhD computer vision and machine learning (ETHZ) &rarr; Senior lecturer of computer science @ Lucerne University of Applied Sciences
 
-  * Stefan Huschauer: B.Sc. computer science (ETH & ZHAW), M.Sc. (ZHAW) -> Noimos, an AXA insuretech company
+  * Stefan Huschauer: B.Sc. computer science (ETH & ZHAW), M.Sc. (ZHAW) &rarr; Noimos, an AXA insuretech company
 
-  * [Daniel Neururer](https://ba-pub.engineering.zhaw.ch/WebPublication/Flyer.pdf?version=Bachelorarbeit2018&code=BA18_wyrs_3&language=de), B.Sc. in systems engineering (ZHAW), M.Sc. 2020 (ZHAW) -> Software Engineer @ mcs software AG
+  * [Daniel Neururer](https://ba-pub.engineering.zhaw.ch/WebPublication/Flyer.pdf?version=Bachelorarbeit2018&code=BA18_wyrs_3&language=de), B.Sc. in systems engineering (ZHAW), M.Sc. 2020 (ZHAW) &rarr; Software Engineer @ mcs software AG
 
-  * [Dr. Ismail Elezi](https://github.com/TheRevanchist), B.Sc. (U. Pristina), M.Sc. (Ca'Foscari) & PhD (Ca'Foscari & ZHAW, July 2020) in computer science -> Senior Research Scientist / Tech Lead @ Huawei Noah’s Ark
+  * [Dr. Ismail Elezi](https://github.com/TheRevanchist), B.Sc. (U. Pristina), M.Sc. (Ca'Foscari) & PhD (Ca'Foscari & ZHAW, July 2020) in computer science &rarr; Senior Research Scientist / Tech Lead @ Huawei Noah’s Ark
 
-  * [Yvan Satyawan](https://www.linkedin.com/in/yvan-satyawan), B.Sc. computer science (U. Freiburg, Germany) -> Founder @ stealth-mode start-up
+  * [Yvan Satyawan](https://www.linkedin.com/in/yvan-satyawan), B.Sc. computer science (U. Freiburg, Germany) &rarr; Founder @ stealth-mode start-up
 
-  * [Katharina Rombach](https://dblp.uni-trier.de/pers/hd/r/Rombach:Katharina), B.Sc. & M.Sc. (ETH Zurich; admitted to EDIC and ERDS doctoral schools at EPFL) -> PhD student with Prof. Olga Fink @ EPFL
+  * [Katharina Rombach](https://dblp.uni-trier.de/pers/hd/r/Rombach:Katharina), B.Sc. & M.Sc. (ETH Zurich; admitted to EDIC and ERDS doctoral schools at EPFL) &rarr; PhD student with Prof. Olga Fink @ EPFL
 
-  * [Reza Kakooee](https://www.linkedin.com/in/reza-kakooee/), M.Sc. (U. Mashhad) -> PhD student with Prof. Marc Pouly @ Lucerne University of Applied Sciences
+  * [Reza Kakooee](https://www.linkedin.com/in/reza-kakooee/), M.Sc. (U. Mashhad) &rarr; PhD student with Prof. Marc Pouly @ Lucerne University of Applied Sciences
 
-  * [Benjamin Bruno Meier](https://www.linkedin.com/in/benjamin-meier-61ab078b/), M.Sc. (ZHAW; Hirschmann scholarship holder & Dr. Waldemar Jucker laureate) -> Software Engineer @ Argus Data Insights Schweiz AG
+  * [Benjamin Bruno Meier](https://www.linkedin.com/in/benjamin-meier-61ab078b/), M.Sc. (ZHAW; Hirschmann scholarship holder & Dr. Waldemar Jucker laureate) &rarr; Software Engineer @ Argus Data Insights Schweiz AG
   
-  * [Gabriel Eyyi](https://www.linkedin.com/in/gabriel-eyyi/), M.Sc. (ZHAW) -> Software Engineer / Machine Learning Engineer @ dizmo AG
+  * [Gabriel Eyyi](https://www.linkedin.com/in/gabriel-eyyi/), M.Sc. (ZHAW) &rarr; Software Engineer / Machine Learning Engineer @ dizmo AG
   
-  * [Thierry Musy](https://www.linkedin.com/in/thierrymusy/), B.Sc. (ZHAW) -> Partner / Senior Data Scientist @ Foursight Digital AG
+  * [Thierry Musy](https://www.linkedin.com/in/thierrymusy/), B.Sc. (ZHAW) &rarr; Partner / Senior Data Scientist @ Foursight Digital AG
   
-  * [Jan Stampfli](https://www.linkedin.com/in/janstampfli/), B.Sc. (ZHAW) -> Big Data Engineer @ Migros-Genossenschafts-Bund
+  * [Jan Stampfli](https://www.linkedin.com/in/janstampfli/), B.Sc. (ZHAW) &rarr; Big Data Engineer @ Migros-Genossenschafts-Bund
 
 &nbsp;
 
-&nbsp;
-  
  
 <a name="work"></a>
 ## Research examples
 
 1. [Robust and practical deep learning](#robust)
-2. [Industrial Computer Vision](#industrial)
-3. [Medical Imaging](#medical)
-4. [More General AI](#general)
-5. [Trustworthy AI](#trust)
-6. [Learning to learn](#l2l)
-7. [Document Recognition](#documents)
-8. [Voice recognition](#voice)
-9. [Data science](#datascience)
+2. [Representation learning for next-level AI](#general)
+3. [AI and society](#trust)
+4. [Industrial and medical computer vision](#industrial)
+5. [Document recognition](#documents)
+6. [Meta learning](#l2l)
+7. [Voice recognition](#voice)
+8. [Data science](#datascience)
 
 <a name="robust"></a>
 ### Robust and practical deep learning
@@ -133,65 +129,31 @@ Here, we have developed a [semantic segmentation approach](http://stdm.github.io
 
 At the same time, the existence of adversarial attacks on convolutional neural networks (CNN) questions the fitness of such models for serious applications. Such attacks manipulate an input image such that misclassification is evoked while still looking normal to a human observer - they are thus not easily detectable. In a different context, backpropagated activations of CNN hidden layers - "feature responses" to a given input - have been helpful to visualize for a human "debugger" what the CNN "looks at" while computing its output. We have proposed a novel [detection method for adversarial examples](http://stdm.github.io/downloads/papers/ANNPR_2018c.pdf) to prevent attacks. We do so by tracking adversarial perturbations in feature responses, allowing for automatic detection using average local spatial entropy. The method does not alter the original network architecture and is fully human-interpretable. Experiments confirm the validity of our approach for state-of-the-art attacks on large-scale models trained on ImageNet.
 
-#### Selected references (see also [below](#publications))
-
-  * [Yan, P., Abdulkadir, A., Luley, P. P., Rosenthal, M., Schatte, G. A., Grewe, B. F., and Stadelmann, T. (2024). **A comprehensive survey of deep transfer learning for anomaly detection in industrial time series: Methods, applications, and directions**. IEEE Access.](https://scholar.google.de/citations?view_op=view_citation&hl=de&user=6U6ZXzUAAAAJ&cstart=20&pagesize=80&citation_for_view=6U6ZXzUAAAAJ:CHSYGLWDkRkC)
-
-  * [Stadelmann, T., Amirian, M., Arabaci, I., Arnold, M., Duivesteijn, G.F., Elezi, I., Geiger, M., Lörwald, S., Meier, B.B., Rombach, K. and Tuggener, L., 2018, September. **Deep Learning in the Wild**. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 17-38). Springer, Cham.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=10271253292885532857)
-
-  * [Stadelmann, T., Tolkachev, V., Sick, B., Stampfli, J. and Dürr, O., 2019. **Beyond ImageNet-deep learning in industrial practice**. _Applied Data Science-Lessons Learned for the Data-Driven Business_. Springer.](https://scholar.google.ch/scholar?hl=en&as_sdt=0%2C5&q=Beyond+ImageNet-deep+learning+in+industrial+practice&btnG=)
-
-&nbsp;
-
-
-<a name="industrial"></a>
-### Industrial Computer Vision
-
-[<img alt="Semantic segmentation pipeline to detect food waste" src="http://stdm.github.io/images/foodwaste.jpg"/>](http://stdm.github.io/images/foodwaste.jpg)
-
-A rich source for open research questions in deep-learning-based pattern recognition is found in various industrial processes like engineering and production. For example, we developed methods to reliably classify and quantify [food waste](https://www.zhaw.ch/en/engineering/about-us/news/news/event-news/tackling-food-waste-with-artificial-intelligence/) in large kitches through new semantic segmentation pipeline and worked a lot on automatic quality control. Other work in this area is going address the problem of [transferability](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/zhaw-and-kistler-team-up-to-evaluate-the-possibilities-of-deep-transfer-learning-for-controlling-injection-molding-processes/) of learnt knowledge from one tool to the next. As in industrial settings labelled data is usually scarce, a particular focus of our work is to make approaches more sample (or label) efficient than usual benchmark-beating models from the literature.
+As a final example, the prediction of product quality in an industrial plastic injection molding process (plus the needed process parameter adjustments to return to a non-anomalous process) can in principle be predicted from the evolution of the pressure within the cavity/tool. The problem is that the process is highly susceptible to little changes in the environmental conditions: The pressure curves look vastly different if only the sun shines on the machine over noon, for example. Hence, building a robust deep model to predict anomalies (and hopefully machine parameters) is a challenge of sucessful transfer learning. A first approach that works well for anomaly detection in this setup has been [published](https://stdm.github.io/downloads/papers/SDS_2024c.pdf) based on VAE methods.
 
 #### Selected references (see also [below](#publications))
 
-  * [Tuggener, L., Schmidhuber, J., and Stadelmann, T. (2022). **Is it enough to optimize CNN architectures on ImageNet?**. Frontiers in Computer Science, 4, 1041703.](https://scholar.google.de/citations?view_op=view_citation&hl=de&user=6U6ZXzUAAAAJ&citation_for_view=6U6ZXzUAAAAJ:RGFaLdJalmkC)
+  * [Yan, P., Abdulkadir, A., Luley, P. P., Rosenthal, M., Schatte, G. A., Grewe, B. F., and Stadelmann, T. (2024). **A comprehensive survey of deep transfer learning for anomaly detection in industrial time series: Methods, applications, and directions**. IEEE Access.](https://doi.org/10.1109/ACCESS.2023.3349132)
 
-  * [Knapp, E., Battaglia, M., Stadelmann, T., Jenatsch, S., and Ruhstaller, B., 2021. **XGBoost Trained on Synthetic Data to Extract Material Parameters of Organic Semiconductors**. In: _Proceedings of the 8th Swiss Conference on Data Science (SDS’21)_, Lucerne, Switzerland, 2021.](https://stdm.github.io/downloads/papers/SDS_2021b.pdf)
+  * [Stadelmann, T., Amirian, M., Arabaci, I., Arnold, M., Duivesteijn, G.F., Elezi, I., Geiger, M., Lörwald, S., Meier, B.B., Rombach, K. and Tuggener, L., 2018, September. **Deep Learning in the Wild**. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 17-38). Springer, Cham.](https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf)
 
-  * [Simmler, N., Sager, P., Andermatt, P., Chavarriaga, R., Schilling, F.-P., Rosenthal, M., and Stadelmann, T., 2021. **A Survey of Un-, Weakly-, and Semi-Supervised Learning Methods for Noisy, Missing and Partial Labels in Industrial Vision Applications**. In: _Proceedings of the 8th Swiss Conference on Data Science (SDS’21)_, Lucerne, Switzerland, 2021.](https://stdm.github.io/downloads/papers/SDS_2021a.pdf)
-
-&nbsp;
-
-
-<a name="medical"></a>
-### Medical Imaging
-
-[<img alt="Vertebrae detection by deep learning model trained with unsupervised domain adaptation" src="http://stdm.github.io/images/vertebrae.jpg"/>](http://stdm.github.io/images/vertebrae.jpg)
-
-Health applications of deep learning started to become a major topic in the group in 2019. For example, in a collaboration with the AI and Data Science CoE of the Kantonsspital Aarau, we have [developed a novel approach](https://www.mdpi.com/2313-433X/8/8/222) to reliably identify vertebrae in 3D CT scans. Our primary contribution is a new Domain Sanity Loss (DSL) function for unsupervised domain adaptation. We achieve results that are on par with the current state-of-the-art algorithms for full supervised learning while using about 20 times fewer labels. This is a very interesting instance of a data-centric approach to be pursued further in our research.
-
-Additional applications include the [reduction of motion artifacts in CT images](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/verbesserung-der-qualitaet-von-ct-bildern-mit-ki-und-deep-learning/), which can significantly reduce the risk for patients to develop secondary cancer during radiation therapy; the [automated monitoring](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/videoanalyse-zur-datengesteuerten-pflege-von-intensivpatienten/) of patients in intensive care; or the [homogenization of data](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/neue-publikation-welche-eine-methode-zur-homogenisierung-von-daten-fuer-die-covid-erkennung-aus-ct-bildern-vorstellt/) to train large, bias-free medical imaging models, as we showed in the context of the COVID-19 spread.
-
-#### Selected references (see also [below](#publications))
-
-  * [Amirian, M., Montoya‐Zegarra, J. A., Herzig, I., Eggenberger Hotz, P., Lichtensteiger, L., Morf, M., Züst, A., Paysan, P., Peterlik, I., Scheib, S., Füchslin, R. M., Stadelmann, T., and Schilling, F. P. (2023). **Mitigation of motion‐induced artifacts in cone beam computed tomography using deep convolutional neural networks**. Medical Physics, 50(10), 6228-6242.](https://scholar.google.de/citations?view_op=view_citation&hl=de&user=6U6ZXzUAAAAJ&cstart=20&pagesize=80&citation_for_view=6U6ZXzUAAAAJ:abG-DnoFyZgC)
-
-  * [Sager, P., Salzmann, S., Burn, F., and Stadelmann, T., 2022. **Unsupervised Domain Adaptation for Vertebrae Detection and Identification in 3D CT Volumes Using a Domain Sanity Loss**. _J. Imaging_ 2022, 8(8), 222, MDPI, Basel, Switzerland.](https://www.mdpi.com/2313-433X/8/8/222/pdf)
-
-  * [Amirian, M., Montoya-Zegarra, J. A., Gruss, J., Stebler, Y. D. , Bozkir, A. S., Calandri, M., Schwenker, F., and Stadelmann, T., 2021. **PrepNet: A Convolutional Auto-Encoder to Homogenize CT Scans for Cross-Dataset Medical Image Analysis**. In: _Proceedings of the 14th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI’21)_, Shanghai, China, 2021.](https://stdm.github.io/downloads/papers/CISP_BMEI_2021.pdf)
+  * [Stadelmann, T., Tolkachev, V., Sick, B., Stampfli, J. and Dürr, O., 2019. **Beyond ImageNet - deep learning in industrial practice**. _Applied Data Science-Lessons Learned for the Data-Driven Business_. Springer.](https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf)
 
 &nbsp;
 
 
 <a name="general"></a>
-### More General AI
+### Representation learning for next-level AI
 
 [<img alt="Illustration of Kolmogorov complexity: Perception and efficient learning are possible by reducing the flood of sensory signals produced by the environment to an underlying low-complexity description" src="http://stdm.github.io/images/kolmogorov.jpg"/>](http://stdm.github.io/images/kolmogorov.jpg)
 
 Deep learning has propelled the surge in AI in the last decade and will continue to find new applications and improvements. However, it is [forseeable](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/interdisziplinaere-diskussionsrunde-am-cai-kolloquium-eroertert-was-intelligenz-ist-und-wie-man-die-ki-der-gegenwart-voranbringen-kann/) that the methodology in itself will not produce higher-level cognition. Inspiration comes from neuroscientific research on understanding brain functionality. Here, we find the principle of self-organizing net fragments to be the inductive bias that fits models (developed brains) to the natural environment. We seek ways of implementing related ideas into deep learning frameworks to increas the generability and robustness of the approaches, which for example means to move away from purely error-driven learning by backgpropagation.
 
+A current theme that makes the above arguments more tangible is how to learn actionable representations in world models that lead to representations structured in a way that allow desirable properties from interpretability to planning. Such structuring seems possible if models are not trained to just predict future values, but take intent (actions) into account to learn cause and effect, leading to a form of common sense.
+
 #### Selected references (see also [below](#publications))
 
-  * [von der Malsburg, C., Grewe, B. F., and Stadelmann, T. (2022, September). **Making sense of the natural environment**. In The Biannual Conference of the German Cognitive Science Society (KogWis).](https://scholar.google.de/citations?view_op=view_citation&hl=de&user=6U6ZXzUAAAAJ&cstart=20&pagesize=80&citation_for_view=6U6ZXzUAAAAJ:dfsIfKJdRG4C)
+  * [von der Malsburg, C., Grewe, B. F., and Stadelmann, T. (2022, September). **Making sense of the natural environment**. In The Biannual Conference of the German Cognitive Science Society (KogWis).](https://stdm.github.io/downloads/papers/KogWis_2022.pdf)
 
   * [von der Malsburg, C., Stadelmann, T., and Grewe, B. F., 2022. **A Theory of Natural Intelligence**. _arXiv preprint_, arXiv:2205.00002.](https://arxiv.org/abs/2205.00002)
 
@@ -199,17 +161,17 @@ Deep learning has propelled the surge in AI in the last decade and will continue
 
 
 <a name="trust"></a>
-### Trustworty AI
+### AI and society
 
 [<img alt="t-SNE visualization of the embedding space created by two face recognition models, coloured by ethnicity and gender" src="http://stdm.github.io/images/face-bias.jpg"/>](http://stdm.github.io/images/face-bias.jpg)
 
-How a powerful technology like artificial intelligence engages with the world around us and impacts our societies must concern us as engineers. Assessing the impact of the technology on society is a first step to shape AI for good. In this direction, we for example [analyzed](https://link.springer.com/article/10.1007/s43681-021-00108-6) how the effect of bias in face recognition systems can be quantified and mitigated. As our study shows, AI systems are very different from us humans: while for humans, conceiling information from us on sensitive attributes keeps us more fair / less biased, doing the same thing for a machine learning system - blinding it to attributes concerning e.g. gender or skin colour - does not result in less bias. Thus, bias does not equal awareness. 
+How a powerful technology like artificial intelligence engages with the world around us and impacts our societies must concern us as engineers (see also [a](https://stdm.github.io/Risk/), [b](https://stdm.github.io/Hope/), [c](https://stdm.github.io/AI-sports-humanism/)). Assessing the impact of the technology on society is a first step to shape AI for good. In this direction, we for example [analyzed](https://link.springer.com/article/10.1007/s43681-021-00108-6) how the effect of bias in face recognition systems can be quantified and mitigated. As our study shows, AI systems are very different from us humans: while for humans, conceiling information from us on sensitive attributes keeps us more fair / less biased, doing the same thing for a machine learning system - blinding it to attributes concerning e.g. gender or skin colour - does not result in less bias. Thus, bias does not equal awareness. 
 
-We also follow this thread of trustworthiness through projects on AI [verification and certification](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/3-neue-forschungsprojekte-zielen-auf-den-einsatz-vertrauenswuerdiger-ki/) as well as collaborations with colleagues from the humanities in projects and committees.
+We also follow this thread of trustworthiness through projects on AI [verification and certification](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/3-neue-forschungsprojekte-zielen-auf-den-einsatz-vertrauenswuerdiger-ki/) as well as collaborations with colleagues from the humanities in projects and committees. The goal is to find better narratives for a hope-filled future with AI.
 
 #### Selected references (see also [below](#publications))
 
-  * [Segessenmann, J., Stadelmann, T., Davison, A., and Dürr, O. (2023). **Assessing deep learning: a work program for the humanities in the age of artificial intelligence**. AI and Ethics, 1-32.](https://scholar.google.de/citations?view_op=view_citation&hl=de&user=6U6ZXzUAAAAJ&cstart=20&pagesize=80&citation_for_view=6U6ZXzUAAAAJ:KxtntwgDAa4C)
+  * [Segessenmann, J., Stadelmann, T., Davison, A., and Dürr, O. (2023). **Assessing deep learning: a work program for the humanities in the age of artificial intelligence**. AI and Ethics, 1-32.](https://link.springer.com/article/10.1007/s43681-023-00408-z)
 
   * [Wehrli, S., Hertweck, C., Amirian, M., Glüge, S., and Stadelmann, T., 2021. **Bias, awareness and ignorance in deep-learning-based face recognition**. _AI and Ethics_, DOI 10.1007/s43681-021-00108-6, Springer, October 27, 2021.](https://link.springer.com/article/10.1007/s43681-021-00108-6)
 
@@ -218,21 +180,28 @@ We also follow this thread of trustworthiness through projects on AI [verificati
 &nbsp;
 
 
-<a name="l2l"></a>
-### Learning to learn
+<a name="industrial"></a>
+### Industrial and medical computer vision
 
-[<img alt="Learning to cluster model architecture" src="http://stdm.github.io/images/l2c_architecture.jpg"/>](http://stdm.github.io/images/l2c_architecture.jpg)
-[<img alt="Example clusterings" src="http://stdm.github.io/images/l2c_clustering.jpg"/>](http://stdm.github.io/images/l2c_clustering.jpg)
+[<img alt="Semantic segmentation pipeline to detect food waste" src="http://stdm.github.io/images/foodwaste.jpg"/>](http://stdm.github.io/images/foodwaste.jpg)
 
-We have for instance built a novel end-to-end neural network architecture that, once trained, directly outputs a probabilistic clustering of a batch of input examples in one pass. It estimates a distribution over the number of clusters and, for each number of clusters up to a maximum, distributions over the respective data partitioning. The neural network is trained in a supervised fashion to group data by any perceptual similarity criterion based on pairwise labels (same/different group). It does not expect to have seen any of the groups that appear during model application already during training. We demonstrate promising performance on high-dimensional data like images (COIL-100) and speech (TIMIT). We call this [learning to cluster](http://stdm.github.io/downloads/papers/ANNPR_2018a.pdf). We have also produced a survey and some novel results on the more general topic of [learning to learn](https://stdm.github.io/downloads/papers/SDS_2019.pdf).
+A rich source for open research questions in deep-learning-based pattern recognition is found in various industrial processes like engineering and production. For example, we developed methods to reliably classify and quantify [food waste](https://www.zhaw.ch/en/engineering/about-us/news/news/event-news/tackling-food-waste-with-artificial-intelligence/) in large kitches through new semantic segmentation pipeline and worked a lot on automatic quality control. Other work in this area is going address the problem of [transferability](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/zhaw-and-kistler-team-up-to-evaluate-the-possibilities-of-deep-transfer-learning-for-controlling-injection-molding-processes/) of learnt knowledge from one tool to the next. As in industrial settings labelled data is usually scarce, a particular focus of our work is to make approaches more sample (or label) efficient than usual benchmark-beating models from the literature.
+
+[<img alt="Vertebrae detection by deep learning model trained with unsupervised domain adaptation" src="http://stdm.github.io/images/vertebrae.jpg"/>](http://stdm.github.io/images/vertebrae.jpg)
+
+Similary, health applications of deep learning are a major topic in the group. For example, in a collaboration with the AI and Data Science CoE of the Kantonsspital Aarau, we have [developed a novel approach](https://www.mdpi.com/2313-433X/8/8/222) to reliably identify vertebrae in 3D CT scans. Our primary contribution is a new Domain Sanity Loss (DSL) function for unsupervised domain adaptation. We achieve results that are on par with the current state-of-the-art algorithms for full supervised learning while using about 20 times fewer labels. This is a very interesting instance of a data-centric approach to be pursued further in our research.
+
+Additional applications include the [reduction of motion artifacts in CT images](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/verbesserung-der-qualitaet-von-ct-bildern-mit-ki-und-deep-learning/), which can significantly reduce the risk for patients to develop secondary cancer during radiation therapy; the [automated monitoring](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/videoanalyse-zur-datengesteuerten-pflege-von-intensivpatienten/) of patients in intensive care; or the [homogenization of data](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/neue-publikation-welche-eine-methode-zur-homogenisierung-von-daten-fuer-die-covid-erkennung-aus-ct-bildern-vorstellt/) to train large, bias-free medical imaging models, as we showed in the context of the COVID-19 spread.
 
 #### Selected references (see also [below](#publications))
 
-  * [Tuggener, L., Amirian, M., Benites, F., von Däniken, P., Gupta, P., Schilling, F. P., and Stadelmann, T. (2020). **Design patterns for resource-constrained automated deep-learning methods**. AI, 1(4), 510-538.](https://scholar.google.de/citations?view_op=view_citation&hl=de&user=6U6ZXzUAAAAJ&cstart=20&pagesize=80&citation_for_view=6U6ZXzUAAAAJ:BqipwSGYUEgC)
+  * [Tuggener, L., Schmidhuber, J., and Stadelmann, T. (2022). **Is it enough to optimize CNN architectures on ImageNet?**. Frontiers in Computer Science, 4, 1041703.](https://doi.org/10.3389/fcomp.2022.1041703)
 
-  * [Meier, B.B., Elezi, I., Amirian, M., Dürr, O. and Stadelmann, T., 2018, September. **Learning Neural Models for End-to-End Clustering**. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 126-138). Springer, Cham.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=10223989052804093264)
-  
-  * [Tuggener, L., Amirian, M., Rombach, K., Lörwald, S., Varlet, A., Westermann, C., and Stadelmann, T., 2019, June. **Automated Machine Learning in Practice: State of the Art and Recent Results**. In: _Proceedings of the 6th Swiss Conference on Data Science_ (SDS’19), Bern, Switzerland, June 14, 2019. IEEE.](https://stdm.github.io/downloads/papers/SDS_2019.pdf)
+  * [Knapp, E., Battaglia, M., Stadelmann, T., Jenatsch, S., and Ruhstaller, B., 2021. **XGBoost Trained on Synthetic Data to Extract Material Parameters of Organic Semiconductors**. In: _Proceedings of the 8th Swiss Conference on Data Science (SDS’21)_, Lucerne, Switzerland, 2021.](https://stdm.github.io/downloads/papers/SDS_2021b.pdf)
+
+  * [Amirian, M., Montoya‐Zegarra, J. A., Herzig, I., Eggenberger Hotz, P., Lichtensteiger, L., Morf, M., Züst, A., Paysan, P., Peterlik, I., Scheib, S., Füchslin, R. M., Stadelmann, T., and Schilling, F. P. (2023). **Mitigation of motion‐induced artifacts in cone beam computed tomography using deep convolutional neural networks**. Medical Physics, 50(10), 6228-6242.](https://doi.org/10.1002/mp.16405)
+
+  * [Sager, P., Salzmann, S., Burn, F., and Stadelmann, T., 2022. **Unsupervised Domain Adaptation for Vertebrae Detection and Identification in 3D CT Volumes Using a Domain Sanity Loss**. _J. Imaging_ 2022, 8(8), 222, MDPI, Basel, Switzerland.](https://www.mdpi.com/2313-433X/8/8/222/pdf)
 
 &nbsp;
 
@@ -248,14 +217,35 @@ To facilitate deep learning for OMR, we built the [DeepScores](http://stdm.githu
 
 We introduced a novel object detection method, based on synthetic energy maps and the watershed transform, called [Deep Watershed Detector (DWD)](http://stdm.github.io/downloads/papers/ISMIR_2018.pdf). Our method is specifically tailored to deal with high resolution images that contain a large number of very small objects and is therefore able to process full pages of written music. We present state-of-the-art detection results of common music symbols and show DWD’s ability to work with synthetic scores equally well as on handwritten music. Further results in making OMR more robust trhough _domain adaptation_ can also be found [here](https://www.zhaw.ch/en/about-us/news/news-releases/news-detail/event-news/realscore-scannen-von-real-world-noten-fuer-ein-digitales-notenpult/).
 
+Current work focuses on building a foundation model for document recognition, based on the insight that natural images and scans of documents for human consumption are very different in kind, hence need different inductive biases: Document recognition is better understood as transcription (of one format for information losslessly into another) rather than recognition.
+
 #### Selected references (see also [below](#publications))
 
-  * [Tuggener, L., Emberger, R., Ghosh, A., Sager, P., Satyawan, Y. P., Montoya, J., Goldschagg, S., Seibold, F., Gut, U., Ackermann, P., Schmidhuber, J., and Stadelmann, T. (2024). **Real world music object recognition**. Transactions of the International Society for Music Information Retrieval, 7(1), 1-14.](https://scholar.google.de/citations?view_op=view_citation&hl=de&user=6U6ZXzUAAAAJ&cstart=20&pagesize=80&citation_for_view=6U6ZXzUAAAAJ:nb7KW1ujOQ8C)
+  * [Tuggener, L., Emberger, R., Ghosh, A., Sager, P., Satyawan, Y. P., Montoya, J., Goldschagg, S., Seibold, F., Gut, U., Ackermann, P., Schmidhuber, J., and Stadelmann, T. (2024). **Real world music object recognition**. Transactions of the International Society for Music Information Retrieval, 7(1), 1-14.](https://doi.org/10.5334/tismir.157)
 
-  * [Schmitt-Koopmann, F. M., Huang, E. M., Hutter, H. P., Stadelmann, T., and Darvishy, A. (2022). **FormulaNet: A benchmark dataset for mathematical formula detection**. IEEE Access, 10, 91588-91596.](https://scholar.google.de/citations?view_op=view_citation&hl=de&user=6U6ZXzUAAAAJ&cstart=20&pagesize=80&citation_for_view=6U6ZXzUAAAAJ:cFHS6HbyZ2cC)
+  * [Schmitt-Koopmann, F. M., Huang, E. M., Hutter, H. P., Stadelmann, T., and Darvishy, A. (2022). **FormulaNet: A benchmark dataset for mathematical formula detection**. IEEE Access, 10, 91588-91596.](https://ieeexplore.ieee.org/document/9869643)
   
-  * [Tuggener, L., Elezi, I., Schmidhuber, J. and Stadelmann, T., 2018. **Deep watershed detector for music object recognition**. In _19th International Society for Music Information Retrieval Conference_, Paris, 23.-27. September 2018. Society for Music Information Retrieval.](https://scholar.google.ch/scholar?cluster=15201184947089209442&hl=en&as_sdt=0,5)
+  * [Tuggener, L., Elezi, I., Schmidhuber, J. and Stadelmann, T., 2018. **Deep watershed detector for music object recognition**. In _19th International Society for Music Information Retrieval Conference_, Paris, 23.-27. September 2018. Society for Music Information Retrieval.](https://stdm.github.io/downloads/papers/ISMIR_2018.pdf)
  
+&nbsp;
+
+
+<a name="l2l"></a>
+### Meta learning
+
+[<img alt="Learning to cluster model architecture" src="http://stdm.github.io/images/l2c_architecture.jpg"/>](http://stdm.github.io/images/l2c_architecture.jpg)
+[<img alt="Example clusterings" src="http://stdm.github.io/images/l2c_clustering.jpg"/>](http://stdm.github.io/images/l2c_clustering.jpg)
+
+Meta learning, or learning to learn is very interesting from the perspective of what learning in machines and bezond actuallz means. We have for instance built a novel end-to-end neural network architecture that, once trained, directly outputs a probabilistic clustering of a batch of input examples in one pass. It estimates a distribution over the number of clusters and, for each number of clusters up to a maximum, distributions over the respective data partitioning. The neural network is trained in a supervised fashion to group data by any perceptual similarity criterion based on pairwise labels (same/different group). It does not expect to have seen any of the groups that appear during model application already during training. We demonstrate promising performance on high-dimensional data like images (COIL-100) and speech (TIMIT). We call this [learning to cluster](http://stdm.github.io/downloads/papers/ANNPR_2018a.pdf). We have also produced a survey and some novel results on the more general topic of [meta learning](https://stdm.github.io/downloads/papers/SDS_2019.pdf).
+
+#### Selected references (see also [below](#publications))
+
+  * [Tuggener, L., Amirian, M., Benites, F., von Däniken, P., Gupta, P., Schilling, F. P., and Stadelmann, T. (2020). **Design patterns for resource-constrained automated deep-learning methods**. AI, 1(4), 510-538.](https://www.mdpi.com/2673-2688/1/4/31/pdf)
+
+  * [Meier, B.B., Elezi, I., Amirian, M., Dürr, O. and Stadelmann, T., 2018, September. **Learning Neural Models for End-to-End Clustering**. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 126-138). Springer, Cham.](https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf)
+  
+  * [Tuggener, L., Amirian, M., Rombach, K., Lörwald, S., Varlet, A., Westermann, C., and Stadelmann, T., 2019, June. **Automated Machine Learning in Practice: State of the Art and Recent Results**. In: _Proceedings of the 6th Swiss Conference on Data Science_ (SDS’19), Bern, Switzerland, June 14, 2019. IEEE.](https://stdm.github.io/downloads/papers/SDS_2019.pdf)
+
 &nbsp;
 
 
@@ -272,11 +262,11 @@ This line of research has also lead to work on other audio processing tasks like
 
 #### Selected references (see also [below](#publications))
 
-  * [Neururer, D., Dellwo, V., and Stadelmann, T. (2024). **Deep neural networks for automatic speaker recognition do not learn supra-segmental temporal features**. Pattern Recognition Letters.](https://scholar.google.de/citations?view_op=view_citation&hl=de&user=6U6ZXzUAAAAJ&cstart=20&pagesize=80&citation_for_view=6U6ZXzUAAAAJ:dshw04ExmUIC)
+  * [Neururer, D., Dellwo, V., and Stadelmann, T. (2024). **Deep neural networks for automatic speaker recognition do not learn supra-segmental temporal features**. Pattern Recognition Letters.](https://doi.org/10.1016/j.patrec.2024.03.016)
 
-  * [Lukic, Y., Vogt, C., Dürr, O. and Stadelmann, T., 2016. **Speaker identification and clustering using convolutional neural networks**. In _2016 IEEE 26th International Workshop on Machine Learning for Signal Processing (MLSP)_, Vietri sul Mare, Italy, 13-16 Sept. 2016. IEEE.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=8378514520107037777)
+  * [Lukic, Y., Vogt, C., Dürr, O. and Stadelmann, T., 2016. **Speaker identification and clustering using convolutional neural networks**. In _2016 IEEE 26th International Workshop on Machine Learning for Signal Processing (MLSP)_, Vietri sul Mare, Italy, 13-16 Sept. 2016. IEEE.](https://stdm.github.io/downloads/papers/MLSP_2016.pdf)
 
-  * [Stadelmann, T. and Freisleben, B., 2009, October. **Unfolding speaker clustering potential: a biomimetic approach**. In _Proceedings of the 17th ACM international conference on Multimedia_ (pp. 185-194). ACM.](https://scholar.google.ch/scholar?oi=bibs&hl=en&cluster=18337079226826578816)
+  * [Stadelmann, T. and Freisleben, B., 2009, October. **Unfolding speaker clustering potential: a biomimetic approach**. In _Proceedings of the 17th ACM international conference on Multimedia_ (pp. 185-194). ACM.](https://stdm.github.io/downloads/papers/ACMMM_2009.pdf)
 
 &nbsp;
 
@@ -296,25 +286,22 @@ In 2021, I co-chaired the [1st International Symposium on the Science of Data Sc
 
   * [Braschler, M., Stadelmann, T., and Stockinger, K., (Eds.), 2019. _**Applied Data Science - Lessons Learned for the Data-Driven Business**_. Springer.](https://stdm.github.io/data-science-book/)
 
-  * [Stadelmann, T., Stockinger, K., Braschler, M., Cieliebak, M., Baudinot, G., Dürr, O. and Ruckstuhl, A., 2013. **Applied data science in Europe: challenges for academia in keeping up with a highly demanded topic**. In _9th European Computer Science Summit_, Amsterdam, October 8–9, 2013.](https://scholar.google.ch/scholar?hl=en&as_sdt=0%2C5&q=Applied+data+science+in+Europe%3A+challenges+for+academia+in+keeping+up+with+a+highly+demanded+topic&btnG=)
+  * [Stadelmann, T., Stockinger, K., Braschler, M., Cieliebak, M., Baudinot, G., Dürr, O. and Ruckstuhl, A., 2013. **Applied data science in Europe: challenges for academia in keeping up with a highly demanded topic**. In _9th European Computer Science Summit_, Amsterdam, October 8–9, 2013.](https://stdm.github.io/downloads/papers/ECSS_2013.pdf)
 
 &nbsp;
 
-
-&nbsp;
 
 <a name="collaborations"></a>
 ## Collaborations
 
 I frequently collaborate with industry to work on novel pattern recognition applications. Partners come from start-ups, SMEs and multi-national enterprises alike. 
 
-In academia, I collaborate e.g. with the **Machine Learning and Optimization Lab** of [Martin Jaggi](https://mlo.epfl.ch/) at **EPFL**, [Marcello Pelillo](http://www.dsi.unive.it/~pelillo/) of the **Ca'Foscari University of Venice**, [Juergen Schmidhuber](http://people.idsia.ch/~juergen/)'s group at **IDSIA**, [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/mitarbeiter/f-schwenker/) of **Ulm University, Insitute of Neural Information Processing**, [Boi Faltings](https://people.epfl.ch/boi.faltings?lang=en) of **EPFL**, [Benjamin F. Grewe's](https://www.ini.uzh.ch/en/research/groups/grewe.html) **Neural Learning and Intelligent Systems Group** at **UZH/ETHz's Institute of Neuroinformatics** and our joint visiting professor [Christoph von der Malsburg](https://www.fias.science/en/life-and-neurosciences/research-groups/christoph-von-der-malsburg/) of the **Frankfurt Institute of Advanced Studies**. We have joint research projects, publications and/or co-supervise PhD students.
+In academia, I collaborate e.g. with [Benjamin F. Grewe's](https://www.ini.uzh.ch/en/research/groups/grewe.html) **Neural Learning and Intelligent Systems Group** at **UZH/ETHz's Institute of Neuroinformatics** and our joint visiting professor [Christoph von der Malsburg](https://www.fias.science/en/life-and-neurosciences/research-groups/christoph-von-der-malsburg/) of the **Frankfurt Institute of Advanced Studies**, [Marcello Pelillo](http://www.dsi.unive.it/~pelillo/) of the **Ca'Foscari University of Venice**, [Juergen Schmidhuber](http://people.idsia.ch/~juergen/), [Carmody Grey](https://www.ru.nl/en/about-us/news/carmody-grey-appointed-professor-by-special-appointment-of-integral-ecology) at **Radboud Universiteit** and [Oliver Duerr](https://www.unifr.ch/glaubeundgesellschaft/en/center/people/team-en/oliver-duerr.html) of the **Centre for Faith & Society** at University of Fribourg, or the **Machine Learning and Optimization Lab** of [Martin Jaggi](https://mlo.epfl.ch/) at **EPFL**. We have joint research projects, publications and/or co-supervise PhD students.
 
 If you are interested in a collaboration, please [contact](http://www.zhaw.ch/=stdm) me.
 
 &nbsp;
 
-&nbsp;
 
 <a name="publications"></a>
 ## Publications
