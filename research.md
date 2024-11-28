@@ -29,38 +29,27 @@ The [Machine Perception and Cognition Group](https://www.zhaw.ch/en/engineering/
 
 The group has very diverse backgrounds, which helps us complement each other's skills.
 
-### Staff and students
-  
-  * [Prof. Dr. Thilo Stadelmann](https://de.wikipedia.org/wiki/Thilo_Stadelmann), group lead: Diplom (THM) & PhD (U. Marburg) in computer science
-  
-  * [Dr. Ahmed Abdulkadir](https://scholar.google.com/citations?user=XqaePW0AAAAJ), senior researcher: B.Sc. systems engineering (NTB Buchs), BSc & MSc Life Sciences (EPFL), PhD computer engineering (University of Freiburg / Germany), PostDoc University Hospital Bern / University of Pennsylvania / Lausanne University Hospital
-  
-  * [Dr. Hella Bolck](https://www.linkedin.com/in/hella-bolck-783a6526), coordinator for complex projects: M.Sc. biochemistry and molecular biology (U Jena), PhD cancer biology (U Zurich), postdoc & senior scientist (USZ)
-  
-  * [Lukas Tuggener](https://tuggeluk.github.io/), PhD student: B.Sc. industrial engineering (ZHAW), M.Sc. statistics (ETH), doctorate in conjunction with [Juergen Schmidhuber](http://people.idsia.ch/~juergen/) of the University of Lugano / Switzerland
-  
-  * [Waqar Ali](https://www.linkedin.com/in/waqar-ali-92468910b/), PhD student: M.Sc. (CU Islamabad) in computer science, doctorate in conjunction with [Marcello Pelillo](https://www.dsi.unive.it/~pelillo/) of the University of Venice / Italy
-
-  * [Peng Yan](https://www.linkedin.com/in/peng520/), PhD student: B.Sc. measuring & control technology (Jianghan U.) & M.Sc. control engineering (Xiamen U.), M.Sc. data science (UZH), doctorate in conjunctionion with [Benjamin F. Grewe](https://www.ini.uzh.ch/en/research/groups/grewe.html) of the University of Zurich / Switzerland
-  
-  * [Pascal Sager](https://www.linkedin.com/in/pascal-sager-3b7403168), PhD student: B.Sc. & M.Sc. computer science (ZHAW), doctorate in conjunctionion with [Benjamin F. Grewe](https://www.ini.uzh.ch/en/research/groups/grewe.html) of the University of Zurich / Switzerland
- 
-  * [Benjamin Meyer](https://www.linkedin.com/in/benjamin-meyer-b87077151), PhD student: B.Sc. information technology (FHNW), M.Sc. computer science (U Basel), doctorate in conjunctionion with [Benjamin F. Grewe](https://www.ini.uzh.ch/en/research/groups/grewe.html) of the University of Zurich / Switzerland
-  
-  * [Livia Luescher](https://www.linkedin.com/in/livia-l%C3%BCscher-72aaaa139/), M.Sc. student: B.Sc. business administration with honors (HWZ Zurich)
-  
-  * [Adrian Thuer](https://www.linkedin.com/in/adrian-th%C3%BCr-01976b160/), M.Sc. student: B.Sc. computer science (ZHAW)
-  
-  * [Elia Unternährer](https://www.linkedin.com/in/elia-untern%C3%A4hrer-201593255/), M.Sc. student: B.Sc. business information technology (ZHAW)
-  
-  * [Jakub Hanuska](https://www.linkedin.com/in/jakub-hanush/), M.Sc. student: B.Sc. open informatics (Mendel University of Brno)
-  
-  * [Rebekka von Wartburg](https://www.linkedin.com/in/rebekka-von-wartburg-3b807b298/), M.Sc. student: B.Sc. computer science (ZHAW)
-  
+<details>
+<summary><b>Staff and students</b></summary>  
+<ul>
+    <li><a href="https://de.wikipedia.org/wiki/Thilo_Stadelmann">Prof. Dr. Thilo Stadelmann</a>, group lead: Diplom (THM) & PhD (U. Marburg) in computer science</li>
+    <li><a href="https://scholar.google.com/citations?user=XqaePW0AAAAJ">Dr. Ahmed Abdulkadir</a>, senior researcher: B.Sc. systems engineering (NTB Buchs), BSc & MSc Life Sciences (EPFL), PhD computer engineering (University of Freiburg / Germany), PostDoc University Hospital Bern / University of Pennsylvania / Lausanne University Hospital</li>
+    <li><a href="https://www.linkedin.com/in/hella-bolck-783a6526">Dr. Hella Bolck</a>, coordinator for complex projects: M.Sc. biochemistry and molecular biology (U Jena), PhD cancer biology (U Zurich), postdoc & senior scientist (USZ)</li>
+    <li><a href="https://tuggeluk.github.io/">Lukas Tuggener</a>, PhD student: B.Sc. industrial engineering (ZHAW), M.Sc. statistics (ETH), doctorate in conjunction with <a href="http://people.idsia.ch/~juergen/">Juergen Schmidhuber</a> of the University of Lugano / Switzerland</li>
+    <li><a href="https://www.linkedin.com/in/waqar-ali-92468910b/">Waqar Ali</a>, PhD student: M.Sc. (CU Islamabad) in computer science, doctorate in conjunction with <a href="https://www.dsi.unive.it/~pelillo/">Marcello Pelillo</a> of the University of Venice / Italy</li>
+    <li><a href="https://www.linkedin.com/in/peng520/">Peng Yan</a>, PhD student: B.Sc. measuring & control technology (Jianghan U.) & M.Sc. control engineering (Xiamen U.), M.Sc. data science (UZH), doctorate in conjunction with <a href="https://www.ini.uzh.ch/en/research/groups/grewe.html">Benjamin F. Grewe</a> of the University of Zurich / Switzerland</li>
+    <li><a href="https://www.linkedin.com/in/pascal-sager-3b7403168">Pascal Sager</a>, PhD student: B.Sc. & M.Sc. computer science (ZHAW), doctorate in conjunction with <a href="https://www.ini.uzh.ch/en/research/groups/grewe.html">Benjamin F. Grewe</a> of the University of Zurich / Switzerland</li>
+    <li><a href="https://www.linkedin.com/in/benjamin-meyer-b87077151">Benjamin Meyer</a>, PhD student: B.Sc. information technology (FHNW), M.Sc. computer science (U Basel), doctorate in conjunction with <a href="https://www.ini.uzh.ch/en/research/groups/grewe.html">Benjamin F. Grewe</a> of the University of Zurich / Switzerland</li>
+    <li><a href="https://www.linkedin.com/in/livia-l%C3%BCscher-72aaaa139/">Livia Luescher</a>, M.Sc. student: B.Sc. business administration with honors (HWZ Zurich)</li>
+    <li><a href="https://www.linkedin.com/in/adrian-th%C3%BCr-01976b160/">Adrian Thuer</a>, M.Sc. student: B.Sc. computer science (ZHAW)</li>
+    <li><a href="https://www.linkedin.com/in/elia-untern%C3%A4hrer-201593255/">Elia Unternährer</a>, M.Sc. student: B.Sc. business information technology (ZHAW)</li>
+    <li><a href="https://www.linkedin.com/in/jakub-hanush/">Jakub Hanuska</a>, M.Sc. student: B.Sc. open informatics (Mendel University of Brno)</li>
+    <li><a href="https://www.linkedin.com/in/rebekka-von-wartburg-3b807b298/">Rebekka von Wartburg</a>, M.Sc. student: B.Sc. computer science (ZHAW)</li>
+</ul>
+</details>  
 
 <details>
 <summary><b>Alumni</b></summary>
-
 <ul>
   <li> <a href="https://www.linkedin.com/in/raphael-emberger-206015bb">Raphael Emberger</a>, research assistant 2012-2024, M.Sc. and B.Sc. computer science (ZHAW) &rarr; Deep Learning Engineer @ Rheinmetall Air Defence</li>
   <li> <a href="https://www.zhaw.ch/en/about-us/person/ayfe/">Erdal Ayfer</a>, intern 2023-2024, B.Sc. student computer science(ZHAW)</li>
