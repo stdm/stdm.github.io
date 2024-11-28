@@ -94,7 +94,7 @@ The group has very diverse backgrounds, which helps us complement each other's s
 
 <a name="robust"></a>
 <details>
-<summary><h3>Robust and practical deep learning</h3></summary>
+<summary><b>Robust and practical deep learning</b></summary>
 
 <img alt="Examples of automatic segmentation" src="http://stdm.github.io/images/article_segmentation.jpg"/>
 
@@ -123,7 +123,7 @@ The group has very diverse backgrounds, which helps us complement each other's s
 
 <a name="general"></a>
 <details>
-<summary><h3>Representation learning for next-level AI</h3></summary>
+<summary><b>Representation learning for next-level AI</b></summary>
 
 <img alt="Illustration of Kolmogorov complexity: Perception and efficient learning are possible by reducing the flood of sensory signals produced by the environment to an underlying low-complexity description" src="http://stdm.github.io/images/kolmogorov.jpg"/>
     
@@ -141,7 +141,7 @@ The group has very diverse backgrounds, which helps us complement each other's s
 
 <a name="trust"></a>
 <details>
-<summary><h3>AI and society</h3></summary>
+<summary><b>AI and society</b></summary>
 
 <img alt="t-SNE visualization of the embedding space created by two face recognition models, coloured by ethnicity and gender" src="http://stdm.github.io/images/face-bias.jpg"/>
 
@@ -160,112 +160,106 @@ The group has very diverse backgrounds, which helps us complement each other's s
 
 <a name="industrial"></a>
 <details>
-### <summary>Industrial and medical computer vision</summary>
+<summary><b>Industrial and medical computer vision</b></summary>
 
-[<img alt="Semantic segmentation pipeline to detect food waste" src="http://stdm.github.io/images/foodwaste.jpg"/>](http://stdm.github.io/images/foodwaste.jpg)
+<img alt="Semantic segmentation pipeline to detect food waste" src="http://stdm.github.io/images/foodwaste.jpg"/>
 
-A rich source for open research questions in deep-learning-based pattern recognition is found in various industrial processes like engineering and production. For example, we developed methods to reliably classify and quantify [food waste](https://www.zhaw.ch/en/engineering/about-us/news/news/event-news/tackling-food-waste-with-artificial-intelligence/) in large kitches through new semantic segmentation pipeline and worked a lot on automatic quality control. Other work in this area is going address the problem of [transferability](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/zhaw-and-kistler-team-up-to-evaluate-the-possibilities-of-deep-transfer-learning-for-controlling-injection-molding-processes/) of learnt knowledge from one tool to the next. As in industrial settings labelled data is usually scarce, a particular focus of our work is to make approaches more sample (or label) efficient than usual benchmark-beating models from the literature.
+<p>A rich source for open research questions in deep-learning-based pattern recognition is found in various industrial processes like engineering and production. For example, we developed methods to reliably classify and quantify <a href="https://www.zhaw.ch/en/engineering/about-us/news/news/event-news/tackling-food-waste-with-artificial-intelligence/">food waste</a> in large kitches through new semantic segmentation pipeline and worked a lot on automatic quality control. Other work in this area is going address the problem of <a href="https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/zhaw-and-kistler-team-up-to-evaluate-the-possibilities-of-deep-transfer-learning-for-controlling-injection-molding-processes/">transferability</a> of learnt knowledge from one tool to the next. As in industrial settings labelled data is usually scarce, a particular focus of our work is to make approaches more sample (or label) efficient than usual benchmark-beating models from the literature.</p>
 
-[<img alt="Vertebrae detection by deep learning model trained with unsupervised domain adaptation" src="http://stdm.github.io/images/vertebrae.jpg"/>](http://stdm.github.io/images/vertebrae.jpg)
+<img alt="Vertebrae detection by deep learning model trained with unsupervised domain adaptation" src="http://stdm.github.io/images/vertebrae.jpg"/>
 
-Similary, health applications of deep learning are a major topic in the group. For example, in a collaboration with the AI and Data Science CoE of the Kantonsspital Aarau, we have [developed a novel approach](https://www.mdpi.com/2313-433X/8/8/222) to reliably identify vertebrae in 3D CT scans. Our primary contribution is a new Domain Sanity Loss (DSL) function for unsupervised domain adaptation. We achieve results that are on par with the current state-of-the-art algorithms for full supervised learning while using about 20 times fewer labels. This is a very interesting instance of a data-centric approach to be pursued further in our research.
+<p>Similary, health applications of deep learning are a major topic in the group. For example, in a collaboration with the AI and Data Science CoE of the Kantonsspital Aarau, we have <a href="https://www.mdpi.com/2313-433X/8/8/222">developed a novel approach</a> to reliably identify vertebrae in 3D CT scans. Our primary contribution is a new Domain Sanity Loss (DSL) function for unsupervised domain adaptation. We achieve results that are on par with the current state-of-the-art algorithms for full supervised learning while using about 20 times fewer labels. This is a very interesting instance of a data-centric approach to be pursued further in our research.</p>
 
-Additional applications include the [reduction of motion artifacts in CT images](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/verbesserung-der-qualitaet-von-ct-bildern-mit-ki-und-deep-learning/), which can significantly reduce the risk for patients to develop secondary cancer during radiation therapy; the [automated monitoring](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/videoanalyse-zur-datengesteuerten-pflege-von-intensivpatienten/) of patients in intensive care; or the [homogenization of data](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/neue-publikation-welche-eine-methode-zur-homogenisierung-von-daten-fuer-die-covid-erkennung-aus-ct-bildern-vorstellt/) to train large, bias-free medical imaging models, as we showed in the context of the COVID-19 spread.
+<p>Additional applications include the <a href="https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/verbesserung-der-qualitaet-von-ct-bildern-mit-ki-und-deep-learning/">reduction of motion artifacts in CT images</a>, which can significantly reduce the risk for patients to develop secondary cancer during radiation therapy; the <a href="https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/videoanalyse-zur-datengesteuerten-pflege-von-intensivpatienten/">automated monitoring</a> of patients in intensive care; or the <a href="https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/neue-publikation-welche-eine-methode-zur-homogenisierung-von-daten-fuer-die-covid-erkennung-aus-ct-bildern-vorstellt/">homogenization of data</a> to train large, bias-free medical imaging models, as we showed in the context of the COVID-19 spread.</p>
 
-#### Selected references (see also [below](#publications))
-
-  * [Tuggener, L., Schmidhuber, J., and Stadelmann, T. (2022). **Is it enough to optimize CNN architectures on ImageNet?**. Frontiers in Computer Science, 4, 1041703.](https://doi.org/10.3389/fcomp.2022.1041703)
-
-  * [Knapp, E., Battaglia, M., Stadelmann, T., Jenatsch, S., and Ruhstaller, B., 2021. **XGBoost Trained on Synthetic Data to Extract Material Parameters of Organic Semiconductors**. In: _Proceedings of the 8th Swiss Conference on Data Science (SDS’21)_, Lucerne, Switzerland, 2021.](https://stdm.github.io/downloads/papers/SDS_2021b.pdf)
-
-  * [Amirian, M., Montoya‐Zegarra, J. A., Herzig, I., Eggenberger Hotz, P., Lichtensteiger, L., Morf, M., Züst, A., Paysan, P., Peterlik, I., Scheib, S., Füchslin, R. M., Stadelmann, T., and Schilling, F. P. (2023). **Mitigation of motion‐induced artifacts in cone beam computed tomography using deep convolutional neural networks**. Medical Physics, 50(10), 6228-6242.](https://doi.org/10.1002/mp.16405)
-
-  * [Sager, P., Salzmann, S., Burn, F., and Stadelmann, T., 2022. **Unsupervised Domain Adaptation for Vertebrae Detection and Identification in 3D CT Volumes Using a Domain Sanity Loss**. _J. Imaging_ 2022, 8(8), 222, MDPI, Basel, Switzerland.](https://www.mdpi.com/2313-433X/8/8/222/pdf)
+<h4>Selected references</h4>
+<ul>
+    <li>Tuggener, L., Schmidhuber, J., and Stadelmann, T. (2022). <a href="https://doi.org/10.3389/fcomp.2022.1041703">Is it enough to optimize CNN architectures on ImageNet?</a>. Frontiers in Computer Science, 4, 1041703.</li>
+    <li>Knapp, E., Battaglia, M., Stadelmann, T., Jenatsch, S., and Ruhstaller, B., 2021. <a href="https://stdm.github.io/downloads/papers/SDS_2021b.pdf">XGBoost Trained on Synthetic Data to Extract Material Parameters of Organic Semiconductors</a>. In Proceedings of the 8th Swiss Conference on Data Science (SDS'21), Lucerne, Switzerland, 2021.</li>
+    <li>Amirian, M., Montoya‐Zegarra, J. A., Herzig, I., Eggenberger Hotz, P., Lichtensteiger, L., Morf, M., Züst, A., Paysan, P., Peterlik, I., Scheib, S., Füchslin, R. M., Stadelmann, T., and Schilling, F. P. (2023). <a href="https://doi.org/10.1002/mp.16405">Mitigation of motion‐induced artifacts in cone beam computed tomography using deep convolutional neural networks</a>. Medical Physics, 50(10), 6228-6242.</li>
+    <li>Sager, P., Salzmann, S., Burn, F., and Stadelmann, T., 2022. <a href="https://www.mdpi.com/2313-433X/8/8/222/pdf">Unsupervised Domain Adaptation for Vertebrae Detection and Identification in 3D CT Volumes Using a Domain Sanity Loss</a>. J. Imaging 2022, 8(8), 222, MDPI, Basel, Switzerland.</li>
+</ul>
 </details>
 
 
 <a name="documents"></a>
 <details>
-### <summary>Document recognition</summary>
+<summary><b>Document recognition</b></summary>
 
-[<img alt="Deep Watershed Detector architecture" src="http://stdm.github.io/images/dwd.jpg"/>](http://stdm.github.io/images/dwd.jpg)
+<img alt="Deep Watershed Detector architecture" src="http://stdm.github.io/images/dwd.jpg"/>
 
-We have applied our skills in pattern recognition frequently to use cases in document recognition, for example to convert music scores to machine-readable form. Written music is a large and important part of cultural heritage worldwide. While there are many archives containing thousands of music scores, they are paper-based, so public access is cumbersome or even impossible. Digitization of these scores has for a long time been impossible due to the non-availability of scanning software that can convert hand-written scores to machine-readable format (Optical Music Recognition – OMR). Our DeepScore and RealScore projects aimed at bringing bleeding edge technology form computer vision the field of OMR. The impact of OMR on how we curate, preserve and access music manuscripts cannot be overstated. Fully functional OMR would lead to a democratization of the musical cultural heritage by enabling cheap and efficient access by everyone. It would also enable more efficient music training, and enable orchestras to run cheaper and rehearse more efficiently. 
+<p>We have applied our skills in pattern recognition frequently to use cases in document recognition, for example to convert music scores to machine-readable form. Written music is a large and important part of cultural heritage worldwide. While there are many archives containing thousands of music scores, they are paper-based, so public access is cumbersome or even impossible. Digitization of these scores has for a long time been impossible due to the non-availability of scanning software that can convert hand-written scores to machine-readable format (Optical Music Recognition – OMR). Our DeepScore and RealScore projects aimed at bringing bleeding edge technology form computer vision the field of OMR. The impact of OMR on how we curate, preserve and access music manuscripts cannot be overstated. Fully functional OMR would lead to a democratization of the musical cultural heritage by enabling cheap and efficient access by everyone. It would also enable more efficient music training, and enable orchestras to run cheaper and rehearse more efficiently.</p>
 
-To facilitate deep learning for OMR, we built the [DeepScores](http://stdm.github.io/downloads/papers/ICPR_2018a.pdf) [dataset](https://tuggeluk.github.io/deepscores/) with the goal of advancing the state-of-the-art in small object recognition by placing the question of object recognition in the context of scene understanding. DeepScores contains high quality images of musical scores, partitioned into 300'000 sheets of written music that contain symbols of different shapes and sizes. With close to a hundred million small objects, this makes our dataset not only unique, but also the largest public dataset. DeepScores comes with ground truth for object classification, detection and semantic segmentation. We provide baseline performances for object classification and intuition for the inherent difficulty that DeepScores poses to state-of-the-art object detectors like YOLO or R-CNN.
+<p>To facilitate deep learning for OMR, we built the <a href="http://stdm.github.io/downloads/papers/ICPR_2018a.pdf">DeepScores</a> <a href="https://tuggeluk.github.io/deepscores/">dataset</a> with the goal of advancing the state-of-the-art in small object recognition by placing the question of object recognition in the context of scene understanding. DeepScores contains high quality images of musical scores, partitioned into 300'000 sheets of written music that contain symbols of different shapes and sizes. With close to a hundred million small objects, this makes our dataset not only unique, but also the largest public dataset. DeepScores comes with ground truth for object classification, detection and semantic segmentation. We provide baseline performances for object classification and intuition for the inherent difficulty that DeepScores poses to state-of-the-art object detectors like YOLO or R-CNN.</p>
 
-We introduced a novel object detection method, based on synthetic energy maps and the watershed transform, called [Deep Watershed Detector (DWD)](http://stdm.github.io/downloads/papers/ISMIR_2018.pdf). Our method is specifically tailored to deal with high resolution images that contain a large number of very small objects and is therefore able to process full pages of written music. We present state-of-the-art detection results of common music symbols and show DWD’s ability to work with synthetic scores equally well as on handwritten music. Further results in making OMR more robust trhough _domain adaptation_ can also be found [here](https://www.zhaw.ch/en/about-us/news/news-releases/news-detail/event-news/realscore-scannen-von-real-world-noten-fuer-ein-digitales-notenpult/).
+<p>We introduced a novel object detection method, based on synthetic energy maps and the watershed transform, called <a href="http://stdm.github.io/downloads/papers/ISMIR_2018.pdf">Deep Watershed Detector (DWD)</a>. Our method is specifically tailored to deal with high resolution images that contain a large number of very small objects and is therefore able to process full pages of written music. We present state-of-the-art detection results of common music symbols and show DWD's ability to work with synthetic scores equally well as on handwritten music. Further results in making OMR more robust trhough <em>domain adaptation</em> can also be found <a href="https://www.zhaw.ch/en/about-us/news/news-releases/news-detail/event-news/realscore-scannen-von-real-world-noten-fuer-ein-digitales-notenpult/">here</a>.</p>
 
-Current work focuses on building a foundation model for document recognition, based on the insight that natural images and scans of documents for human consumption are very different in kind, hence need different inductive biases: Document recognition is better understood as transcription (of one format for information losslessly into another) rather than recognition.
+<p>Current work focuses on building a foundation model for document recognition, based on the insight that natural images and scans of documents for human consumption are very different in kind, hence need different inductive biases: Document recognition is better understood as transcription (of one format for information losslessly into another) rather than recognition.</p>
 
-#### Selected references (see also [below](#publications))
-
-  * [Tuggener, L., Emberger, R., Ghosh, A., Sager, P., Satyawan, Y. P., Montoya, J., Goldschagg, S., Seibold, F., Gut, U., Ackermann, P., Schmidhuber, J., and Stadelmann, T. (2024). **Real world music object recognition**. Transactions of the International Society for Music Information Retrieval, 7(1), 1-14.](https://doi.org/10.5334/tismir.157)
-
-  * [Schmitt-Koopmann, F. M., Huang, E. M., Hutter, H. P., Stadelmann, T., and Darvishy, A. (2022). **FormulaNet: A benchmark dataset for mathematical formula detection**. IEEE Access, 10, 91588-91596.](https://ieeexplore.ieee.org/document/9869643)
-  
-  * [Tuggener, L., Elezi, I., Schmidhuber, J. and Stadelmann, T., 2018. **Deep watershed detector for music object recognition**. In _19th International Society for Music Information Retrieval Conference_, Paris, 23.-27. September 2018. Society for Music Information Retrieval.](https://stdm.github.io/downloads/papers/ISMIR_2018.pdf)
+<h4>Selected references</h4>
+<ul>
+    <li>Tuggener, L., Emberger, R., Ghosh, A., Sager, P., Satyawan, Y. P., Montoya, J., Goldschagg, S., Seibold, F., Gut, U., Ackermann, P., Schmidhuber, J., and Stadelmann, T. (2024). <a href="https://doi.org/10.5334/tismir.157">Real world music object recognition</a>. Transactions of the International Society for Music Information Retrieval, 7(1), 1-14.</li>
+    <li>Schmitt-Koopmann, F. M., Huang, E. M., Hutter, H. P., Stadelmann, T., and Darvishy, A. (2022). <a href="https://ieeexplore.ieee.org/document/9869643">FormulaNet: A benchmark dataset for mathematical formula detection</a>. IEEE Access, 10, 91588-91596.</li>
+    <li>Tuggener, L., Elezi, I., Schmidhuber, J. and Stadelmann, T., 2018. <a href="https://stdm.github.io/downloads/papers/ISMIR_2018.pdf">Deep watershed detector for music object recognition</a>. In 19th International Society for Music Information Retrieval Conference, Paris, 23.-27. September 2018. Society for Music Information Retrieval.</li>
+</ul>
 </details>
 
 
 <a name="l2l"></a>
 <details>
-### <summary>Meta learning</summary>
+<summary><b>Meta learning</b></summary>
 
-[<img alt="Learning to cluster model architecture" src="http://stdm.github.io/images/l2c_architecture.jpg"/>](http://stdm.github.io/images/l2c_architecture.jpg)
-[<img alt="Example clusterings" src="http://stdm.github.io/images/l2c_clustering.jpg"/>](http://stdm.github.io/images/l2c_clustering.jpg)
+<img alt="Learning to cluster model architecture" src="http://stdm.github.io/images/l2c_architecture.jpg"/>
+<img alt="Example clusterings" src="http://stdm.github.io/images/l2c_clustering.jpg"/>
 
-Meta learning, or learning to learn is very interesting from the perspective of what learning in machines and bezond actuallz means. We have for instance built a novel end-to-end neural network architecture that, once trained, directly outputs a probabilistic clustering of a batch of input examples in one pass. It estimates a distribution over the number of clusters and, for each number of clusters up to a maximum, distributions over the respective data partitioning. The neural network is trained in a supervised fashion to group data by any perceptual similarity criterion based on pairwise labels (same/different group). It does not expect to have seen any of the groups that appear during model application already during training. We demonstrate promising performance on high-dimensional data like images (COIL-100) and speech (TIMIT). We call this [learning to cluster](http://stdm.github.io/downloads/papers/ANNPR_2018a.pdf). We have also produced a survey and some novel results on the more general topic of [meta learning](https://stdm.github.io/downloads/papers/SDS_2019.pdf).
+<p>Meta learning, or learning to learn is very interesting from the perspective of what learning in machines and beyond actually means. We have for instance built a novel end-to-end neural network architecture that, once trained, directly outputs a probabilistic clustering of a batch of input examples in one pass. It estimates a distribution over the number of clusters and, for each number of clusters up to a maximum, distributions over the respective data partitioning. The neural network is trained in a supervised fashion to group data by any perceptual similarity criterion based on pairwise labels (same/different group). It does not expect to have seen any of the groups that appear during model application already during training. We demonstrate promising performance on high-dimensional data like images (COIL-100) and speech (TIMIT). We call this <a href="http://stdm.github.io/downloads/papers/ANNPR_2018a.pdf">learning to cluster</a>. We have also produced a survey and some novel results on the more general topic of <a href="https://stdm.github.io/downloads/papers/SDS_2019.pdf">meta learning</a>.</p>
 
-#### Selected references (see also [below](#publications))
-
-  * [Tuggener, L., Amirian, M., Benites, F., von Däniken, P., Gupta, P., Schilling, F. P., and Stadelmann, T. (2020). **Design patterns for resource-constrained automated deep-learning methods**. AI, 1(4), 510-538.](https://www.mdpi.com/2673-2688/1/4/31/pdf)
-
-  * [Meier, B.B., Elezi, I., Amirian, M., Dürr, O. and Stadelmann, T., 2018, September. **Learning Neural Models for End-to-End Clustering**. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 126-138). Springer, Cham.](https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf)
-  
-  * [Tuggener, L., Amirian, M., Rombach, K., Lörwald, S., Varlet, A., Westermann, C., and Stadelmann, T., 2019, June. **Automated Machine Learning in Practice: State of the Art and Recent Results**. In: _Proceedings of the 6th Swiss Conference on Data Science_ (SDS’19), Bern, Switzerland, June 14, 2019. IEEE.](https://stdm.github.io/downloads/papers/SDS_2019.pdf)
+<h4>Selected references (see also <a href="#publications">below</a>)</h4>
+<ul>
+    <li>Tuggener, L., Amirian, M., Benites, F., von Däniken, P., Gupta, P., Schilling, F. P., and Stadelmann, T. (2020). <a href="https://www.mdpi.com/2673-2688/1/4/31/pdf">Design patterns for resource-constrained automated deep-learning methods</a>. AI, 1(4), 510-538.</li>
+    <li>Meier, B.B., Elezi, I., Amirian, M., Dürr, O. and Stadelmann, T., 2018, September. <a href="https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf">Learning Neural Models for End-to-End Clustering</a>. In IAPR Workshop on Artificial Neural Networks in Pattern Recognition (pp. 126-138). Springer, Cham.</li>
+    <li>Tuggener, L., Amirian, M., Rombach, K., Lörwald, S., Varlet, A., Westermann, C., and Stadelmann, T., 2019, June. <a href="https://stdm.github.io/downloads/papers/SDS_2019.pdf">Automated Machine Learning in Practice: State of the Art and Recent Results</a>. In Proceedings of the 6th Swiss Conference on Data Science (SDS'19), Bern, Switzerland, June 14, 2019. IEEE.</li>
+</ul>
 </details>
 
 
 <a name="voice"></a>
 <details>
-### <summary>Voice recognition</summary>
+<summary><b>Voice recognition</b></summary>
 
-[<img alt="Architecture of the successful RNN model for speaker clustering" src="http://stdm.github.io/images/RNN_architecture.jpg"/>](http://stdm.github.io/images/RNN_architecture.jpg)
+<img alt="Architecture of the successful RNN model for speaker clustering" src="http://stdm.github.io/images/RNN_architecture.jpg"/>
 
-[My PhD research](http://stdm.github.io/downloads/papers/PhdThesis_2010) focused on the task of speaker clustering: grouping speech segments by speaker identity without prior knowledge of the number or identity of speakers (a prerequisite for e.g. content-based media indexing). While speaker identification usually achieved accuracy percentages in their high nineties, the state of the art for the more complex task of clustering performed an order of magnitude worse. 
+<p><a href="http://stdm.github.io/downloads/papers/PhdThesis_2010">My PhD research</a> focused on the task of speaker clustering: grouping speech segments by speaker identity without prior knowledge of the number or identity of speakers (a prerequisite for e.g. content-based media indexing). While speaker identification usually achieved accuracy percentages in their high nineties, the state of the art for the more complex task of clustering performed an order of magnitude worse.</p>
 
-My 2009 ACM Multimedia paper on [Unfolding Speaker Clustering Potential – a Biomimetic Approach](http://stdm.github.io/downloads/papers/ACMMM_2009.pdf) (see also the [code](https://github.com/stdm/time_model)) not only analyzed this fact, but also identified deficiencies in modeling the sequence of speech features as the bottleneck responsible for the slump in performance. The prediction of potentially raising speaker clustering performance by an order of magnitude by better sequence modeling has led to exciting discoveries so far. We successively built deep learning models with more clustering capability to exploit the sequence information: a [simple CNN](http://stdm.github.io/downloads/papers/MLSP_2016.pdf), [CNN with optimized clustering loos](http://stdm.github.io/downloads/papers/MLSP_2017.pdf) and finally a [RNN](http://stdm.github.io/downloads/papers/ANNPR_2018b.pdf) to improve the capturing of prosodic voice information, to reduce the error rate for pure voice comparison by the predicted rate (see [code](https://github.com/stdm/ZHAW_deep_voice)). Additionally, using a [different clustering algorithm](http://stdm.github.io/downloads/papers/ICPR_2018b.pdf) on top of the simple CNN feature embeddings also proved valuable.
+<p>My 2009 ACM Multimedia paper on <a href="http://stdm.github.io/downloads/papers/ACMMM_2009.pdf">Unfolding Speaker Clustering Potential – a Biomimetic Approach</a> (see also the <a href="https://github.com/stdm/time_model">code</a>) not only analyzed this fact, but also identified deficiencies in modeling the sequence of speech features as the bottleneck responsible for the slump in performance. The prediction of potentially raising speaker clustering performance by an order of magnitude by better sequence modeling has led to exciting discoveries so far. We successively built deep learning models with more clustering capability to exploit the sequence information: a <a href="http://stdm.github.io/downloads/papers/MLSP_2016.pdf">simple CNN</a>, <a href="http://stdm.github.io/downloads/papers/MLSP_2017.pdf">CNN with optimized clustering loss</a> (fixed typo from "loos") and finally a <a href="http://stdm.github.io/downloads/papers/ANNPR_2018b.pdf">RNN</a> to improve the capturing of prosodic voice information, to reduce the error rate for pure voice comparison by the predicted rate (see <a href="https://github.com/stdm/ZHAW_deep_voice">code</a>). Additionally, using a <a href="http://stdm.github.io/downloads/papers/ICPR_2018b.pdf">different clustering algorithm</a> on top of the simple CNN feature embeddings also proved valuable.</p>
 
-This line of research has also lead to work on other audio processing tasks like media segmentation and classification, musical instrument recognition, audio fingerprinting, or voice transfer, mainly driven forward in student thesis projects.
+<p>This line of research has also lead to work on other audio processing tasks like media segmentation and classification, musical instrument recognition, audio fingerprinting, or voice transfer, mainly driven forward in student thesis projects.</p>
 
-#### Selected references (see also [below](#publications))
-
-  * [Neururer, D., Dellwo, V., and Stadelmann, T. (2024). **Deep neural networks for automatic speaker recognition do not learn supra-segmental temporal features**. Pattern Recognition Letters.](https://doi.org/10.1016/j.patrec.2024.03.016)
-
-  * [Lukic, Y., Vogt, C., Dürr, O. and Stadelmann, T., 2016. **Speaker identification and clustering using convolutional neural networks**. In _2016 IEEE 26th International Workshop on Machine Learning for Signal Processing (MLSP)_, Vietri sul Mare, Italy, 13-16 Sept. 2016. IEEE.](https://stdm.github.io/downloads/papers/MLSP_2016.pdf)
-
-  * [Stadelmann, T. and Freisleben, B., 2009, October. **Unfolding speaker clustering potential: a biomimetic approach**. In _Proceedings of the 17th ACM international conference on Multimedia_ (pp. 185-194). ACM.](https://stdm.github.io/downloads/papers/ACMMM_2009.pdf)
+<h4>Selected references</h4>
+<ul>
+    <li>Neururer, D., Dellwo, V., and Stadelmann, T. (2024). <a href="https://doi.org/10.1016/j.patrec.2024.03.016">Deep neural networks for automatic speaker recognition do not learn supra-segmental temporal features</a>. Pattern Recognition Letters.</li>
+    <li>Lukic, Y., Vogt, C., Dürr, O. and Stadelmann, T., 2016. <a href="https://stdm.github.io/downloads/papers/MLSP_2016.pdf">Speaker identification and clustering using convolutional neural networks</a>. In 2016 IEEE 26th International Workshop on Machine Learning for Signal Processing (MLSP), Vietri sul Mare, Italy, 13-16 Sept. 2016. IEEE.</li>
+    <li>Stadelmann, T. and Freisleben, B., 2009, October. <a href="https://stdm.github.io/downloads/papers/ACMMM_2009.pdf">Unfolding speaker clustering potential: a biomimetic approach</a>. In Proceedings of the 17th ACM international conference on Multimedia (pp. 185-194). ACM.</li>
+</ul>
 </details>
 
 
 <a name="datascience"></a>
 <details>
-### <summary>Data science</summary>
+<summary><b>Data science</b></summary>
 
-[<img alt="The data science skill set map" src="http://stdm.github.io/images/skillset.jpg"/>](http://stdm.github.io/images/skillset.jpg)
+<img alt="The data science skill set map" src="http://stdm.github.io/images/skillset.jpg"/>
 
-I helped in creating one of Europe's first dedicated research centers for data science, the [ZHAW Datalab](http://www.zhaw.ch/datalab), and lead it until 2018. Subsequently, my colleagues and I created one of Switzerland's first continuing education programs in data science, the [MAS Data Science](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/mas-data-science.html), where I teach machine learning. In 2015, we started rolling out the successful Datalab collaboration model country-wide in founding the [Data Innovation Alliance](https://data-innovation.org/), a network of industrial and academic partner institutions that also furthered the [Swiss Conference on Data Science](https://sds2022.ch/) series of events that [started in Winterthur](https://www.zhaw.ch/en/research/inter-school-cooperation/datalab-the-zhaw-data-science-laboratory/sds2014/). The experience gained in these activities, together with the feedback from the applied research projects described above, lead to a [book](https://stdm.github.io/data-science-book/) I co-edited together with my colleagues [Martin Braschler](http://www.zhaw.ch/=bram) and [Kurt Stockinger](http://www.zhaw.ch/=stog).
+<p>I helped in creating one of Europe's first dedicated research centers for data science, the <a href="http://www.zhaw.ch/datalab">ZHAW Datalab</a>, and lead it until 2018. Subsequently, my colleagues and I created one of Switzerland's first continuing education programs in data science, the <a href="https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/mas-data-science.html">MAS Data Science</a>, where I teach machine learning. In 2015, we started rolling out the successful Datalab collaboration model country-wide in founding the <a href="https://data-innovation.org/">Data Innovation Alliance</a>, a network of industrial and academic partner institutions that also furthered the <a href="https://sds2022.ch/">Swiss Conference on Data Science</a> series of events that <a href="https://www.zhaw.ch/en/research/inter-school-cooperation/datalab-the-zhaw-data-science-laboratory/sds2014/">started in Winterthur</a>. The experience gained in these activities, together with the feedback from the applied research projects described above, lead to a <a href="https://stdm.github.io/data-science-book/">book</a> I co-edited together with my colleagues <a href="http://www.zhaw.ch/=bram">Martin Braschler</a> and <a href="http://www.zhaw.ch/=stog">Kurt Stockinger</a>.</p>
 
-In 2021, I co-chaired the [1st International Symposium on the Science of Data Science](https://www.sds2022.ch/1st-international-symposium-on-the-science-of-data-science). In the course of reviewing the development of the field in the past decade, we came to the conclusion that it is _data centrism_ – the reliance on data itself, in mindset, methods and products – that makes data science more than the sum of its parts, as this is not done in any other discipline.
+<p>In 2021, I co-chaired the <a href="https://www.sds2022.ch/1st-international-symposium-on-the-science-of-data-science">1st International Symposium on the Science of Data Science</a>. In the course of reviewing the development of the field in the past decade, we came to the conclusion that it is <em>data centrism</em> – the reliance on data itself, in mindset, methods and products – that makes data science more than the sum of its parts, as this is not done in any other discipline.</p>
 
-#### Selected references (see also [below](#publications))
-
-  * [Stadelmann, T., Klamt, T., and Merkt, P. H., 2022. _**Data Centrism and the Core of Data Science as a Scientific Discipline**_. Archives of Data Science, Series A 8(2), pp.1-16, April 2022.](https://stdm.github.io/downloads/papers/AoDSA_2022a.pdf)
-
-  * [Braschler, M., Stadelmann, T., and Stockinger, K., (Eds.), 2019. _**Applied Data Science - Lessons Learned for the Data-Driven Business**_. Springer.](https://stdm.github.io/data-science-book/)
-
-  * [Stadelmann, T., Stockinger, K., Braschler, M., Cieliebak, M., Baudinot, G., Dürr, O. and Ruckstuhl, A., 2013. **Applied data science in Europe: challenges for academia in keeping up with a highly demanded topic**. In _9th European Computer Science Summit_, Amsterdam, October 8–9, 2013.](https://stdm.github.io/downloads/papers/ECSS_2013.pdf)
+<h4>Selected references</h4>
+<ul>
+    <li>Stadelmann, T., Klamt, T., and Merkt, P. H., 2022. <a href="https://stdm.github.io/downloads/papers/AoDSA_2022a.pdf">Data Centrism and the Core of Data Science as a Scientific Discipline</a>. Archives of Data Science, Series A 8(2), pp.1-16, April 2022.</li>
+    <li>Braschler, M., Stadelmann, T., and Stockinger, K., (Eds.), 2019. <a href="https://stdm.github.io/data-science-book/">Applied Data Science - Lessons Learned for the Data-Driven Business</a>. Springer.</li>
+    <li>Stadelmann, T., Stockinger, K., Braschler, M., Cieliebak, M., Baudinot, G., Dürr, O. and Ruckstuhl, A., 2013. <a href="https://stdm.github.io/downloads/papers/ECSS_2013.pdf">Applied data science in Europe: challenges for academia in keeping up with a highly demanded topic</a>. In 9th European Computer Science Summit, Amsterdam, October 8–9, 2013.</li>
+</ul>
 </details>
 
 
