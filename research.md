@@ -6,18 +6,23 @@ comments: false
 
 This is the academic website of [Thilo Stadelmann](https://www.zhaw.ch/en/about-us/person/stdm/), professor of **artificial intelligence** and **machine learning** at the [ZHAW](https://www.zhaw.ch/en/university/) [School of Engineering](https://www.zhaw.ch/en/engineering) and holder of the chair of Engineering-Information, director of the [Centre for Artificial Intelligence](https://www.zhaw.ch/en/engineering/institutes-centres/cai/) and head of its [Machine Perception and Cognition Group](https://www.zhaw.ch/en/engineering/institutes-centres/cai/machine-perception-and-cognition-group/). I am also (co-)founder and board member of [AlpineAI AG](https://alpineai.swiss/) and the [ZHAW Datalab](https://www.zhaw.ch/datalab), pioneered [several other organizations](https://www.linkedin.com/in/thilo-stadelmann/), frequently give [keynote talks](https://premium-speakers.com/en/speaker-presenter/thilo-stadelmann/), and received several [awards](https://www.zhaw.ch/en/about-us/person/stdm/) for my teaching, research, and ecosystem engagement. All views expressed are mine.
 
+
+### TOC
+1. [Biography](#bio)
+2. [The group](#group)
+3. [Research examples](#work)
+4. [Collaborations](#collaborations)
+5. [Publications](#publications)
+
+
+<a name="bio"></a>
+## Biography
+
 <img src="http://stdm.github.io/images/thilo-2024.jpg"/>
 
 I studied computer science in Giessen and Marburg and received the Doctor of Science degree from [Marburg University](https://www.informatik.uni-marburg.de/~stadelmann/), Germany, in 2010, where I worked on multimedia analysis and voice recognition. I held engineering and leadership roles in the automotive industry for several years prior to my appointment at the ZHAW. My current research interests revolve around robust representation learning in deep neural networks for pattern recognition problems; how to learn structured and actionable representations for world models; and societal effects of AI. My group and research is introduced in more detail [below](#group).
 
 Personally, I like kitesurfing, enjoy playing music on stringed instruments (guitars, bass), and am a follower of <a href="https://odb.org/">Jesus Christ</a>. If this makes you curious, send me an email with a meeting request (subject "30 minutes on faith"), I am happy to explain. I try living by the following values (my closer colleagues know I am not there yet): excellence; wisdom; honor all people; mercy for failure; and courage.
-
-
-### TOC
-1. [The group](#group)
-2. [Research examples](#work)
-3. [Collaborations](#collaborations)
-4. [Publications](#publications)
 
 
 <a name="group"></a>
@@ -51,27 +56,27 @@ The group has very diverse backgrounds, which helps us complement each other's s
 <details>
 <summary><b>Alumni</b></summary>
 <ul>
-  <li> <a href="https://www.linkedin.com/in/raphael-emberger-206015bb">Raphael Emberger</a>, research assistant 2012-2024, M.Sc. and B.Sc. computer science (ZHAW) &rarr; Deep Learning Engineer @ Rheinmetall Air Defence</li>
+  <li> <a href="https://www.linkedin.com/in/raphael-emberger-206015bb">Raphael Emberger</a>, research assistant 2012-2024, M.Sc. and B.Sc. computer science (ZHAW) <br>&rarr; Deep Learning Engineer @ Rheinmetall Air Defence</li>
   <li> <a href="https://www.zhaw.ch/en/about-us/person/ayfe/">Erdal Ayfer</a>, intern 2023-2024, B.Sc. student computer science(ZHAW)</li>
-  <li> <a href="https://www.linkedin.com/in/sydney-nguyen-117987180/">Sydney M. Nguyen</a>, M.Sc. student 2022-2024, B.Sc. in computer science (ZHAW) &rarr; Solution Engineer Data & AI @ mesoneer</li>
-  <li> <a href="https://www.linkedin.com/in/sebastian-salzmann-8214b911b">Sebastian Salzmann</a>, M.Sc. student 2021-2024, B.Sc. biology (ETH) & M.Sc. molecular health sciences (ETH) &rarr; Scientific IT @ EAWAG</li>
-  <li> <a href="https://www.linkedin.com/in/paul-l-821892247/">Paul Luley</a>, research assistent 2022-2023, B.Sc. biomedical engineering (Technikum Vienna) &rarr; Data Science Researcher @ Julius Bär</li>
-  <li> <a href="https://scholar.google.com/citations?user=ZU1fTMYAAAAJ&hl=en">Dr. Ricardo Chavarriaga</a>, B.Sc. electronics engineering (Pontificia Universidad Javeriana, Columbia), graduate school in computer/communication/information science (EPFL), PhD neuroscience (EPFL), Postdoc neuroscience/brain-computer interfaces (EPFL & IDIAP), senior researcher 2019-2023 &rarr; Head of Responsible AI Innovation Group @ ZHAW CAI</li>
-  <li> <a href="https://www.zhaw.ch/en/about-us/person/amir/">Mohammadreza Amirian</a>, B.Sc. (U. Shiraz) & M.Sc. (U. Ulm) in electrical engineering, PhD 2017-2023 in conjunction with [Friedhelm Schwenker</a>https://www.uni-ulm.de/in/neuroinformatik/institut/hidden/f-schwenker/) of Ulm University / Germany &rarr; Deep learning and computer vision researcher @ HES-SO Valais-Wallis</li>
-  <li> <a href="https://www.linkedin.com/in/adhiraj-ghosh/">Adhiraj Ghosh</a>, B.Tech. (Manipal Institute of Technology), research intern 2021/22 (ZHAW) &rarr; M.Sc. student @ Tübingen University</li>
-  <li> <a href="https://www.zhaw.ch/en/about-us/person/lehl/">Claude Olivier Lehmann</a>, M.Sc. and B.Sc. (ZHAW) &rarr; PhD student with Prof. Kurt Stockinger @ ZHAW InIT</li>
-  <li> <a href="http://www.fp-schilling.de">Dr. Frank-Peter Schilling</a> Diplom & PhD (U. Heidelberg) in physics, PostDoc at CERN &rarr; Head of Intelligent Vision Systems Group @ ZHAW CAI</li>
-  <li> <a href="https://scholar.google.de/citations?user=5cpeK3MAAAAJ&hl=en">Dr. Javier Montoya</a>, B.Sc. computer engineering (UCSP, Arequipa, Peru), M.Sc. computer science (Unicamp, Sao Paulo, Brazil), M.Sc. computer science (ENSIMAG, Grenoble, France), PhD computer vision and machine learning (ETHZ) &rarr; Senior lecturer of computer science @ Lucerne University of Applied Sciences</li>
-  <li> Stefan Huschauer: B.Sc. computer science (ETH & ZHAW), M.Sc. (ZHAW) &rarr; Noimos, an AXA insuretech company</li>
-  <li> <a href="https://ba-pub.engineering.zhaw.ch/WebPublication/Flyer.pdf?version=Bachelorarbeit2018&code=BA18_wyrs_3&language=de">Daniel Neururer</a>, B.Sc. in systems engineering (ZHAW), M.Sc. 2020 (ZHAW) &rarr; Software Engineer @ mcs software AG</li>
-  <li> <a href="https://github.com/TheRevanchist">Dr. Ismail Elezi</a>, B.Sc. (U. Pristina), M.Sc. (Ca'Foscari) & PhD (Ca'Foscari & ZHAW, July 2020) in computer science &rarr; Senior Research Scientist / Tech Lead @ Huawei Noah’s Ark</li>
-  <li> <a href="https://www.linkedin.com/in/yvan-satyawan">Yvan Satyawan</a>, B.Sc. computer science (U. Freiburg, Germany) &rarr; Founder @ stealth-mode start-up</li>
-  <li> <a href="https://dblp.uni-trier.de/pers/hd/r/Rombach:Katharina">Katharina Rombach</a>, B.Sc. & M.Sc. (ETH Zurich; admitted to EDIC and ERDS doctoral schools at EPFL) &rarr; PhD student with Prof. Olga Fink @ EPFL</li>
+  <li> <a href="https://www.linkedin.com/in/sydney-nguyen-117987180/">Sydney M. Nguyen</a>, M.Sc. student 2022-2024, B.Sc. in computer science (ZHAW) <br>&rarr; Solution Engineer Data & AI @ mesoneer</li>
+  <li> <a href="https://www.linkedin.com/in/sebastian-salzmann-8214b911b">Sebastian Salzmann</a>, M.Sc. student 2021-2024, B.Sc. biology (ETH) & M.Sc. molecular health sciences (ETH) <br>&rarr; Scientific IT @ EAWAG</li>
+  <li> <a href="https://www.linkedin.com/in/paul-l-821892247/">Paul Luley</a>, research assistent 2022-2023, B.Sc. biomedical engineering (Technikum Vienna) <br>&rarr; Data Science Researcher @ Julius Bär</li>
+  <li> <a href="https://scholar.google.com/citations?user=ZU1fTMYAAAAJ&hl=en">Dr. Ricardo Chavarriaga</a>, B.Sc. electronics engineering (Pontificia Universidad Javeriana, Columbia), graduate school in computer/communication/information science (EPFL), PhD neuroscience (EPFL), Postdoc neuroscience/brain-computer interfaces (EPFL & IDIAP), senior researcher 2019-2023 <br>&rarr; Head of Responsible AI Innovation Group @ ZHAW CAI</li>
+  <li> <a href="https://www.zhaw.ch/en/about-us/person/amir/">Mohammadreza Amirian</a>, B.Sc. (U. Shiraz) & M.Sc. (U. Ulm) in electrical engineering, PhD 2017-2023 in conjunction with [Friedhelm Schwenker</a>https://www.uni-ulm.de/in/neuroinformatik/institut/hidden/f-schwenker/) of Ulm University / Germany <br>&rarr; Deep learning and computer vision researcher @ HES-SO Valais-Wallis</li>
+  <li> <a href="https://www.linkedin.com/in/adhiraj-ghosh/">Adhiraj Ghosh</a>, B.Tech. (Manipal Institute of Technology), research intern 2021/22 (ZHAW) <br>&rarr; M.Sc. student @ Tübingen University</li>
+  <li> <a href="https://www.zhaw.ch/en/about-us/person/lehl/">Claude Olivier Lehmann</a>, M.Sc. and B.Sc. (ZHAW) <br>&rarr; PhD student with Prof. Kurt Stockinger @ ZHAW InIT</li>
+  <li> <a href="http://www.fp-schilling.de">Dr. Frank-Peter Schilling</a> Diplom & PhD (U. Heidelberg) in physics, PostDoc at CERN <br>&rarr; Head of Intelligent Vision Systems Group @ ZHAW CAI</li>
+  <li> <a href="https://scholar.google.de/citations?user=5cpeK3MAAAAJ&hl=en">Dr. Javier Montoya</a>, B.Sc. computer engineering (UCSP, Arequipa, Peru), M.Sc. computer science (Unicamp, Sao Paulo, Brazil), M.Sc. computer science (ENSIMAG, Grenoble, France), PhD computer vision and machine learning (ETHZ) <br>&rarr; Senior lecturer of computer science @ Lucerne University of Applied Sciences</li>
+  <li> Stefan Huschauer: B.Sc. computer science (ETH & ZHAW), M.Sc. (ZHAW) <br>&rarr; Noimos, an AXA insuretech company</li>
+  <li> <a href="https://ba-pub.engineering.zhaw.ch/WebPublication/Flyer.pdf?version=Bachelorarbeit2018&code=BA18_wyrs_3&language=de">Daniel Neururer</a>, B.Sc. in systems engineering (ZHAW), M.Sc. 2020 (ZHAW) <br>&rarr; Software Engineer @ mcs software AG</li>
+  <li> <a href="https://github.com/TheRevanchist">Dr. Ismail Elezi</a>, B.Sc. (U. Pristina), M.Sc. (Ca'Foscari) & PhD (Ca'Foscari & ZHAW, July 2020) in computer science <br>&rarr; Senior Research Scientist / Tech Lead @ Huawei Noah’s Ark</li>
+  <li> <a href="https://www.linkedin.com/in/yvan-satyawan">Yvan Satyawan</a>, B.Sc. computer science (U. Freiburg, Germany) <br>&rarr; Founder @ stealth-mode start-up</li>
+  <li> <a href="https://dblp.uni-trier.de/pers/hd/r/Rombach:Katharina">Katharina Rombach</a>, B.Sc. & M.Sc. (ETH Zurich; admitted to EDIC and ERDS doctoral schools at EPFL) <br>&rarr; PhD student with Prof. Olga Fink @ EPFL</li>
   <li> <a href="https://www.linkedin.com/in/reza-kakooee/">Reza Kakooee</a>, M.Sc. (U. Mashhad) &rarr; PhD student with Prof. Marc Pouly @ Lucerne University of Applied Sciences</li>
-  <li> <a href="https://www.linkedin.com/in/benjamin-meier-61ab078b/">Benjamin Bruno Meier</a>, M.Sc. (ZHAW; Hirschmann scholarship holder & Dr. Waldemar Jucker laureate) &rarr; Software Engineer @ Argus Data Insights Schweiz AG</li>
-  <li> <a href="https://www.linkedin.com/in/gabriel-eyyi/">Gabriel Eyyi</a>, M.Sc. (ZHAW) &rarr; Software Engineer / Machine Learning Engineer @ dizmo AG</li>
-  <li> <a href="https://www.linkedin.com/in/thierrymusy/">Thierry Musy</a>, B.Sc. (ZHAW) &rarr; Partner / Senior Data Scientist @ Foursight Digital AG</li>
-  <li> <a href="https://www.linkedin.com/in/janstampfli/">Jan Stampfli</a>, B.Sc. (ZHAW) &rarr; Big Data Engineer @ Migros-Genossenschafts-Bund</li>
+  <li> <a href="https://www.linkedin.com/in/benjamin-meier-61ab078b/">Benjamin Bruno Meier</a>, M.Sc. (ZHAW; Hirschmann scholarship holder & Dr. Waldemar Jucker laureate) <br>&rarr; Software Engineer @ Argus Data Insights Schweiz AG</li>
+  <li> <a href="https://www.linkedin.com/in/gabriel-eyyi/">Gabriel Eyyi</a>, M.Sc. (ZHAW) <br>&rarr; Software Engineer / Machine Learning Engineer @ dizmo AG</li>
+  <li> <a href="https://www.linkedin.com/in/thierrymusy/">Thierry Musy</a>, B.Sc. (ZHAW) <br>&rarr; Partner / Senior Data Scientist @ Foursight Digital AG</li>
+  <li> <a href="https://www.linkedin.com/in/janstampfli/">Jan Stampfli</a>, B.Sc. (ZHAW) <br>&rarr; Big Data Engineer @ Migros-Genossenschafts-Bund</li>
 </ul>
 </details>
 
@@ -79,7 +84,6 @@ The group has very diverse backgrounds, which helps us complement each other's s
 <a name="work"></a>
 ## Research examples
 
-<a href="url">
 
 <a name="robust"></a>
 <details>
@@ -203,7 +207,7 @@ The group has very diverse backgrounds, which helps us complement each other's s
 
 <p>Meta learning, or learning to learn is very interesting from the perspective of what learning in machines and beyond actually means. We have for instance built a novel end-to-end neural network architecture that, once trained, directly outputs a probabilistic clustering of a batch of input examples in one pass. It estimates a distribution over the number of clusters and, for each number of clusters up to a maximum, distributions over the respective data partitioning. The neural network is trained in a supervised fashion to group data by any perceptual similarity criterion based on pairwise labels (same/different group). It does not expect to have seen any of the groups that appear during model application already during training. We demonstrate promising performance on high-dimensional data like images (COIL-100) and speech (TIMIT). We call this <a href="http://stdm.github.io/downloads/papers/ANNPR_2018a.pdf">learning to cluster</a>. We have also produced a survey and some novel results on the more general topic of <a href="https://stdm.github.io/downloads/papers/SDS_2019.pdf">meta learning</a>.</p>
 
-<h4>Selected references (see also <a href="#publications">below</a>)</h4>
+<h4>Selected references</h4>
 <ul>
     <li>Tuggener, L., Amirian, M., Benites, F., von Däniken, P., Gupta, P., Schilling, F. P., and Stadelmann, T. (2020). <a href="https://www.mdpi.com/2673-2688/1/4/31/pdf">Design patterns for resource-constrained automated deep-learning methods</a>. AI, 1(4), 510-538.</li>
     <li>Meier, B.B., Elezi, I., Amirian, M., Dürr, O. and Stadelmann, T., 2018, September. <a href="https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf">Learning Neural Models for End-to-End Clustering</a>. In IAPR Workshop on Artificial Neural Networks in Pattern Recognition (pp. 126-138). Springer, Cham.</li>
@@ -255,9 +259,30 @@ The group has very diverse backgrounds, which helps us complement each other's s
 <a name="collaborations"></a>
 ## Collaborations
 
-I frequently collaborate with industry to work on novel pattern recognition use cases. Partners come from start-ups, SMEs and multi-national enterprises alike. 
+We usually collaborate with industry to work on novel pattern recognition use cases after funding is secured. Partners come from start-ups, SMEs and multi-national enterprises alike. It is actually helpful, in our experience over more than a decade, to work across domains (e.g., industrial production, medicine/health, entertainment, ...): The methodical questions are very comparable (robustness, transferability, ...), while the different application areas help to not make subsequent partners competitors. For any concrete project, we build the team that is best suited to solve the particular challenges, which often leads to collaborations with other research groups from the ZHAW.
 
-In academia, I collaborate e.g. with [Benjamin F. Grewe's](https://www.ini.uzh.ch/en/research/groups/grewe.html) Neural Learning and Intelligent Systems Group at UZH/ETH's Institute of Neuroinformatics, [Christoph von der Malsburg](https://www.fias.science/en/life-and-neurosciences/research-groups/christoph-von-der-malsburg/) of the Frankfurt Institute of Advanced Studies, [Marcello Pelillo](http://www.dsi.unive.it/~pelillo/) of the Ca'Foscari University of Venice, [Juergen Schmidhuber](http://people.idsia.ch/~juergen/), [Carmody Grey](https://www.ru.nl/en/about-us/news/carmody-grey-appointed-professor-by-special-appointment-of-integral-ecology) at Radboud Universiteit and [Oliver Duerr](https://www.unifr.ch/glaubeundgesellschaft/en/center/people/team-en/oliver-duerr.html) of the Centre for Faith & Society at University of Fribourg, or the Machine Learning and Optimization Lab of [Martin Jaggi](https://mlo.epfl.ch/) at EPFL. We have joint research projects, publications and/or co-supervise PhD students.
+<details>
+<summary><b>Research partnerships</b></summary>
+
+We collaborate a lot with different universities and research institutions worldwide, also for joint supervision of our PhD students.
+
+
+<a href="url"></a>
+
+<ul>
+	<li><a href="https://sites.uml.edu/abl">Prof. Benjamin Grewe</a> (neuroinformatics and machine learning) of ETH Zurich</li>
+	<li><a href="https://www.fias.science/en/life-and-neurosciences/research-groups/christoph-von-der-malsburg/">Prof. Christoph von der Malsburg</a> (neuroscience) of Frankfurt Institute of Advanced Studies</li>
+	<li><a href="http://www.dsi.unive.it/~pelillo/">Prof. Marcello Pelillo</a> (pattern recognition) of Ca'Foscari University of Venice</li>
+	<li><a href="http://people.idsia.ch/~juergen/">Prof. Juergen Schmidhuber</a> (AI, deep learning) of IDSIA and KAUST</li>
+	<li><a href="https://sites.uml.edu/abl/">Prof. Anna Yaroslavsky</a> (biophotonics) of UMass Lovell</li>
+	<li><a href="https://www.ru.nl/en/about-us/news/carmody-grey-appointed-professor-by-special-appointment-of-integral-ecology">Prof. Carmody Grey</a> (theology, integral ecology) of Radboud Universiteit</li>
+	<li><a href="https://www.unifr.ch/glaubeundgesellschaft/en/center/people/team-en/oliver-duerr.html">Dr. Oliver Duerr</a> (techno-theology, ethics, faith & society) of University of Fribourg</li>
+	<li><a href="https://mlo.epfl.ch/">Prof. Martin Jaggi</a> (machine learning, optimisation) of EPFL</li>
+	<li><a href="https://www.empa.ch/web/s799/mirko-kovac">Prof. Mirko Kovac</a> (sustainability robotics) EMPA/EPFL</li>
+	<li><a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Prof. Davide Scaramuzza</a> (robotics, perception) University of Zurich</li>
+</ul>
+
+</details>
 
 If you are interested in a collaboration, please [contact](http://www.zhaw.ch/=stdm) me.
 
