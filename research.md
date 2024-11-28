@@ -60,68 +60,39 @@ The group has very diverse backgrounds, which helps us complement each other's s
     
 #### Alumni
 
-
-<details open>
-<summary>Shopping list</summary>
-
-* Vegetables
-* Fruits
-* Fish
-
-</details>
-
-
 <details>
 <summary>...</summary>
 
-  * [Raphael Emberger](https://www.linkedin.com/in/raphael-emberger-206015bb), research assistant 2012-2024, M.Sc. and B.Sc. computer science (ZHAW) &rarr; Deep Learning Engineer @ Rheinmetall Air Defence
-
-  * [Erdal Ayfer](https://www.zhaw.ch/en/about-us/person/ayfe/), intern 2023-2024, B.Sc. student computer science(ZHAW)
-
-  * [Sydney M. Nguyen](https://www.linkedin.com/in/sydney-nguyen-117987180/), M.Sc. student 2022-2024, B.Sc. in computer science (ZHAW) &rarr; Solution Engineer Data & AI @ mesoneer
-
-  * [Sebastian Salzmann](https://www.linkedin.com/in/sebastian-salzmann-8214b911b), M.Sc. student 2021-2024, B.Sc. biology (ETH) & M.Sc. molecular health sciences (ETH) &rarr; Scientific IT @ EAWAG
-  
-  * [Paul Luley](https://www.linkedin.com/in/paul-l-821892247/), research assistent 2022-2023, B.Sc. biomedical engineering (Technikum Vienna) &rarr; Data Science Researcher @ Julius Bär
-
-  * [Dr. Ricardo Chavarriaga](https://scholar.google.com/citations?user=ZU1fTMYAAAAJ&hl=en), B.Sc. electronics engineering (Pontificia Universidad Javeriana, Columbia), graduate school in computer/communication/information science (EPFL), PhD neuroscience (EPFL), Postdoc neuroscience/brain-computer interfaces (EPFL & IDIAP), senior researcher 2019-2023 &rarr; Head of Responsible AI Innovation Group @ ZHAW CAI
-  
-  * [Mohammadreza Amirian](https://www.zhaw.ch/en/about-us/person/amir/), B.Sc. (U. Shiraz) & M.Sc. (U. Ulm) in electrical engineering, PhD 2017-2023 in conjunction with [Friedhelm Schwenker](https://www.uni-ulm.de/in/neuroinformatik/institut/hidden/f-schwenker/) of Ulm University / Germany &rarr; Deep learning and computer vision researcher @ HES-SO Valais-Wallis
-
-  * [Adhiraj Ghosh](https://www.linkedin.com/in/adhiraj-ghosh/), B.Tech. (Manipal Institute of Technology), research intern 2021/22 (ZHAW) &rarr; M.Sc. student @ Tübingen University
-
-  * [Claude Olivier Lehmann](https://www.zhaw.ch/en/about-us/person/lehl/), M.Sc. and B.Sc. (ZHAW) &rarr; PhD student with Prof. Kurt Stockinger @ ZHAW InIT
-  
-  * [Dr. Frank-Peter Schilling](http://www.fp-schilling.de) Diplom & PhD (U. Heidelberg) in physics, PostDoc at CERN &rarr; Head of Intelligent Vision Systems Group @ ZHAW CAI
-
-  * [Dr. Javier Montoya](https://scholar.google.de/citations?user=5cpeK3MAAAAJ&hl=en), B.Sc. computer engineering (UCSP, Arequipa, Peru), M.Sc. computer science (Unicamp, Sao Paulo, Brazil), M.Sc. computer science (ENSIMAG, Grenoble, France), PhD computer vision and machine learning (ETHZ) &rarr; Senior lecturer of computer science @ Lucerne University of Applied Sciences
-
-  * Stefan Huschauer: B.Sc. computer science (ETH & ZHAW), M.Sc. (ZHAW) &rarr; Noimos, an AXA insuretech company
-
-  * [Daniel Neururer](https://ba-pub.engineering.zhaw.ch/WebPublication/Flyer.pdf?version=Bachelorarbeit2018&code=BA18_wyrs_3&language=de), B.Sc. in systems engineering (ZHAW), M.Sc. 2020 (ZHAW) &rarr; Software Engineer @ mcs software AG
-
-  * [Dr. Ismail Elezi](https://github.com/TheRevanchist), B.Sc. (U. Pristina), M.Sc. (Ca'Foscari) & PhD (Ca'Foscari & ZHAW, July 2020) in computer science &rarr; Senior Research Scientist / Tech Lead @ Huawei Noah’s Ark
-
-  * [Yvan Satyawan](https://www.linkedin.com/in/yvan-satyawan), B.Sc. computer science (U. Freiburg, Germany) &rarr; Founder @ stealth-mode start-up
-
-  * [Katharina Rombach](https://dblp.uni-trier.de/pers/hd/r/Rombach:Katharina), B.Sc. & M.Sc. (ETH Zurich; admitted to EDIC and ERDS doctoral schools at EPFL) &rarr; PhD student with Prof. Olga Fink @ EPFL
-
-  * [Reza Kakooee](https://www.linkedin.com/in/reza-kakooee/), M.Sc. (U. Mashhad) &rarr; PhD student with Prof. Marc Pouly @ Lucerne University of Applied Sciences
-
-  * [Benjamin Bruno Meier](https://www.linkedin.com/in/benjamin-meier-61ab078b/), M.Sc. (ZHAW; Hirschmann scholarship holder & Dr. Waldemar Jucker laureate) &rarr; Software Engineer @ Argus Data Insights Schweiz AG
-  
-  * [Gabriel Eyyi](https://www.linkedin.com/in/gabriel-eyyi/), M.Sc. (ZHAW) &rarr; Software Engineer / Machine Learning Engineer @ dizmo AG
-  
-  * [Thierry Musy](https://www.linkedin.com/in/thierrymusy/), B.Sc. (ZHAW) &rarr; Partner / Senior Data Scientist @ Foursight Digital AG
-  
-  * [Jan Stampfli](https://www.linkedin.com/in/janstampfli/), B.Sc. (ZHAW) &rarr; Big Data Engineer @ Migros-Genossenschafts-Bund
-  
+<ul>
+  <li> <a href="https://www.linkedin.com/in/raphael-emberger-206015bb">Raphael Emberger</a>, research assistant 2012-2024, M.Sc. and B.Sc. computer science (ZHAW) &rarr; Deep Learning Engineer @ Rheinmetall Air Defence</li>
+  <li> <a href="https://www.zhaw.ch/en/about-us/person/ayfe/">Erdal Ayfer</a>, intern 2023-2024, B.Sc. student computer science(ZHAW)</li>
+  <li> <a href="https://www.linkedin.com/in/sydney-nguyen-117987180/">Sydney M. Nguyen</a>, M.Sc. student 2022-2024, B.Sc. in computer science (ZHAW) &rarr; Solution Engineer Data & AI @ mesoneer</li>
+  <li> <a href="https://www.linkedin.com/in/sebastian-salzmann-8214b911b">Sebastian Salzmann</a>, M.Sc. student 2021-2024, B.Sc. biology (ETH) & M.Sc. molecular health sciences (ETH) &rarr; Scientific IT @ EAWAG</li>
+  <li> <a href="https://www.linkedin.com/in/paul-l-821892247/">Paul Luley</a>, research assistent 2022-2023, B.Sc. biomedical engineering (Technikum Vienna) &rarr; Data Science Researcher @ Julius Bär</li>
+  <li> <a href="https://scholar.google.com/citations?user=ZU1fTMYAAAAJ&hl=en">Dr. Ricardo Chavarriaga</a>, B.Sc. electronics engineering (Pontificia Universidad Javeriana, Columbia), graduate school in computer/communication/information science (EPFL), PhD neuroscience (EPFL), Postdoc neuroscience/brain-computer interfaces (EPFL & IDIAP), senior researcher 2019-2023 &rarr; Head of Responsible AI Innovation Group @ ZHAW CAI</li>
+  <li> <a href="https://www.zhaw.ch/en/about-us/person/amir/">Mohammadreza Amirian</a>, B.Sc. (U. Shiraz) & M.Sc. (U. Ulm) in electrical engineering, PhD 2017-2023 in conjunction with [Friedhelm Schwenker</a>https://www.uni-ulm.de/in/neuroinformatik/institut/hidden/f-schwenker/) of Ulm University / Germany &rarr; Deep learning and computer vision researcher @ HES-SO Valais-Wallis</li>
+  <li> <a href="https://www.linkedin.com/in/adhiraj-ghosh/">Adhiraj Ghosh</a>, B.Tech. (Manipal Institute of Technology), research intern 2021/22 (ZHAW) &rarr; M.Sc. student @ Tübingen University</li>
+  <li> <a href="https://www.zhaw.ch/en/about-us/person/lehl/">Claude Olivier Lehmann</a>, M.Sc. and B.Sc. (ZHAW) &rarr; PhD student with Prof. Kurt Stockinger @ ZHAW InIT</li>
+  <li> <a href="http://www.fp-schilling.de">Dr. Frank-Peter Schilling</a> Diplom & PhD (U. Heidelberg) in physics, PostDoc at CERN &rarr; Head of Intelligent Vision Systems Group @ ZHAW CAI</li>
+  <li> <a href="https://scholar.google.de/citations?user=5cpeK3MAAAAJ&hl=en">Dr. Javier Montoya</a>, B.Sc. computer engineering (UCSP, Arequipa, Peru), M.Sc. computer science (Unicamp, Sao Paulo, Brazil), M.Sc. computer science (ENSIMAG, Grenoble, France), PhD computer vision and machine learning (ETHZ) &rarr; Senior lecturer of computer science @ Lucerne University of Applied Sciences</li>
+  <li> Stefan Huschauer: B.Sc. computer science (ETH & ZHAW), M.Sc. (ZHAW) &rarr; Noimos, an AXA insuretech company</li>
+  <li> <a href="https://ba-pub.engineering.zhaw.ch/WebPublication/Flyer.pdf?version=Bachelorarbeit2018&code=BA18_wyrs_3&language=de">Daniel Neururer</a>, B.Sc. in systems engineering (ZHAW), M.Sc. 2020 (ZHAW) &rarr; Software Engineer @ mcs software AG</li>
+  <li> <a href="https://github.com/TheRevanchist">Dr. Ismail Elezi</a>, B.Sc. (U. Pristina), M.Sc. (Ca'Foscari) & PhD (Ca'Foscari & ZHAW, July 2020) in computer science &rarr; Senior Research Scientist / Tech Lead @ Huawei Noah’s Ark</li>
+  <li> <a href="https://www.linkedin.com/in/yvan-satyawan">Yvan Satyawan</a>, B.Sc. computer science (U. Freiburg, Germany) &rarr; Founder @ stealth-mode start-up</li>
+  <li> <a href="https://dblp.uni-trier.de/pers/hd/r/Rombach:Katharina">Katharina Rombach</a>, B.Sc. & M.Sc. (ETH Zurich; admitted to EDIC and ERDS doctoral schools at EPFL) &rarr; PhD student with Prof. Olga Fink @ EPFL</li>
+  <li> <a href="https://www.linkedin.com/in/reza-kakooee/">Reza Kakooee</a>, M.Sc. (U. Mashhad) &rarr; PhD student with Prof. Marc Pouly @ Lucerne University of Applied Sciences</li>
+  <li> <a href="https://www.linkedin.com/in/benjamin-meier-61ab078b/">Benjamin Bruno Meier</a>, M.Sc. (ZHAW; Hirschmann scholarship holder & Dr. Waldemar Jucker laureate) &rarr; Software Engineer @ Argus Data Insights Schweiz AG</li>
+  <li> <a href="https://www.linkedin.com/in/gabriel-eyyi/">Gabriel Eyyi</a>, M.Sc. (ZHAW) &rarr; Software Engineer / Machine Learning Engineer @ dizmo AG</li>
+  <li> <a href="https://www.linkedin.com/in/thierrymusy/">Thierry Musy</a>, B.Sc. (ZHAW) &rarr; Partner / Senior Data Scientist @ Foursight Digital AG</li>
+  <li> <a href="https://www.linkedin.com/in/janstampfli/">Jan Stampfli</a>, B.Sc. (ZHAW) &rarr; Big Data Engineer @ Migros-Genossenschafts-Bund</li>
+</ul>
 </details>
 
  
 <a name="work"></a>
 ## Research examples
 
+<a href="url">
 
 <a name="robust"></a>
 ###Robust and practical deep learning
@@ -132,24 +103,24 @@ The group has very diverse backgrounds, which helps us complement each other's s
 [<img alt="Examples of automatic segmentation" src="http://stdm.github.io/images/article_segmentation.jpg"/>](http://stdm.github.io/images/article_segmentation.jpg)
 [<img alt="Newspaper article segmentation architecture" src="http://stdm.github.io/images/fcnn_architecture.jpg"/>](http://stdm.github.io/images/fcnn_architecture.jpg)
 
-Deep learning has long reached the [point of practical applicability](https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf) in solving day-to-day tasks in many non-AI businesses, for instance manufacturing SMEs. Specific challenges arise and are tackled in our [applied research projects](http://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf), ranging from data quality and quantity issues to higher requirements on robustness and resilience of the models. For instance, segmenting newspaper pages into articles that semantically belong together is a necessary prerequisite for article-based information retrieval on print media collections like e.g. archives and libraries. It is challenging due to vastly differing layouts of papers, various content types and different languages, but commercially very relevant for e.g. media monitoring.
+Deep learning has long reached the <a href="https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf">point of practical applicability</a> in solving day-to-day tasks in many non-AI businesses, for instance manufacturing SMEs. Specific challenges arise and are tackled in our <a href="http://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf">applied research projects</a>, ranging from data quality and quantity issues to higher requirements on robustness and resilience of the models. For instance, segmenting newspaper pages into articles that semantically belong together is a necessary prerequisite for article-based information retrieval on print media collections like e.g. archives and libraries. It is challenging due to vastly differing layouts of papers, various content types and different languages, but commercially very relevant for e.g. media monitoring.
 
-Here, we have developed a [semantic segmentation approach](http://stdm.github.io/downloads/papers/ICDAR_2017.pdf) based on the visual appearance of each page. We apply a fully convolutional neural network (FCN) that we train in an end-to-end fashion to transform the input image into a segmentation mask in one pass. We show experimentally that the FCN performs very well: it outperforms a deep learning-based commercial solution by a large margin in terms of segmentation quality while in addition being computationally two orders of magnitude more efficient. The whole system is trained with only 5,500 images of which less than 500 are fully labeled.
+Here, we have developed a <a href="url">semantic segmentation approach</a>http://stdm.github.io/downloads/papers/ICDAR_2017.pdf) based on the visual appearance of each page. We apply a fully convolutional neural network (FCN) that we train in an end-to-end fashion to transform the input image into a segmentation mask in one pass. We show experimentally that the FCN performs very well: it outperforms a deep learning-based commercial solution by a large margin in terms of segmentation quality while in addition being computationally two orders of magnitude more efficient. The whole system is trained with only 5,500 images of which less than 500 are fully labeled.
 
 [<img alt="Detecting adversarial examples using local spatial entropy on feature response maps" src="http://stdm.github.io/images/adversarial_detection.jpg"/>](http://stdm.github.io/images/adversarial_detection.jpg)
 
-At the same time, the existence of adversarial attacks on convolutional neural networks (CNN) questions the fitness of such models for serious applications. Such attacks manipulate an input image such that misclassification is evoked while still looking normal to a human observer - they are thus not easily detectable. In a different context, backpropagated activations of CNN hidden layers - "feature responses" to a given input - have been helpful to visualize for a human "debugger" what the CNN "looks at" while computing its output. We have proposed a novel [detection method for adversarial examples](http://stdm.github.io/downloads/papers/ANNPR_2018c.pdf) to prevent attacks. We do so by tracking adversarial perturbations in feature responses, allowing for automatic detection using average local spatial entropy. The method does not alter the original network architecture and is fully human-interpretable. Experiments confirm the validity of our approach for state-of-the-art attacks on large-scale models trained on ImageNet.
+At the same time, the existence of adversarial attacks on convolutional neural networks (CNN) questions the fitness of such models for serious applications. Such attacks manipulate an input image such that misclassification is evoked while still looking normal to a human observer - they are thus not easily detectable. In a different context, backpropagated activations of CNN hidden layers - "feature responses" to a given input - have been helpful to visualize for a human "debugger" what the CNN "looks at" while computing its output. We have proposed a novel <a href="url">detection method for adversarial examples</a>http://stdm.github.io/downloads/papers/ANNPR_2018c.pdf) to prevent attacks. We do so by tracking adversarial perturbations in feature responses, allowing for automatic detection using average local spatial entropy. The method does not alter the original network architecture and is fully human-interpretable. Experiments confirm the validity of our approach for state-of-the-art attacks on large-scale models trained on ImageNet.
 
-As a final example, the prediction of product quality in an industrial plastic injection molding process (plus the needed process parameter adjustments to return to a non-anomalous process) can in principle be predicted from the evolution of the pressure within the cavity/tool. The problem is that the process is highly susceptible to little changes in the environmental conditions: The pressure curves look vastly different if only the sun shines on the machine over noon, for example. Hence, building a robust deep model to predict anomalies (and hopefully machine parameters) is a challenge of sucessful transfer learning. A first approach that works well for anomaly detection in this setup has been [published](https://stdm.github.io/downloads/papers/SDS_2024c.pdf) based on VAE methods.
+As a final example, the prediction of product quality in an industrial plastic injection molding process (plus the needed process parameter adjustments to return to a non-anomalous process) can in principle be predicted from the evolution of the pressure within the cavity/tool. The problem is that the process is highly susceptible to little changes in the environmental conditions: The pressure curves look vastly different if only the sun shines on the machine over noon, for example. Hence, building a robust deep model to predict anomalies (and hopefully machine parameters) is a challenge of sucessful transfer learning. A first approach that works well for anomaly detection in this setup has been <a href="url">published</a>https://stdm.github.io/downloads/papers/SDS_2024c.pdf) based on VAE methods.
 
-#### Selected references (see also [below](#publications))
+<h4>Selected references</h4>
+<ul>
+  <li> Yan, P., Abdulkadir, A., Luley, P. P., Rosenthal, M., Schatte, G. A., Grewe, B. F., and Stadelmann, T. (2024). <a href="https://doi.org/10.1109/ACCESS.2023.3349132">A comprehensive survey of deep transfer learning for anomaly detection in industrial time series: Methods, applications, and directions</a>. IEEE Access.</li>
 
-  * [Yan, P., Abdulkadir, A., Luley, P. P., Rosenthal, M., Schatte, G. A., Grewe, B. F., and Stadelmann, T. (2024). **A comprehensive survey of deep transfer learning for anomaly detection in industrial time series: Methods, applications, and directions**. IEEE Access.](https://doi.org/10.1109/ACCESS.2023.3349132)
+  <li> Stadelmann, T., Amirian, M., Arabaci, I., Arnold, M., Duivesteijn, G.F., Elezi, I., Geiger, M., Lörwald, S., Meier, B.B., Rombach, K. and Tuggener, L., 2018, September. <a href="https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf">Deep Learning in the Wild</a>. In IAPR Workshop on Artificial Neural Networks in Pattern Recognition (pp. 17-38). Springer, Cham.</li>
 
-  * [Stadelmann, T., Amirian, M., Arabaci, I., Arnold, M., Duivesteijn, G.F., Elezi, I., Geiger, M., Lörwald, S., Meier, B.B., Rombach, K. and Tuggener, L., 2018, September. **Deep Learning in the Wild**. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 17-38). Springer, Cham.](https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf)
-
-  * [Stadelmann, T., Tolkachev, V., Sick, B., Stampfli, J. and Dürr, O., 2019. **Beyond ImageNet - deep learning in industrial practice**. _Applied Data Science-Lessons Learned for the Data-Driven Business_. Springer.](https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf)
-
+  <li> Stadelmann, T., Tolkachev, V., Sick, B., Stampfli, J. and Dürr, O., 2019. <a href="https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf">Beyond ImageNet - deep learning in industrial practice</a>. Applied Data Science-Lessons Learned for the Data-Driven Business. Springer.</li>
+</ul>
 </details>
 
 
