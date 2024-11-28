@@ -278,8 +278,8 @@ We collaborate a lot with different universities and research institutions world
 	<li><a href="https://www.ru.nl/en/about-us/news/carmody-grey-appointed-professor-by-special-appointment-of-integral-ecology">Prof. Carmody Grey</a> (theology, integral ecology) of Radboud Universiteit</li>
 	<li><a href="https://www.unifr.ch/glaubeundgesellschaft/en/center/people/team-en/oliver-duerr.html">Dr. Oliver Duerr</a> (techno-theology, ethics, faith & society) of University of Fribourg</li>
 	<li><a href="https://mlo.epfl.ch/">Prof. Martin Jaggi</a> (machine learning, optimisation) of EPFL</li>
-	<li><a href="https://www.empa.ch/web/s799/mirko-kovac">Prof. Mirko Kovac</a> (sustainability robotics) EMPA/EPFL</li>
-	<li><a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Prof. Davide Scaramuzza</a> (robotics, perception) University of Zurich</li>
+	<li><a href="https://www.empa.ch/web/s799/mirko-kovac">Prof. Mirko Kovac</a> (sustainability robotics) of EMPA/EPFL</li>
+	<li><a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Prof. Davide Scaramuzza</a> (robotics, perception) of University of Zurich</li>
 </ul>
 </details>
 
