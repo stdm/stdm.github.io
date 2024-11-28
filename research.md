@@ -84,6 +84,7 @@ The group has very diverse backgrounds, which helps us complement each other's s
 <a name="work"></a>
 ## Research examples
 
+<img alt="Neural network architecture to detect anomalies in injection molding processes." src="http://stdm.github.io/images/sds2024-architecture.jpg"/>
 
 <a name="robust"></a>
 <details>
