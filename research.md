@@ -60,6 +60,17 @@ The group has very diverse backgrounds, which helps us complement each other's s
     
 #### Alumni
 
+
+<details open>
+<summary>Shopping list</summary>
+
+* Vegetables
+* Fruits
+* Fish
+
+</details>
+
+
 <details>
 <summary>...</summary>
 
@@ -303,7 +314,7 @@ In academia, I collaborate e.g. with [Benjamin F. Grewe's](https://www.ini.uzh.c
 
 If you are interested in a collaboration, please [contact](http://www.zhaw.ch/=stdm) me.
 
-<details>
+</details>
 
 
 <a name="publications"></a>
