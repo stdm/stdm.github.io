@@ -29,7 +29,7 @@ The [Machine Perception and Cognition Group](https://www.zhaw.ch/en/engineering/
 
 The group has very diverse backgrounds, which helps us complement each other's skills:
   
-  * [rof. Dr. Thilo Stadelmann](https://de.wikipedia.org/wiki/Thilo_Stadelmann), group lead: Diplom (THM) & PhD (U. Marburg) in computer science
+  * [Prof. Dr. Thilo Stadelmann](https://de.wikipedia.org/wiki/Thilo_Stadelmann), group lead: Diplom (THM) & PhD (U. Marburg) in computer science
   
   * [Dr. Ahmed Abdulkadir](https://scholar.google.com/citations?user=XqaePW0AAAAJ), senior researcher: B.Sc. systems engineering (NTB Buchs), BSc & MSc Life Sciences (EPFL), PhD computer engineering (University of Freiburg / Germany), PostDoc University Hospital Bern / University of Pennsylvania / Lausanne University Hospital
   
@@ -100,8 +100,6 @@ Our Alumni are:
   
   * [Jan Stampfli](https://www.linkedin.com/in/janstampfli/), B.Sc. (ZHAW) &rarr; Big Data Engineer @ Migros-Genossenschafts-Bund
 
-&nbsp;
-
  
 <a name="work"></a>
 ## Research examples
@@ -139,8 +137,6 @@ As a final example, the prediction of product quality in an industrial plastic i
 
   * [Stadelmann, T., Tolkachev, V., Sick, B., Stampfli, J. and Dürr, O., 2019. **Beyond ImageNet - deep learning in industrial practice**. _Applied Data Science-Lessons Learned for the Data-Driven Business_. Springer.](https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf)
 
-&nbsp;
-
 
 <a name="general"></a>
 ### Representation learning for next-level AI
@@ -156,8 +152,6 @@ A current theme that makes the above arguments more tangible is how to learn act
   * [von der Malsburg, C., Grewe, B. F., and Stadelmann, T. (2022, September). **Making sense of the natural environment**. In The Biannual Conference of the German Cognitive Science Society (KogWis).](https://stdm.github.io/downloads/papers/KogWis_2022.pdf)
 
   * [von der Malsburg, C., Stadelmann, T., and Grewe, B. F., 2022. **A Theory of Natural Intelligence**. _arXiv preprint_, arXiv:2205.00002.](https://arxiv.org/abs/2205.00002)
-
-&nbsp;
 
 
 <a name="trust"></a>
@@ -176,8 +170,6 @@ We also follow this thread of trustworthiness through projects on AI [verificati
   * [Wehrli, S., Hertweck, C., Amirian, M., Glüge, S., and Stadelmann, T., 2021. **Bias, awareness and ignorance in deep-learning-based face recognition**. _AI and Ethics_, DOI 10.1007/s43681-021-00108-6, Springer, October 27, 2021.](https://link.springer.com/article/10.1007/s43681-021-00108-6)
 
   * [Glüge, S., Amirian, M., Flumini, D., and Stadelmann, T., 2020. **How (Not) to Measure Bias in Face Recognition Networks**. In: _Proceedings of the 9th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (ANNPR’20)_, Springer, LNAI, Winterthur, Switzerland, September 02-04, 2020.](https://stdm.github.io/downloads/papers/ANNPR_2020.pdf)
-
-&nbsp;
 
 
 <a name="industrial"></a>
@@ -203,8 +195,6 @@ Additional applications include the [reduction of motion artifacts in CT images]
 
   * [Sager, P., Salzmann, S., Burn, F., and Stadelmann, T., 2022. **Unsupervised Domain Adaptation for Vertebrae Detection and Identification in 3D CT Volumes Using a Domain Sanity Loss**. _J. Imaging_ 2022, 8(8), 222, MDPI, Basel, Switzerland.](https://www.mdpi.com/2313-433X/8/8/222/pdf)
 
-&nbsp;
-
 
 <a name="documents"></a>
 ### Document Recognition
@@ -226,8 +216,6 @@ Current work focuses on building a foundation model for document recognition, ba
   * [Schmitt-Koopmann, F. M., Huang, E. M., Hutter, H. P., Stadelmann, T., and Darvishy, A. (2022). **FormulaNet: A benchmark dataset for mathematical formula detection**. IEEE Access, 10, 91588-91596.](https://ieeexplore.ieee.org/document/9869643)
   
   * [Tuggener, L., Elezi, I., Schmidhuber, J. and Stadelmann, T., 2018. **Deep watershed detector for music object recognition**. In _19th International Society for Music Information Retrieval Conference_, Paris, 23.-27. September 2018. Society for Music Information Retrieval.](https://stdm.github.io/downloads/papers/ISMIR_2018.pdf)
- 
-&nbsp;
 
 
 <a name="l2l"></a>
@@ -245,8 +233,6 @@ Meta learning, or learning to learn is very interesting from the perspective of 
   * [Meier, B.B., Elezi, I., Amirian, M., Dürr, O. and Stadelmann, T., 2018, September. **Learning Neural Models for End-to-End Clustering**. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 126-138). Springer, Cham.](https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf)
   
   * [Tuggener, L., Amirian, M., Rombach, K., Lörwald, S., Varlet, A., Westermann, C., and Stadelmann, T., 2019, June. **Automated Machine Learning in Practice: State of the Art and Recent Results**. In: _Proceedings of the 6th Swiss Conference on Data Science_ (SDS’19), Bern, Switzerland, June 14, 2019. IEEE.](https://stdm.github.io/downloads/papers/SDS_2019.pdf)
-
-&nbsp;
 
 
 <a name="voice"></a>
@@ -268,8 +254,6 @@ This line of research has also lead to work on other audio processing tasks like
 
   * [Stadelmann, T. and Freisleben, B., 2009, October. **Unfolding speaker clustering potential: a biomimetic approach**. In _Proceedings of the 17th ACM international conference on Multimedia_ (pp. 185-194). ACM.](https://stdm.github.io/downloads/papers/ACMMM_2009.pdf)
 
-&nbsp;
-
 
 <a name="datascience"></a>
 ### Data science
@@ -288,8 +272,6 @@ In 2021, I co-chaired the [1st International Symposium on the Science of Data Sc
 
   * [Stadelmann, T., Stockinger, K., Braschler, M., Cieliebak, M., Baudinot, G., Dürr, O. and Ruckstuhl, A., 2013. **Applied data science in Europe: challenges for academia in keeping up with a highly demanded topic**. In _9th European Computer Science Summit_, Amsterdam, October 8–9, 2013.](https://stdm.github.io/downloads/papers/ECSS_2013.pdf)
 
-&nbsp;
-
 
 <a name="collaborations"></a>
 ## Collaborations
@@ -299,8 +281,6 @@ I frequently collaborate with industry to work on novel pattern recognition appl
 In academia, I collaborate e.g. with [Benjamin F. Grewe's](https://www.ini.uzh.ch/en/research/groups/grewe.html) **Neural Learning and Intelligent Systems Group** at **UZH/ETHz's Institute of Neuroinformatics** and our joint visiting professor [Christoph von der Malsburg](https://www.fias.science/en/life-and-neurosciences/research-groups/christoph-von-der-malsburg/) of the **Frankfurt Institute of Advanced Studies**, [Marcello Pelillo](http://www.dsi.unive.it/~pelillo/) of the **Ca'Foscari University of Venice**, [Juergen Schmidhuber](http://people.idsia.ch/~juergen/), [Carmody Grey](https://www.ru.nl/en/about-us/news/carmody-grey-appointed-professor-by-special-appointment-of-integral-ecology) at **Radboud Universiteit** and [Oliver Duerr](https://www.unifr.ch/glaubeundgesellschaft/en/center/people/team-en/oliver-duerr.html) of the **Centre for Faith & Society** at University of Fribourg, or the **Machine Learning and Optimization Lab** of [Martin Jaggi](https://mlo.epfl.ch/) at **EPFL**. We have joint research projects, publications and/or co-supervise PhD students.
 
 If you are interested in a collaboration, please [contact](http://www.zhaw.ch/=stdm) me.
-
-&nbsp;
 
 
 <a name="publications"></a>
