@@ -60,6 +60,9 @@ The group has very diverse backgrounds, which helps us complement each other's s
     
 #### Alumni
 
+<details>
+<summary>...</summary>
+
   * [Raphael Emberger](https://www.linkedin.com/in/raphael-emberger-206015bb), research assistant 2012-2024, M.Sc. and B.Sc. computer science (ZHAW) &rarr; Deep Learning Engineer @ Rheinmetall Air Defence
 
   * [Erdal Ayfer](https://www.zhaw.ch/en/about-us/person/ayfe/), intern 2023-2024, B.Sc. student computer science(ZHAW)
@@ -101,6 +104,8 @@ The group has very diverse backgrounds, which helps us complement each other's s
   * [Thierry Musy](https://www.linkedin.com/in/thierrymusy/), B.Sc. (ZHAW) &rarr; Partner / Senior Data Scientist @ Foursight Digital AG
   
   * [Jan Stampfli](https://www.linkedin.com/in/janstampfli/), B.Sc. (ZHAW) &rarr; Big Data Engineer @ Migros-Genossenschafts-Bund
+  
+</details>
 
  
 <a name="work"></a>
@@ -108,8 +113,10 @@ The group has very diverse backgrounds, which helps us complement each other's s
 
 
 <a name="robust"></a>
+###Robust and practical deep learning
+
 <details>
-### <summary>Robust and practical deep learning</summary>
+<summary>...</summary>
 
 [<img alt="Examples of automatic segmentation" src="http://stdm.github.io/images/article_segmentation.jpg"/>](http://stdm.github.io/images/article_segmentation.jpg)
 [<img alt="Newspaper article segmentation architecture" src="http://stdm.github.io/images/fcnn_architecture.jpg"/>](http://stdm.github.io/images/fcnn_architecture.jpg)
@@ -131,6 +138,7 @@ As a final example, the prediction of product quality in an industrial plastic i
   * [Stadelmann, T., Amirian, M., Arabaci, I., Arnold, M., Duivesteijn, G.F., Elezi, I., Geiger, M., Lörwald, S., Meier, B.B., Rombach, K. and Tuggener, L., 2018, September. **Deep Learning in the Wild**. In _IAPR Workshop on Artificial Neural Networks in Pattern Recognition_ (pp. 17-38). Springer, Cham.](https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf)
 
   * [Stadelmann, T., Tolkachev, V., Sick, B., Stampfli, J. and Dürr, O., 2019. **Beyond ImageNet - deep learning in industrial practice**. _Applied Data Science-Lessons Learned for the Data-Driven Business_. Springer.](https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf)
+
 </details>
 
 
@@ -286,11 +294,16 @@ In 2021, I co-chaired the [1st International Symposium on the Science of Data Sc
 <a name="collaborations"></a>
 ## Collaborations
 
+<details>
+<summary>...</summary>
+
 I frequently collaborate with industry to work on novel pattern recognition applications. Partners come from start-ups, SMEs and multi-national enterprises alike. 
 
 In academia, I collaborate e.g. with [Benjamin F. Grewe's](https://www.ini.uzh.ch/en/research/groups/grewe.html) **Neural Learning and Intelligent Systems Group** at **UZH/ETHz's Institute of Neuroinformatics** and our joint visiting professor [Christoph von der Malsburg](https://www.fias.science/en/life-and-neurosciences/research-groups/christoph-von-der-malsburg/) of the **Frankfurt Institute of Advanced Studies**, [Marcello Pelillo](http://www.dsi.unive.it/~pelillo/) of the **Ca'Foscari University of Venice**, [Juergen Schmidhuber](http://people.idsia.ch/~juergen/), [Carmody Grey](https://www.ru.nl/en/about-us/news/carmody-grey-appointed-professor-by-special-appointment-of-integral-ecology) at **Radboud Universiteit** and [Oliver Duerr](https://www.unifr.ch/glaubeundgesellschaft/en/center/people/team-en/oliver-duerr.html) of the **Centre for Faith & Society** at University of Fribourg, or the **Machine Learning and Optimization Lab** of [Martin Jaggi](https://mlo.epfl.ch/) at **EPFL**. We have joint research projects, publications and/or co-supervise PhD students.
 
 If you are interested in a collaboration, please [contact](http://www.zhaw.ch/=stdm) me.
+
+<details>
 
 
 <a name="publications"></a>
