@@ -4,12 +4,12 @@ layout: page
 comments: false
 ---
 
-This is the academic website of [Thilo Stadelmann](https://www.zhaw.ch/en/about-us/person/stdm/), professor of **artificial intelligence** and **machine learning** at the [ZHAW](https://www.zhaw.ch/en/university/) [School of Engineering](https://www.zhaw.ch/en/engineering) and holder of the chair of Engineering-Information, director of the [Centre for Artificial Intelligence](https://www.zhaw.ch/en/engineering/institutes-centres/cai/) and head of its [Machine Perception and Cognition Group](https://www.zhaw.ch/en/engineering/institutes-centres/cai/machine-perception-and-cognition-group/). I am also (co-)founder and board member of [AlpineAI AG](https://alpineai.swiss/) and the [ZHAW Datalab](https://www.zhaw.ch/datalab), pioneered [several other organizations](https://www.linkedin.com/in/thilo-stadelmann/), frequently give [keynote talks](https://premium-speakers.com/en/speaker-presenter/thilo-stadelmann/), and received several [awards](https://www.zhaw.ch/en/about-us/person/stdm/) for my teaching, research, and ecosystem engagement. All views expressed are mine.
+This is the academic website of [Thilo Stadelmann](https://www.zhaw.ch/en/about-us/person/stdm/), professor of **artificial intelligence** and **machine learning** at the [ZHAW](https://www.zhaw.ch/en/university/) [School of Engineering](https://www.zhaw.ch/en/engineering) and holder of the chair of Engineering-Information, director of the [Centre for Artificial Intelligence](https://www.zhaw.ch/en/engineering/institutes-centres/cai/) and head of its [Machine Perception and Cognition Group](https://www.zhaw.ch/en/engineering/institutes-centres/cai/machine-perception-and-cognition-group/). He is also (co-)founder and board member of [AlpineAI AG](https://alpineai.swiss/) and the [ZHAW Datalab](https://www.zhaw.ch/datalab), pioneered [several other organizations](https://www.linkedin.com/in/thilo-stadelmann/), frequently give [keynote talks](https://premium-speakers.com/en/speaker-presenter/thilo-stadelmann/), and received several [awards](https://www.zhaw.ch/en/about-us/person/stdm/) for my teaching, research, and ecosystem engagement. Views expressed are personal.
 
 
 ### TOC
 1. [Biography](#bio)
-2. [The group](#group)
+2. [The Machine Perception and Cognition group](#group)
 3. [Research examples](#work)
 4. [Collaborations](#collaborations)
 5. [Publications](#publications)
@@ -20,13 +20,13 @@ This is the academic website of [Thilo Stadelmann](https://www.zhaw.ch/en/about-
 
 <img src="http://stdm.github.io/images/thilo-2024.jpg"/>
 
-I studied computer science in Giessen and Marburg and received the Doctor of Science degree from [Marburg University](https://www.informatik.uni-marburg.de/~stadelmann/), Germany, in 2010, where I worked on multimedia analysis and voice recognition. I held engineering and leadership roles in the automotive industry for several years prior to my appointment at the ZHAW. My current research interests revolve around robust representation learning in deep neural networks for pattern recognition problems; how to learn structured and actionable representations for world models; and societal effects of AI. My group and research is introduced in more detail [below](#group).
+Thilo studied computer science in Giessen and Marburg and received the Doctor of Science degree from [Marburg University](https://www.informatik.uni-marburg.de/~stadelmann/), Germany, in 2010, where he worked on multimedia analysis and voice recognition. Thilo held engineering and leadership roles in the automotive industry for several years prior to my appointment at the ZHAW. His current research interests revolve around robust representation learning in deep neural networks for pattern recognition problems; how to learn structured and actionable representations for world models; and societal effects of AI. The group and research is introduced in more detail [below](#group).
 
 Personally, I like kitesurfing, enjoy playing music on stringed instruments (guitars, bass), and am a follower of <a href="https://odb.org/">Jesus Christ</a>. If this makes you curious, send me an email with a meeting request (subject "30 minutes on faith"), I am happy to explain. I try living by the following values (my closer colleagues know I am not there yet): excellence; wisdom; honor all people; mercy for failure; and courage.
 
 
 <a name="group"></a>
-## The group
+## The Machine Perception and Cognition group
 
 [<img alt="The ZHAW Centre for AI members as of March 2024" src="http://stdm.github.io/images/CAI-2024.jpg"/>](http://stdm.github.io/images/CAI-2024.jpg)
 
@@ -243,9 +243,9 @@ The group has very diverse backgrounds, which helps us complement each other's s
 
 <img alt="The data science skill set map" src="http://stdm.github.io/images/skillset.jpg"/>
 
-<p>I helped in creating one of Europe's first dedicated research centers for data science, the <a href="http://www.zhaw.ch/datalab">ZHAW Datalab</a>, and lead it until 2018. Subsequently, my colleagues and I created one of Switzerland's first continuing education programs in data science, the <a href="https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/mas-data-science.html">MAS Data Science</a>, where I teach machine learning. In 2015, we started rolling out the successful Datalab collaboration model country-wide in founding the <a href="https://data-innovation.org/">Data Innovation Alliance</a>, a network of industrial and academic partner institutions that also furthered the <a href="https://sds2022.ch/">Swiss Conference on Data Science</a> series of events that <a href="https://www.zhaw.ch/en/research/inter-school-cooperation/datalab-the-zhaw-data-science-laboratory/sds2014/">started in Winterthur</a>. The experience gained in these activities, together with the feedback from the applied research projects described above, lead to a <a href="https://stdm.github.io/data-science-book/">book</a> I co-edited together with my colleagues <a href="http://www.zhaw.ch/=bram">Martin Braschler</a> and <a href="http://www.zhaw.ch/=stog">Kurt Stockinger</a>.</p>
+<p>Thilo helped in creating one of Europe's first dedicated research centers for data science, the <a href="http://www.zhaw.ch/datalab">ZHAW Datalab</a>, and lead it until 2018. Subsequently, he and colleagues created one of Switzerland's first continuing education programs in data science, the <a href="https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/mas-data-science.html">MAS Data Science</a>, where he developed the machine learning teaching. In 2015, we started rolling out the successful Datalab collaboration model country-wide in founding the <a href="https://data-innovation.org/">Data Innovation Alliance</a>, a network of industrial and academic partner institutions that also furthered the <a href="https://sds2022.ch/">Swiss Conference on Data Science</a> series of events that <a href="https://www.zhaw.ch/en/research/inter-school-cooperation/datalab-the-zhaw-data-science-laboratory/sds2014/">started in Winterthur</a>. The experience gained in these activities, together with the feedback from the applied research projects described above, lead to a <a href="https://stdm.github.io/data-science-book/">book</a> co-edited together with colleagues <a href="http://www.zhaw.ch/=bram">Martin Braschler</a> and <a href="http://www.zhaw.ch/=stog">Kurt Stockinger</a>.</p>
 
-<p>In 2021, I co-chaired the <a href="https://www.sds2022.ch/1st-international-symposium-on-the-science-of-data-science">1st International Symposium on the Science of Data Science</a>. In the course of reviewing the development of the field in the past decade, we came to the conclusion that it is <em>data centrism</em> – the reliance on data itself, in mindset, methods and products – that makes data science more than the sum of its parts, as this is not done in any other discipline.</p>
+<p>In 2021, we co-chaired the <a href="https://www.sds2022.ch/1st-international-symposium-on-the-science-of-data-science">1st International Symposium on the Science of Data Science</a>. In the course of reviewing the development of the field in the past decade, we came to the conclusion that it is <em>data centrism</em> – the reliance on data itself, in mindset, methods and products – that makes data science more than the sum of its parts, as this is not done in any other discipline.</p>
 
 <h4>Selected references</h4>
 <ul>
