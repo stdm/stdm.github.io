@@ -57,11 +57,9 @@ The group has very diverse backgrounds, which helps us complement each other's s
   
   * [Rebekka von Wartburg](https://www.linkedin.com/in/rebekka-von-wartburg-3b807b298/), M.Sc. student: B.Sc. computer science (ZHAW)
   
-    
-#### Alumni
 
 <details>
-<summary>...</summary>
+<summary><h4>Alumni</h4></summary>
 
 <ul>
   <li> <a href="https://www.linkedin.com/in/raphael-emberger-206015bb">Raphael Emberger</a>, research assistant 2012-2024, M.Sc. and B.Sc. computer science (ZHAW) &rarr; Deep Learning Engineer @ Rheinmetall Air Defence</li>
@@ -95,8 +93,8 @@ The group has very diverse backgrounds, which helps us complement each other's s
 <a href="url">
 
 <a name="robust"></a>
-### Robust and practical deep learning <details>
-<summary>...</summary>
+<details>
+<summary><h3>Robust and practical deep learning</h3></summary>
 
 <img alt="Examples of automatic segmentation" src="http://stdm.github.io/images/article_segmentation.jpg"/>
 
@@ -125,39 +123,38 @@ The group has very diverse backgrounds, which helps us complement each other's s
 
 <a name="general"></a>
 <details>
-### <summary>Representation learning for next-level AI</summary>
+<summary><h3>Representation learning for next-level AI</h3></summary>
 
-[<img alt="Illustration of Kolmogorov complexity: Perception and efficient learning are possible by reducing the flood of sensory signals produced by the environment to an underlying low-complexity description" src="http://stdm.github.io/images/kolmogorov.jpg"/>](http://stdm.github.io/images/kolmogorov.jpg)
-
-Deep learning has propelled the surge in AI in the last decade and will continue to find new applications and improvements. However, it is [forseeable](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/interdisziplinaere-diskussionsrunde-am-cai-kolloquium-eroertert-was-intelligenz-ist-und-wie-man-die-ki-der-gegenwart-voranbringen-kann/) that the methodology in itself will not produce higher-level cognition. Inspiration comes from neuroscientific research on understanding brain functionality. Here, we find the principle of self-organizing net fragments to be the inductive bias that fits models (developed brains) to the natural environment. We seek ways of implementing related ideas into deep learning frameworks to increas the generability and robustness of the approaches, which for example means to move away from purely error-driven learning by backgpropagation.
-
-A current theme that makes the above arguments more tangible is how to learn actionable representations in world models that lead to representations structured in a way that allow desirable properties from interpretability to planning. Such structuring seems possible if models are not trained to just predict future values, but take intent (actions) into account to learn cause and effect, leading to a form of common sense.
-
-#### Selected references (see also [below](#publications))
-
-  * [von der Malsburg, C., Grewe, B. F., and Stadelmann, T. (2022, September). **Making sense of the natural environment**. In The Biannual Conference of the German Cognitive Science Society (KogWis).](https://stdm.github.io/downloads/papers/KogWis_2022.pdf)
-
-  * [von der Malsburg, C., Stadelmann, T., and Grewe, B. F., 2022. **A Theory of Natural Intelligence**. _arXiv preprint_, arXiv:2205.00002.](https://arxiv.org/abs/2205.00002)
+<img alt="Illustration of Kolmogorov complexity: Perception and efficient learning are possible by reducing the flood of sensory signals produced by the environment to an underlying low-complexity description" src="http://stdm.github.io/images/kolmogorov.jpg"/>
+    
+<p>Deep learning has propelled the surge in AI in the last decade and will continue to find new applications and improvements. However, it is <a href="https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/interdisziplinaere-diskussionsrunde-am-cai-kolloquium-eroertert-was-intelligenz-ist-und-wie-man-die-ki-der-gegenwart-voranbringen-kann/">forseeable</a> that the methodology in itself will not produce higher-level cognition. Inspiration comes from neuroscientific research on understanding brain functionality. Here, we find the principle of self-organizing net fragments to be the inductive bias that fits models (developed brains) to the natural environment. We seek ways of implementing related ideas into deep learning frameworks to increas the generability and robustness of the approaches, which for example means to move away from purely error-driven learning by backgpropagation.</p>
+    
+<p>A current theme that makes the above arguments more tangible is how to learn actionable representations in world models that lead to representations structured in a way that allow desirable properties from interpretability to planning. Such structuring seems possible if models are not trained to just predict future values, but take intent (actions) into account to learn cause and effect, leading to a form of common sense.</p>
+    
+<h4>Selected references</h4>
+<ul>
+  <li>von der Malsburg, C., Grewe, B. F., and Stadelmann, T. (2022, September). <a href="https://stdm.github.io/downloads/papers/KogWis_2022.pdf">Making sense of the natural environment</a>. In The Biannual Conference of the German Cognitive Science Society (KogWis).</li>
+  <li>von der Malsburg, C., Stadelmann, T., and Grewe, B. F., 2022. <a href="https://arxiv.org/abs/2205.00002">A Theory of Natural Intelligence</a>. arXiv preprint, arXiv:2205.00002.</li>
+</ul>
 </details>
 
 
 <a name="trust"></a>
 <details>
-### <summary>AI and society</summary>
+<summary><h3>AI and society</h3></summary>
 
-[<img alt="t-SNE visualization of the embedding space created by two face recognition models, coloured by ethnicity and gender" src="http://stdm.github.io/images/face-bias.jpg"/>](http://stdm.github.io/images/face-bias.jpg)
+<img alt="t-SNE visualization of the embedding space created by two face recognition models, coloured by ethnicity and gender" src="http://stdm.github.io/images/face-bias.jpg"/>
 
-How a powerful technology like artificial intelligence engages with the world around us and impacts our societies must concern us as engineers (see also [a](https://stdm.github.io/Risk/), [b](https://stdm.github.io/Hope/), [c](https://stdm.github.io/AI-sports-humanism/)). Assessing the impact of the technology on society is a first step to shape AI for good. In this direction, we for example [analyzed](https://link.springer.com/article/10.1007/s43681-021-00108-6) how the effect of bias in face recognition systems can be quantified and mitigated. As our study shows, AI systems are very different from us humans: while for humans, conceiling information from us on sensitive attributes keeps us more fair / less biased, doing the same thing for a machine learning system - blinding it to attributes concerning e.g. gender or skin colour - does not result in less bias. Thus, bias does not equal awareness. 
+<p>How a powerful technology like artificial intelligence engages with the world around us and impacts our societies must concern us as engineers (to assess <a href="https://stdm.github.io/Risk/">risk</a>,provide <a href="https://stdm.github.io/Hope/">hope</a>, and <a href="https://stdm.github.io/AI-sports-humanism/">tell a better story</a> than dystopias). Assessing the impact of the technology on society is a first step to shape AI for good. In this direction, we for example <a href="https://link.springer.com/article/10.1007/s43681-021-00108-6">analyzed</a> how the effect of bias in face recognition systems can be quantified and mitigated. As our study shows, AI systems are very different from us humans: while for humans, conceiling information from us on sensitive attributes keeps us more fair / less biased, doing the same thing for a machine learning system - blinding it to attributes concerning e.g. gender or skin colour - does not result in less bias. Thus, bias does not equal awareness.</p>
 
-We also follow this thread of trustworthiness through projects on AI [verification and certification](https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/3-neue-forschungsprojekte-zielen-auf-den-einsatz-vertrauenswuerdiger-ki/) as well as collaborations with colleagues from the humanities in projects and committees. The goal is to find better narratives for a hope-filled future with AI.
+<p>We also follow this thread of trustworthiness through projects on AI <a href="https://www.zhaw.ch/en/engineering/institutes-centres/init/news/news/event-news/3-neue-forschungsprojekte-zielen-auf-den-einsatz-vertrauenswuerdiger-ki/">verification and certification</a> as well as collaborations with colleagues from the humanities in projects and committees. The goal is to find better narratives for a hope-filled future with AI.</p>
 
-#### Selected references (see also [below](#publications))
-
-  * [Segessenmann, J., Stadelmann, T., Davison, A., and Dürr, O. (2023). **Assessing deep learning: a work program for the humanities in the age of artificial intelligence**. AI and Ethics, 1-32.](https://link.springer.com/article/10.1007/s43681-023-00408-z)
-
-  * [Wehrli, S., Hertweck, C., Amirian, M., Glüge, S., and Stadelmann, T., 2021. **Bias, awareness and ignorance in deep-learning-based face recognition**. _AI and Ethics_, DOI 10.1007/s43681-021-00108-6, Springer, October 27, 2021.](https://link.springer.com/article/10.1007/s43681-021-00108-6)
-
-  * [Glüge, S., Amirian, M., Flumini, D., and Stadelmann, T., 2020. **How (Not) to Measure Bias in Face Recognition Networks**. In: _Proceedings of the 9th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (ANNPR’20)_, Springer, LNAI, Winterthur, Switzerland, September 02-04, 2020.](https://stdm.github.io/downloads/papers/ANNPR_2020.pdf)
+<h4>Selected references</h4>
+<ul>
+    <li>Segessenmann, J., Stadelmann, T., Davison, A., and Dürr, O. (2023). <a href="https://link.springer.com/article/10.1007/s43681-023-00408-z">Assessing deep learning: a work program for the humanities in the age of artificial intelligence</a>. AI and Ethics, 1-32.</li>
+    <li>Wehrli, S., Hertweck, C., Amirian, M., Glüge, S., and Stadelmann, T., 2021. <a href="https://link.springer.com/article/10.1007/s43681-021-00108-6">Bias, awareness and ignorance in deep-learning-based face recognition</a>. AI and Ethics, DOI 10.1007/s43681-021-00108-6, Springer, October 27, 2021.</li>
+    <li>Glüge, S., Amirian, M., Flumini, D., and Stadelmann, T., 2020. <a href="https://stdm.github.io/downloads/papers/ANNPR_2020.pdf">How (Not) to Measure Bias in Face Recognition Networks</a>. In Proceedings of the 9th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (ANNPR'20), Springer, LNAI, Winterthur, Switzerland, September 02-04, 2020.</li>
+</ul>
 </details>
 
 
