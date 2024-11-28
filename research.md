@@ -197,7 +197,7 @@ Additional applications include the [reduction of motion artifacts in CT images]
 
 
 <a name="documents"></a>
-### Document Recognition
+### Document recognition
 
 [<img alt="Deep Watershed Detector architecture" src="http://stdm.github.io/images/dwd.jpg"/>](http://stdm.github.io/images/dwd.jpg)
 
