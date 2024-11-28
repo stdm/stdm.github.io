@@ -6,6 +6,9 @@ comments: false
 
 This is the academic website of [Thilo Stadelmann](https://www.zhaw.ch/en/about-us/person/stdm/), professor of **artificial intelligence** and **machine learning** at the [ZHAW](https://www.zhaw.ch/en/university/) [School of Engineering](https://www.zhaw.ch/en/engineering) and holder of the chair of Engineering-Information, director of the [Centre for Artificial Intelligence](https://www.zhaw.ch/en/engineering/institutes-centres/cai/) and head of its [Machine Perception and Cognition group](https://www.zhaw.ch/en/engineering/institutes-centres/cai/machine-perception-and-cognition-group/). He is also (co-)founder and board member of [AlpineAI AG](https://alpineai.swiss/) and the [ZHAW Datalab](https://www.zhaw.ch/datalab), pioneered [several other organizations](https://www.linkedin.com/in/thilo-stadelmann/), frequently gives [keynote talks](https://premium-speakers.com/en/speaker-presenter/thilo-stadelmann/), and received several [awards](https://www.zhaw.ch/en/about-us/person/stdm/) for his teaching, research, and ecosystem engagement. Views expressed are his own.
 
+Latest news (for more, follow on [LinkedIn](https://www.linkedin.com/in/thilo-stadelmann/):
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7267036572829499392" height="250" width="504" frameborder="0" allowfullscreen="" title="News"></iframe>
 
 ### TOC
 1. [Biography](#bio)
@@ -250,7 +253,7 @@ The group has very diverse backgrounds, which helps us complement each other's s
 
 <h4>Selected references</h4>
 <ul>
-    <li>Stadelmann, T., Klamt, T., and Merkt, P. H., 2022. <a href="https://stdm.github.io/downloads/papers/AoDSA_2022a.pdf">Data Centrism and the Core of Data Science as a Scientific Discipline</a>. Archives of Data Science, Series A 8(2), pp.1-16, April 2022.</li>
+    <li>Stadelmann, T., Klamt, T., and Merkt, P. H., 2022. <a href="https://stdm.github.io/downloads/papers/AoDSA_2022a.pdf">Data Centrism and the Core of Data Science as a Scientific Discipline</a>. Archives of Data Science, Series A, 8(2), pp.1-16, April 2022.</li>
     <li>Braschler, M., Stadelmann, T., and Stockinger, K., (Eds.), 2019. <a href="https://stdm.github.io/data-science-book/">Applied Data Science - Lessons Learned for the Data-Driven Business</a>. Springer.</li>
     <li>Stadelmann, T., Stockinger, K., Braschler, M., Cieliebak, M., Baudinot, G., Dürr, O. and Ruckstuhl, A., 2013. <a href="https://stdm.github.io/downloads/papers/ECSS_2013.pdf">Applied data science in Europe: challenges for academia in keeping up with a highly demanded topic</a>. In 9th European Computer Science Summit, Amsterdam, October 8–9, 2013.</li>
 </ul>
@@ -300,7 +303,7 @@ Thilo Stadelmann. [**Wegweiser Künstliche Intelligenz: Verstehen, anwenden und 
 
 #### 2024
 
-Ahmed Begga, Waqar Ali, Gabriel Niculescu, Francisco Escolano, Thilo Stadelmann, and Marcello Pelillo. [**Community-Hop: Enhancing Node Classification through Community Preference**](https://stdm.github.io/downloads/papers/S+SSPR_2024.pdf). In: Proceedings of the Joint IAPR International Workshops on Statistical Techniques in Pattern Recognition and Structural and Syntactic Pattern Recognition (**S+SSPR**), 2024.
+Ahmed Begga, Waqar Ali, Gabriel Niculescu, Francisco Escolano, Thilo Stadelmann, and Marcello Pelillo. [**Community-Hop: Enhancing Node Classification through Community Preference**](https://stdm.github.io/downloads/papers/S+SSPR_2024.pdf). In: Proceedings of the Joint IAPR International Workshops on Statistical Techniques in Pattern Recognition and Structural and Syntactic Pattern Recognition (**S+SSPR'24**), 2024.
 
 Waqar Ali, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. [**Hierarchical Glocal Attention Pooling for Graph Classification**](https://stdm.github.io/downloads/papers/PRL_2024b.pdf). In: **Pattern Recognition Letters** 186, pp. 71-77, Elsevier, September 2024, DOI [10.1016/j.patrec.2024.09.009](https://doi.org/10.1016/j.patrec.2024.09.009).
 
@@ -360,13 +363,13 @@ Christoph von der Malsburg, Benjamin F. Grewe, and Thilo Stadelmann. [**Making S
 
 Christoph von der Malsburg, Thilo Stadelmann, and Benjamin F. Grewe. [**A Theory of Natural Intelligence**](https://stdm.github.io/downloads/papers/ArXiv_2022.pdf). **arXiv preprint**, [arXiv:2205.00002](https://arxiv.org/abs/2205.00002), April 2022.
 
-Frank-Peter Schilling, Dandolo Flumini, Rudolf M. Füchslin, Elena Gavagnin, Armando Geller, Silvia Quarteroni and Thilo Stadelmann. [**Foundations of Data Science: A Comprehensive Overview Formed at the 1st International Symposium on the Science of Data Science**](https://stdm.github.io/downloads/papers/AoDSA_2022b.pdf). **Archives of Data Science, Series A 8(2)**, pp. 1-21, 2022. DOI [10.5445/IR/1000146422](https://dx.doi.org/10.5445/IR/1000146422).
+Frank-Peter Schilling, Dandolo Flumini, Rudolf M. Füchslin, Elena Gavagnin, Armando Geller, Silvia Quarteroni and Thilo Stadelmann. [**Foundations of Data Science: A Comprehensive Overview Formed at the 1st International Symposium on the Science of Data Science**](https://stdm.github.io/downloads/papers/AoDSA_2022b.pdf). **Archives of Data Science, Series A**, 8(2), pp. 1-21, 2022. DOI [10.5445/IR/1000146422](https://dx.doi.org/10.5445/IR/1000146422).
 
 Ivo Herzig, Pascal Paysan, Stefan Scheib, Frank-Peter Schilling, Javier Montoya, Mohammadreza Amirian, Thilo Stadelmann, Peter Eggenberger, Rudolf M. Fuechslin, and Lukas Lichtensteiger. **Deep Learning-Based Simultaneous Multi-Phase Deformable Image Registration of Sparse 4D-CBCT**. In: Proceedings of the American Association of Physics in Medicine Annual Meeting (**AAPM'22**), Washington, DC, USA, July 10-14, 2022.
 
-Thilo Stadelmann, Tino Klamt, and Philipp H. Merkt. [**Data Centrism and the Core of Data Science as a Scientific Discipline**](https://stdm.github.io/downloads/papers/AoDSA_2022a.pdf). **Archives of Data Science, Series A 8(2)**, pp.1-16, April 2022. DOI [10.5445/IR/1000143637](https://dx.doi.org/10.5445/IR/1000143637).
+Thilo Stadelmann, Tino Klamt, and Philipp H. Merkt. [**Data Centrism and the Core of Data Science as a Scientific Discipline**](https://stdm.github.io/downloads/papers/AoDSA_2022a.pdf). **Archives of Data Science, Series A**, 8(2), pp.1-16, April 2022. DOI [10.5445/IR/1000143637](https://dx.doi.org/10.5445/IR/1000143637).
 
-Andreas Geyer-Schultz and Thilo Stadelmann (Editors). [**Archives of Data Science, Series A 8(2)**](https://www.archivesofdatascience.org/journals/series_a/publications#articles), April 2022. **Special Issue**.
+Andreas Geyer-Schultz and Thilo Stadelmann (Editors). [**Archives of Data Science, Series A, 8(2)**](https://www.archivesofdatascience.org/journals/series_a/publications#articles), April 2022. **Special Issue**.
 
 Frank-Peter Schilling and Thilo Stadelmann (Editors). [**Special Issue "Advances in Deep Neural Networks for Visual Pattern Recognition**](https://www.mdpi.com/journal/jimaging/special_issues/deep_neural_network), **J. Imaging**, MDPI, March 2022. 
 
@@ -489,7 +492,7 @@ Thilo Stadelmann. [**Voice Modeling Methods for Automatic Speaker Recognition**]
 
 Thilo Stadelmann & Bernd Freisleben. [**On the MixMax Model and Cepstral Features for Noise-Robust Voice Recognition**](https://stdm.github.io/downloads/papers/TR_2010.pdf). Technical report, Philipps-Universität Marburg, April 2010.
 
-Christian Beecks, Thilo Stadelmann, Bernd Freisleben, and Thomas Seidl. [**Visual Speaker Model Exploration**](https://stdm.github.io/downloads/papers/ICME_2010.pdf), In Proceedings of the IEEE International Conference on Multimedia and Expo (**ICME'2010**), pages 727-728, Singapore, July 19-23, 2010, IEEE.
+Christian Beecks, Thilo Stadelmann, Bernd Freisleben, and Thomas Seidl. [**Visual Speaker Model Exploration**](https://stdm.github.io/downloads/papers/ICME_2010.pdf), In Proceedings of the IEEE International Conference on Multimedia and Expo (**ICME'10**), pages 727-728, Singapore, July 19-23, 2010, IEEE.
 
 Thilo Stadelmann, Yinghui Wang, Matthew Smith, Ralph Ewerth, and Bernd Freisleben. [**Rethinking Algorithm Development and Design in Speech Processing**](https://stdm.github.io/downloads/papers/ICPR_2010b.pdf). In Proceedings of the 20th International Conference on Pattern Recognition (**ICPR'10**), pages 4476-4479, Istanbul, Turkey, August 2010a. IAPR.
 
@@ -510,7 +513,7 @@ Thilo Stadelmann, Steffen Heinzl, Markus Unterberger, and Bernd Freisleben. [**W
 
 Steffen Heinzl, Markus Mathes, Thilo Stadelmann, Dominik Seiler, Marcel Diegelmann, Helmut Dohmann, and Bernd Freisleben. [**The Web Service Browser: Automatic Client Generation and Efficient Data Transfer for Web Services**](https://stdm.github.io/downloads/papers/ICWS_2009.pdf). In Proceedings of the 7th IEEE International Conference on Web Services (**ICWS'09**), pages 743-750, Los Angeles, CA, USA, July 2009. IEEE Press.
 
-Steffen Heinzl, Dominik Seiler, Ernst Juhnke, Thilo Stadelmann, Ralph Ewerth, Manfred Grauer, and Bernd Freisleben. [**A Scalable Service-Oriented Architecture for Multimedia Analysis, Synthesis, and Consumption**](https://stdm.github.io/downloads/papers/IJWGS_2009.pdf). **International Journal of Web and Grid Services**, 5(3):219-260, 2009. Inderscience Publishers.
+Steffen Heinzl, Dominik Seiler, Ernst Juhnke, Thilo Stadelmann, Ralph Ewerth, Manfred Grauer, and Bernd Freisleben. [**A Scalable Service-Oriented Architecture for Multimedia Analysis, Synthesis, and Consumption**](https://stdm.github.io/downloads/papers/IJWGS_2009.pdf). **International Journal of Web and Grid Services**, 5(3): 219-260, 2009. Inderscience Publishers.
 
 
 #### 2008
