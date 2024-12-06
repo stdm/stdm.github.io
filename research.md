@@ -292,16 +292,18 @@ If you are interested in a collaboration, please [contact](http://www.zhaw.ch/=s
 
 Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?user=6U6ZXzUAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Thilo_Stadelmann2).
 
+table, th, td  {border: none; border-spacing: 0;}
+th, td         {padding: 0; border-spacing: 0;}
+
 <details open="open">
 <summary><b>2025</b></summary>
 
-<table><tr>
-<td><img alt="Paper thumbnail" width="350" src="http://stdm.github.io/images/papers/KIW_2025.jpg"/></td>
-<td>
-
-Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"><strong>Wegweiser Künstliche Intelligenz: Verstehen, anwenden und zuversichtlich Zukunft gestalten</strong></a>. In: Sebastian Hersberger and Christian Hugo Hoffmann (Editors). "Wie die Künstliche Intelligenz die Wirtschaft verändert - Überblick über die theoretischen Grundlagen und Praxisbeispiele entlang von Ökosystemen", <strong>Springer</strong>, 2025.
-
-</td></tr></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td style="border: none;"><img alt="Paper thumbnail" width="350" src="http://stdm.github.io/images/papers/KIW_2025.jpg"/></td>
+<td>Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"><strong>Wegweiser Künstliche Intelligenz: Verstehen, anwenden und zuversichtlich Zukunft gestalten</strong></a>. In: Sebastian Hersberger and Christian Hugo Hoffmann (Editors). "Wie die Künstliche Intelligenz die Wirtschaft verändert - Überblick über die theoretischen Grundlagen und Praxisbeispiele entlang von Ökosystemen", <strong>Springer</strong>, 2025.</td>
+</tr>
+</table>
 </details>
 
 
