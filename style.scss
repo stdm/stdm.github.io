@@ -123,6 +123,35 @@ strong, b {
   font-weight: bold;
 }
 
+table.publications {
+    cellspacing:0;
+    cellpadding:0;
+    border-collapse:collapse;
+    border:none;
+    font-size:18px;
+    margin:0px;
+    padding:0px;
+    border-spacing:0px;
+    border-collapse:collapse;
+}
+table.publications td {
+    border:none; 
+    vertical-align:top; 
+    font-size:18px;
+}
+table.publications tr {
+    margin:0;
+    padding:0px;
+    border:none;
+    font-size:18px
+}
+table.publications a {
+    font-size:18px;
+}
+table.publications strong {
+    font-size:18px;
+}
+
 table {
   padding: 0; }
   table tr {
