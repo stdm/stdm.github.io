@@ -123,7 +123,7 @@ strong, b {
   font-weight: bold;
 }
 
-table.publications {
+table.publist {
     cellspacing:0;
     cellpadding:0;
     border-collapse:collapse;
@@ -134,21 +134,21 @@ table.publications {
     border-spacing:0px;
     border-collapse:collapse;
 }
-table.publications td {
+table.publist td {
     border:none; 
     vertical-align:top; 
     font-size:18px;
 }
-table.publications tr {
+table.publist tr {
     margin:0;
     padding:0px;
     border:none;
     font-size:18px
 }
-table.publications a {
+table.publist a {
     font-size:18px;
 }
-table.publications strong {
+table.publist strong {
     font-size:18px;
 }
 
