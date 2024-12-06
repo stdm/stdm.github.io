@@ -348,7 +348,7 @@ Felix M. Schmitt-Koopmann, Elaine M. Huang, Hans-Peter Hutter, Thilo Stadelmann,
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Geothermics.jpg"/></td>
+<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Geothermics_2024.jpg"/></td>
 <td>
 Ali Dashti, Thilo Stadelmann, and Thomas Kohl. <a href="https://stdm.github.io/downloads/papers/Geothermics_2024.pdf"><strong>Machine learning for robust structural uncertainty quantification in fractured reservoirs</strong></a>. In: <strong>Geothermics</strong> 120, p. 103012, Elsevier, June 2024, DOI <a href="https://doi.org/10.1016/j.geothermics.2024.103012">10.1016/j.geothermics.2024.103012</a>.
 </td>
@@ -360,13 +360,13 @@ Daniel Neururer, Volker Dellwo, and Thilo Stadelmann. <a href="https://stdm.gith
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS2024c.jpg"/></td>
+<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2024c.jpg"/></td>
 <td>
 Peng Yan, Ahmed Abdulkadir, Giulia Aguzzi, Gerrit A. Schatte, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2024c.pdf"><strong>Automated process monitoring in injection molding via representation learning and setpoint regression</strong></a>. In: Proceedings of the 11th IEEE Swiss Conference on Data Science (<strong>SDS’24</strong>), Zurich, Switzerland, May 31, 2024, DOI <a href="https://doi.org/10.1109/SDS60720.2024.00027">10.1109/SDS60720.2024.00027</a>.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS2024b.jpg"/></td>
+<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2024b.jpg"/></td>
 <td>
 Lukas Tuggener, Pascal Sager, Yassine Taoudi-Benchekroun, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2024b.pdf"><strong>So you want your private LLM at home? A survey and benchmark of methods for efficient GPTs</strong></a>. In: Proceedings of the 11th IEEE Swiss Conference on Data Science (<strong>SDS’24</strong>), Zurich, Switzerland, May 31, 2024, DOI <a href="https://doi.org/10.1109/SDS60720.2024.00036">10.1109/SDS60720.2024.00036</a>.
 </td>
@@ -384,7 +384,7 @@ Peter R. Jermain, Martin Oswald, Tenzin Langdun, Santana Wright, Ashraf Khan, Th
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/TISMIR_2024.jpg"/></td>
+<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/TISMIR_2023.jpg"/></td>
 <td>
 Lukas Tuggener, Raphael Emberger, Adhiraj Ghosh, Pascal Sager, Yvan Putra Satyawan, Javier Montoya, Simon Goldschagg, Florian Seibold, Urs Gut, Philipp Ackermann, Jürgen Schmidhuber, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/TISMIR_2023.pdf"><strong>Real World Music Object Recognition</strong></a>. In: <strong>TISMIR</strong> 7(1), 1–14, 2024. DOI <a href="https://doi.org/10.5334/tismir.157">10.5334/tismir.157</a>.
 </td>
