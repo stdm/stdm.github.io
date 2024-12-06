@@ -300,7 +300,7 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/KIW_2025.jpg"/></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/KIW_2025.jpg"/></a></td>
 <td>
 Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"><strong>Wegweiser Künstliche Intelligenz: Verstehen, anwenden und zuversichtlich Zukunft gestalten</strong></a>. In: Sebastian Hersberger and Christian Hugo Hoffmann (Editors). "Wie die Künstliche Intelligenz die Wirtschaft verändert - Überblick über die theoretischen Grundlagen und Praxisbeispiele entlang von Ökosystemen", <strong>Springer</strong>, 2025.
 </td>
@@ -312,85 +312,85 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/S+SSPR_2024.jpg"/></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/S+SSPR_2024.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/S+SSPR_2024.jpg"/></a></td>
 <td>
 Ahmed Begga, Waqar Ali, Gabriel Niculescu, Francisco Escolano, Thilo Stadelmann, and Marcello Pelillo. <a href="https://stdm.github.io/downloads/papers/S+SSPR_2024.pdf"><strong>Community-Hop: Enhancing Node Classification through Community Preference</strong></a>. In: Proceedings of the Joint IAPR International Workshops on Statistical Techniques in Pattern Recognition and Structural and Syntactic Pattern Recognition (<strong>S+SSPR’24</strong>), 2024.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/PRL_2024b.jpg"/></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/PRL_2024b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/PRL_2024b.jpg"/></a></td>
 <td>
 Waqar Ali, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. <a href="https://stdm.github.io/downloads/papers/PRL_2024b.pdf"><strong>Hierarchical Glocal Attention Pooling for Graph Classification</strong></a>. In: <strong>Pattern Recognition Letters</strong> 186, pp. 71-77, Elsevier, September 2024, DOI <a href="https://doi.org/10.1016/j.patrec.2024.09.009">10.1016/j.patrec.2024.09.009</a>.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2024.jpg"/></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2024.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2024.jpg"/></a></td>
 <td>
 Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christoph von der Malsburg. <a href="https://stdm.github.io/downloads/papers/ArXiv_2024.pdf"><strong>The Dynamic Net Architecture: Learning Robust and Holistic Visual Representations Through Self-Organizing Networks</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/pdf/2407.05650.pdf">arXiv:2407.05650</a>, July 2024.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ANNPR_2024.jpg"/></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ANNPR_2024.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ANNPR_2024.jpg"/></a></td>
 <td>
 Peter Bolt, Volker Ziebart, Christian Jaeger, Nicolas Schmid, Thilo Stadelmann, and Rudolf M. Füchslin. <a href="https://stdm.github.io/downloads/papers/ANNPR_2024.pdf"><strong>A Simulation Study on Energy Optimization in Building Control with Reinforcement Learning</strong></a>. In: Proceedings of the 11th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR’24</strong>), Springer, Montreal, Canada, October 10-12, 2024.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SR_2024.jpg"/></td>
+<td style="width: 175px;"><a href="https://www.nature.com/articles/s41598-024-64855-2.epdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SR_2024.jpg"/></a></td>
 <td>
 Peter R. Jermain, Martin Oswald, Tenzin Langdun, Santana Wright, Ashraf Khan, Thilo Stadelmann, Ahmed Abdulkadir, and Anna N. Yaroslavsky. <a href="https://www.nature.com/articles/s41598-024-64855-2.epdf"><strong>Deep-learning-based Cell Segmentation for Rapid Optical Cytopathology of Thyroid Cancer</strong></a>. In: <strong>Scientific Reports</strong> 14, article nr. 16389 (2024), Nature, July 2024, DOI <a href="https://doi.org/10.1038/s41598-024-64855-2">10.1038/s41598-024-64855-2</a>.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Access_2024.jpg"/></td>
+<td style="width: 175px;"><a href="https://ieeexplore.ieee.org/document/10538105"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Access_2024.jpg"/></a></td>
 <td>
 Felix M. Schmitt-Koopmann, Elaine M. Huang, Hans-Peter Hutter, Thilo Stadelmann, and Alireza Darvishy. <a href="https://ieeexplore.ieee.org/document/10538105"><strong>MathNet: A Data-Centric Approach for Printed Mathematical Expression Recognition</strong></a>. In: <strong>IEEE Access</strong>, May 2024, DOI <a href="https://dx.doi.org/10.1109/ACCESS.2024.3404834">10.1109/ACCESS.2024.3404834</a>.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Geothermics_2024.jpg"/></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/Geothermics_2024.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Geothermics_2024.jpg"/></a></td>
 <td>
 Ali Dashti, Thilo Stadelmann, and Thomas Kohl. <a href="https://stdm.github.io/downloads/papers/Geothermics_2024.pdf"><strong>Machine learning for robust structural uncertainty quantification in fractured reservoirs</strong></a>. In: <strong>Geothermics</strong> 120, p. 103012, Elsevier, June 2024, DOI <a href="https://doi.org/10.1016/j.geothermics.2024.103012">10.1016/j.geothermics.2024.103012</a>.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/PRL_2024a.jpg"/></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2023b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/PRL_2024a.jpg"/></a></td>
 <td>
 Daniel Neururer, Volker Dellwo, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ArXiv_2023b.pdf"><strong>Deep Neural Networks for Automatic Speaker Recognition Do Not Learn Supra-Segmental Temporal Features</strong></a>. In: <strong>Pattern Recognition Letters</strong> 181, pp. 64-49, Elsevier, May 2024, DOI <a href="https://doi.org/10.1016/j.patrec.2024.03.016">10.1016/j.patrec.2024.03.016</a>.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2024c.jpg"/></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2024c.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2024c.jpg"/></a></td>
 <td>
 Peng Yan, Ahmed Abdulkadir, Giulia Aguzzi, Gerrit A. Schatte, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2024c.pdf"><strong>Automated process monitoring in injection molding via representation learning and setpoint regression</strong></a>. In: Proceedings of the 11th IEEE Swiss Conference on Data Science (<strong>SDS’24</strong>), Zurich, Switzerland, May 31, 2024, DOI <a href="https://doi.org/10.1109/SDS60720.2024.00027">10.1109/SDS60720.2024.00027</a>.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2024b.jpg"/></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2024b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2024b.jpg"/></a></td>
 <td>
 Lukas Tuggener, Pascal Sager, Yassine Taoudi-Benchekroun, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2024b.pdf"><strong>So you want your private LLM at home? A survey and benchmark of methods for efficient GPTs</strong></a>. In: Proceedings of the 11th IEEE Swiss Conference on Data Science (<strong>SDS’24</strong>), Zurich, Switzerland, May 31, 2024, DOI <a href="https://doi.org/10.1109/SDS60720.2024.00036">10.1109/SDS60720.2024.00036</a>.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2024a.jpg"/></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2024a.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2024a.jpg"/></a></td>
 <td>
 Benjamin Meyer, Thilo Stadelmann, and Marcel Lüthi. <a href="https://stdm.github.io/downloads/papers/SDS_2024a.pdf"><strong>ScalaGrad: A Statically Typed Automatic Differentiation Library for Safer Data Science</strong></a>. In: Proceedings of the 11th IEEE Swiss Conference on Data Science (<strong>SDS’24</strong>), Zurich, Switzerland, May 31, 2024, DOI <a href="https://doi.org/10.1109/10.1109/SDS60720.2024.00040">10.1109/SDS60720.2024.00040</a>.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/BioMed_2024.jpg"/></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/BioMed_2024.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/BioMed_2024.jpg"/></a></td>
 <td>
 Peter R. Jermain, Martin Oswald, Tenzin Langdun, Santana Wright, Ashraf Khan, Thilo Stadelmann, Ahmed Abdulkadir, and Anna N. Yaroslavsky. <a href="https://stdm.github.io/downloads/papers/BioMed_2024.pdf"><strong>Rapid Optical Cytology with Deep Learning-Based Cell Segmentation for Diagnosis of Thyroid Lesions</strong></a>. In: Proceedings of the 2024 <strong>Optica Biophotonics Congress: Biomedical Optics</strong>, Fort Lauderdale, FL, USA, April 07-10, 2024.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/TISMIR_2023.jpg"/></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/TISMIR_2023.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/TISMIR_2023.jpg"/></a></td>
 <td>
 Lukas Tuggener, Raphael Emberger, Adhiraj Ghosh, Pascal Sager, Yvan Putra Satyawan, Javier Montoya, Simon Goldschagg, Florian Seibold, Urs Gut, Philipp Ackermann, Jürgen Schmidhuber, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/TISMIR_2023.pdf"><strong>Real World Music Object Recognition</strong></a>. In: <strong>TISMIR</strong> 7(1), 1–14, 2024. DOI <a href="https://doi.org/10.5334/tismir.157">10.5334/tismir.157</a>.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Access_2023.jpg"/></td>
+<td style="width: 175px;"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10379639"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Access_2023.jpg"/></a></td>
 <td>
 Peng Yan, Ahmed Abdulkadir, Paul-Philipp Luley, Matthias Rosenthal, Gerrit A. Schatte, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10379639"><strong>A Comprehensive Survey of Deep Transfer Learning for Anomaly Detection in Industrial Time Series: Methods, Applications, and Directions</strong></a>. In: <strong>IEEE Access</strong>, January 2024. DOI <a href="https://doi.org/10.1109/ACCESS.2023.3349132">10.1109/ACCESS.2023.3349132</a>.
 </td>
