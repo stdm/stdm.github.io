@@ -293,7 +293,7 @@ If you are interested in a collaboration, please [contact](http://www.zhaw.ch/=s
 Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?user=6U6ZXzUAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Thilo_Stadelmann2).
 
 <details open="open">
-<summary><b>2025</></summary>
+<summary><b>2025</b></summary>
 
 <table><tr>
 <td><img alt="Paper thumbnail" width="350" src="http://stdm.github.io/images/papers/KIW_2025.jpg"/></td>
@@ -306,7 +306,7 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"
 
 
 <details open="open">
-<summary><b>2024</></summary>
+<summary><b>2024</b></summary>
 
 <p>Ahmed Begga, Waqar Ali, Gabriel Niculescu, Francisco Escolano, Thilo Stadelmann, and Marcello Pelillo. <a href="https://stdm.github.io/downloads/papers/S+SSPR_2024.pdf"><strong>Community-Hop: Enhancing Node Classification through Community Preference</strong></a>. In: Proceedings of the Joint IAPR International Workshops on Statistical Techniques in Pattern Recognition and Structural and Syntactic Pattern Recognition (<strong>S+SSPR’24</strong>), 2024.</p>
 
@@ -339,7 +339,7 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"
 
 
 <details>
-<summary><b>2023</></summary>
+<summary><b>2023</b></summary>
 
 <p>Jan Segessenmann, Thilo Stadelmann, Andrew Davison, and Oliver Dürr. <a href="https://stdm.github.io/downloads/papers/AIEthics_2023.pdf"><strong>Assessing Deep Learning: A Work Program for the Humanities in the Age of Artificial Intelligence</strong></a>. In: <strong>AI and Ethics</strong>, Springer, November 30, 2023, DOI <a href="https://link.springer.com/article/10.1007/s43681-023-00408-z">10.1007/s43681-023-00408-z</a> (see also extended <strong>SSRN preprint</strong>, <a href="https://ssrn.com/abstract=4554234">ssrn.4554234</a>, August 28, 2023. DOI <a href="http://dx.doi.org/10.2139/ssrn.4554234">10.2139/ssrn.4554234</a>).</p>
 
@@ -360,7 +360,7 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"
 
 
 <details>
-<summary><b>2022</></summary>
+<summary><b>2022</b></summary>
 
 <p>Lukas Tuggener, Jürgen Schmidhuber, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/Frontiers_2022.pdf"><strong>Is it enough to optimize CNN architectures on ImageNet?</strong></a>. Computer Vision - <strong>Frontiers in Computer Science</strong>, DOI <a href="https://doi.org/10.3389/fcomp.2022.1041703">10.3389/fcomp.2022.1041703</a>, 15 November 2022.</p>
 
@@ -385,7 +385,7 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"
 
 
 <details>
-<summary><b>2021</></summary>
+<summary><b>2021</b></summary>
 
 <p>Samuel Wehrli, Corinna Hertweck, Mohammadreza Amirian, Stefan Glüge, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/AIEthics_2021.pdf"><strong>Bias, awareness and ignorance in deep-learning-based face recognition</strong></a>. <strong>AI and Ethics</strong>, DOI <a href="https://link.springer.com/article/10.1007%2Fs43681-021-00108-6">10.1007/s43681-021-00108-6</a>, Springer, October 27, 2021.</p>
 
@@ -400,7 +400,7 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"
 
 
 <details>
-<summary><b>2020</></summary>
+<summary><b>2020</b></summary>
 
 <p>Thilo Stadelmann, and Christoph Würsch. <a href="https://stdm.github.io/downloads/papers/TR_2020.pdf"><strong>Maps for an Uncertain Future: Teaching AI and Machine Learning Using the ATLAS Concept</strong></a>. Technical report (didactic concept), <strong>ZHAW</strong>, Winterthur, Switzerland, 2020.</p>
 
@@ -421,7 +421,7 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"
 
 
 <details>
-<summary><b>2019</></summary>
+<summary><b>2019</b></summary>
 
 <p>Mohammadreza Amirian, Katharina Rombach, Lukas Tuggener, Frank-Peter Schilling, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ECML_PKDD_2019.pdf"><strong>Efficient Deep CNNs for Cross-Modal Automated Computer Vision under Time and Space Constraints</strong></a>. In: <strong>AutoCV2 Workshop</strong> at European Conference on Machine Learning / European Conference on Principles and Practice of Knowledge Discovery in Databases (<strong>ECML-PKDD</strong>), Wuerzburg, Germany, September 16-19, 2019.</p>
 
@@ -448,7 +448,7 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"
 
 
 <details>
-<summary><b>2018</></summary>
+<summary><b>2018</b></summary>
 
 <p>Ismail Elezi, Lukas Tuggener, Marcello Pelillo, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/WoRMS_2018.pdf"><strong>DeepScores and Deep Watershed Detection: current state and open issues</strong></a>. In: Proceedings of the 1st International Workshop on Reading Music Systems (<strong>WoRMS’18</strong>), Paris, France, September 20, 2018.</p>
 
@@ -469,7 +469,7 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"
 
 
 <details>
-<summary><b>2017</></summary>
+<summary><b>2017</b></summary>
 
 <p>Benjamin Meier, Thilo Stadelmann, Jan Stampfli, Marek Arnold, and Mark Cieliebak. <a href="https://stdm.github.io/downloads/papers/ICDAR_2017.pdf"><strong>Fully convolutional neural networks for newspaper article segmentation</strong></a>. In: Proceedings of the 14th IAPR International Conference on Document Analysis and Recognition (<strong>ICDAR’17</strong>). 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), Kyoto Japan, November 13-15, 2017. Kyoto, Japan: CPS. DOI <a href="https://doi.org/10.21256/zhaw-1533">10.21256/zhaw-1533</a>.</p>
 
@@ -478,7 +478,7 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"
 
 
 <details>
-<summary><b>2016</></summary>
+<summary><b>2016</b></summary>
 
 <p>Yanick Lukic, Carlo Vogt, Oliver Dürr, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/MLSP_2016.pdf"><strong>Speaker Identification and Clustering using Convolutional Neural Networks</strong></a>. In: Proceedings of IEEE International Workshop on Machine Learning for Signal Processing (<strong>MLSP’16</strong>). Salerno: IEEE. DOI <a href="https://doi.org/10.21256/zhaw-3761">10.21256/zhaw-3761</a>.</p>
 
@@ -487,7 +487,7 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"
 
 
 <details>
-<summary><b>2015</></summary>
+<summary><b>2015</b></summary>
 
 <p>Jean-Daniel Dessimoz, Jana Koehler, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/AIMAG_2015.pdf"><strong>AI in Switzerland</strong></a>. <strong>AI Magazine</strong>. 36(2), S. 102-105, 2015. DOI <a href="https://doi.org/10.21256/zhaw-3642">10.21256/zhaw-3642</a>. <strong>Invited paper</strong>.</p>
 
@@ -496,28 +496,28 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"
 
 
 <details>
-<summary><b>2014</></summary>
+<summary><b>2014</b></summary>
 
 <p>Kurt Stockinger, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/HMD_2014.pdf"><strong>Data Science für Lehre, Forschung und Praxis</strong></a>. <strong>HMD Praxis der Wirtschaftsinformatik</strong>. 51(4), S. 469-479, 2014. DOI <a href="https://doi.org/10.21256/zhaw-3759">10.21256/zhaw-3759</a>.</p>
 </details>
 
 
 <details>
-<summary><b>2013</></summary>
+<summary><b>2013</b></summary>
 
 <p>Thilo Stadelmann, Kurt Stockinger, Martin Braschler, Mark Cieliebak, Gerold Baudinot, Oliver Dürr, and Andreas Ruckstuhl. <a href="https://stdm.github.io/downloads/papers/ECSS_2013.pdf"><strong>Applied data science in Europe: challenges for academia in keeping up with a highly demanded topic</strong></a>. In: Proceedings of the 9th European Computer Science Summit (<strong>ECSS’13</strong>), Amsterdam, October 8–9, 2013.</p>
 </details>
 
 
 <details>
-<summary><b>2012</></summary>
+<summary><b>2012</b></summary>
 
 <p>Thilo Stadelmann, Sven Johr, Michael Ditze, Florian Dittman, and Viktor Fässler. <a href="https://stdm.github.io/downloads/papers/VDIFASIS_2012.pdf"><strong>FABELHAFT - Fahrerablenkung: Entwicklung eines Meta-Fahrerassistenzsystems durch Echtzeit-Audioklassifikation</strong></a>. In Proceedings of 28. <strong>VDI-VW Gemeinschaftstagung Fahrerassistenzsysteme und Integrierte Sicherheit ‘12</strong>, Wolfsburg, Germany, October 10.-11., 2012. VDI Wissensforum.</p>
 </details>
 
 
 <details>
-<summary><b>2010</></summary>
+<summary><b>2010</b></summary>
 
 <p>Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/PhdThesis_2010.pdf"><strong>Voice Modeling Methods for Automatic Speaker Recognition</strong></a>. Dissertation, <strong>Philipps-Universität Marburg</strong>. <a href="https://archiv.ub.uni-marburg.de/ubfind/Record/urn:nbn:de:hebis:04-z2010-0465?sid=1980300">Available online, 2010</a>.</p>
 
@@ -532,7 +532,7 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"
 
 
 <details>
-<summary><b>2009</></summary>
+<summary><b>2009</b></summary>
 
 <p>Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bing Shi, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/TRECVID_2009.pdf"><strong>University of Marburg at TRECVID 2009: High-Level Feature Extraction</strong></a>. In Proceedings of TREC Video Retrieval Evaluation Workshop (<strong>TRECVid’09</strong>).</p>
 
@@ -551,14 +551,14 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"
 
 
 <details>
-<summary><b>2008</></summary>
+<summary><b>2008</b></summary>
 
 <p>Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bing Shi, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/TRECVID_2008.pdf"><strong>University of Marburg at TRECVID 2008: High-Level Feature Extraction</strong></a>. In Proceedings of TREC Video Retrieval Evaluation Workshop (<strong>TRECVid’08</strong>).</p>
 </details>
 
 
 <details>
-<summary><b>2007</></summary>
+<summary><b>2007</b></summary>
 
 <p>Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bing Shi, Christian Zöfel, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/TRECVID_2007.pdf"><strong>University of Marburg at TRECVID 2007: Shot Boundary Detection and High-Level Feature Extraction</strong></a>. In Proceedings of TREC Video Retrieval Evaluation Workshop (<strong>TRECVid’07</strong>).</p>
 
@@ -569,7 +569,7 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"
 
 
 <details>
-<summary><b>2006</></summary>
+<summary><b>2006</b></summary>
 
 <p>Ralph Ewerth, Markus Mühling, Thilo Stadelmann, Ermir Qeli, Björn Agel, Dominik Seiler, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/TRECVID_2006.pdf"><strong>University of Marburg at TRECVID 2006: Shot Boundary Detection and Rushes Task Results</strong></a>. In Proceedings of TREC Video Retrieval Evaluation Workshop (<strong>TRECVid’06</strong>).</p>
 
@@ -578,13 +578,13 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"
 
 
 <details>
-<summary><b>2005</></summary>
+<summary><b>2005</b></summary>
 
 <p>Ralph Ewerth, Christian Behringer, Tobias Kopp, Michael Niebergall, Thilo Stadelmann, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/TRECVID_2005.pdf"><strong>University of Marburg at TRECVID 2005: Shot Boundary Detection and Camera Motion Estimation Results</strong></a>. In Proceedings of TREC Video Retrieval Evaluation Workshop (<strong>TRECVid’05</strong>).</p>
 </details>
 
 
 <details>
-<summary><b>2004</></summary>
+<summary><b>2004</b></summary>
 
 <p>Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/DiplomaThesis_2004.pdf"><strong>Sprechererkennung in Videos</strong></a>. Diplomarbeit, <strong>Fachhochschule Giessen-Friedberg</strong>, 2004.</p>
