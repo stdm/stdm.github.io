@@ -297,8 +297,10 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 <table border="0"><tr>
 <td><img alt="Paper thumbnail" width="150" src="http://stdm.github.io/images/papers/KIW_2025.jpg"/></td>
 <td>
+
 Thilo Stadelmann. [**Wegweiser Künstliche Intelligenz: Verstehen, anwenden und zuversichtlich Zukunft gestalten**](https://stdm.github.io/downloads/papers/KIW_2025.pdf). In: Sebastian Hersberger and Christian Hugo Hoffmann (Editors). "Wie die Künstliche Intelligenz die Wirtschaft verändert - Überblick über die theoretischen Grundlagen und Praxisbeispiele entlang von Ökosystemen", **Springer**, 2025.
-</td></tr><?table>
+
+</td></tr></table>
 
 #### 2024
 
