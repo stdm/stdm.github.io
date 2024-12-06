@@ -36,8 +36,8 @@ The group has very diverse backgrounds, which helps us complement each other's s
 <details>
 <summary><b>Staff and students</b></summary>  
 <ul>
-    <li><a href="https://de.wikipedia.org/wiki/Thilo_Stadelmann">Prof. Dr. Thilo Stadelmann</a>, group lead: Diplom (THM) & PhD (U. Marburg) in computer science</li>
-    <li><a href="https://scholar.google.com/citations?user=XqaePW0AAAAJ">Dr. Ahmed Abdulkadir</a>, senior researcher: B.Sc. systems engineering (NTB Buchs), BSc & MSc Life Sciences (EPFL), PhD computer engineering (University of Freiburg / Germany), PostDoc University Hospital Bern / University of Pennsylvania / Lausanne University Hospital</li>
+    <li><a href="https://de.wikipedia.org/wiki/Thilo_Stadelmann">Prof. Dr. Thilo Stadelmann</a>, head of group: Diplom (THM) & PhD (U. Marburg) in computer science</li>
+    <li><a href="https://scholar.google.com/citations?user=XqaePW0AAAAJ">Dr. Ahmed Abdulkadir</a>, senior researcher, deputy head of group: B.Sc. systems engineering (NTB Buchs), BSc & MSc Life Sciences (EPFL), PhD computer engineering (University of Freiburg / Germany), PostDoc University Hospital Bern / University of Pennsylvania / Lausanne University Hospital</li>
     <li><a href="https://www.linkedin.com/in/hella-bolck-783a6526">Dr. Hella Bolck</a>, coordinator for complex projects: M.Sc. biochemistry and molecular biology (U Jena), PhD cancer biology (U Zurich), postdoc & senior scientist (USZ)</li>
     <li><a href="https://tuggeluk.github.io/">Lukas Tuggener</a>, PhD student: B.Sc. industrial engineering (ZHAW), M.Sc. statistics (ETH), doctorate in conjunction with <a href="http://people.idsia.ch/~juergen/">Juergen Schmidhuber</a> of the University of Lugano / Switzerland</li>
     <li><a href="https://www.linkedin.com/in/waqar-ali-92468910b/">Waqar Ali</a>, PhD student: M.Sc. (CU Islamabad) in computer science, doctorate in conjunction with <a href="https://www.dsi.unive.it/~pelillo/">Marcello Pelillo</a> of the University of Venice / Italy</li>
