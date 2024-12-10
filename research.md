@@ -406,9 +406,9 @@ Peng Yan, Ahmed Abdulkadir, Paul-Philipp Luley, Matthias Rosenthal, Gerrit A. Sc
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/AIEthics_2023.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AIEthics_2023.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://link.springer.com/article/10.1007/s43681-023-00408-z"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AIEthics_2023.jpg"/></a></td>
 <td>
-Jan Segessenmann, Thilo Stadelmann, Andrew Davison, and Oliver Dürr. <a href="https://stdm.github.io/downloads/papers/AIEthics_2023.pdf"><strong>Assessing Deep Learning: A Work Program for the Humanities in the Age of Artificial Intelligence</strong></a>. In: <strong>AI and Ethics</strong>, Springer, November 30, 2023, DOI <a href="https://link.springer.com/article/10.1007/s43681-023-00408-z">10.1007/s43681-023-00408-z</a> (see also extended <strong>SSRN preprint</strong>, <a href="https://ssrn.com/abstract=4554234">ssrn.4554234</a>, August 28, 2023. DOI <a href="http://dx.doi.org/10.2139/ssrn.4554234">10.2139/ssrn.4554234</a>).
+Jan Segessenmann, Thilo Stadelmann, Andrew Davison, and Oliver Dürr. <a href="https://link.springer.com/article/10.1007/s43681-023-00408-z"><strong>Assessing Deep Learning: A Work Program for the Humanities in the Age of Artificial Intelligence</strong></a>. In: <strong>AI and Ethics</strong>, Springer, November 30, 2023, DOI <a href="https://link.springer.com/article/10.1007/s43681-023-00408-z">10.1007/s43681-023-00408-z</a> (see also extended <strong>SSRN preprint</strong>, <a href="https://ssrn.com/abstract=4554234">ssrn.4554234</a>, August 28, 2023. DOI <a href="http://dx.doi.org/10.2139/ssrn.4554234">10.2139/ssrn.4554234</a>).
 </td>
 </tr>
 <tr>
@@ -456,27 +456,68 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/Buergenstock_
 </table>
 </details>
 
+
 <b>2022</b>
 
-<p>Lukas Tuggener, Jürgen Schmidhuber, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/Frontiers_2022.pdf"><strong>Is it enough to optimize CNN architectures on ImageNet?</strong></a>. Computer Vision - <strong>Frontiers in Computer Science</strong>, DOI <a href="https://doi.org/10.3389/fcomp.2022.1041703">10.3389/fcomp.2022.1041703</a>, 15 November 2022.</p>
-
-<p>Felix M. Schmitt-Koopmann, Elaine M. Huang, Hans-Peter Hutter, Thilo Stadelmann, and Alireza Darvishy. <a href="https://stdm.github.io/downloads/papers/Access_2022.pdf"><strong>FormulaNet: A Benchmark Dataset for Mathematical Formula Detection</strong></a>. <strong>IEEE Access</strong> 2022, 10, pp. 91588-91596, DOI <a href="https://ieeexplore.ieee.org/document/9869643">10.1109/ACCESS.2022.3202639</a>, August 2022.</p>
-
-<p>Pascal Sager, Sebastian Salzmann, Felice Burn, and Thilo Stadelmann. <a href="https://www.mdpi.com/2313-433X/8/8/222/pdf"><strong>Unsupervised Domain Adaptation for Vertebrae Detection and Identification in 3D CT Volumes Using a Domain Sanity Loss</strong></a>. <strong>J. Imaging</strong> 2022, 8(8), 222, MDPI, Basel, Switzerland. DOI <a href="https://doi.org/10.3390/jimaging8080222">10.3390/jimaging8080222</a>.</p>
-
-<p>Christoph von der Malsburg, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KogWis_2022.pdf"><strong>Making Sense of the Natural Environment</strong></a>. Proceedings of the <strong>KogWis 2022 - Understanding Minds</strong> Biannual Conference of the German Cognitive Science Society, Freiburg, Germany, September 5-7, 2022.</p>
-
-<p>Christoph von der Malsburg, Thilo Stadelmann, and Benjamin F. Grewe. <a href="https://stdm.github.io/downloads/papers/ArXiv_2022.pdf"><strong>A Theory of Natural Intelligence</strong></a>. <strong>arXiv preprint</strong>, <a href="https://arxiv.org/abs/2205.00002">arXiv:2205.00002</a>, April 2022.</p>
-
-<p>Frank-Peter Schilling, Dandolo Flumini, Rudolf M. Füchslin, Elena Gavagnin, Armando Geller, Silvia Quarteroni and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/AoDSA_2022b.pdf"><strong>Foundations of Data Science: A Comprehensive Overview Formed at the 1st International Symposium on the Science of Data Science</strong></a>. <strong>Archives of Data Science, Series A</strong>, 8(2), pp. 1-21, 2022. DOI <a href="https://dx.doi.org/10.5445/IR/1000146422">10.5445/IR/1000146422</a>.</p>
-
-<p>Ivo Herzig, Pascal Paysan, Stefan Scheib, Frank-Peter Schilling, Javier Montoya, Mohammadreza Amirian, Thilo Stadelmann, Peter Eggenberger, Rudolf M. Fuechslin, and Lukas Lichtensteiger. <strong>Deep Learning-Based Simultaneous Multi-Phase Deformable Image Registration of Sparse 4D-CBCT</strong>. In: Proceedings of the American Association of Physics in Medicine Annual Meeting (<strong>AAPM’22</strong>), Washington, DC, USA, July 10-14, 2022.</p>
-
-<p>Thilo Stadelmann, Tino Klamt, and Philipp H. Merkt. <a href="https://stdm.github.io/downloads/papers/AoDSA_2022a.pdf"><strong>Data Centrism and the Core of Data Science as a Scientific Discipline</strong></a>. <strong>Archives of Data Science, Series A</strong>, 8(2), pp.1-16, April 2022. DOI <a href="https://dx.doi.org/10.5445/IR/1000143637">10.5445/IR/1000143637</a>.</p>
-
-<p>Andreas Geyer-Schultz and Thilo Stadelmann (Editors). <a href="https://www.archivesofdatascience.org/journals/series_a/publications#articles"><strong>Archives of Data Science, Series A, 8(2)</strong></a>, April 2022. <strong>Special Issue</strong>.</p>
-
-<p>Frank-Peter Schilling and Thilo Stadelmann (Editors). <a href="https://www.mdpi.com/journal/jimaging/special_issues/deep_neural_network"><strong>Special Issue “Advances in Deep Neural Networks for Visual Pattern Recognition</strong></a>, <strong>J. Imaging</strong>, MDPI, March 2022.</p>
+<table class="publist">
+<tr>
+<td style="width: 175px;"><a href="https://doi.org/10.3389/fcomp.2022.1041703"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Frontiers_2022.jpg"/></a></td>
+<td>
+Lukas Tuggener, Jürgen Schmidhuber, and Thilo Stadelmann. <a href="https://doi.org/10.3389/fcomp.2022.1041703"><strong>Is it enough to optimize CNN architectures on ImageNet?</strong></a>. Computer Vision - <strong>Frontiers in Computer Science</strong>, DOI <a href="https://doi.org/10.3389/fcomp.2022.1041703">10.3389/fcomp.2022.1041703</a>, 15 November 2022.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://ieeexplore.ieee.org/document/9869643"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Access_2022.jpg"/></a></td>
+<td>
+Felix M. Schmitt-Koopmann, Elaine M. Huang, Hans-Peter Hutter, Thilo Stadelmann, and Alireza Darvishy. <a href="https://ieeexplore.ieee.org/document/9869643"><strong>FormulaNet: A Benchmark Dataset for Mathematical Formula Detection</strong></a>. <strong>IEEE Access</strong> 2022, 10, pp. 91588-91596, DOI <a href="https://ieeexplore.ieee.org/document/9869643">10.1109/ACCESS.2022.3202639</a>, August 2022.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://www.mdpi.com/2313-433X/8/8/222/pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/JImaging_2022.jpg"/></a></td>
+<td>
+Pascal Sager, Sebastian Salzmann, Felice Burn, and Thilo Stadelmann. <a href="https://www.mdpi.com/2313-433X/8/8/222/pdf"><strong>Unsupervised Domain Adaptation for Vertebrae Detection and Identification in 3D CT Volumes Using a Domain Sanity Loss</strong></a>. <strong>J. Imaging</strong> 2022, 8(8), 222, MDPI, Basel, Switzerland. DOI <a href="https://doi.org/10.3390/jimaging8080222">10.3390/jimaging8080222</a>.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/KogWis_2022.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/KogWis_2022.jpg"/></a></td>
+<td>
+Christoph von der Malsburg, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KogWis_2022.pdf"><strong>Making Sense of the Natural Environment</strong></a>. Proceedings of the <strong>KogWis 2022 - Understanding Minds</strong> Biannual Conference of the German Cognitive Science Society, Freiburg, Germany, September 5-7, 2022.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2022.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2022.jpg"/></a></td>
+<td>
+Christoph von der Malsburg, Thilo Stadelmann, and Benjamin F. Grewe. <a href="https://stdm.github.io/downloads/papers/ArXiv_2022.pdf"><strong>A Theory of Natural Intelligence</strong></a>. <strong>arXiv preprint</strong>, <a href="https://arxiv.org/abs/2205.00002">arXiv:2205.00002</a>, April 2022.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/AoDSA_2022b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AoDSA_2022b.jpg"/></a></td>
+<td>
+Frank-Peter Schilling, Dandolo Flumini, Rudolf M. Füchslin, Elena Gavagnin, Armando Geller, Silvia Quarteroni and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/AoDSA_2022b.pdf"><strong>Foundations of Data Science: A Comprehensive Overview Formed at the 1st International Symposium on the Science of Data Science</strong></a>. <strong>Archives of Data Science, Series A</strong>, 8(2), pp. 1-21, 2022. DOI <a href="https://dx.doi.org/10.5445/IR/1000146422">10.5445/IR/1000146422</a>.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/AAPM_2022.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AAPM_2022.jpg"/></a></td>
+<td>
+Ivo Herzig, Pascal Paysan, Stefan Scheib, Frank-Peter Schilling, Javier Montoya, Mohammadreza Amirian, Thilo Stadelmann, Peter Eggenberger, Rudolf M. Fuechslin, and Lukas Lichtensteiger. <a href="https://stdm.github.io/downloads/papers/AAPM_2022.pdf"><strong>Deep Learning-Based Simultaneous Multi-Phase Deformable Image Registration of Sparse 4D-CBCT</strong></a>. In: Proceedings of the American Association of Physics in Medicine Annual Meeting (<strong>AAPM’22</strong>), Washington, DC, USA, July 10-14, 2022.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/AoDSA_2022a.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AoDSA_2022a.jpg"/></a></td>
+<td>
+Thilo Stadelmann, Tino Klamt, and Philipp H. Merkt. <a href="https://stdm.github.io/downloads/papers/AoDSA_2022a.pdf"><strong>Data Centrism and the Core of Data Science as a Scientific Discipline</strong></a>. <strong>Archives of Data Science, Series A</strong>, 8(2), pp.1-16, April 2022. DOI <a href="https://dx.doi.org/10.5445/IR/1000143637">10.5445/IR/1000143637</a>.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/AoDSA_2022.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AoDSA_2022.jpg"/></a></td>
+<td>
+Andreas Geyer-Schultz and Thilo Stadelmann (Editors). <a href="https://www.archivesofdatascience.org/journals/series_a/publications#articles"><strong>Archives of Data Science, Series A, 8(2)</strong></a>, April 2022. <strong>Special Issue</strong>.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/JImaging_2022a.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/JImaging_2022a.jpg"/></a></td>
+<td>
+Frank-Peter Schilling and Thilo Stadelmann (Editors). <a href="https://www.mdpi.com/journal/jimaging/special_issues/deep_neural_network"><strong>Special Issue “Advances in Deep Neural Networks for Visual Pattern Recognition</strong></a>, <strong>J. Imaging</strong>, MDPI, March 2022.
 </td>
 </tr>
 </table>
