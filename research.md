@@ -404,22 +404,57 @@ Peng Yan, Ahmed Abdulkadir, Paul-Philipp Luley, Matthias Rosenthal, Gerrit A. Sc
 
 <b>2023</b>
 
-<p>Jan Segessenmann, Thilo Stadelmann, Andrew Davison, and Oliver Dürr. <a href="https://stdm.github.io/downloads/papers/AIEthics_2023.pdf"><strong>Assessing Deep Learning: A Work Program for the Humanities in the Age of Artificial Intelligence</strong></a>. In: <strong>AI and Ethics</strong>, Springer, November 30, 2023, DOI <a href="https://link.springer.com/article/10.1007/s43681-023-00408-z">10.1007/s43681-023-00408-z</a> (see also extended <strong>SSRN preprint</strong>, <a href="https://ssrn.com/abstract=4554234">ssrn.4554234</a>, August 28, 2023. DOI <a href="http://dx.doi.org/10.2139/ssrn.4554234">10.2139/ssrn.4554234</a>).</p>
-
-<p>Lukas Tuggener, Thilo Stadelmann, and Jürgen Schmidhuber. <a href="https://stdm.github.io/downloads/papers/ArXiv_2023c.pdf"><strong>Efficient Rotation Invariance in Deep Neural Networks through Artificial Mental Rotation</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/pdf/2311.08525.pdf">arXiv:2311.08525</a>, November 2023.</p>
-
-<p>Matthia Battaglia, Ennio Comi, Thilo Stadelmann, Roman Hiestand, Beat Ruhstaller, and Evelyne Knapp. <a href="https://stdm.github.io/downloads/papers/APLML_2023.pdf"><strong>Deep Ensemble Inverse Model for Image-Based Estimation of Solar Cell Parameters</strong></a>. In: <strong>APL Machine Learning</strong> 1(3). 01. September 2023. DOI <a href="https://doi.org/10.1063/5.0139707">10.1063/5.0139707</a>.</p>
-
-<p>Raphael Emberger, Jens Michael Boss, Daniel Baumann, Marko Seric, Shufan Huo, Lukas Tuggener, Emanuela Keller, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2023b.pdf"><strong>Video object detection for privacy-preserving patient monitoring in intensive care</strong></a>. In: Proceedings of the 10th IEEE Swiss Conference on Data Science (<strong>SDS’23</strong>), Zurich, Switzerland, 2023.</p>
-
-<p>Paul-Philipp Luley, Jan M. Deriu, Peng Yan, Gerrit A. Schatte, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2023a.pdf"><strong>From Concept to Implementation: The Data-Centric Development Process for AI in Industry</strong></a>. In: Proceedings of the 10th IEEE Swiss Conference on Data Science (<strong>SDS’23</strong>), Zurich, Switzerland, 2023.</p>
-
-<p>Mohammadreza Amirian, Javier A. Montoya-Zegarra, Lukas Lichtensteiger, Ivo Herzig, Peter Eggenberger Hotz,  Marco Morf, Alexander Züst, Rudolf Marcel Füchslin, Pascal Paysan, Igor Peterlik, Stefan Scheib, Thilo Stadelmann, and Frank-Peter Schilling. <a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.16405"><strong>Mitigation of Motion-Induced Artifacts in Cone Beam Computed Tomography using Deep Convolutional Neural Networks</strong></a>. <strong>Med. Phys.</strong> 50: 6228-6242, Wiley, March 2023. DOI <a href="https://doi.org/10.1002/mp.16405">10.1002/mp.16405</a>.</p>
-
-<p>Waqar Ali, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. <a href="https://stdm.github.io/downloads/papers/GMLR_2023.pdf"><strong>Quasi-CliquePool: Hierarchical Graph Pooling for Graph Classification</strong></a>. ACM SAC 2023 Track on Graph Models for Learning and Recognition (<strong>GMLR</strong>), Tallinn, Estonia, March 27 - April 2, 2023. DOI <a href="https://doi.org/10.1145/3555776.3578600">10.1145/3555776.3578600</a>.</p>
-
-<p>Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/Buergenstock_2023.pdf"><strong>KI als Chance für die angewandten Wissenschaften im Wettbewerb der Hochschulen</strong></a>. Workshop (“Atelier”) at the <strong>Bürgenstock-Konferenz der Schweizer Fachhochschulen und Pädagogischen Hochschulen</strong> 2023, Luzern, Schweiz, 20. Januar 2023.</p>
-
+<table class="publist">
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/AIEthics_2023.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AIEthics_2023.jpg"/></a></td>
+<td>
+Jan Segessenmann, Thilo Stadelmann, Andrew Davison, and Oliver Dürr. <a href="https://stdm.github.io/downloads/papers/AIEthics_2023.pdf"><strong>Assessing Deep Learning: A Work Program for the Humanities in the Age of Artificial Intelligence</strong></a>. In: <strong>AI and Ethics</strong>, Springer, November 30, 2023, DOI <a href="https://link.springer.com/article/10.1007/s43681-023-00408-z">10.1007/s43681-023-00408-z</a> (see also extended <strong>SSRN preprint</strong>, <a href="https://ssrn.com/abstract=4554234">ssrn.4554234</a>, August 28, 2023. DOI <a href="http://dx.doi.org/10.2139/ssrn.4554234">10.2139/ssrn.4554234</a>).
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2023c.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2023c.jpg"/></a></td>
+<td>
+Lukas Tuggener, Thilo Stadelmann, and Jürgen Schmidhuber. <a href="https://stdm.github.io/downloads/papers/ArXiv_2023c.pdf"><strong>Efficient Rotation Invariance in Deep Neural Networks through Artificial Mental Rotation</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/pdf/2311.08525.pdf">arXiv:2311.08525</a>, November 2023.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/APLML_2023.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/APLML_2023.jpg"/></a></td>
+<td>
+Matthia Battaglia, Ennio Comi, Thilo Stadelmann, Roman Hiestand, Beat Ruhstaller, and Evelyne Knapp. <a href="https://stdm.github.io/downloads/papers/APLML_2023.pdf"><strong>Deep Ensemble Inverse Model for Image-Based Estimation of Solar Cell Parameters</strong></a>. In: <strong>APL Machine Learning</strong> 1(3). 01. September 2023. DOI <a href="https://doi.org/10.1063/5.0139707">10.1063/5.0139707</a>.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2023b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2023b.jpg"/></a></td>
+<td>
+Raphael Emberger, Jens Michael Boss, Daniel Baumann, Marko Seric, Shufan Huo, Lukas Tuggener, Emanuela Keller, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2023b.pdf"><strong>Video object detection for privacy-preserving patient monitoring in intensive care</strong></a>. In: Proceedings of the 10th IEEE Swiss Conference on Data Science (<strong>SDS’23</strong>), Zurich, Switzerland, 2023.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2023a.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2023a.jpg"/></a></td>
+<td>
+Paul-Philipp Luley, Jan M. Deriu, Peng Yan, Gerrit A. Schatte, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2023a.pdf"><strong>From Concept to Implementation: The Data-Centric Development Process for AI in Industry</strong></a>. In: Proceedings of the 10th IEEE Swiss Conference on Data Science (<strong>SDS’23</strong>), Zurich, Switzerland, 2023.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.16405"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/MedPhys_2023.jpg"/></a></td>
+<td>
+Mohammadreza Amirian, Javier A. Montoya-Zegarra, Lukas Lichtensteiger, Ivo Herzig, Peter Eggenberger Hotz,  Marco Morf, Alexander Züst, Rudolf Marcel Füchslin, Pascal Paysan, Igor Peterlik, Stefan Scheib, Thilo Stadelmann, and Frank-Peter Schilling. <a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.16405"><strong>Mitigation of Motion-Induced Artifacts in Cone Beam Computed Tomography using Deep Convolutional Neural Networks</strong></a>. <strong>Med. Phys.</strong> 50: 6228-6242, Wiley, March 2023. DOI <a href="https://doi.org/10.1002/mp.16405">10.1002/mp.16405</a>.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/GMLR_2023.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/GMLR_2023.jpg"/></a></td>
+<td>
+Waqar Ali, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. <a href="https://stdm.github.io/downloads/papers/GMLR_2023.pdf"><strong>Quasi-CliquePool: Hierarchical Graph Pooling for Graph Classification</strong></a>. ACM SAC 2023 Track on Graph Models for Learning and Recognition (<strong>GMLR</strong>), Tallinn, Estonia, March 27 - April 2, 2023. DOI <a href="https://doi.org/10.1145/3555776.3578600">10.1145/3555776.3578600</a>.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/Buergenstock_2023.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Buergenstock_2023.jpg"/></a></td>
+<td>
+Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/Buergenstock_2023.pdf"><strong>KI als Chance für die angewandten Wissenschaften im Wettbewerb der Hochschulen</strong></a>. Workshop (“Atelier”) at the <strong>Bürgenstock-Konferenz der Schweizer Fachhochschulen und Pädagogischen Hochschulen</strong> 2023, Luzern, Schweiz, 20. Januar 2023.</p>
+</td>
+</tr>
+</table>
+</details>
 
 <b>2022</b>
 
@@ -442,7 +477,10 @@ Peng Yan, Ahmed Abdulkadir, Paul-Philipp Luley, Matthias Rosenthal, Gerrit A. Sc
 <p>Andreas Geyer-Schultz and Thilo Stadelmann (Editors). <a href="https://www.archivesofdatascience.org/journals/series_a/publications#articles"><strong>Archives of Data Science, Series A, 8(2)</strong></a>, April 2022. <strong>Special Issue</strong>.</p>
 
 <p>Frank-Peter Schilling and Thilo Stadelmann (Editors). <a href="https://www.mdpi.com/journal/jimaging/special_issues/deep_neural_network"><strong>Special Issue “Advances in Deep Neural Networks for Visual Pattern Recognition</strong></a>, <strong>J. Imaging</strong>, MDPI, March 2022.</p>
-
+</td>
+</tr>
+</table>
+</details>
 
 <b>2021</b>
 
