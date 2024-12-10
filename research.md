@@ -454,7 +454,6 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/Buergenstock_
 </td>
 </tr>
 </table>
-</details>
 
 
 <b>2022</b>
@@ -521,7 +520,7 @@ Frank-Peter Schilling and Thilo Stadelmann (Editors). <a href="https://www.mdpi.
 </td>
 </tr>
 </table>
-</details>
+
 
 <b>2021</b>
 
