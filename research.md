@@ -526,7 +526,7 @@ Frank-Peter Schilling and Thilo Stadelmann (Editors). <a href="https://www.mdpi.
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><a href="ttps://stdm.github.io/downloads/papers/AIEthics_2021.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AIEthics_2021.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/AIEthics_2021.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AIEthics_2021.jpg"/></a></td>
 <td>
 Samuel Wehrli, Corinna Hertweck, Mohammadreza Amirian, Stefan Glüge, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/AIEthics_2021.pdf"><strong>Bias, awareness and ignorance in deep-learning-based face recognition</strong></a>. <strong>AI and Ethics</strong>, DOI <a href="https://link.springer.com/article/10.1007%2Fs43681-021-00108-6">10.1007/s43681-021-00108-6</a>, Springer, October 27, 2021.
 </td>
