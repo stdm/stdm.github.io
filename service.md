@@ -40,7 +40,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
   * Talk at QUT Centre for Robotics, **Queensland University of Technology**, Brisbane, Australia, December 03, 2024
 
-  * Talk at Sports Data Science & AI Workshop, QUT Centre for Data Science, Queensland University of Technology, Brisbane, Australia, November 26, 2024
+  * Talk at Sports Data Science & AI Workshop, **QUT Centre for Data Science**, Queensland University of Technology, Brisbane, Australia, November 26, 2024
   
   * Keynote "AI in sports: a real-world laboratory for upcoming societal change?" at QUT Centre for Data Science, **Queensland University of Technology**, Brisbane, Australia, November 25, 2024
   
@@ -82,7 +82,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Talk "AI - The usefulness revolution" at the "AI-Booster - Managing Smarter with Generative AI" event of the **Global Peter Drucker Forum**, online, July 02, 2024
   
-  * Keynote at Kaderanlass of the **Kantonspolizeit Zürich**, Zurich, Switzerland, June 28, 2024
+  * Keynote at Kaderanlass of the **Kantonspolizei Zürich**, Zurich, Switzerland, June 28, 2024
   
   * Talk "AI - Where are we heading?" at **150 Years Technikum Winterthur** celebration, Winterthur, Switzerland, Jun2 25, 2024
   
