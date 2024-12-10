@@ -508,13 +508,13 @@ Thilo Stadelmann, Tino Klamt, and Philipp H. Merkt. <a href="https://stdm.github
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/AoDSA_2022.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AoDSA_2022.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://www.archivesofdatascience.org/journals/series_a/publications#articles"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AoDSA_2022.jpg"/></a></td>
 <td>
 Andreas Geyer-Schultz and Thilo Stadelmann (Editors). <a href="https://www.archivesofdatascience.org/journals/series_a/publications#articles"><strong>Archives of Data Science, Series A, 8(2)</strong></a>, April 2022. <strong>Special Issue</strong>.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/JImaging_2022a.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/JImaging_2022a.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://www.mdpi.com/journal/jimaging/special_issues/deep_neural_network"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/JImaging_2022a.jpg"/></a></td>
 <td>
 Frank-Peter Schilling and Thilo Stadelmann (Editors). <a href="https://www.mdpi.com/journal/jimaging/special_issues/deep_neural_network"><strong>Special Issue “Advances in Deep Neural Networks for Visual Pattern Recognition</strong></a>, <strong>J. Imaging</strong>, MDPI, March 2022.
 </td>
