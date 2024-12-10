@@ -524,15 +524,38 @@ Frank-Peter Schilling and Thilo Stadelmann (Editors). <a href="https://www.mdpi.
 
 <b>2021</b>
 
-<p>Samuel Wehrli, Corinna Hertweck, Mohammadreza Amirian, Stefan Glüge, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/AIEthics_2021.pdf"><strong>Bias, awareness and ignorance in deep-learning-based face recognition</strong></a>. <strong>AI and Ethics</strong>, DOI <a href="https://link.springer.com/article/10.1007%2Fs43681-021-00108-6">10.1007/s43681-021-00108-6</a>, Springer, October 27, 2021.</p>
-
-<p>Mohammadreza Amirian, Javier A. Montoya-Zegarra, Jonathan Gruss, Yves D. Stebler, Ahmet Selman Bozkir, Marco Calandri, Friedhelm Schwenker, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/CISP_BMEI_2021.pdf"><strong>PrepNet: A Convolutional Auto-Encoder to Homogenize CT Scans for Cross-Dataset Medical Image Analysis</strong></a>. In: Proceedings of the 14th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (<strong>CISP-BMEI’21</strong>), Shanghai, China, 2021.</p>
-
-<p>Thilo Stadelmann, Julian Keuzenkamp, Helmut Grabner, and Christoph Würsch. <a href="https://www.mdpi.com/2227-7102/11/7/318/pdf"><strong>The AI Atlas: Didactics for Teaching AI and Machine Learning On-Site, Online, and hybrid</strong></a>. <strong>Educ. Sci.</strong> 2021, 11, 318, MDPI, Basel, Switzerland, June 25, 2021.</p>
-
-<p>Evelyne Knapp, Mattia Battaglia, Thilo Stadelmann, Sandra Jenatsch, and Beat Ruhstaller. <a href="https://stdm.github.io/downloads/papers/SDS_2021b.pdf"><strong>XGBoost Trained on Synthetic Data to Extract Material Parameters of Organic Semiconductors</strong></a>. In: Proceedings of the 8th Swiss Conference on Data Science (<strong>SDS’21</strong>), Lucerne, Switzerland, 2021. <strong><a href="https://twitter.com/thilo_on_data/status/1402663898289950727">Best paper award</a></strong>.</p>
-
-<p>Niclas Simmler, Pascal Sager, Philipp Andermatt, Ricardo Chavarriaga, Frank-Peter Schilling, Matthias Rosenthal, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2021a.pdf"><strong>A Survey of Un-, Weakly-, and Semi-Supervised Learning Methods for Noisy, Missing and Partial Labels in Industrial Vision Applications</strong></a>. In: Proceedings of the 8th Swiss Conference on Data Science (<strong>SDS’21</strong>), Lucerne, Switzerland, 2021.</p>
+<table class="publist">
+<tr>
+<td style="width: 175px;"><a href="ttps://stdm.github.io/downloads/papers/AIEthics_2021.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AIEthics_2021.jpg"/></a></td>
+<td>
+Samuel Wehrli, Corinna Hertweck, Mohammadreza Amirian, Stefan Glüge, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/AIEthics_2021.pdf"><strong>Bias, awareness and ignorance in deep-learning-based face recognition</strong></a>. <strong>AI and Ethics</strong>, DOI <a href="https://link.springer.com/article/10.1007%2Fs43681-021-00108-6">10.1007/s43681-021-00108-6</a>, Springer, October 27, 2021.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/CISP_BMEI_2021.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/CISP_BMEI_2021.jpg"/></a></td>
+<td>
+Mohammadreza Amirian, Javier A. Montoya-Zegarra, Jonathan Gruss, Yves D. Stebler, Ahmet Selman Bozkir, Marco Calandri, Friedhelm Schwenker, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/CISP_BMEI_2021.pdf"><strong>PrepNet: A Convolutional Auto-Encoder to Homogenize CT Scans for Cross-Dataset Medical Image Analysis</strong></a>. In: Proceedings of the 14th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (<strong>CISP-BMEI’21</strong>), Shanghai, China, 2021.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://www.mdpi.com/2227-7102/11/7/318/pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/EducSci_2021.jpg"/></a></td>
+<td>
+Thilo Stadelmann, Julian Keuzenkamp, Helmut Grabner, and Christoph Würsch. <a href="https://www.mdpi.com/2227-7102/11/7/318/pdf"><strong>The AI Atlas: Didactics for Teaching AI and Machine Learning On-Site, Online, and hybrid</strong></a>. <strong>Educ. Sci.</strong> 2021, 11, 318, MDPI, Basel, Switzerland, June 25, 2021.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2021b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2021b.jpg"/></a></td>
+<td>
+Evelyne Knapp, Mattia Battaglia, Thilo Stadelmann, Sandra Jenatsch, and Beat Ruhstaller. <a href="https://stdm.github.io/downloads/papers/SDS_2021b.pdf"><strong>XGBoost Trained on Synthetic Data to Extract Material Parameters of Organic Semiconductors</strong></a>. In: Proceedings of the 8th Swiss Conference on Data Science (<strong>SDS’21</strong>), Lucerne, Switzerland, 2021. <strong><a href="https://twitter.com/thilo_on_data/status/1402663898289950727">Best paper award</a></strong>.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2021a.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2021a.jpg"/></a></td>
+<td>
+Niclas Simmler, Pascal Sager, Philipp Andermatt, Ricardo Chavarriaga, Frank-Peter Schilling, Matthias Rosenthal, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2021a.pdf"><strong>A Survey of Un-, Weakly-, and Semi-Supervised Learning Methods for Noisy, Missing and Partial Labels in Industrial Vision Applications</strong></a>. In: Proceedings of the 8th Swiss Conference on Data Science (<strong>SDS’21</strong>), Lucerne, Switzerland, 2021.
+</td>
+</tr>
+</table>
 
 
 <b>2020</b>
