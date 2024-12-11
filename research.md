@@ -560,47 +560,128 @@ Niclas Simmler, Pascal Sager, Philipp Andermatt, Ricardo Chavarriaga, Frank-Pete
 
 <b>2020</b>
 
-<p>Thilo Stadelmann, and Christoph Würsch. <a href="https://stdm.github.io/downloads/papers/TR_2020.pdf"><strong>Maps for an Uncertain Future: Teaching AI and Machine Learning Using the ATLAS Concept</strong></a>. Technical report (didactic concept), <strong>ZHAW</strong>, Winterthur, Switzerland, 2020.</p>
-
-<p>Lukas Tuggener, Mohammadreza Amirian, Fernando Benites, Pius von Däniken, Prakhar Gupta, Frank-Peter Schilling, and Thilo Stadelmann. <a href="https://www.mdpi.com/2673-2688/1/4/31/pdf"><strong>Design Patterns for Resource-Constrained Automated Deep-Learning Methods</strong></a>. <strong>AI</strong> section “Intelligent Systems: Theory and Applications” 1(4):510-538, MDPI, Basel, Switzerland, November 06, 2020.</p>
-
-<p>Lukas Tuggener, Yvan Putra Satyawan, Alexander Pacha, Jürgen Schmidhuber, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ICPR_2020.pdf"><strong>The DeepScoresV2 Dataset and Benchmark for Music Object Detection</strong></a>. In: Proceedings of the 25th International Conference on Pattern Recognition (<strong>ICPR’20</strong>), IAPR, Milan, Italy, January 10-15 (online), 2021.</p>
-
-<p>Frank-Peter Schilling, and Thilo Stadelmann (Eds.). <strong>Artificial Neural Networks in Pattern Recognition - 9th IAPR TC3 Workshop, ANNPR 2020, Winterthur, Switzerland, September 2–4, 2020, Proceedings</strong>. Lecture Notes in Artificial Intelligence 12294, Springer, September 02, 2020.</p>
-
-<p>Dano Roost, Ralph Meier, Giovanni Toffetti Carughi, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/AVHRC_2020.pdf"><strong>Combining Reinforcement Learning with Supervised Deep Learning for Neural Active Scene Understanding</strong></a>. In: Proceedings of the Active Vision and Perception in Human(-Robot) Collaboration Workshop at IEEE RO-MAN 2020 (<strong>AVHRC’20</strong>), online, August 31, 2020. <strong><a href="https://www.gst.ch/aktivit%C3%A4ten/f%C3%B6rderpreis/">Dr. Waldemar Jucker award 2020</a></strong>.</p>
-
-<p>Stefan Glüge, Mohammadreza Amirian, Dandolo Flumini, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ANNPR_2020.pdf"><strong>How (Not) to Measure Bias in Face Recognition Networks</strong></a>. In: Proceedings of the 9th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR’20</strong>), Springer, LNAI, Winterthur, Switzerland, September 02-04, 2020. <strong>Top-5 paper, invitation for extended journal paper</strong>.</p>
-
-<p>Mohammadreza Amirian, Lukas Tuggener, Ricardo Chavarriaga, Yvan Putra Satyawan, Frank-Peter Schilling, Friedhelm Schwenker, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/TAILOR_2020.pdf"><strong>Two to Trust: AutoML for Safe Modelling and Interpretable Deep Learning for Robustness</strong></a>. In: Proceedings of the 1st <strong>TAILOR Workshop on Trustworthy AI at ECAI 2020</strong>, Santiago de Compostela, Spain, September 04-06, 2020. Springer.</p>
-
-<p>Dano Roost, Ralph Meier, Stephan Huschauer, Erik Nygren, Adrian Egli, Andreas Weiler, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2020.pdf"><strong>Improving Sample Efficiency and Multi-Agent Communication in RL-based Train Rescheduling</strong></a>. In: Proceedings of the 7th Swiss Conference on Data Science (<strong>SDS’20</strong>), Lucerne, Switzerland, June 26, 2020. IEEE. <strong><a href="https://twitter.com/i/status/1258367206846541825">Best poster presentation award</a></strong>.</p>
+<table class="publist">
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/TR_2020.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/TR_2020.jpg"/></a></td>
+<td>
+Thilo Stadelmann, and Christoph Würsch. <a href="https://stdm.github.io/downloads/papers/TR_2020.pdf"><strong>Maps for an Uncertain Future: Teaching AI and Machine Learning Using the ATLAS Concept</strong></a>. Technical report (didactic concept), <strong>ZHAW</strong>, Winterthur, Switzerland, 2020.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://www.mdpi.com/2673-2688/1/4/31"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AI_2020.jpg"/></a></td>
+<td>
+Lukas Tuggener, Mohammadreza Amirian, Fernando Benites, Pius von Däniken, Prakhar Gupta, Frank-Peter Schilling, and Thilo Stadelmann. <a href="https://www.mdpi.com/2673-2688/1/4/31"><strong>Design Patterns for Resource-Constrained Automated Deep-Learning Methods</strong></a>. <strong>AI</strong> section “Intelligent Systems: Theory and Applications” 1(4):510-538, MDPI, Basel, Switzerland, November 06, 2020.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ICPR_2020.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ICPR_2020.jpg"/></a></td>
+<td>
+Lukas Tuggener, Yvan Putra Satyawan, Alexander Pacha, Jürgen Schmidhuber, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ICPR_2020.pdf"><strong>The DeepScoresV2 Dataset and Benchmark for Music Object Detection</strong></a>. In: Proceedings of the 25th International Conference on Pattern Recognition (<strong>ICPR’20</strong>), IAPR, Milan, Italy, January 10-15 (online), 2021.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ANNPR_2020a.jpg"/></td>
+<td>
+Frank-Peter Schilling, and Thilo Stadelmann (Eds.). <strong>Artificial Neural Networks in Pattern Recognition - 9th IAPR TC3 Workshop, ANNPR 2020, Winterthur, Switzerland, September 2–4, 2020, Proceedings</strong>. Lecture Notes in Artificial Intelligence 12294, Springer, September 02, 2020.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/AVHRC_2020.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AVHRC_2020.jpg"/></a></td>
+<td>
+Dano Roost, Ralph Meier, Giovanni Toffetti Carughi, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/AVHRC_2020.pdf"><strong>Combining Reinforcement Learning with Supervised Deep Learning for Neural Active Scene Understanding</strong></a>. In: Proceedings of the Active Vision and Perception in Human(-Robot) Collaboration Workshop at IEEE RO-MAN 2020 (<strong>AVHRC’20</strong>), online, August 31, 2020. <strong><a href="https://www.gst.ch/aktivit%C3%A4ten/f%C3%B6rderpreis/">Dr. Waldemar Jucker award 2020</a></strong>.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ANNPR_2020.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ANNPR_2020.jpg"/></a></td>
+<td>
+Stefan Glüge, Mohammadreza Amirian, Dandolo Flumini, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ANNPR_2020.pdf"><strong>How (Not) to Measure Bias in Face Recognition Networks</strong></a>. In: Proceedings of the 9th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR’20</strong>), Springer, LNAI, Winterthur, Switzerland, September 02-04, 2020. <strong>Top-5 paper, invitation for extended journal paper</strong>.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/TAILOR_2020.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/TAILOR_2020.jpg"/></a></td>
+<td>
+Mohammadreza Amirian, Lukas Tuggener, Ricardo Chavarriaga, Yvan Putra Satyawan, Frank-Peter Schilling, Friedhelm Schwenker, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/TAILOR_2020.pdf"><strong>Two to Trust: AutoML for Safe Modelling and Interpretable Deep Learning for Robustness</strong></a>. In: Proceedings of the 1st <strong>TAILOR Workshop on Trustworthy AI at ECAI 2020</strong>, Santiago de Compostela, Spain, September 04-06, 2020. Springer.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2020.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2020.jpg"/></a></td>
+<td>
+Dano Roost, Ralph Meier, Stephan Huschauer, Erik Nygren, Adrian Egli, Andreas Weiler, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2020.pdf"><strong>Improving Sample Efficiency and Multi-Agent Communication in RL-based Train Rescheduling</strong></a>. In: Proceedings of the 7th Swiss Conference on Data Science (<strong>SDS’20</strong>), Lucerne, Switzerland, June 26, 2020. IEEE. <strong><a href="https://twitter.com/i/status/1258367206846541825">Best poster presentation award</a></strong>.
+</td>
+</tr>
+</table>
 
 
 <b>2019</b>
 
-<p>Mohammadreza Amirian, Katharina Rombach, Lukas Tuggener, Frank-Peter Schilling, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ECML_PKDD_2019.pdf"><strong>Efficient Deep CNNs for Cross-Modal Automated Computer Vision under Time and Space Constraints</strong></a>. In: <strong>AutoCV2 Workshop</strong> at European Conference on Machine Learning / European Conference on Principles and Practice of Knowledge Discovery in Databases (<strong>ECML-PKDD</strong>), Wuerzburg, Germany, September 16-19, 2019.</p>
-
-<p>Kurt Stockinger, Martin Braschler, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ADS_2019_LessonsLearned.pdf"><strong>Lessons Learned from Challenging Data Science Case Studies</strong></a>. In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="https://stdm.github.io/data-science-book/">“Applied Data Science - Lessons Learned for the Data-Driven Business”</a>. <strong>Springer</strong>, 2019.</p>
-
-<p>Lukas Hollenstein, Lukas Lichtensteiger, Thilo Stadelmann, Mohammadreza Amirian, Lukas Budde, Jürg Meierhofer, Rudolf M. Füchslin, and Thomas Friedli. <a href="https://stdm.github.io/downloads/papers/ADS_2019_Complexity.pdf"><strong>Unsupervised Learning and Simulation for Complexity Management in Business Operations</strong></a>. In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="https://stdm.github.io/data-science-book/">“Applied Data Science - Lessons Learned for the Data-Driven Business”</a>. <strong>Springer</strong>, 2019.</p>
-
-<p>Thilo Stadelmann, Vasily Tolkachev, Beate Sick, Jan Stampfli, and Oliver Dürr. <a href="https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf"><strong>Beyond ImageNet - Deep Learning in Industrial Practice</strong></a>. In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="https://stdm.github.io/data-science-book/">“Applied Data Science - Lessons Learned for the Data-Driven Business”</a>. <strong>Springer</strong>, 2019.</p>
-
-<p>Jürg Meierhofer, Thilo Stadelmann, and Mark Cieliebak. <a href="https://stdm.github.io/downloads/papers/ADS_2019_DataProducts.pdf"><strong>Data Products</strong></a>. In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="https://stdm.github.io/data-science-book/">“Applied Data Science - Lessons Learned for the Data-Driven Business”</a>. <strong>Springer</strong>, 2019.</p>
-
-<p>Thilo Stadelmann, Kurt Stockinger, Gundula Heinatz-Bürki, and Martin Braschler. <a href="https://stdm.github.io/downloads/papers/ADS_2019_DataScientists.pdf"><strong>Data Scientists</strong></a>. In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="https://stdm.github.io/data-science-book/">“Applied Data Science - Lessons Learned for the Data-Driven Business”</a>. <strong>Springer</strong>, 2019.</p>
-
-<p>Martin Braschler, Thilo Stadelmann, and Kurt Stockinger. <a href="https://stdm.github.io/downloads/papers/ADS_2019_DataScience.pdf"><strong>Data Science</strong></a>. In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="https://stdm.github.io/data-science-book/">“Applied Data Science - Lessons Learned for the Data-Driven Business”</a>. <strong>Springer</strong>, 2019.</p>
-
-<p>Thilo Stadelmann, Martin Braschler, and Kurt Stockinger. <a href="https://stdm.github.io/downloads/papers/ADS_2019_Introduction.pdf"><strong>Introduction to Applied Data Science</strong></a>. In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="https://stdm.github.io/data-science-book/">“Applied Data Science - Lessons Learned for the Data-Driven Business”</a>. <strong>Springer</strong>, 2019.</p>
-
-<p>Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="https://stdm.github.io/downloads/papers/ADS_2019_Preface.pdf"><strong>Applied Data Science - Lessons Learned for the Data-Driven Business</strong></a>. <strong>Springer</strong>, 2019.</p>
-
-<p>Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/FCW_2019.pdf"><strong>Wie maschinelles Lernen den Markt verändert</strong></a>. In: Reinhard Haupt, Stephan Schmitz (Editors), “Digitalisierung: Datenhype mit Werteverlust? Ethische Perspektiven für eine Schlüsseltechnologie”, pp. 67-79, ISBN 377516040X, <strong>SCM Hänssler</strong>, 2019.</p>
-
-<p>Lukas Tuggener, Mohammadreza Amirian, Katharina Rombach, Stefan Lörwald, Anastasia Varlet, Christian Westermann, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2019.pdf"><strong>Automated Machine Learning in Practice: State of the Art and Recent Results</strong></a>. In: Proceedings of the 6th Swiss Conference on Data Science (<strong>SDS’19</strong>), Bern, Switzerland, June 14, 2019. IEEE.</p>
-
+<table class="publist">
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ECML_PKDD_2019.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ECML_PKDD_2019.jpg"/></a></td>
+<td>
+Mohammadreza Amirian, Katharina Rombach, Lukas Tuggener, Frank-Peter Schilling, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ECML_PKDD_2019.pdf"><strong>Efficient Deep CNNs for Cross-Modal Automated Computer Vision under Time and Space Constraints</strong></a>. In: <strong>AutoCV2 Workshop</strong> at European Conference on Machine Learning / European Conference on Principles and Practice of Knowledge Discovery in Databases (<strong>ECML-PKDD</strong>), Wuerzburg, Germany, September 16-19, 2019.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ADS_2019_LessonsLearned.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ADS_2019_LessonsLearned.jpg"/></a></td>
+<td>
+Kurt Stockinger, Martin Braschler, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ADS_2019_LessonsLearned.pdf"><strong>Lessons Learned from Challenging Data Science Case Studies</strong></a>. In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="https://stdm.github.io/data-science-book/">“Applied Data Science - Lessons Learned for the Data-Driven Business”</a>. <strong>Springer</strong>, 2019.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ADS_2019_Complexity.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ADS_2019_Complexity.jpg"/></a></td>
+<td>
+Lukas Hollenstein, Lukas Lichtensteiger, Thilo Stadelmann, Mohammadreza Amirian, Lukas Budde, Jürg Meierhofer, Rudolf M. Füchslin, and Thomas Friedli. <a href="https://stdm.github.io/downloads/papers/ADS_2019_Complexity.pdf"><strong>Unsupervised Learning and Simulation for Complexity Management in Business Operations</strong></a>. In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="https://stdm.github.io/data-science-book/">“Applied Data Science - Lessons Learned for the Data-Driven Business”</a>. <strong>Springer</strong>, 2019.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ADS_2019_DeepLearning.jpg"/></a></td>
+<td>
+Thilo Stadelmann, Vasily Tolkachev, Beate Sick, Jan Stampfli, and Oliver Dürr. <a href="https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf"><strong>Beyond ImageNet - Deep Learning in Industrial Practice</strong></a>. In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="https://stdm.github.io/data-science-book/">“Applied Data Science - Lessons Learned for the Data-Driven Business”</a>. <strong>Springer</strong>, 2019.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ADS_2019_DataProducts.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ADS_2019_DataProducts.jpg"/></a></td>
+<td>
+Jürg Meierhofer, Thilo Stadelmann, and Mark Cieliebak. <a href="https://stdm.github.io/downloads/papers/ADS_2019_DataProducts.pdf"><strong>Data Products</strong></a>. In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="https://stdm.github.io/data-science-book/">“Applied Data Science - Lessons Learned for the Data-Driven Business”</a>. <strong>Springer</strong>, 2019.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ADS_2019_DataScientists.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ADS_2019_DataScientists.jpg"/></a></td>
+<td>
+Thilo Stadelmann, Kurt Stockinger, Gundula Heinatz-Bürki, and Martin Braschler. <a href="https://stdm.github.io/downloads/papers/ADS_2019_DataScientists.pdf"><strong>Data Scientists</strong></a>. In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="https://stdm.github.io/data-science-book/">“Applied Data Science - Lessons Learned for the Data-Driven Business”</a>. <strong>Springer</strong>, 2019.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ADS_2019_DataScience.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ADS_2019_DataScience.jpg"/></a></td>
+<td>
+Martin Braschler, Thilo Stadelmann, and Kurt Stockinger. <a href="https://stdm.github.io/downloads/papers/ADS_2019_DataScience.pdf"><strong>Data Science</strong></a>. In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="https://stdm.github.io/data-science-book/">“Applied Data Science - Lessons Learned for the Data-Driven Business”</a>. <strong>Springer</strong>, 2019.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ADS_2019_Introduction.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ADS_2019_Introduction.jpg"/></a></td>
+<td>
+Thilo Stadelmann, Martin Braschler, and Kurt Stockinger. <a href="https://stdm.github.io/downloads/papers/ADS_2019_Introduction.pdf"><strong>Introduction to Applied Data Science</strong></a>. In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="https://stdm.github.io/data-science-book/">“Applied Data Science - Lessons Learned for the Data-Driven Business”</a>. <strong>Springer</strong>, 2019.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ADS_2019_Preface.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ADS_2019.jpg"/></a></td>
+<td>
+Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="https://stdm.github.io/downloads/papers/ADS_2019_Preface.pdf"><strong>Applied Data Science - Lessons Learned for the Data-Driven Business</strong></a>. <strong>Springer</strong>, 2019.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/FCW_2019.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/FCW_2019.jpg"/></a></td>
+<td>
+Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/FCW_2019.pdf"><strong>Wie maschinelles Lernen den Markt verändert</strong></a>. In: Reinhard Haupt, Stephan Schmitz (Editors), “Digitalisierung: Datenhype mit Werteverlust? Ethische Perspektiven für eine Schlüsseltechnologie”, pp. 67-79, ISBN 377516040X, <strong>SCM Hänssler</strong>, 2019.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2019.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2019.jpg"/></a></td>
+<td>
+Lukas Tuggener, Mohammadreza Amirian, Katharina Rombach, Stefan Lörwald, Anastasia Varlet, Christian Westermann, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2019.pdf"><strong>Automated Machine Learning in Practice: State of the Art and Recent Results</strong></a>. In: Proceedings of the 6th Swiss Conference on Data Science (<strong>SDS’19</strong>), Bern, Switzerland, June 14, 2019. IEEE.
+</td>
+</tr>
+</table>
 
 <b>2018</b>
 
