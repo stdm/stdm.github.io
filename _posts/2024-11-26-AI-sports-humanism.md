@@ -9,9 +9,9 @@ comments: true
 
 So what is happening in sports due to AI? Well, the game has changed, as one could say. Diverse AI methods, from data analysis on wearables' data streams to computer vision methods for electronic line calling in Tennis, are improving many aspects, from athletes' health and game plan to fairness of decisions. 
 
-<!-- more -->
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KrSbb_YG6NY?si=PPHs5TAVtDQrNyOd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<!-- more -->
 
 But there are downsides as well: For example, the VAR (video assisted referee) in soccer is [not received well](https://www.faz.net/aktuell/sport/fussball/bundesliga/videobeweis-im-fussball-wo-probleme-mit-dem-var-liegen-und-loesungen-110069301.html) by fans worldwide, for reasons of unnaturally interrupting the game in a perceived random way, negatively affecting all persons involved: impeding the authority of the referee on the field, the experience of the audience, and the motivation and joy of players. In one word: It has *dehumanizing* effects. 
 
