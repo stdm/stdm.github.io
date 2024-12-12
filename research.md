@@ -580,9 +580,9 @@ Lukas Tuggener, Yvan Putra Satyawan, Alexander Pacha, Jürgen Schmidhuber, and T
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ANNPR_2020a.jpg"/></td>
+<td style="width: 175px;"><a href="https://link.springer.com/book/10.1007/978-3-030-58309-5"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ANNPR_2020a.jpg"/></a></td>
 <td>
-Frank-Peter Schilling, and Thilo Stadelmann (Eds.). <strong>Artificial Neural Networks in Pattern Recognition - 9th IAPR TC3 Workshop, ANNPR 2020, Winterthur, Switzerland, September 2–4, 2020, Proceedings</strong>. Lecture Notes in Artificial Intelligence 12294, Springer, September 02, 2020.
+Frank-Peter Schilling, and Thilo Stadelmann (Eds.). <a href="https://link.springer.com/book/10.1007/978-3-030-58309-5"><strong>Artificial Neural Networks in Pattern Recognition - 9th IAPR TC3 Workshop, ANNPR 2020, Winterthur, Switzerland, September 2–4, 2020, Proceedings</strong></a>. Lecture Notes in Artificial Intelligence 12294, Springer, September 02, 2020.
 </td>
 </tr>
 <tr>
