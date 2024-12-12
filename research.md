@@ -835,62 +835,165 @@ Thilo Stadelmann, Sven Johr, Michael Ditze, Florian Dittman, and Viktor Fässler
 <details>
 <summary><b>2004-2010</b></summary>
 
+
 <b>2010</b>
 
-<p>Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/PhdThesis_2010.pdf"><strong>Voice Modeling Methods for Automatic Speaker Recognition</strong></a>. Dissertation, <strong>Philipps-Universität Marburg</strong>. <a href="https://archiv.ub.uni-marburg.de/ubfind/Record/urn:nbn:de:hebis:04-z2010-0465?sid=1980300">Available online, 2010</a>.</p>
-
-<p>Thilo Stadelmann &amp; Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/TR_2010.pdf"><strong>On the MixMax Model and Cepstral Features for Noise-Robust Voice Recognition</strong></a>. Technical report, Philipps-Universität Marburg, April 2010.</p>
-
-<p>Christian Beecks, Thilo Stadelmann, Bernd Freisleben, and Thomas Seidl. <a href="https://stdm.github.io/downloads/papers/ICME_2010.pdf"><strong>Visual Speaker Model Exploration</strong></a>, In Proceedings of the IEEE International Conference on Multimedia and Expo (<strong>ICME’10</strong>), pages 727-728, Singapore, July 19-23, 2010, IEEE.</p>
-
-<p>Thilo Stadelmann, Yinghui Wang, Matthew Smith, Ralph Ewerth, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/ICPR_2010b.pdf"><strong>Rethinking Algorithm Development and Design in Speech Processing</strong></a>. In Proceedings of the 20th International Conference on Pattern Recognition (<strong>ICPR’10</strong>), pages 4476-4479, Istanbul, Turkey, August 2010a. IAPR.</p>
-
-<p>Thilo Stadelmann and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/ICPR_2010a.pdf"><strong>Dimension-Decoupled Gaussian Mixture Model for Short Utterance Speaker Recognition</strong></a>. In Proceedings of the 20th International Conference on Pattern Recognition (<strong>ICPR’10</strong>), pages 1602-1605, Istanbul, Turkey, August 2010a. IAPR.</p>
+<table class="publist">
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/PhdThesis_2010.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/PhdThesis_2010.jpg"/></a></td>
+<td>
+Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/PhdThesis_2010.pdf"><strong>Voice Modeling Methods for Automatic Speaker Recognition</strong></a>. Dissertation, <strong>Philipps-Universität Marburg</strong>. <a href="https://archiv.ub.uni-marburg.de/ubfind/Record/urn:nbn:de:hebis:04-z2010-0465?sid=1980300">Available online, 2010</a>.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/TR_2010.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/TR_2010.jpg"/></a></td>
+<td>
+Thilo Stadelmann &amp; Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/TR_2010.pdf"><strong>On the MixMax Model and Cepstral Features for Noise-Robust Voice Recognition</strong></a>. Technical report, Philipps-Universität Marburg, April 2010.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ICME_2010.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ICME_2010.jpg"/></a></td>
+<td>
+Christian Beecks, Thilo Stadelmann, Bernd Freisleben, and Thomas Seidl. <a href="https://stdm.github.io/downloads/papers/ICME_2010.pdf"><strong>Visual Speaker Model Exploration</strong></a>, In Proceedings of the IEEE International Conference on Multimedia and Expo (<strong>ICME’10</strong>), pages 727-728, Singapore, July 19-23, 2010, IEEE.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ICPR_2010b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ICPR_2010b.jpg"/></a></td>
+<td>
+Thilo Stadelmann, Yinghui Wang, Matthew Smith, Ralph Ewerth, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/ICPR_2010b.pdf"><strong>Rethinking Algorithm Development and Design in Speech Processing</strong></a>. In Proceedings of the 20th International Conference on Pattern Recognition (<strong>ICPR’10</strong>), pages 4476-4479, Istanbul, Turkey, August 2010a. IAPR.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ICPR_2010a.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ICPR_2010a.jpg"/></a></td>
+<td>
+Thilo Stadelmann and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/ICPR_2010a.pdf"><strong>Dimension-Decoupled Gaussian Mixture Model for Short Utterance Speaker Recognition</strong></a>. In Proceedings of the 20th International Conference on Pattern Recognition (<strong>ICPR’10</strong>), pages 1602-1605, Istanbul, Turkey, August 2010a. IAPR.
+</td>
+</tr>
+</table>
 
 
 <b>2009</b>
 
-<p>Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bing Shi, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/TRECVID_2009.pdf"><strong>University of Marburg at TRECVID 2009: High-Level Feature Extraction</strong></a>. In Proceedings of TREC Video Retrieval Evaluation Workshop (<strong>TRECVid’09</strong>).</p>
-
-<p>Ernst Juhnke, Dominik Seiler, Thilo Stadelmann, Tim Dörnemann, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/ERPAS_2009.pdf"><strong>LCDL: An Extensible Framework for Wrapping Legacy Code</strong></a>. In Proceedings of International Workshop on @WAS Emerging Research Projects, Applications and Services (<strong>ERPAS’09</strong>), pages 638-642, Kuala Lumpur, Malaysia, December 2009.</p>
-
-<p>Dominik Seiler, Ralph Ewerth, Steffen Heinzl, Thilo Stadelmann, Markus Mühling, Bernd Freisleben, and Manfred Grauer. <a href="https://stdm.github.io/downloads/papers/GeNeMe_2009.pdf"><strong>Eine Service-Orientierte Grid-Infrastruktur zur Unterstützung Medienwissenschaftlicher Filmanalyse</strong></a>. In Proceedings of the Workshop on Gemeinschaften in Neuen Medien (<strong>GeNeMe’09</strong>), pages 79-89, Dresden, Germany, September 2009.</p>
-
-<p>Thilo Stadelmann and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/ACMMM_2009.pdf"><strong>Unfolding Speaker Clustering Potential: A Biomimetic Approach</strong></a>. In Proceedings of the ACM International Conference on Multimedia (<strong>ACMMM’09</strong>), pages 185-194, Beijing, China, October 2009. ACM.</p>
-
-<p>Thilo Stadelmann, Steffen Heinzl, Markus Unterberger, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/CISP_2009.pdf"><strong>WebVoice: A Toolkit for Perceptual Insights into Speech Processing</strong></a>. In Proceedings of the 2nd International Congress on Image and Signal Processing (<strong>CISP’09</strong>), pages 4358-4362, Tianjin, China, October 2009.</p>
-
-<p>Steffen Heinzl, Markus Mathes, Thilo Stadelmann, Dominik Seiler, Marcel Diegelmann, Helmut Dohmann, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/ICWS_2009.pdf"><strong>The Web Service Browser: Automatic Client Generation and Efficient Data Transfer for Web Services</strong></a>. In Proceedings of the 7th IEEE International Conference on Web Services (<strong>ICWS’09</strong>), pages 743-750, Los Angeles, CA, USA, July 2009. IEEE Press.</p>
-
-<p>Steffen Heinzl, Dominik Seiler, Ernst Juhnke, Thilo Stadelmann, Ralph Ewerth, Manfred Grauer, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/IJWGS_2009.pdf"><strong>A Scalable Service-Oriented Architecture for Multimedia Analysis, Synthesis, and Consumption</strong></a>. <strong>International Journal of Web and Grid Services</strong>, 5(3): 219-260, 2009. Inderscience Publishers.</p>
+<table class="publist">
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/TRECVID_2009.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/TRECVID_2009.jpg"/></a></td>
+<td>
+Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bing Shi, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/TRECVID_2009.pdf"><strong>University of Marburg at TRECVID 2009: High-Level Feature Extraction</strong></a>. In Proceedings of TREC Video Retrieval Evaluation Workshop (<strong>TRECVid’09</strong>).
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ERPAS_2009.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ERPAS_2009.jpg"/></a></td>
+<td>
+Ernst Juhnke, Dominik Seiler, Thilo Stadelmann, Tim Dörnemann, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/ERPAS_2009.pdf"><strong>LCDL: An Extensible Framework for Wrapping Legacy Code</strong></a>. In Proceedings of International Workshop on @WAS Emerging Research Projects, Applications and Services (<strong>ERPAS’09</strong>), pages 638-642, Kuala Lumpur, Malaysia, December 2009.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/GeNeMe_2009.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/GeNeMe_2009.jpg"/></a></td>
+<td>
+Dominik Seiler, Ralph Ewerth, Steffen Heinzl, Thilo Stadelmann, Markus Mühling, Bernd Freisleben, and Manfred Grauer. <a href="https://stdm.github.io/downloads/papers/GeNeMe_2009.pdf"><strong>Eine Service-Orientierte Grid-Infrastruktur zur Unterstützung Medienwissenschaftlicher Filmanalyse</strong></a>. In Proceedings of the Workshop on Gemeinschaften in Neuen Medien (<strong>GeNeMe’09</strong>), pages 79-89, Dresden, Germany, September 2009.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ACMMM_2009.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ACMMM_2009.jpg"/></a></td>
+<td>
+Thilo Stadelmann and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/ACMMM_2009.pdf"><strong>Unfolding Speaker Clustering Potential: A Biomimetic Approach</strong></a>. In Proceedings of the ACM International Conference on Multimedia (<strong>ACMMM’09</strong>), pages 185-194, Beijing, China, October 2009. ACM.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/CISP_2009.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/CISP_2009.jpg"/></a></td>
+<td>
+Thilo Stadelmann, Steffen Heinzl, Markus Unterberger, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/CISP_2009.pdf"><strong>WebVoice: A Toolkit for Perceptual Insights into Speech Processing</strong></a>. In Proceedings of the 2nd International Congress on Image and Signal Processing (<strong>CISP’09</strong>), pages 4358-4362, Tianjin, China, October 2009.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ICWS_2009.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ICWS_2009.jpg"/></a></td>
+<td>
+Steffen Heinzl, Markus Mathes, Thilo Stadelmann, Dominik Seiler, Marcel Diegelmann, Helmut Dohmann, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/ICWS_2009.pdf"><strong>The Web Service Browser: Automatic Client Generation and Efficient Data Transfer for Web Services</strong></a>. In Proceedings of the 7th IEEE International Conference on Web Services (<strong>ICWS’09</strong>), pages 743-750, Los Angeles, CA, USA, July 2009. IEEE Press.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/IJWGS_2009.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/IJWGS_2009.jpg"/></a></td>
+<td>
+Steffen Heinzl, Dominik Seiler, Ernst Juhnke, Thilo Stadelmann, Ralph Ewerth, Manfred Grauer, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/IJWGS_2009.pdf"><strong>A Scalable Service-Oriented Architecture for Multimedia Analysis, Synthesis, and Consumption</strong></a>. <strong>International Journal of Web and Grid Services</strong>, 5(3): 219-260, 2009. Inderscience Publishers.
+</td>
+</tr>
+</table>
 
 
 <b>2008</b>
 
-<p>Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bing Shi, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/TRECVID_2008.pdf"><strong>University of Marburg at TRECVID 2008: High-Level Feature Extraction</strong></a>. In Proceedings of TREC Video Retrieval Evaluation Workshop (<strong>TRECVid’08</strong>).</p>
+<table class="publist">
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/TRECVID_2008.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/TRECVID_2008.jpg"/></a></td>
+<td>
+Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bing Shi, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/TRECVID_2008.pdf"><strong>University of Marburg at TRECVID 2008: High-Level Feature Extraction</strong></a>. In Proceedings of TREC Video Retrieval Evaluation Workshop (<strong>TRECVid’08</strong>).
+</td>
+</tr>
+</table>
 
 
 <b>2007</b>
 
-<p>Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bing Shi, Christian Zöfel, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/TRECVID_2007.pdf"><strong>University of Marburg at TRECVID 2007: Shot Boundary Detection and High-Level Feature Extraction</strong></a>. In Proceedings of TREC Video Retrieval Evaluation Workshop (<strong>TRECVid’07</strong>).</p>
-
-<p>Ralph Ewerth, Markus Mühling, Thilo Stadelmann, Julinda Gllavata, Manfred Grauer, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/DTiMS_2007.pdf"><strong>Videana: A Software Toolkit for Scientific Film Studies</strong></a>. In Proceedings of the <strong>International Workshop on Digital Tools in Film Studies ‘07</strong>, pages 1-16, Siegen, Germany, 2007. Transcript Verlag.</p>
-
-<p>Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bernd Freisleben, Rene Weber, and Klaus Mathiak. <a href="https://stdm.github.io/downloads/papers/CIVR_2007.pdf"><strong>Semantic Video Analysis for Psychological Research on Violence in Computer Games</strong></a>. In Proceedings of the ACM International Conference on Image and Video Retrieval (<strong>CIVR’07</strong>), pages 611-618, Amsterdam, The Netherlands, July 2007. ACM.</p>
+<table class="publist">
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/TRECVID_2007.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/TRECVID_2007.jpg"/></a></td>
+<td>
+Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bing Shi, Christian Zöfel, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/TRECVID_2007.pdf"><strong>University of Marburg at TRECVID 2007: Shot Boundary Detection and High-Level Feature Extraction</strong></a>. In Proceedings of TREC Video Retrieval Evaluation Workshop (<strong>TRECVid’07</strong>).
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/DTiMS_2007.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/DTiMS_2007.jpg"/></a></td>
+<td>
+Ralph Ewerth, Markus Mühling, Thilo Stadelmann, Julinda Gllavata, Manfred Grauer, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/DTiMS_2007.pdf"><strong>Videana: A Software Toolkit for Scientific Film Studies</strong></a>. In Proceedings of the <strong>International Workshop on Digital Tools in Film Studies '07</strong>, pages 1-16, Siegen, Germany, 2007. Transcript Verlag.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/CIVR_2007.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/CIVR_2007.jpg"/></a></td>
+<td>
+Markus Mühling, Ralph Ewerth, Thilo Stadelmann, Bernd Freisleben, Rene Weber, and Klaus Mathiak. <a href="https://stdm.github.io/downloads/papers/CIVR_2007.pdf"><strong>Semantic Video Analysis for Psychological Research on Violence in Computer Games</strong></a>. In Proceedings of the ACM International Conference on Image and Video Retrieval (<strong>CIVR’07</strong>), pages 611-618, Amsterdam, The Netherlands, July 2007. ACM.
+</td>
+</tr>
+</table>
 
 
 <b>2006</b>
 
-<p>Ralph Ewerth, Markus Mühling, Thilo Stadelmann, Ermir Qeli, Björn Agel, Dominik Seiler, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/TRECVID_2006.pdf"><strong>University of Marburg at TRECVID 2006: Shot Boundary Detection and Rushes Task Results</strong></a>. In Proceedings of TREC Video Retrieval Evaluation Workshop (<strong>TRECVid’06</strong>).</p>
-
-<p>Thilo Stadelmann and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/ICASSP_2006.pdf"><strong>Fast and Robust Speaker Clustering Using the Earth Mover’s Distance and MixMax Models</strong></a>. In Proceedings of the 31st IEEE International Conference on Acoustics, Speech, and Signal Processing (<strong>ICASSP’06</strong>), volume 1, pages 989-992, Toulouse, France, April 2006. IEEE.</p>
+<table class="publist">
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/TRECVID_2006.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/TRECVID_2006.jpg"/></a></td>
+<td>
+Ralph Ewerth, Markus Mühling, Thilo Stadelmann, Ermir Qeli, Björn Agel, Dominik Seiler, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/TRECVID_2006.pdf"><strong>University of Marburg at TRECVID 2006: Shot Boundary Detection and Rushes Task Results</strong></a>. In Proceedings of TREC Video Retrieval Evaluation Workshop (<strong>TRECVid’06</strong>).
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ICASSP_2006.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ICASSP_2006.jpg"/></a></td>
+<td>
+Thilo Stadelmann and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/ICASSP_2006.pdf"><strong>Fast and Robust Speaker Clustering Using the Earth Mover’s Distance and MixMax Models</strong></a>. In Proceedings of the 31st IEEE International Conference on Acoustics, Speech, and Signal Processing (<strong>ICASSP’06</strong>), volume 1, pages 989-992, Toulouse, France, April 2006. IEEE.
+</td>
+</tr>
+</table>
 
 
 <b>2005</b>
 
-<p>Ralph Ewerth, Christian Behringer, Tobias Kopp, Michael Niebergall, Thilo Stadelmann, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/TRECVID_2005.pdf"><strong>University of Marburg at TRECVID 2005: Shot Boundary Detection and Camera Motion Estimation Results</strong></a>. In Proceedings of TREC Video Retrieval Evaluation Workshop (<strong>TRECVid’05</strong>).</p>
+<table class="publist">
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/TRECVID_2005.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/TRECVID_2005.jpg"/></a></td>
+<td>
+Ralph Ewerth, Christian Behringer, Tobias Kopp, Michael Niebergall, Thilo Stadelmann, and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/TRECVID_2005.pdf"><strong>University of Marburg at TRECVID 2005: Shot Boundary Detection and Camera Motion Estimation Results</strong></a>. In Proceedings of TREC Video Retrieval Evaluation Workshop (<strong>TRECVid’05</strong>).
+</td>
+</tr>
+</table>
 
 
 <b>2004</b>
 
-<p>Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/DiplomaThesis_2004.pdf"><strong>Sprechererkennung in Videos</strong></a>. Diplomarbeit, <strong>Fachhochschule Giessen-Friedberg</strong>, 2004.</p>
+<table class="publist">
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/DiplomaThesis_2004.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/DiplomaThesis_2004.jpg"/></a></td>
+<td>
+Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/DiplomaThesis_2004.pdf"><strong>Sprechererkennung in Videos</strong></a>. Diplomarbeit, <strong>Fachhochschule Giessen-Friedberg</strong>, 2004.
+</td>
+</tr>
+</table>
+</details>
