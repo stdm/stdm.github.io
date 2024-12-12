@@ -779,24 +779,56 @@ Kurt Stockinger, Thilo Stadelmann, and Andreas Ruckstuhl. <a href="https://stdm.
 
 <b>2015</b>
 
-<p>Jean-Daniel Dessimoz, Jana Koehler, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/AIMAG_2015.pdf"><strong>AI in Switzerland</strong></a>. <strong>AI Magazine</strong>. 36(2), S. 102-105, 2015. DOI <a href="https://doi.org/10.21256/zhaw-3642">10.21256/zhaw-3642</a>. <strong>Invited paper</strong>.</p>
-
-<p>Thilo Stadelmann, Mark Cieliebak, and Kurt Stockinger. <a href="https://stdm.github.io/downloads/papers/ERCIM_2015.pdf"><strong>Toward automatic data curation for open data</strong></a>. <strong>ERCIM News</strong>. 2015(100), S. 32-33. DOI <a href="https://doi.org/10.21256/zhaw-3643">10.21256/zhaw-3643</a>.</p>
+<table class="publist">
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/AIMAG_2015.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AIMAG_2015.jpg"/></a></td>
+<td>
+Jean-Daniel Dessimoz, Jana Koehler, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/AIMAG_2015.pdf"><strong>AI in Switzerland</strong></a>. <strong>AI Magazine</strong>. 36(2), S. 102-105, 2015. DOI <a href="https://doi.org/10.21256/zhaw-3642">10.21256/zhaw-3642</a>. <strong>Invited paper</strong>.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ERCIM_2015.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ERCIM_2015.jpg"/></a></td>
+<td>
+Thilo Stadelmann, Mark Cieliebak, and Kurt Stockinger. <a href="https://stdm.github.io/downloads/papers/ERCIM_2015.pdf"><strong>Toward automatic data curation for open data</strong></a>. <strong>ERCIM News</strong>. 2015(100), S. 32-33. DOI <a href="https://doi.org/10.21256/zhaw-3643">10.21256/zhaw-3643</a>.
+</td>
+</tr>
+</table>
 
 
 <b>2014</b>
 
-<p>Kurt Stockinger, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/HMD_2014.pdf"><strong>Data Science für Lehre, Forschung und Praxis</strong></a>. <strong>HMD Praxis der Wirtschaftsinformatik</strong>. 51(4), S. 469-479, 2014. DOI <a href="https://doi.org/10.21256/zhaw-3759">10.21256/zhaw-3759</a>.</p>
+<table class="publist">
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/HMD_2014.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/HMD_2014.jpg"/></a></td>
+<td>
+Kurt Stockinger, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/HMD_2014.pdf"><strong>Data Science für Lehre, Forschung und Praxis</strong></a>. <strong>HMD Praxis der Wirtschaftsinformatik</strong>. 51(4), S. 469-479, 2014. DOI <a href="https://doi.org/10.21256/zhaw-3759">10.21256/zhaw-3759</a>.
+</td>
+</tr>
+</table>
 
 
 <b>2013</b>
 
-<p>Thilo Stadelmann, Kurt Stockinger, Martin Braschler, Mark Cieliebak, Gerold Baudinot, Oliver Dürr, and Andreas Ruckstuhl. <a href="https://stdm.github.io/downloads/papers/ECSS_2013.pdf"><strong>Applied data science in Europe: challenges for academia in keeping up with a highly demanded topic</strong></a>. In: Proceedings of the 9th European Computer Science Summit (<strong>ECSS’13</strong>), Amsterdam, October 8–9, 2013.</p>
+<table class="publist">
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ECSS_2013.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ECSS_2013.jpg"/></a></td>
+<td>
+Thilo Stadelmann, Kurt Stockinger, Martin Braschler, Mark Cieliebak, Gerold Baudinot, Oliver Dürr, and Andreas Ruckstuhl. <a href="https://stdm.github.io/downloads/papers/ECSS_2013.pdf"><strong>Applied data science in Europe: challenges for academia in keeping up with a highly demanded topic</strong></a>. In: Proceedings of the 9th European Computer Science Summit (<strong>ECSS’13</strong>), Amsterdam, October 8–9, 2013.
+</td>
+</tr>
+</table>
 
 
 <b>2012</b>
 
-<p>Thilo Stadelmann, Sven Johr, Michael Ditze, Florian Dittman, and Viktor Fässler. <a href="https://stdm.github.io/downloads/papers/VDIFASIS_2012.pdf"><strong>FABELHAFT - Fahrerablenkung: Entwicklung eines Meta-Fahrerassistenzsystems durch Echtzeit-Audioklassifikation</strong></a>. In Proceedings of 28. <strong>VDI-VW Gemeinschaftstagung Fahrerassistenzsysteme und Integrierte Sicherheit ‘12</strong>, Wolfsburg, Germany, October 10.-11., 2012. VDI Wissensforum.</p>
+<table class="publist">
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/VDIFASIS_2012.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/VDIFASIS_2012.jpg"/></a></td>
+<td>
+Thilo Stadelmann, Sven Johr, Michael Ditze, Florian Dittman, and Viktor Fässler. <a href="https://stdm.github.io/downloads/papers/VDIFASIS_2012.pdf"><strong>FABELHAFT - Fahrerablenkung: Entwicklung eines Meta-Fahrerassistenzsystems durch Echtzeit-Audioklassifikation</strong></a>. In Proceedings of 28. <strong>VDI-VW Gemeinschaftstagung Fahrerassistenzsysteme und Integrierte Sicherheit ‘12</strong>, Wolfsburg, Germany, October 10.-11., 2012. VDI Wissensforum.
+</td>
+</tr>
+</table>
 </details>
 
 
