@@ -137,47 +137,45 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Learning Nugget at **Georg Fischer Casting Solutions**, Schaffhausen (online), Switzerland, November 23 & 28, 2023
   
-  * Invited talk on "**Assessing Deep Learning: A Work Program for the Humanities in the Age of Artificial Intelligence**, Forschungscolloquium Chur, Chur (online), Switzerland, November 03, 2023
+  * Invited talk on "**Assessing Deep Learning: A Work Program for the Humanities in the Age of Artificial Intelligence**, **Forschungscolloquium Chur**, Chur (online), Switzerland, November 03, 2023
   
-  * Keynote at the [Schweizer Bibliothekskongress](https://bibliosuisse.ch/Aktivit%C3%A4ten/Schweizer-Bibliothekskongress), Zurich, Switzerland, November 03, 2023
+  * Keynote at the [**Schweizer Bibliothekskongress**](https://bibliosuisse.ch/Aktivit%C3%A4ten/Schweizer-Bibliothekskongress), Zurich, Switzerland, November 03, 2023
   
-  * Strategy seminar at KLARA Business AG, Zurich, Switzerland, November 06, 2023
+  * Strategy seminar at **KLARA Business AG**, Zurich, Switzerland, November 06, 2023
   
-  * Invited talk at Finance & Services Workshop, Winterthur, Switzerland, October 31, 2023
+  * Invited talk at **ZHAW Finance & Services Workshop**, Winterthur, Switzerland, October 31, 2023
   
-  * Keynote at Direct Day, Zurich, Switzerland, October 24, 2023
+  * Keynote at **Direct Day**, Zurich, Switzerland, October 24, 2023
   
-  * Keynote at kida-dental'23, Bayreuth, Germany, October 21, 2023
+  * Invited talk at **ERF**, Wetzlar, Germany, October 16, 2023
   
-  * Invited talk at ERF, Wetzlar, Germany, October 16, 2023
+  * Invite talk at [**DesignRaum GmbH / Swiss Life Network for Entrepreneurs**](https://www.designraum.ch/einladung-swisslife-netzwerk-anlass), Winterthur, Switzerland, September 28, 2023 
   
-  * Invite talk at [DesignRaum GmbH / Swiss Life Network for Entrepreneurs](https://www.designraum.ch/einladung-swisslife-netzwerk-anlass), Winterthur, Switzerland, September 28, 2023 
+  * Invited talk at **Albin Kistler AG**, Zurich, Switzerland, September 08, 2023
   
-  * Invited talk at Albin Kistler AG, Zurich, Switzerland, September 08, 2023
+  * Panelist at **Swiss Green Economy Symposium**, Winterthur, Switzerland, September 06, 2023
   
-  * Panelist at Swiss Green Economy Symposium, Winterthur, Switzerland, September 06, 2023
+  * Keynote at **Recht&Compliance Tag Die Mobiliar**, Bern, Switzerland, August 24, 2023
   
-  * Keynote at Recht&Compliance Tag die Mobiliar, Bern, Switzerland, August 24, 2023
+  * Invited talk at **LKG Pfuhl**, Pfuhl, Germany, July 19, 2023
   
-  * Invited talk at LKG Pfuhl, Pfuhl, Germany, July 19, 2023
+  * Invited talk & round table at **Meier + Cie AG**, Schaffhausen, Switzerland, June 28, 2023
   
-  * Invited talk & round table at Meier + Cie AG, Schaffhausen, Switzerland, June 28, 2023
+  * Individual team training for the **Data Protection Officer of the Canton of Zurich**, Zurich, Switzerland, June 27, 2023
   
-  * Individual team training for the data protection officer of the Canton of Zurich, Zurich, Switzerland, June 27, 2023
+  * Invited talk for **suva** top management on "Current state of AI", Luzern, Switzerland, June 05, 2023
   
-  * Invited talk for suva top management on "Current state of AI", Luzern, Switzerland, June 05, 2023
-  
-  * Invited talk on "Die Macht der künstlichen Intelligenz zum Guten" at the 2023 "[EDEN FEST](https://eden-fest.de/)", Augsburg, Germany, June 03, 2023 
+  * Invited talk on "Die Macht der künstlichen Intelligenz zum Guten" at the 2023 "[**EDEN FEST**](https://eden-fest.de/)", Augsburg, Germany, June 03, 2023 
 
-  * Invited talk on generative AI at SBB Inspire meeting for management, Bern Switzerland, May 22, 2023
+  * Invited talk on generative AI at **SBB Inspire** meeting for management, Bern Switzerland, May 22, 2023
 
-  * Key note, panel discussion and workshop on [**"Die Macht der künstliche Intelligenz"**](https://www.youtube.com/watch?v=0Sk_mX0dSCQ) at [Kongress Christlicher Führungskräfte 2023](https://www.kcf.de/kcf23/programm/plenum), Berlin, Germany, April 27, 2023
+  * Keynote, panel discussion and workshop on [**"Die Macht der künstliche Intelligenz"**](https://www.youtube.com/watch?v=0Sk_mX0dSCQ) at [Kongress Christlicher Führungskräfte 2023](https://www.kcf.de/kcf23/programm/plenum), Berlin, Germany, April 27, 2023
   
     [Slides](https://stdm.github.io/downloads/talks/2023-04-27_KCF_Macht-KI.pdf), [video](https://www.youtube.com/watch?v=0Sk_mX0dSCQ)
   
-  * Invited talk on generative AI at SBB Inspire meeting for top management, Bern Switzerland, April 03, 2023
+  * Invited talk on generative AI at **SBB Inspire** meeting for top management, Bern Switzerland, April 03, 2023
   
-  * Invited talk and panelist at Meilen KI Dialog [**"KI und Zukunft: Wohin geht die Reise?"**](https://stdm.github.io/downloads/talks/2023-04-02_Usecases-ChatGPT.pdf), Meilen, Switzerland, April 02, 2023
+  * Invited talk and panelist at **Meilen KI Dialog** [**"KI und Zukunft: Wohin geht die Reise?"**](https://stdm.github.io/downloads/talks/2023-04-02_Usecases-ChatGPT.pdf), Meilen, Switzerland, April 02, 2023
 
   * Invited talk on **"Introduction to Generative AI"** at the Rotary Club Zürich Sihltal, Kilchberg, Switzerland, March 09, 2023
 
