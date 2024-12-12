@@ -29,7 +29,7 @@ Original versions of my main courses are available as free online ressources as 
 
 | **When** | **Level** | **Type** | **Title** |
 | --- | --- | --- | --- |
-| Fall 2024 | PhD | Thesis | Strategies for Practical Deep Learning <br> _top grade_ <br> student: Lukas Tuggener |
+| Fall 2024 | PhD | Thesis | **Strategies for Practical Deep Learning** <br> _top grade_ <br> student: Lukas Tuggener |
 | Fall 2024 | PhD | Thesis | Advanced Representation Learning Techniques For Graph Neural Networks |
 | Fall 2024 | BSc | PA | AI-based interpretation of engineering drawings |
 | Fall 2024 | BSc | PA | Enhancing SwissGPT with Agentic RAG |
