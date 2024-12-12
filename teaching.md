@@ -4,7 +4,7 @@ layout: page
 comments: false
 ---
 
-My main teaching revolves around **Artificial Intelligence** and **Machine Learning** in different formats and for different audiences. I was awarded a final round nomination for the "Best Teaching - Best Practices" award of my university in 2017 for [my contribution](https://stdm.github.io/Science-applied) under the topic "Wissenschaftlichkeit" ("scientific character"), and [won it](https://stdm.github.io/ATLAS/) (3rd place) in 2019 for the "Vermittlung von Grundlagen" ("teaching of foundational matters"). My shorter teaching statement [from 2008](http://www.informatik.uni-marburg.de/~stadelmann/teaching.html) is still valid: "I love teaching. To initiate inside someone the vision of an idea, to see understanding grow, these are moments I greatly enjoy."
+My main teaching revolves around **Artificial Intelligence** and **Machine Learning** in different formats and for different audiences. I was awarded a final round nomination for the "Best Teaching - Best Practices" award of my university in 2017 for [my contribution](https://stdm.github.io/Science-applied) under the topic "Wissenschaftlichkeit" (scientific character), and [won it](https://stdm.github.io/ATLAS/) (3rd place) in 2019 for the "Vermittlung von Grundlagen" (teaching of foundational matters). My shorter teaching statement [from 2008](http://www.informatik.uni-marburg.de/~stadelmann/teaching.html) is still valid: "I love teaching. To initiate inside someone the vision of an idea, to see understanding grow, these are moments I greatly enjoy."
 
 
 ### TOC
@@ -18,10 +18,10 @@ My main teaching revolves around **Artificial Intelligence** and **Machine Learn
 <a name="courses"></a>
 ## Online courses
 
-I try to make my main courses available as free online ressources as a best effort offer.
+Original versions of my main courses are available as free online ressources as a best effort offer.
 
-  * [Artificial Intelligence](http://stdm.github.io/ai-course) (KI1): final year elective course in the Bachelor of Computer Science degree program of ZHAW. Available online with full course material, videos (currently shot: HS 2018) and audio-only recordings. Taught in German, material in English.
-  * [Machine Learning](http://stdm.github.io/ml-course) (TSM_MachLe): elective technical scientific specialization module on the [Master of Science in Engineering](https://www.msengineering.ch/en/home.html) program, focus area ICT / Data Science. Material & lectures in English.
+  * [Artificial Intelligence 2018](http://stdm.github.io/ai-course) (KI1): final year elective course in the Bachelor of Computer Science degree program of ZHAW. Available online with full course material, videos and audio-only recordings. Taught in German, material in English.
+  * [Machine Learning 2019](http://stdm.github.io/ml-course) (TSM_MachLe): elective technical scientific specialization module on the [Master of Science in Engineering](https://www.msengineering.ch/en/home.html) program, focus area ICT / Data Science. Material & lectures in English.
 
 
 <a name="theses"></a>
@@ -29,14 +29,15 @@ I try to make my main courses available as free online ressources as a best effo
 
 | **When** | **Level** | **Type** | **Title** |
 | --- | --- | --- | --- |
-| Fall 2024 | PhD | Thesis | Strategies for Practical Deep Learning |
+| Fall 2024 | PhD | Thesis | Strategies for Practical Deep Learning <br> _top grade_ <br> student: Lukas Tuggener |
+| Fall 2024 | PhD | Thesis | Advanced Representation Learning Techniques For Graph Neural Networks |
 | Fall 2024 | BSc | PA | AI-based interpretation of engineering drawings |
 | Fall 2024 | BSc | PA | Enhancing SwissGPT with Agentic RAG |
 | Spring 2024 | MSc | VT1 | Overcoming Sample Scarcity and Label Ambiguity in Cell Segmentation and Classification of Thyroid Cancer: A Kernel-Based Approach on Top of CellSAM |
 | Spring 2024 | BSc | BA | Prosodic Feature Modelling in Transformers for Speaker Verification <br> _follow-up research internship_ <br> Students: Fabian Bosshard, Andrin Fassbind |
 | Spring 2024 | BSc | BA | A2C2 - Natural Language-Instructed Autonomous Agent for Computer Control |
 | Spring 2024 | MAS | Thesis | Beaker detection using realtime image analysis and artificial neural networks |
-| Fall 2023 | PhD | Thesis | Deep Learning for Robust and Explainable Models in Computer Vision |
+| Fall 2023 | PhD | Thesis | [Deep Learning for Robust and Explainable Models in Computer Vision](https://arxiv.org/abs/2403.18674) |
 | Fall 2023 | MSc | MT | Predicting DARPin Protein Binding using Geometric Graph Neural Networks |
 | Spring 2023 | MSc | MT | **[Self-Organisation in a Biologically Inspired Learning Framework Based on Bernoulli Neurons](https://arxiv.org/pdf/2407.05650.pdf)** <br> _top grade, paper_ <br> Student: Pascal Sager |
 | Spring 2023 | BSc | BA | **RoboDog III: Building a Vision and /or Sound-Based AI Demonstrator on a Robotic Platform** <br> _top grade_ <br> Students: Juri Pfammatter, Daniel Schweizer |
@@ -135,8 +136,6 @@ I try to make my main courses available as free online ressources as a best effo
 | --- | --- | --- | --- | --- | --- | --- |
 | [AI1](http://stdm.github.io/ai-course) | **Artificial Intelligence 1** | lecture & lab | final year BSc computer science elective course; won [best teaching award (3rd place)](https://stdm.github.io/ATLAS/) in 2019 | foundational AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017-2023 |
 | AI2 | **Artificial Intelligence 2** | lecture & lab | finale year BSc computer science / data science elective course | developing fair algorithms; towards more general neural models | responsible, co-initiate, co-create, co-teach | Fall 2017, spring 2023-2025 |
-| CVDL | **Computer Vision with Deep Learning** | lecture & lab | finale year BSc computer science / data science elective course | modern computer vision based on deep learning methodology (beyond CNNs and classification) | responsible, initiate | Fall 2022 |
-| ML | **Machine Learning** | lecture & lab | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Machine Intelligence](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-machine-intelligence.html) | practical machine learning for data scientists | responsible, initiate, create, teach | Fall 2015-2016, spring 2017-2018, spring 2021, spring 2023 |
 | INTAI | **Introduction to AI for Engineers** | block week | elective final year block course for all engineering programmes | short introduction based on AI1 | responsible, initiate, create, teach | Fall 2024 |
 
 
@@ -144,6 +143,8 @@ I try to make my main courses available as free online ressources as a best effo
 
 | Tag | Name | Format | Type | Content | Did what? | When? |
 | --- | --- | --- | --- | --- | --- | --- |
+| ML | **Machine Learning** | lecture & lab | continuing education module in [CAS Data Science Applications](http://www.weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-data-science-applications.html) and [CAS Machine Intelligence](https://weiterbildung.zhaw.ch/de/school-of-engineering/programm/cas-machine-intelligence.html) | practical machine learning for data scientists | responsible, initiate, create, teach | Fall 2015-2016, spring 2017-2018, spring 2021, spring 2023 |
+| CVDL | **Computer Vision with Deep Learning** | lecture & lab | finale year BSc computer science / data science elective course | modern computer vision based on deep learning methodology (beyond CNNs and classification) | initiate | Fall 2022 |
 | RL | **Reinforcement Learning** | lecture & lab | finale year BSc computer science / data science elective course | introduction to reinforcement learning | initiate | Fall 2022 |
 | MLOps | **Machine Learning Operations** | lecture & lab | finale year BSc computer science / data science elective course | introduction to building, operating and maintaining machine learing pipelines and systems | initiate | Fall 2022 |
 | CAS MLOps | **Certificate of Advanced Studies in Machine Learning Operations** | on-premise one-year continuing education programme | thorough introduction to MLOps and societal aspects of applied AI | initiate| Fall 2022 |
