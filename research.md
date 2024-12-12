@@ -741,7 +741,7 @@ Lukas Tuggener, Ismail Elezi, Jürgen Schmidhuber, Marcello Pelillo, and Thilo S
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ECML_PKDD_2019.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ECML_PKDD_2019.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ICDAR_2017.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ICDAR_2017.jpg"/></a></td>
 <td>
 Benjamin Meier, Thilo Stadelmann, Jan Stampfli, Marek Arnold, and Mark Cieliebak. <a href="https://stdm.github.io/downloads/papers/ICDAR_2017.pdf"><strong>Fully convolutional neural networks for newspaper article segmentation</strong></a>. In: Proceedings of the 14th IAPR International Conference on Document Analysis and Recognition (<strong>ICDAR’17</strong>). 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), Kyoto Japan, November 13-15, 2017. Kyoto, Japan: CPS. DOI <a href="https://doi.org/10.21256/zhaw-1533">10.21256/zhaw-1533</a>.
 </td>
