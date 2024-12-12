@@ -685,35 +685,92 @@ Lukas Tuggener, Mohammadreza Amirian, Katharina Rombach, Stefan Lörwald, Anasta
 
 <b>2018</b>
 
-<p>Ismail Elezi, Lukas Tuggener, Marcello Pelillo, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/WoRMS_2018.pdf"><strong>DeepScores and Deep Watershed Detection: current state and open issues</strong></a>. In: Proceedings of the 1st International Workshop on Reading Music Systems (<strong>WoRMS’18</strong>), Paris, France, September 20, 2018.</p>
-
-<p>Thilo Stadelmann, Mohammadreza Amirian, Ismail Arabaci, Marek Arnold, Gilbert François Duivesteijn, Ismail Elezi, Melanie Geiger, Stefan Lörwald, Benjamin Bruno Meier, Katharina Rombach, and Lukas Tuggener. <a href="https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf"><strong>Deep Learning in the Wild</strong></a>. In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR’18</strong>), Springer, LNAI 11081, pp. 17-38, Siena, Italy, September 19-21, 2018. <strong>Invited paper</strong>.</p>
-
-<p>Mohammadreza Amirian, Friedhelm Schwenker, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ANNPR_2018c.pdf"><strong>Trace and Detect Adversarial Attacks on CNNs using Feature Response Maps</strong></a>. In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR’18</strong>), Springer, LNAI 11081, pp. 346-358, Siena, Italy, September 19-21, 2018.</p>
-
-<p>Thilo Stadelmann, Sebastian Glinski-Haefeli, Patrick Gerber, and Oliver Dürr. <a href="https://stdm.github.io/downloads/papers/ANNPR_2018b.pdf"><strong>Capturing Suprasegmental Features of a Voice with RNNs for Improved Speaker Clustering</strong></a>. In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR’18</strong>), Springer, LNAI 11081, pp. 333-345, Siena, Italy, September 19-21, 2018.</p>
-
-<p>Benjamin Bruno Meier, Ismail Elezi, Mohammadreza Amirian, Oliver Dürr, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf"><strong>Learning Neural Models for End-to-End Clustering</strong></a>. In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR’18</strong>), Springer, LNAI 11081, pp. 126-138, Siena, Italy, September 19-21, 2018.</p>
-
-<p>Lukas Tuggener, Ismail Elezi, Jürgen Schmidhuber, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ISMIR_2018.pdf"><strong>Deep watershed detector for music object recognition</strong></a>. In: Proceedings of the 19th International Society for Music Information Retrieval Conference (<strong>ISMIR’18</strong>), Paris, 23. - 27. September 2018. Paris: Society for Music Information Retrieval. DOI <a href="https://doi.org/10.21256/zhaw-3760">10.21256/zhaw-3760</a>.</p>
-
-<p>Feliks Hibraj, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. <a href="https://stdm.github.io/downloads/papers/ICPR_2018b.pdf"><strong>Speaker clustering using dominant sets</strong></a>. In: Proceedings of the 24th International Conference on Pattern Recognition (ICPR 2018). 24th International Conference on Pattern Recognition (<strong>ICPR’18</strong>), Beijing, China, 20-28 August 2018. Beijing: IAPR. DOI <a href="https://doi.org/10.21256/zhaw-4254">10.21256/zhaw-4254</a>.</p>
-
-<p>Lukas Tuggener, Ismail Elezi, Jürgen Schmidhuber, Marcello Pelillo, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ICPR_2018a.pdf"><strong>DeepScores: a dataset for segmentation, detection and classification of tiny objects</strong></a>. In: Proceedings of the 24th International Conference on Pattern Recognition. 24th International Conference on Pattern Recognition (<strong>ICPR’18</strong>), Beijing, China, 20-28 August 2018. Beijing: IAPR. 1-6. DOI <a href="https://doi.org/10.21256/zhaw-4255">10.21256/zhaw-4255</a>.</p>
+<table class="publist">
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/WoRMS_2018.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/WoRMS_2018.jpg"/></a></td>
+<td>
+Ismail Elezi, Lukas Tuggener, Marcello Pelillo, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/WoRMS_2018.pdf"><strong>DeepScores and Deep Watershed Detection: current state and open issues</strong></a>. In: Proceedings of the 1st International Workshop on Reading Music Systems (<strong>WoRMS’18</strong>), Paris, France, September 20, 2018.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ANNPR_2018d.jpg"/></a></td>
+<td>
+Thilo Stadelmann, Mohammadreza Amirian, Ismail Arabaci, Marek Arnold, Gilbert François Duivesteijn, Ismail Elezi, Melanie Geiger, Stefan Lörwald, Benjamin Bruno Meier, Katharina Rombach, and Lukas Tuggener. <a href="https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf"><strong>Deep Learning in the Wild</strong></a>. In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR’18</strong>), Springer, LNAI 11081, pp. 17-38, Siena, Italy, September 19-21, 2018. <strong>Invited paper</strong>.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ANNPR_2018c.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ANNPR_2018c.jpg"/></a></td>
+<td>
+Mohammadreza Amirian, Friedhelm Schwenker, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ANNPR_2018c.pdf"><strong>Trace and Detect Adversarial Attacks on CNNs using Feature Response Maps</strong></a>. In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR’18</strong>), Springer, LNAI 11081, pp. 346-358, Siena, Italy, September 19-21, 2018.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ANNPR_2018b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ANNPR_2018b.jpg"/></a></td>
+<td>
+Thilo Stadelmann, Sebastian Glinski-Haefeli, Patrick Gerber, and Oliver Dürr. <a href="https://stdm.github.io/downloads/papers/ANNPR_2018b.pdf"><strong>Capturing Suprasegmental Features of a Voice with RNNs for Improved Speaker Clustering</strong></a>. In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR’18</strong>), Springer, LNAI 11081, pp. 333-345, Siena, Italy, September 19-21, 2018.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ANNPR_2018a.jpg"/></a></td>
+<td>
+Benjamin Bruno Meier, Ismail Elezi, Mohammadreza Amirian, Oliver Dürr, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf"><strong>Learning Neural Models for End-to-End Clustering</strong></a>. In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR’18</strong>), Springer, LNAI 11081, pp. 126-138, Siena, Italy, September 19-21, 2018.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ISMIR_2018.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ISMIR_2018.jpg"/></a></td>
+<td>
+Lukas Tuggener, Ismail Elezi, Jürgen Schmidhuber, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ISMIR_2018.pdf"><strong>Deep watershed detector for music object recognition</strong></a>. In: Proceedings of the 19th International Society for Music Information Retrieval Conference (<strong>ISMIR’18</strong>), Paris, 23. - 27. September 2018. Paris: Society for Music Information Retrieval. DOI <a href="https://doi.org/10.21256/zhaw-3760">10.21256/zhaw-3760</a>.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ICPR_2018b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ICPR_2018b.jpg"/></a></td>
+<td>
+Feliks Hibraj, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. <a href="https://stdm.github.io/downloads/papers/ICPR_2018b.pdf"><strong>Speaker clustering using dominant sets</strong></a>. In: Proceedings of the 24th International Conference on Pattern Recognition (ICPR 2018). 24th International Conference on Pattern Recognition (<strong>ICPR’18</strong>), Beijing, China, 20-28 August 2018. Beijing: IAPR. DOI <a href="https://doi.org/10.21256/zhaw-4254">10.21256/zhaw-4254</a>.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ICPR_2018a.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ICPR_2018a.jpg"/></a></td>
+<td>
+Lukas Tuggener, Ismail Elezi, Jürgen Schmidhuber, Marcello Pelillo, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ICPR_2018a.pdf"><strong>DeepScores: a dataset for segmentation, detection and classification of tiny objects</strong></a>. In: Proceedings of the 24th International Conference on Pattern Recognition. 24th International Conference on Pattern Recognition (<strong>ICPR’18</strong>), Beijing, China, 20-28 August 2018. Beijing: IAPR. 1-6. DOI <a href="https://doi.org/10.21256/zhaw-4255">10.21256/zhaw-4255</a>.
+</td>
+</tr>
+</table>
 
 
 <b>2017</b>
 
-<p>Benjamin Meier, Thilo Stadelmann, Jan Stampfli, Marek Arnold, and Mark Cieliebak. <a href="https://stdm.github.io/downloads/papers/ICDAR_2017.pdf"><strong>Fully convolutional neural networks for newspaper article segmentation</strong></a>. In: Proceedings of the 14th IAPR International Conference on Document Analysis and Recognition (<strong>ICDAR’17</strong>). 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), Kyoto Japan, November 13-15, 2017. Kyoto, Japan: CPS. DOI <a href="https://doi.org/10.21256/zhaw-1533">10.21256/zhaw-1533</a>.</p>
-
-<p>Yanick X. Lukic, Carlo Vogt, Oliver Dürr, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/MLSP_2017.pdf"><strong>Learning Embeddings for Speaker Clustering Based on Voice Equality</strong></a>. In: Proceedings of the 27th IEEE International Workshop on Machine Learning for Signal Processing (<strong>MLSP’17</strong>). Roppongi, Tokyo, Japan: IEEE. DOI <a href="https://doi.org/10.21256/zhaw-3762">10.21256/zhaw-3762</a>.</p>
+<table class="publist">
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ECML_PKDD_2019.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ECML_PKDD_2019.jpg"/></a></td>
+<td>
+Benjamin Meier, Thilo Stadelmann, Jan Stampfli, Marek Arnold, and Mark Cieliebak. <a href="https://stdm.github.io/downloads/papers/ICDAR_2017.pdf"><strong>Fully convolutional neural networks for newspaper article segmentation</strong></a>. In: Proceedings of the 14th IAPR International Conference on Document Analysis and Recognition (<strong>ICDAR’17</strong>). 14th IAPR International Conference on Document Analysis and Recognition (ICDAR), Kyoto Japan, November 13-15, 2017. Kyoto, Japan: CPS. DOI <a href="https://doi.org/10.21256/zhaw-1533">10.21256/zhaw-1533</a>.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/MLSP_2017.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/MLSP_2017.jpg"/></a></td>
+<td>
+Yanick X. Lukic, Carlo Vogt, Oliver Dürr, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/MLSP_2017.pdf"><strong>Learning Embeddings for Speaker Clustering Based on Voice Equality</strong></a>. In: Proceedings of the 27th IEEE International Workshop on Machine Learning for Signal Processing (<strong>MLSP’17</strong>). Roppongi, Tokyo, Japan: IEEE. DOI <a href="https://doi.org/10.21256/zhaw-3762">10.21256/zhaw-3762</a>.
+</td>
+</tr>
+</table>
 
 
 <b>2016</b>
 
-<p>Yanick Lukic, Carlo Vogt, Oliver Dürr, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/MLSP_2016.pdf"><strong>Speaker Identification and Clustering using Convolutional Neural Networks</strong></a>. In: Proceedings of IEEE International Workshop on Machine Learning for Signal Processing (<strong>MLSP’16</strong>). Salerno: IEEE. DOI <a href="https://doi.org/10.21256/zhaw-3761">10.21256/zhaw-3761</a>.</p>
-
-<p>Kurt Stockinger, Thilo Stadelmann, and Andreas Ruckstuhl. <a href="https://stdm.github.io/downloads/papers/HMD_2016.pdf"><strong>Data Scientist als Beruf</strong></a>. Big Data – Grundlagen, Systeme und Nutzungspotenziale, Springer Verlag, <strong>Edition HMD</strong> 59-81, 2016. DOI <a href="https://doi.org/10.1007/978-3-658-11589-0_4">10.1007/978-3-658-11589-0_4</a>.</p>
+<table class="publist">
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/MLSP_2016.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/MLSP_2016.jpg"/></a></td>
+<td>
+Yanick Lukic, Carlo Vogt, Oliver Dürr, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/MLSP_2016.pdf"><strong>Speaker Identification and Clustering using Convolutional Neural Networks</strong></a>. In: Proceedings of IEEE International Workshop on Machine Learning for Signal Processing (<strong>MLSP’16</strong>). Salerno: IEEE. DOI <a href="https://doi.org/10.21256/zhaw-3761">10.21256/zhaw-3761</a>.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/HMD_2016.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/HMD_2016.jpg"/></a></td>
+<td>
+Kurt Stockinger, Thilo Stadelmann, and Andreas Ruckstuhl. <a href="https://stdm.github.io/downloads/papers/HMD_2016.pdf"><strong>Data Scientist als Beruf</strong></a>. Big Data – Grundlagen, Systeme und Nutzungspotenziale, Springer Verlag, <strong>Edition HMD</strong> 59-81, 2016. DOI <a href="https://doi.org/10.1007/978-3-658-11589-0_4">10.1007/978-3-658-11589-0_4</a>.
+</td>
+</tr>
+</table>
 </details>
 
 
