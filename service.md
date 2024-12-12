@@ -40,7 +40,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
   * Talk at QUT Centre for Robotics, **Queensland University of Technology**, Brisbane, Australia, December 03, 2024
 
-  * Talk at Sports Data Science & AI Workshop, **QUT Centre for Data Science**, Queensland University of Technology, Brisbane, Australia, November 26, 2024
+  * Talk ["Real life machine learning"](https://youtu.be/tQKQVnd-esY?si=38N-DP1sbjtdwi6E) at Sports Data Science & AI Workshop, **QUT Centre for Data Science**, Queensland University of Technology, Brisbane, Australia, November 26, 2024
   
   * Keynote "AI in sports: a real-world laboratory for upcoming societal change?" at QUT Centre for Data Science, **Queensland University of Technology**, Brisbane, Australia, November 25, 2024
   
@@ -48,7 +48,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
   * Keynote "The AI Advantage" at **AXA Investment Managers**, Zurich, Switzerland, November 21, 2024
   
-  * [Q&A](https://www.youtube.com/live/Q1IhtzT5fT0?si=hRdMXfAFKVuQOz2f&t=1808) at **EFG Derschlag**, Derschlag, Germany, November 17, 2024
+  * [Q&A](https://youtu.be/V60luYOjGoM?si=YARMXAhGJTr7wDyO) at **EFG Derschlag**, Derschlag, Germany, November 17, 2024
   
   * Talk at Innovation Hub Bergisches RheinLand, **TH Köln**, Gummersbach, Germany, November 15, 2024
   
@@ -74,7 +74,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Talk "Was in Zukunft wichtig wird - Bildung in Zeiten von KI" at **EVP Basel-Stadt**, Basel, Switzerland, September 17, 2024
   
-  * Talk "Was hat es mit kuenstlicher Intelligenz auf sich?" at **Nikodemus.AI vernissage**, ERF, Wetzlar, Germany (online), September 10, 2024
+  * Talk ["Was hat es mit kuenstlicher Intelligenz auf sich?"](https://www.youtube.com/live/HVC9-2Icfa4?si=c9TjpmtQyeWf5P67) at **Nikodemus.AI vernissage**, ERF, Wetzlar, Germany (online), September 10, 2024
   
   * Talk "KI - Die Nuetzlichkeitsrevolution im Unternehmen" at the **UBS Unternehmerkongress**, Horgen ZH, Switzerland, August 26, 2024
   
@@ -118,7 +118,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Keynote "Decoding tomorrow - Where's AI headed in the real world?" at [**Oracle Data & AI Forum**](https://www.oracle.com/ch-de/cloud/events/data-ai-forum/), Zurich, Switzerland February 27, 2024
 
-  * Panelist at **Communication Summit 2024**, Zurich, Switzerland, February 07, 2024
+  * Panelist at **Communication Summit 2024**, Zurich, Switzerland, February 07, 2024 (see after-session [statement](https://youtu.be/EPARDcFjIUc?si=nm66xT70WOWfDgkN))
   
   * Talk at **Christliche Gemeinde Lottstetten**, Lottstetten, Germany, January 26, 2024
   
@@ -203,7 +203,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
   * Distinguished lecture at the University of Engineering & Management (online), Kolkata, India, April 07, 2022
   
-  * Invited talk on "Lessons Learned from Watching Machines Learn" at [AMLD AI & Mobility Track](https://appliedmldays.org/events/amld-epfl-2022/tracks/ai-mobility), Applied Machine Learning Days 2022, EPFL Lausanne, Switzerland, March 29, 2022
+  * Invited talk on ["Lessons Learned from Watching Machines Learn"](https://youtu.be/-hGNkXcNK0Y?si=vTTRn8hE8rNA6a-A) at [AMLD AI & Mobility Track](https://appliedmldays.org/events/amld-epfl-2022/tracks/ai-mobility), Applied Machine Learning Days 2022, EPFL Lausanne, Switzerland, March 29, 2022
   
   * Invited talk on [**"Addressing scientific debt in deep learning research: 4 aspects of our neural nets that made us wonder, and what we learned"**](https://stdm.github.io/downloads/talks/2022-03-18_Scientific-debt-wonder.pdf) at the Colloquium of the [Institute of Neuroinformatics UZH/ETH](https://www.ini.uzh.ch/en.html), Zurich, Switzerland, March 18, 2022
 
@@ -224,7 +224,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   * [Cancelled due to COVID-19] Invited talk on **"Artificial Intelligence: wie künstliche Intelligenz und Machine Learning unser Leben verändern"** 
     **MediData EDI Podium**, Kantonsratsaal Lucerne, June 25, 2021
 
-  * Invited talk on [**"Deep Learning fuer Dokumentenanalyse"**](https://stdm.github.io/downloads/talks/2021-03-25_DeepLearning-Dokumentenanalyse.pdf) at the **ETH Bibliothek Kolloquium**, Zurich, Switzerland, March 25, 2021
+  * Invited talk on [**"Deep Learning fuer Dokumentenanalyse"**](https://stdm.github.io/downloads/talks/2021-03-25_DeepLearning-Dokumentenanalyse.pdf) at the **ETH Bibliothek Kolloquium**, Zurich, Switzerland, March 25, 2021 (see also [video](https://youtu.be/3wbXeDM_UZw?si=x4FR42KjY1PyLOIN))
   
   * Impulsreferat on **"AI Essentials"** at **Noser Engineering**, Winterthur, Switzerland, January 19, 2021
 
@@ -253,7 +253,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   * **Fundamentals of AI and Digital Transformation of a University**
     Invited session at the Summer School on Digital Transformation in the Public Sector, ZHAW School of Management and Law, Winterthur, Switzerland, July 10, 2020
   
-  * **Machine Learning-based pattern recognition, e.g. for Document Analysis**
+  * [**Machine Learning-based pattern recognition, e.g. for Document Analysis**](https://youtu.be/urYy7jTQHrs?si=RosU94pJc5ohuHGm)
     Webinar for the European Centre for Living Technology, Venice, Italy, July 03, 2020
   
   * **Machine Learning-based pattern recognition**
