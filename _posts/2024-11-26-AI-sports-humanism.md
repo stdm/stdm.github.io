@@ -11,6 +11,8 @@ So what is happening in sports due to AI? Well, the game has changed, as one cou
 
 <!-- more -->
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KrSbb_YG6NY?si=PPHs5TAVtDQrNyOd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 But there are downsides as well: For example, the VAR (video assisted referee) in soccer is [not received well](https://www.faz.net/aktuell/sport/fussball/bundesliga/videobeweis-im-fussball-wo-probleme-mit-dem-var-liegen-und-loesungen-110069301.html) by fans worldwide, for reasons of unnaturally interrupting the game in a perceived random way, negatively affecting all persons involved: impeding the authority of the referee on the field, the experience of the audience, and the motivation and joy of players. In one word: It has *dehumanizing* effects. 
 
 Additionally, seeing people compete against AI systems - whether table tennis robots or chess engines - shows another dehumanizing effect: The loss of *hope* on the side of the human competitor. In a similar vein, as Nate Silver tells the [story](https://theconversation.com/twenty-years-on-from-deep-blue-vs-kasparov-how-a-chess-match-started-the-big-data-revolution-76882), Garri Kasparov first lost his hope (his confidence in understanding a seemingly absurd move by Deep Blue) before being thrown off track by it and ultimately losing the tournament. 

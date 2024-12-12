@@ -42,7 +42,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
   * Talk ["Real life machine learning"](https://youtu.be/tQKQVnd-esY?si=38N-DP1sbjtdwi6E) at Sports Data Science & AI Workshop, **QUT Centre for Data Science**, Queensland University of Technology, Brisbane, Australia, November 26, 2024
   
-  * Keynote "AI in sports: a real-world laboratory for upcoming societal change?" at QUT Centre for Data Science, **Queensland University of Technology**, Brisbane, Australia, November 25, 2024
+  * Keynote ["AI in sports: a real-world laboratory for upcoming societal change?"](https://youtu.be/KrSbb_YG6NY?si=iaXZ3QtZjmh0q60e) at QUT Centre for Data Science, **Queensland University of Technology**, Brisbane, Australia, November 25, 2024
   
   * Workshop at **Archipel Generalplanung AG**, Bern, Switzerland, November 22, 2024
 
