@@ -9,7 +9,7 @@ This is the academic website of [Thilo Stadelmann](https://www.zhaw.ch/en/about-
 ### TOC
 1. [Biography](#bio)
 2. [The Machine Perception and Cognition group](#group)
-3. [Research examples](#work)
+3. [Research](#work)
 4. [Collaborations](#collaborations)
 5. [Publications](#publications)
 
@@ -81,7 +81,7 @@ The group has very diverse backgrounds, which helps us complement each other's s
 
  
 <a name="work"></a>
-## Research examples
+## Research
 
 <img alt="The Artificial Mental Rotation snap-on architecture for 2D in-plane rotation correction" src="http://stdm.github.io/images/architecture.jpg"/>
 
