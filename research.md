@@ -300,6 +300,12 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2025.jpg"/></a></td>
+<td>
+Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christoph von der Malsburg. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025.pdf"><strong>The Cooperative Network Architecture: Learning Structured Networks as Representations of Sensory Patterns</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/abs/2407.05650v2">arXiv:2407.05650v2</a>, January 2025.
+</td>
+</tr>
+<tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/KIW_2025.jpg"/></a></td>
 <td>
 Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"><strong>Wegweiser Künstliche Intelligenz: Verstehen, anwenden und zuversichtlich Zukunft gestalten</strong></a>. In: Sebastian Hersberger and Christian Hugo Hoffmann (Editors). "Wie die Künstliche Intelligenz die Wirtschaft verändert - Überblick über die theoretischen Grundlagen und Praxisbeispiele entlang von Ökosystemen", <strong>Springer</strong>, 2025.
@@ -321,12 +327,6 @@ Ahmed Begga, Waqar Ali, Gabriel Niculescu, Francisco Escolano, Thilo Stadelmann,
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/PRL_2024b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/PRL_2024b.jpg"/></a></td>
 <td>
 Waqar Ali, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. <a href="https://stdm.github.io/downloads/papers/PRL_2024b.pdf"><strong>Hierarchical Glocal Attention Pooling for Graph Classification</strong></a>. In: <strong>Pattern Recognition Letters</strong> 186, pp. 71-77, Elsevier, September 2024, DOI <a href="https://doi.org/10.1016/j.patrec.2024.09.009">10.1016/j.patrec.2024.09.009</a>.
-</td>
-</tr>
-<tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2024.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2024.jpg"/></a></td>
-<td>
-Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christoph von der Malsburg. <a href="https://stdm.github.io/downloads/papers/ArXiv_2024.pdf"><strong>The Dynamic Net Architecture: Learning Robust and Holistic Visual Representations Through Self-Organizing Networks</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/pdf/2407.05650.pdf">arXiv:2407.05650</a>, July 2024.
 </td>
 </tr>
 <tr>
@@ -450,7 +450,7 @@ Waqar Ali, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. <a href="h
 <tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/Buergenstock_2023.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Buergenstock_2023.jpg"/></a></td>
 <td>
-Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/Buergenstock_2023.pdf"><strong>KI als Chance für die angewandten Wissenschaften im Wettbewerb der Hochschulen</strong></a>. Workshop (“Atelier”) at the <strong>Bürgenstock-Konferenz der Schweizer Fachhochschulen und Pädagogischen Hochschulen</strong> 2023, Luzern, Schweiz, 20. Januar 2023.</p>
+Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/Buergenstock_2023.pdf"><strong>KI als Chance für die angewandten Wissenschaften im Wettbewerb der Hochschulen</strong></a>. Workshop (“Atelier”) at the <strong>Bürgenstock-Konferenz der Schweizer Fachhochschulen und Pädagogischen Hochschulen</strong> 2023, Luzern, Schweiz, 20. Januar 2023.
 </td>
 </tr>
 </table>
