@@ -55,8 +55,8 @@ The group has very diverse backgrounds, which helps us complement each other's s
 <details>
 <summary><b>Alumni</b></summary>
 <ul>
-  <li> <a href="https://www.linkedin.com/in/raphael-emberger-206015bb">Raphael Emberger</a>, research assistant 2012-2024, M.Sc. and B.Sc. computer science (ZHAW) <br>&rarr; Deep Learning Engineer @ Rheinmetall Air Defence</li>
-  <li> <a href="https://www.zhaw.ch/en/about-us/person/ayfe/">Erdal Ayfer</a>, intern 2023-2024, B.Sc. student computer science(ZHAW)</li>
+  <li> <a href="https://www.linkedin.com/in/raphael-emberger-206015bb">Raphael Emberger</a>, research assistant 2021-2024 & MSc student 2023-2024, M.Sc. and B.Sc. computer science (ZHAW) <br>&rarr; Deep Learning Engineer @ Rheinmetall Air Defence</li>
+  <li> <a href="https://www.zhaw.ch/en/about-us/person/ayfe/">Erdal Ayfer</a>, intern 2023-2024, B.Sc. student computer science(ZHAW) <br>&rarr; Freelance Web- and Software Developer</li>
   <li> <a href="https://www.linkedin.com/in/sydney-nguyen-117987180/">Sydney M. Nguyen</a>, M.Sc. student 2022-2024, B.Sc. in computer science (ZHAW) <br>&rarr; Solution Engineer Data & AI @ mesoneer</li>
   <li> <a href="https://www.linkedin.com/in/sebastian-salzmann-8214b911b">Sebastian Salzmann</a>, M.Sc. student 2021-2024, B.Sc. biology (ETH) & M.Sc. molecular health sciences (ETH) <br>&rarr; Scientific IT @ EAWAG</li>
   <li> <a href="https://www.linkedin.com/in/paul-l-821892247/">Paul Luley</a>, research assistent 2022-2023, B.Sc. biomedical engineering (Technikum Vienna) <br>&rarr; Data Science Researcher @ Julius Bär</li>
