@@ -300,6 +300,12 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/AI-guide_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AI-guide_2025.jpg"/></a></td>
+<td>
+Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/AI-guide_2025.pdf"><strong>A guide to AI: Understanding the technology, applying it successfully, and shaping a positive future</strong></a>. Preprint, 2025.
+</td>
+</tr>
+<tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2025.jpg"/></a></td>
 <td>
 Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christoph von der Malsburg. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025.pdf"><strong>The Cooperative Network Architecture: Learning Structured Networks as Representations of Sensory Patterns</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/abs/2407.05650v2">arXiv:2407.05650v2</a>, January 2025.
@@ -308,7 +314,7 @@ Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christop
 <tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/KIW_2025.jpg"/></a></td>
 <td>
-Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"><strong>Wegweiser Künstliche Intelligenz: Verstehen, anwenden und zuversichtlich Zukunft gestalten</strong></a>. In: Sebastian Hersberger and Christian Hugo Hoffmann (Editors). "Wie die Künstliche Intelligenz die Wirtschaft verändert - Überblick über die theoretischen Grundlagen und Praxisbeispiele entlang von Ökosystemen", <strong>Springer</strong>, 2025. <br> English adaptation available <a href="https://stdm.github.io/downloads/papers/AI-guide_2025.pdf"><strong>"A guide to AI: Understanding the technology, applying it successfully, and shaping a positive future"</strong></a> as a preprint (content not identical).
+Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"><strong>Wegweiser Künstliche Intelligenz: Verstehen, anwenden und zuversichtlich Zukunft gestalten</strong></a>. In: Sebastian Hersberger and Christian Hugo Hoffmann (Editors). "Wie die Künstliche Intelligenz die Wirtschaft verändert - Überblick über die theoretischen Grundlagen und Praxisbeispiele entlang von Ökosystemen", <strong>Springer</strong>, 2025.
 </td>
 </tr>
 </table>
