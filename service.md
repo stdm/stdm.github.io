@@ -31,6 +31,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   * Invited talk at **Oase Health Solutions**, Zurich, Switzerland, May 20, 2025
   
   * Invited talk at **AFI Solutions**, Stuttgart and Cologne, Germany, May 13 and 22, 2025
+  
+  * Invited talk at **TEDxZHAW**, Winterthur, Switzerland, April 10, 2025
 
   * Invited talk at **Rotary Club Kyburg**, Winterthur, Switzerland, March 21, 2025
   
