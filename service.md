@@ -22,15 +22,35 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 #### 2025
 
+  * Invited talk at **FRZ Wirtschaftsforum 2025**, Kloten, Switzerland, November 24, 2025
+  
+  * Interview and Q&A at **GoUnity**, Zurich, Switzerland, November 20, 2025
+
   * Invited talk at **KIWANIS Waldshut**, Tiengen, Germany, June 03, 2025
+  
+  * Invited talk at **Oase Health Solutions**, Zurich, Switzerland, May 20, 2025
+  
+  * Invited talk at **AFI Solutions**, Stuttgart and Cologne, Germany, May 13 and 22, 2025
 
   * Invited talk at **Rotary Club Kyburg**, Winterthur, Switzerland, March 21, 2025
+  
+  * Invited talk at **AXA Investment Managers**, Frankfurt, Germany, March 18, 2025
 
   * Invited talk at **Männervesper St. Johann**, St. Johann, Germany, March 14, 2025
+  
+  * Festvortrag (keynote) at the annual meeting of the **Gesellschaf für Pediatrische Pneumatologie**, Leipzig, Germany, March 13, 2025
 
   * Keynote at **KCF 2025**, Karlsruhe, Germany, March 07, 2025
+  
+  * Keynote at *STARK 2025*, Stuttgart, Germany, February 07, 2025
  
   * Invited talk at **Club Efforce**, Schaffhausen, Switzerland, January 23, 2025
+  
+  * Co-Talk (together with Prof. B. Grewe) at **Lab42**, Davos, Sitzerland, January 22, 2025
+  
+  * Panelist at **UBS Family Business Forum**, Zurich, Switzerland, January 17, 2025
+  
+  * Invited talk "Vorteil KI - Strategien, Praxisbeispiele & die Zukunft" at **BDO Wirtschaftstalk 2025**, Bern, Switzerland, January 15, 2025
 
 #### 2024
 
