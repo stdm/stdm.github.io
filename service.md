@@ -46,9 +46,9 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Keynote at *STARK 2025*, Stuttgart, Germany, February 07, 2025
  
-  * Invited talk at **Club Efforce**, Schaffhausen, Switzerland, January 23, 2025
+  * Invited talk "Hoffnung - Und was KI damit zu tun hat" at **Club Efforce**, Schaffhausen, Switzerland, January 23, 2025
   
-  * Co-Talk (together with Prof. B. Grewe) at **Lab42**, Davos, Sitzerland, January 22, 2025
+  * Co-Talk "The AI Advantage - Current Use Cases & the Future" (together with Prof. B. Grewe) at **Digital Lounge @ WEF**, Davos, Sitzerland, January 22, 2025
   
   * Panelist at **UBS Family Business Forum**, Zurich, Switzerland, January 17, 2025
   
@@ -715,6 +715,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * December 13, 2024 [HOFFNUNGSMENSCH Podcast](https://podcasts.apple.com/us/podcast/ki-professor-thilo-stadelmann-wir-m%C3%BCssen-keine-angst/id1704660638?i=1000680234636): "**KI-Professor Thilo Stadelmann: Wir müssen keine Angst vor KI haben**"
+
   * August 02, 2024 [KRONE Denkfabrik](https://www.krone-trailer.com/fileadmin/media/magazin/krone-denkfabrik-ausgabe-6-en.pdf): "**AI is a tool**" - Heart of the matter
 
   * July 15, 2024 [Radio Life Channel](https://erf-medien.ch/gesellschaft/wissen/so-schnell-kann-ki-menschen-nicht-ersetzen/): "**So schnell kann KI Menschen nicht ersetzen**"
