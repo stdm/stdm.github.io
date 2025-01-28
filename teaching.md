@@ -35,7 +35,7 @@ Original versions of my main courses are available as free online ressources as 
 | Fall 2024 | BSc | PA | Enhancing SwissGPT with Agentic RAG |
 | Spring 2024 | MSc | VT1 | Overcoming Sample Scarcity and Label Ambiguity in Cell Segmentation and Classification of Thyroid Cancer: A Kernel-Based Approach on Top of CellSAM |
 | Spring 2024 | BSc | BA | Prosodic Feature Modelling in Transformers for Speaker Verification <br> _follow-up research internship_ <br> Students: Fabian Bosshard, Andrin Fassbind |
-| Spring 2024 | BSc | BA | A2C2 - Natural Language-Instructed Autonomous Agent for Computer Control |
+| Spring 2024 | BSc | BA | **[A2C2 - Natural Language-Instructed Autonomous Agent for Computer Control](https://arxiv.org/abs/2501.16150)** <br> paper <br> Students: Rebekka von Wartburg-Kottler, Gabriel Nobel |
 | Spring 2024 | MAS | Thesis | Beaker detection using realtime image analysis and artificial neural networks |
 | Fall 2023 | PhD | Thesis | [Deep Learning for Robust and Explainable Models in Computer Vision](https://arxiv.org/abs/2403.18674) |
 | Fall 2023 | MSc | MT | Predicting DARPin Protein Binding using Geometric Graph Neural Networks |
