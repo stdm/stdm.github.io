@@ -715,6 +715,10 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * January 28, 2025 [SRF Echo der Zeit](https://www.srf.ch/audio/echo-der-zeit/wirbel-an-der-boerse-wegen-ki-revolution-deepseek?partId=X792Gyx5jRUOV1XPy_nHzULJr9U): "**Wirbel an der Börse wegen KI-Revolution Deepseek**"
+  
+  * January 28, 2025 [Web.de](https://web.de/magazine/wirtschaft/ki-sensation-china-gut-europa-40606514): "**Warum die KI-Sensation aus China gut für Europa ist**"
+  
   * December 13, 2024 [HOFFNUNGSMENSCH Podcast](https://podcasts.apple.com/us/podcast/ki-professor-thilo-stadelmann-wir-m%C3%BCssen-keine-angst/id1704660638?i=1000680234636): "**KI-Professor Thilo Stadelmann: Wir müssen keine Angst vor KI haben**"
 
   * August 02, 2024 [KRONE Denkfabrik](https://www.krone-trailer.com/fileadmin/media/magazin/krone-denkfabrik-ausgabe-6-en.pdf): "**AI is a tool**" - Heart of the matter
