@@ -26,6 +26,12 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Interview and Q&A at **GoUnity**, Zurich, Switzerland, November 20, 2025
 
+  * Panelist at  **Hoffnungswoche 2025**, Embrach, Switzerland, November 05, 2025
+
+  * Invited talk at **Vetter Kabelverlegetechnik GmbH, Lottstetten, Germany, September 29, 2025
+  
+  * Invited talk at **UNITED** leadership conference, Baden Baden, Germany, July 05, 2025
+
   * Invited talk at **KIWANIS Waldshut**, Tiengen, Germany, June 03, 2025
   
   * Invited talk at **Oase Health Solutions**, Zurich, Switzerland, May 20, 2025
@@ -38,9 +44,11 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Invited talk at **AXA Investment Managers**, Frankfurt, Germany, March 18, 2025
 
-  * Invited talk at **Männervesper St. Johann**, St. Johann, Germany, March 14, 2025
+  * Invited talk "Hoffnung und künstliche Intelligenz" at **Männervesper St. Johann**, St. Johann, Germany, March 14, 2025
   
-  * Festvortrag (keynote) at the annual meeting of the **Gesellschaf für Pediatrische Pneumatologie**, Leipzig, Germany, March 13, 2025
+  * Festvortrag (keynote) at the annual meeting of the **Gesellschaft für Pediatrische Pneumatologie**, Leipzig, Germany, March 13, 2025
+
+  * Keynote at **AFI Tag 2025**, Amt für Informatik, Zurich, Switzerland, March 12, 2025
 
   * Keynote at **KCF 2025**, Karlsruhe, Germany, March 07, 2025
   
@@ -715,6 +723,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * February 14, 2025 [NZZ Jobs](https://jobs.nzz.ch/ratgeber/artikel/1176/mit-ki-zuversichtlich-zukunft-gestalten): "**Mit KI zuversichtlich Zukunft gestalten**", interview with Prof. Thilo Stadelmann by Prof. Anne Rosken
+
   * January 28, 2025 [SRF Echo der Zeit](https://www.srf.ch/audio/echo-der-zeit/wirbel-an-der-boerse-wegen-ki-revolution-deepseek?partId=X792Gyx5jRUOV1XPy_nHzULJr9U): "**Wirbel an der Börse wegen KI-Revolution Deepseek**"
   
   * January 28, 2025 [Web.de](https://web.de/magazine/wirtschaft/ki-sensation-china-gut-europa-40606514): "**Warum die KI-Sensation aus China gut für Europa ist**"
