@@ -28,7 +28,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
   * Panelist at  **Hoffnungswoche 2025**, Embrach, Switzerland, November 05, 2025
 
-  * Invited talk at **Vetter Kabelverlegetechnik GmbH, Lottstetten, Germany, September 29, 2025
+  * Invited talk at **Vetter Kabelverlegetechnik GmbH**, Lottstetten, Germany, September 29, 2025
   
   * Invited talk at **UNITED** leadership conference, Baden Baden, Germany, July 05, 2025
 
