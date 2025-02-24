@@ -300,6 +300,12 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2025c.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2025c.jpg"/></a></td>
+<td>
+Matteo Saponati, Pascal Sager, Pau Vilimelis Aceituno, Thilo Stadelmann, and Benjamin Grewe. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025c.pdf"><strong>The underlying structures of self-attention: symmetry, directionality, and emergent dynamics in Transformer training</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/abs/2502.10927">arXiv:2502.10927v1</a>, February 2025.
+</td>
+</tr>
+<tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2025b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2025b.jpg"/></a></td>
 <td>
 Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan Etaiwi, Aref Enayati, Gabriel Nobel, Ahmed Abdulkadir, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025b.pdf"><strong>AI Agents for Computer Use: A Review of Instruction-based Computer Control, GUI Automation, and Operator Assistants</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/abs/2501.16150">arXiv:2501.16150v1</a>, January 2025.
