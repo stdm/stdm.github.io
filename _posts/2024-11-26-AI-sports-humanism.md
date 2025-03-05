@@ -19,7 +19,7 @@ Additionally, seeing people compete against AI systems - whether table tennis ro
 
 As sports is a mirror of society - people from all walks of life are engaged on its different levels, as players, fans, or representatives - it is reasonable to assume that effects that we see of AI on the niche of sports could play out as well on the much larger playing field of society as AI systems are increasingly deployed to many use cases. That, then, tasks us with thinking more about how to prevent the potentially dehumanizing and hope-corroding effects identified above. 
 
-My three points on this to have *technology with hope*: 
+My three points on this are to have *technology with hope*: 
 
 1. Regard AI as a tool, not a personal counterpart. Specifically, don't sell it as if it were. 
 
