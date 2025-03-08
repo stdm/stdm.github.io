@@ -723,6 +723,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * March 08, 2025 [IDEA](https://www.idea.de/artikel/forscher-ki-eignet-sich-nicht-fuer-die-partnersuche): "**Forscher: KI eignet sich nicht für die Partnersuche**"
+
   * February 14, 2025 [NZZ Jobs](https://jobs.nzz.ch/ratgeber/artikel/1176/mit-ki-zuversichtlich-zukunft-gestalten): "**Mit KI zuversichtlich Zukunft gestalten**", interview with Prof. Thilo Stadelmann by Prof. Anne Rosken
 
   * January 28, 2025 [SRF Echo der Zeit](https://www.srf.ch/audio/echo-der-zeit/wirbel-an-der-boerse-wegen-ki-revolution-deepseek?partId=X792Gyx5jRUOV1XPy_nHzULJr9U): "**Wirbel an der Börse wegen KI-Revolution Deepseek**"
