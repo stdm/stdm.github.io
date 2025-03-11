@@ -39,7 +39,6 @@ The group has very diverse backgrounds, which helps us complement each other's s
     <li><a href="https://de.wikipedia.org/wiki/Thilo_Stadelmann">Prof. Dr. Thilo Stadelmann</a>, head of group: Diplom (THM) & PhD (U. Marburg) in computer science</li>
     <li><a href="https://scholar.google.com/citations?user=XqaePW0AAAAJ">Dr. Ahmed Abdulkadir</a>, senior researcher, deputy head of group: B.Sc. systems engineering (NTB Buchs), BSc & MSc Life Sciences (EPFL), PhD computer engineering (University of Freiburg / Germany), PostDoc University Hospital Bern / University of Pennsylvania / Lausanne University Hospital</li>
     <li><a href="https://www.linkedin.com/in/hella-bolck-783a6526">Dr. Hella Bolck</a>, coordinator for complex projects: M.Sc. biochemistry and molecular biology (U Jena), PhD cancer biology (U Zurich), postdoc & senior scientist (USZ)</li>
-    <li><a href="https://tuggeluk.github.io/">Dr. Lukas Tuggener</a>, research associate: B.Sc. industrial engineering (ZHAW), M.Sc. statistics (ETH), PhD (U Lugano & ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/waqar-ali-92468910b/">Waqar Ali</a>, PhD student: M.Sc. (CU Islamabad) in computer science, doctorate in conjunction with <a href="https://www.dsi.unive.it/~pelillo/">Marcello Pelillo</a> of the University of Venice / Italy</li>
     <li><a href="https://www.linkedin.com/in/peng520/">Peng Yan</a>, PhD student: B.Sc. measuring & control technology (Jianghan U.) & M.Sc. control engineering (Xiamen U.), M.Sc. data science (UZH), doctorate in conjunction with <a href="https://www.ini.uzh.ch/en/research/groups/grewe.html">Benjamin F. Grewe</a> of the University of Zurich / Switzerland</li>
     <li><a href="https://www.linkedin.com/in/pascal-sager-3b7403168">Pascal Sager</a>, PhD student: B.Sc. & M.Sc. computer science (ZHAW), doctorate in conjunction with <a href="https://www.ini.uzh.ch/en/research/groups/grewe.html">Benjamin F. Grewe</a> of the University of Zurich / Switzerland</li>
@@ -55,6 +54,7 @@ The group has very diverse backgrounds, which helps us complement each other's s
 <details>
 <summary><b>Alumni</b></summary>
 <ul>
+  <li> <a href="https://tuggeluk.github.io/">Dr. Lukas Tuggener</a>, PhD student 2016-2024, postdoc 2024-2025, B.Sc. industrial engineering (ZHAW), M.Sc. statistics (ETH), PhD (U Lugano & ZHAW) <br>&rarr; Co-Founder @ Real World Artificial Intelligence</li>
   <li> <a href="https://www.linkedin.com/in/raphael-emberger-206015bb">Raphael Emberger</a>, research assistant 2021-2024 & MSc student 2023-2024, M.Sc. and B.Sc. computer science (ZHAW) <br>&rarr; Deep Learning Engineer @ Rheinmetall Air Defence</li>
   <li> <a href="https://www.zhaw.ch/en/about-us/person/ayfe/">Erdal Ayfer</a>, intern 2023-2024, B.Sc. student computer science(ZHAW) <br>&rarr; Freelance Web- and Software Developer</li>
   <li> <a href="https://www.linkedin.com/in/sydney-nguyen-117987180/">Sydney M. Nguyen</a>, M.Sc. student 2022-2024, B.Sc. in computer science (ZHAW) <br>&rarr; Solution Engineer Data & AI @ mesoneer</li>
