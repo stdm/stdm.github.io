@@ -29,8 +29,9 @@ Original versions of my main courses are available as free online ressources as 
 
 | **When** | **Level** | **Type** | **Title** |
 | --- | --- | --- | --- |
-| Fall 2024 | PhD | Thesis | **Strategies for Practical Deep Learning** <br> _top grade_ <br> student: Lukas Tuggener |
-| Fall 2024 | PhD | Thesis | Advanced Representation Learning Techniques For Graph Neural Networks |
+| Spring 2025 | PhD | Thesis | **Advanced Representation Learning Techniques For Graph Neural Networks** <br> student: Waqar Ali |
+| Spring 2025 | MSc | MT |Process Monitoring and Control with Neural World Models |
+| Fall 2024 | PhD | Thesis | **[Strategies for Practical Deep Learning](https://n2t.net/ark:/12658/srd1330766)** <br> _top grade_ <br> student: Lukas Tuggener |
 | Fall 2024 | BSc | PA | AI-based interpretation of engineering drawings |
 | Fall 2024 | BSc | PA | Enhancing SwissGPT with Agentic RAG |
 | Spring 2024 | MSc | VT1 | Overcoming Sample Scarcity and Label Ambiguity in Cell Segmentation and Classification of Thyroid Cancer: A Kernel-Based Approach on Top of CellSAM |
@@ -136,7 +137,7 @@ Original versions of my main courses are available as free online ressources as 
 | --- | --- | --- | --- | --- | --- | --- |
 | [AI1](http://stdm.github.io/ai-course) | **Artificial Intelligence 1** | lecture & lab | final year BSc computer science elective course; won [best teaching award (3rd place)](https://stdm.github.io/ATLAS/) in 2019 | foundational AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017-2023 |
 | AI2 | **Artificial Intelligence 2** | lecture & lab | finale year BSc computer science / data science elective course | developing fair algorithms; towards more general neural models | responsible, co-initiate, co-create, co-teach | Fall 2017, spring 2023-2025 |
-| INTAI | **Introduction to AI for Engineers** | block week | elective final year block course for all engineering programmes | short introduction based on AI1 | responsible, initiate, create, teach | Fall 2024 |
+| INTAI | **Introduction to AI for Engineers** | block week | elective final year block course for all engineering programmes | short introduction based on AI1 | responsible, initiate, create, teach | Fall 2023 |
 
 
 #### Previously
@@ -147,7 +148,7 @@ Original versions of my main courses are available as free online ressources as 
 | CVDL | **Computer Vision with Deep Learning** | lecture & lab | finale year BSc computer science / data science elective course | modern computer vision based on deep learning methodology (beyond CNNs and classification) | initiate | Fall 2022 |
 | RL | **Reinforcement Learning** | lecture & lab | finale year BSc computer science / data science elective course | introduction to reinforcement learning | initiate | Fall 2022 |
 | MLOps | **Machine Learning Operations** | lecture & lab | finale year BSc computer science / data science elective course | introduction to building, operating and maintaining machine learing pipelines and systems | initiate | Fall 2022 |
-| CAS MLOps | **Certificate of Advanced Studies in Machine Learning Operations** | on-premise one-year continuing education programme | thorough introduction to MLOps and societal aspects of applied AI | initiate| Fall 2022 |
+| CAS Adv. ML | **Certificate of Advanced Studies in Advanced Machine Learning and Machine Learning Operations** | on-premise one-year continuing education programme | thorough introduction to MLOps and societal aspects of applied AI, advanced machine learning for computer vision and control | initiate | Fall 2022 |
 | [MachLe](http://stdm.github.io/ml-course) | **Machine Learning** | lecture & lab | MSc computer science & engineering elective course; won best [teaching final round nomination](https://stdm.github.io/Science-applied/) in 2017 | mid-level course on practical machine learning with a focus on deep learning | responsible, initiate, co-create, co-teach | Spring 2017-2020 |
 | MSE profile DS | **Profile Data Science** in the Swiss [Master of Science in Engineering](https://www.msengineering.ch/profiles/engineering-and-it/data-science) | MSc programme | new profile within the joint Swiss engineering master's degree, consisting of theoretical, foundational, and context modules on analytics, data engineering, and data management | co-initiate, co-create, member of module groups | Spring 2016 |
 | EVA MI Lab | **Machine Intelligence Lab** | MOOC, colloquia & hackathon | MSc extended advanced module (EVA) | experience an online course on an advanced machine learning topic | responsible, initiate, co-create, teach | Fall 2015-2019 |
