@@ -42,17 +42,21 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
   * Invited talk at **Rotary Club Kyburg**, Winterthur, Switzerland, March 21, 2025
   
-  * Invited talk at **AXA Investment Managers**, Frankfurt, Germany, March 18, 2025
+  * Invited talk "Den KI-Vorteil nutzen" at **AXA Investment Managers**, Frankfurt, Germany, March 18, 2025
 
-  * Invited talk "Hoffnung und künstliche Intelligenz" at **Männervesper St. Johann**, St. Johann, Germany, March 14, 2025
+  * Invited talk "Hoffnung und künstliche Intelligenz" at **Kispelgespräch mit Vesper**, St. Johann, Germany, March 14, 2025
   
-  * Festvortrag (keynote) at the annual meeting of the **Gesellschaft für Pediatrische Pneumatologie**, Leipzig, Germany, March 13, 2025
+  * Festvortrag (keynote) "Menschlichkeit im Zeitalter der KI" at the annual meeting of the **Gesellschaft für Pediatrische Pneumatologie**, Leipzig, Germany, March 13, 2025
 
-  * Keynote at **AFI Tag 2025**, Amt für Informatik, Zurich, Switzerland, March 12, 2025
-
-  * Keynote at **KCF 2025**, Karlsruhe, Germany, March 07, 2025
+  * Keynote "Datenzentriert entwickeln, menschenzentriert denken: Lernen vom Beispiel KI" at **AFI Tag 2025**, Amt für Informatik, Zurich, Switzerland, March 12, 2025
   
-  * Keynote at *STARK 2025*, Stuttgart, Germany, February 07, 2025
+  * Invited talk "The AI you fear does not exist" at "Who will we become with AI?" colloquium at **Octet/MIT Media Lab**, March 09, 2025
+
+  * Invited talk "Wie wir die KI-Chance nutzen" at **KCF 2025**, Karlsruhe, Germany, March 07, 2025
+  
+  * Talk at the **Pattern Recognition Lab** of the Friedrich-Alexander-University Erlangen-Nuremberg, Erlangen, February 26, 2025
+  
+  * Keynote at **STARK 2025**, Stuttgart, Germany, February 07, 2025
  
   * Invited talk "Hoffnung - Und was KI damit zu tun hat" at **Club Efforce**, Schaffhausen, Switzerland, January 23, 2025
   
@@ -731,7 +735,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * January 28, 2025 [Web.de](https://web.de/magazine/wirtschaft/ki-sensation-china-gut-europa-40606514): "**Warum die KI-Sensation aus China gut für Europa ist**"
   
-  * December 13, 2024 [HOFFNUNGSMENSCH Podcast](https://podcasts.apple.com/us/podcast/ki-professor-thilo-stadelmann-wir-m%C3%BCssen-keine-angst/id1704660638?i=1000680234636): "**KI-Professor Thilo Stadelmann: Wir müssen keine Angst vor KI haben**"
+  * December 13, 2024 [HOFFNUNGSMENSCH Podcast](https://kirchenfernsehen.de/video/hoffnungsmensch-thilo-stadelmann-ki-professor-und-christ/): "**KI-Professor Thilo Stadelmann: Wir müssen keine Angst vor KI haben**"
 
   * August 02, 2024 [KRONE Denkfabrik](https://www.krone-trailer.com/fileadmin/media/magazin/krone-denkfabrik-ausgabe-6-en.pdf): "**AI is a tool**" - Heart of the matter
 
