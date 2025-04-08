@@ -639,6 +639,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Reviewer for [IEEE Transactions on Systems, Man and Cybernetics: Systems](https://www.ieeesmc.org/publications/transactions-on-smc-systems), [IEEE/ACM Transactions on Audio, Speech and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655), [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78), [EURASIP Journal on Audio, Speech, and Music Processing](https://asmp-eurasipjournals.springeropen.com/), [PLOS ONE](https://journals.plos.org/plosone/) and the [Science Media Center Germany](https://www.sciencemediacenter.de/)
 
+  * Program Co-Chair, [IEEE Swiss Conference on Data Science 2025](https://sds2025.ch/), June 26-27, 2025, Zurich, Switzerland
+
   * Reviewer for [ICPR 2024](https://icpr2024.org/), December 01-05, 2024, Kolkata, India
   
   * Member of program committee, [ANNPR 2024](https://users.encs.concordia.ca/~annpr24/), October 10-12, 2024, Montreal, Canada
@@ -727,6 +729,10 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * April 08, 2025 [NZZ Jobs](https://jobs.nzz.ch/ratgeber/artikel/1184/ki-als-weltanschauung-verstehen): "**KI als Weltanschauung verstehen**", interview with Prof. Thilo Stadelmann by Prof. Anne Rosken
+
+  * April 04, 2025 [ERF Medien](https://erf-medien.ch/gesellschaft/wissen/ki-und-der-mensch/): "**KI und der Mensch**", podcast with Prof. Thilo Stadelmann by Host Raffael Stegmayer
+
   * March 08, 2025 [IDEA](https://www.idea.de/artikel/forscher-ki-eignet-sich-nicht-fuer-die-partnersuche): "**Forscher: KI eignet sich nicht für die Partnersuche**"
 
   * February 14, 2025 [NZZ Jobs](https://jobs.nzz.ch/ratgeber/artikel/1176/mit-ki-zuversichtlich-zukunft-gestalten): "**Mit KI zuversichtlich Zukunft gestalten**", interview with Prof. Thilo Stadelmann by Prof. Anne Rosken
