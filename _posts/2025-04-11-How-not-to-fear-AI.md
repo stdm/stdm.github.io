@@ -44,7 +44,7 @@ It also works with other input-output pairs, e.g. text as input and its likely c
 
 ![TEDx functional form LLM](http://stdm.github.io/images/TEDx/tedx-ptext.jpg)
 
-Quite familiar, the probability (*p*) of the next token (or sub-word) (*y*) given the previous tokens in the context window of size *C*.
+Quite familiar, the probability (*p*) of the next token (or sub-word) (*y*) given the previous tokens in the context window of size *|C|*.
 
 Quantitatively, this context can become as large as millions of words. The respective function will have billions of parameters to fit such data well. And it needs a full internet of text to be well trained.
 
@@ -77,7 +77,7 @@ These **different means constitute a difference *in kind* to human nature**. Thi
 What then is **the future of such AI? It is *not* Artificial General Intelligence**, whatever this means precisely. It is not an "AI overlord"" on eye level with humanity. 
 
 ![TEDx computer control](http://stdm.github.io/images/TEDx/tedx-computercontrol.jpg)
-*Image: Maximum Film / Alamy Stock Photo. © PARAMOUNT PICTURES.* 
+*Image: Maximum Film / Alamy Stock Photo. (c) PARAMOUNT PICTURES.* 
 
 
 But likely quite helpful personal assistants able for example to operate our computer to do our bidding [5]. Still limited by imperfections, but useful.
@@ -85,7 +85,7 @@ But likely quite helpful personal assistants able for example to operate our com
 Where, then, does this fear of AI come from?
 
 ![TEDx fear](http://stdm.github.io/images/TEDx/tedx-fear.jpg)
-*Image: LANDMARK MEDIA / Alamy Stock Foto license ref. LMK110-J6604-220620. © Warner Bros Film.*
+*Image: LANDMARK MEDIA / Alamy Stock Foto license ref. LMK110-J6604-220620. (c) Warner Bros Film.*
 
 It does not have a strong basis in the technology we have, or in the underlying science we just saw. **Here is the thing: Such fear is rather based on wide-spread narratives**. And these dystopian narratives are purely based on world view - on science fiction, not on tech. 
 
@@ -96,7 +96,7 @@ Instead, the TESCREAL narrative for AI goes like this: Humans are nothing but in
 Summarizing, the TESCREAL philosophies are characterized by having little regard for human worth and dignity. It comes at no surprise that they exaggerate machine competence and make people feel small, intimidated and worthless. But this is philosophy, not inevitable science. If TESCREAL is not your world view, there is considerably less to fear about AI.
 
 ![TEDx sunrise](http://stdm.github.io/images/TEDx/tedx-sunrise.jpg)
-*Images: tawanlubfah © 123RF.com, used with permission under the relevant license; Colourbox, © Kostyantin Pankin*
+*Images: tawanlubfah (c) 123RF.com, used with permission under the relevant license; Colourbox, (c) Kostyantin Pankin*
 
 So how not to fear AI? It begins with the realisation that **the AI you fear does not exist**. AI is a tool. If that helps, rename AI to  "EI" - Extended Intelligence, as we have recently argued in an article [9]. Because extending our own human capabilities is all AI can do: Help us to improve our lives. Not replace us. So an insurmountable categorical difference remains: Agency ultimately stays with us, for the better or worse. 
 
