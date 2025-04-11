@@ -23,7 +23,7 @@ This move is pure randomness, the result of a bug in Deep Blue's software. But i
 
 Today, I observe something similar: In my capacity as a professor of AI, I get to discuss AI with a lot of different people. And one topic keeps surfacing: people's fear of AI. They share their concerns of being displaced in their job by a future chat bot; of becoming so dependent on some system to lose critical skills for mastering their life independently; of losing their very life to an AI overlord turning against them.
 
-How warranted are such fears? Or: How sober can we afford to think about one of the most defining trends of our times? I would like to help you answer that question based on a clear understanding of what AI is and isn't and where some of the most intimidating ideas on this topic come from. 
+How warranted are such fears? Or: How sober can we afford to think about one of the most defining trends of our times? I would like to help you answer that question based on a clear understanding of what AI is and isn't and where some of the most intimidating ideas on this topic come from.
 
 So what is AI? It has been defined as the **simulation of intelligent behaviour with a computer** [2]. AI thus is not about the creation of intelligent beings. It is about mimicking the result of intelligence - by any means available, a whole toolbox full actually, dependent on the intended behaviour. Arguably, the most prominent means of AI in the last 2 decades has been "machine learning". We use machine learning if the behaviour we want to simulate cannot be described by a set of rules.
 
