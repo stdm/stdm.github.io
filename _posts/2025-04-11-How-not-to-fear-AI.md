@@ -9,11 +9,11 @@ comments: true
 
 Circa two years ago, I started investigating, and putting into words and talks, how a technically grounded understanding of AI can help mitigate unwarranted fears. [KCF 2023](https://www.youtube.com/watch?v=0Sk_mX0dSCQ) in Berlin was a kick-off, after which many requests reached me to extend this material and make it available to larger audiences. May sabbatical added depth (see [here](https://stdm.github.io/Risk/), [here](https://stdm.github.io/Hope/), and [here](https://stdm.github.io/AI-sports-humanism/)). When Tilman Slembeck asked in January if I wanted to join TEDxZHAW "Merging Worlds" as a speaker, I felt ready. 
 
+![TEDx preparation](http://stdm.github.io/images/TEDx/tedx-prep.jpg)
+
 <!-- more -->
 
 Little did I know how much preparation still awaited me. I easily invested more than one order of magnitude more effort here than in any other talk I ever prepared. As the TED format asks for a different style than I usually do (shorter, story-focussed, less slides, speaker-centered), I had to change my whole approach to creating and then practicing a talk. I felt like a boxer who had prepared intensely for months for this one fight: I created 12 iterations of slides; wrote a script for the talk for the first time in my life; rehearsed and updated it every free minute for the last two weeks; gave premature versions of the talk to my colleagues at least once a day. Thanks to this preparation, we now have a full script of the talk available. I want to share it with you below (video will come soon).
-
-![TEDx preparation](http://stdm.github.io/images/TEDx/tedx-prep.jpg)
 
 ## How not to fear AI
 
@@ -44,7 +44,7 @@ It also works with other input-output pairs, e.g. text as input and its likely c
 
 ![TEDx functional form LLM](http://stdm.github.io/images/TEDx/tedx-ptext.jpg)
 
-Quite familiar, the probability (*p*) of the next token (or sub-word) (*y*) given the previous tokens in the context window of size *C*.
+Quite familiar, the probability (*p*) of the next token (or sub-word) (*y*) given the previous tokens in the context window of size *|C|*.
 
 Quantitatively, this context can become as large as millions of words. The respective function will have billions of parameters to fit such data well. And it needs a full internet of text to be well trained.
 
@@ -77,12 +77,15 @@ These **different means constitute a difference *in kind* to human nature**. Thi
 What then is **the future of such AI? It is *not* Artificial General Intelligence**, whatever this means precisely. It is not an "AI overlord"" on eye level with humanity. 
 
 ![TEDx computer control](http://stdm.github.io/images/TEDx/tedx-computercontrol.jpg)
+*Image: Maximum Film / Alamy Stock Photo. © PARAMOUNT PICTURES.* 
+
 
 But likely quite helpful personal assistants able for example to operate our computer to do our bidding [5]. Still limited by imperfections, but useful.
 
 Where, then, does this fear of AI come from?
 
 ![TEDx fear](http://stdm.github.io/images/TEDx/tedx-fear.jpg)
+*Image: LANDMARK MEDIA / Alamy Stock Foto license ref. LMK110-J6604-220620. © Warner Bros Film.*
 
 It does not have a strong basis in the technology we have, or in the underlying science we just saw. **Here is the thing: Such fear is rather based on wide-spread narratives**. And these dystopian narratives are purely based on world view - on science fiction, not on tech. 
 
@@ -93,6 +96,7 @@ Instead, the TESCREAL narrative for AI goes like this: Humans are nothing but in
 Summarizing, the TESCREAL philosophies are characterized by having little regard for human worth and dignity. It comes at no surprise that they exaggerate machine competence and make people feel small, intimidated and worthless. But this is philosophy, not inevitable science. If TESCREAL is not your world view, there is considerably less to fear about AI.
 
 ![TEDx sunrise](http://stdm.github.io/images/TEDx/tedx-sunrise.jpg)
+*Images: tawanlubfah © 123RF.com, used with permission under the relevant license; Colourbox, © Kostyantin Pankin*
 
 So how not to fear AI? It begins with the realisation that **the AI you fear does not exist**. AI is a tool. If that helps, rename AI to  "EI" - Extended Intelligence, as we have recently argued in an article [9]. Because extending our own human capabilities is all AI can do: Help us to improve our lives. Not replace us. So an insurmountable categorical difference remains: Agency ultimately stays with us, for the better or worse. 
 
@@ -138,15 +142,15 @@ Enjoy.
 
 ## References
 
-[1] Silver (2012), "The signal and the noise: Why so many predictions fail - but some don't". Penguin Press, ISBN 978-1594204111. (Relating the story of Kasparov vs. Deep Blue in Chapter 9.)
-[2] Stadelmann (2025), ["A guide to AI: Understanding the technology, applying it successfully, and shaping a positive future"](https://www.globalresiliencepub.com/wp-content/uploads/2025/01/Global-Resilience-White-Paper-2-A-GUIDE-TO-AI-by-Dr.-Thilo-Stadelmann.pdf). Global Resilience White Papers No. 2. 
-[3] Prince (2023), ["Understanding deep learning"](https://udlbook.github.io/udlbook/). The MIT Press, ISBN 978-0262048644.
-[4] Lawrence (2024), "The atomic human". Allen Lane, ISBN 978-0241625248.
-[5] Sager et al. (2025), ["AI agents for computer use: A review of instruction-based computer control, GUI automation, and operator assistants"](https://arxiv.org/abs/2501.16150). ArXiv preprint 2503.01411.
-[6] Gebru & Torres (2024), ["The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence"](https://firstmonday.org/ojs/index.php/fm/article/view/13636). First Monday 29(4).
-[7] Torres (2023), ["The acronym behind our wildest AI dreams and nightmares"](https://www.truthdig.com/articles/the-acronym-behind-our-wildest-ai-dreams-and-nightmares/). Truthdig, June 15.
-[8] Fridman (2023), ["Max Tegmark: The case for halting AI development"](https://www.youtube.com/watch?v=VcVfceTsD0A). Lex Fridman Podcast #371.
-[9] Segessenmann et al. (2023), ["Assessing deep learning: A work program for the humanities in the age of artificial intelligence"](https://link.springer.com/article/10.1007/s43681-023-00408-z). AI and Ethics 5, 1-32.
-[10] Jackson (2024), ["Top 10: Risks of AI"](https://aimagazine.com/top10/top-10-risks-of-ai). AI Magazine, August 21.
-[11] Wehrli et al. (2021), ["Bias, awareness and ignorance in deep-learning-based face recognition"](https://link.springer.com/article/10.1007/s43681-021-00108-6). AI and Ethics 2, 509-522. (An example of a mitigation strategy for a manageable AI risk - bias.)
-[12] Davison (2024). ["Tools are for the worker"](https://www.mohrsiebeck.com/artikel/tools-are-for-the-worker-101628ptsc-2024-0014/). Philosophy, Theology and the Sciences 11(2).
+1. Silver (2012), "The signal and the noise: Why so many predictions fail - but some don't". Penguin Press, ISBN 978-1594204111. (Relating the story of Kasparov vs. Deep Blue in Chapter 9.)
+2. Stadelmann (2025), ["A guide to AI: Understanding the technology, applying it successfully, and shaping a positive future"](https://www.globalresiliencepub.com/wp-content/uploads/2025/01/Global-Resilience-White-Paper-2-A-GUIDE-TO-AI-by-Dr.-Thilo-Stadelmann.pdf). Global Resilience White Papers No. 2. 
+3. Prince (2023), ["Understanding deep learning"](https://udlbook.github.io/udlbook/). The MIT Press, ISBN 978-0262048644.
+4. Lawrence (2024), "The atomic human". Allen Lane, ISBN 978-0241625248.
+5. Sager et al. (2025), ["AI agents for computer use: A review of instruction-based computer control, GUI automation, and operator assistants"](https://arxiv.org/abs/2501.16150). ArXiv preprint 2503.01411.
+6. Gebru & Torres (2024), ["The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence"](https://firstmonday.org/ojs/index.php/fm/article/view/13636). First Monday 29(4).
+7. Torres (2023), ["The acronym behind our wildest AI dreams and nightmares"](https://www.truthdig.com/articles/the-acronym-behind-our-wildest-ai-dreams-and-nightmares/). Truthdig, June 15.
+8. Fridman (2023), ["Max Tegmark: The case for halting AI development"](https://www.youtube.com/watch?v=VcVfceTsD0A). Lex Fridman Podcast #371.
+9. Segessenmann et al. (2023), ["Assessing deep learning: A work program for the humanities in the age of artificial intelligence"](https://link.springer.com/article/10.1007/s43681-023-00408-z). AI and Ethics 5, 1-32.
+10. Jackson (2024), ["Top 10: Risks of AI"](https://aimagazine.com/top10/top-10-risks-of-ai). AI Magazine, August 21.
+11. Wehrli et al. (2021), ["Bias, awareness and ignorance in deep-learning-based face recognition"](https://link.springer.com/article/10.1007/s43681-021-00108-6). AI and Ethics 2, 509-522. (An example of a mitigation strategy for a manageable AI risk - bias.)
+12. Davison (2024). ["Tools are for the worker"](https://www.mohrsiebeck.com/artikel/tools-are-for-the-worker-101628ptsc-2024-0014/). Philosophy, Theology and the Sciences 11(2).
