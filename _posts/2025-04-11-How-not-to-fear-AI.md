@@ -15,7 +15,7 @@ Little did I know how much preparation still awaited me. I easily invested more 
 
 ![TEDx preparation](http://stdm.github.io/images/TEDx/tedx-prep.jpg)
 
-It is 1997. Chess world champion Garri Kasparov takes on Deep Blue – the most advanced chess AI system of its time. High noon for human versus machine. Then it happens, already in the first game: Kasparov observes an AI move that he cannot understand. 
+It is 1997. Chess world champion Garri Kasparov takes on Deep Blue - the most advanced chess AI system of its time. High noon for human versus machine. Then it happens, already in the first game: Kasparov observes an AI move that he cannot understand. 
 
 This move is pure randomness, the result of a bug in Deep Blue's software. But instead of realising the machine's limitations, Kasparov is overtaken by fear: He thinks this move is a sign of higher intelligence, and concludes that the machine might be unconquerable with his mere human strategies [^1]. That throws him off track with his match plan - and ultimately, he loses. Kasparovs defeat became known as the first big loss of humankind against AI. But ==the human lost not because of the machine's abilities but because of the man's fears==.
 
@@ -81,7 +81,7 @@ Where, then, does this fear of AI come from?
 
 ![TEDx fear](http://stdm.github.io/images/TEDx/tedx-fear.jpg)
 
-It does not have a strong basis in the technology we have, or in the underlying science we just saw. ==Here is the thing: Such fear is rather based on wide-spread narratives==. And these dystopian narratives are purely based on world view – on science fiction, not on tech. 
+It does not have a strong basis in the technology we have, or in the underlying science we just saw. ==Here is the thing: Such fear is rather based on wide-spread narratives==. And these dystopian narratives are purely based on world view - on science fiction, not on tech. 
 
 Let me explain. AI ethicists Timnit Gebru and Emile Torres recently analysed the respective world views, and coined the acronym TESCREAL to refer to Transhumanism, Extropianism, Singularitarism, Cosmism, Rationalism, et cetera [^6]. They show how respective philosophies are widespread in the tech industry, and how they profoundly shape the global narratives on AI. You find traits of TESCREAL in movies like "The Matrix", or in the books of Prof. Harari. In fact, they have become the mainstream school of thought in Silicon Valley [^7]. See for example the 2023 "Open Letter" on an AI research moratorium to circumvent existential risk. It was, as co-originator Prof. Max Tegmark of MIT is very open to explain at length in a podcast [^8], purely based world view, not on a single technical argument. 
 
@@ -103,7 +103,7 @@ First, ==we might surrender our freedom prematurely to non-existent machine comp
 > Whom shall I marry?
 > Shall I marry at all?
 
-Don't laugh – this happened before in the history of human-AI relationship: Remember Kasparov vs. Deep Blue from the beginning? Kasparov didn't primarily lose against an excellent chess computer. First and foremost, he lost the battle in his mind against his assumption of an unconquerable AI. 
+Don't laugh - this happened before in the history of human-AI relationship: Remember Kasparov vs. Deep Blue from the beginning? Kasparov didn't primarily lose against an excellent chess computer. First and foremost, he lost the battle in his mind against his assumption of an unconquerable AI. 
 
 Second, ==we might become defenceless against the endless conveniences that AI tools offer==, and hence fail to become the person we ought to be. It is part of our human nature that we need to learn, mature, grow. And all growth includes an element of pain - think of sports. If we forego too many opportunities for growth by for example letting AI write the essay, solve the task, enquire the information, we might forfeit future freedom by not forming the character and skills necessary to wield such powerful tools.
 
@@ -133,7 +133,7 @@ Instead, ==contribute to creating the future you want to live in. Use AI where a
 
 Enjoy.
 
-[^1] Silver (2012), "The signal and the noise: Why so many predictions fail – but some don't". Penguin Press, ISBN 978-1594204111. (Relating the story of Kasparov vs. Deep Blue in Chapter 9.)
+[^1] Silver (2012), "The signal and the noise: Why so many predictions fail - but some don't". Penguin Press, ISBN 978-1594204111. (Relating the story of Kasparov vs. Deep Blue in Chapter 9.)
 [^2] Stadelmann (2025), ["A guide to AI: Understanding the technology, applying it successfully, and shaping a positive future"](https://www.globalresiliencepub.com/wp-content/uploads/2025/01/Global-Resilience-White-Paper-2-A-GUIDE-TO-AI-by-Dr.-Thilo-Stadelmann.pdf). Global Resilience White Papers No. 2. 
 [^3] Prince (2023), ["Understanding deep learning"](https://udlbook.github.io/udlbook/). The MIT Press, ISBN 978-0262048644.
 [^4] Lawrence (2024), "The atomic human". Allen Lane, ISBN 978-0241625248.
