@@ -44,7 +44,7 @@ It also works with other input-output pairs, e.g. text as input and its likely c
 
 ![TEDx functional form LLM](http://stdm.github.io/images/TEDx/tedx-ptext.jpg)
 
-Quite familiar, the probability (*p*) of the next token (or sub-word) (*y*) given the previous tokens in the context window of size *|C|*.
+Quite familiar, the probability (*p*) of the next token (or sub-word) (*y*) given the previous tokens in the context window of size *C*.
 
 Quantitatively, this context can become as large as millions of words. The respective function will have billions of parameters to fit such data well. And it needs a full internet of text to be well trained.
 
