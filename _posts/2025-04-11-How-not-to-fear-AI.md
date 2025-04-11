@@ -39,7 +39,7 @@ Now, machine learning works not only with simple visual features and straight li
 
 It also works with other input-output pairs, e.g. text as input and its likely continuation as output. This gives us "large language models" - the engine behind products like ChatGPT and the arguable pinnacle of modern AI. A LLM then models the following relationship: 
 
-$$p(y|$x_{i-1},x_{i-2},...,x_{i-\vert C \vert})$$
+$$p(y|x_{i-1},x_{i-2},...,x_{i-\vert C \vert})$$
 
 Quite familiar, the probability ($p$) of the next token (or sub-word) ($y$) given the previous tokens in the context window of size $\vert C \vert$.
 
