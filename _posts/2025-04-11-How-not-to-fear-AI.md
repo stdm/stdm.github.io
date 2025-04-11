@@ -31,17 +31,18 @@ Consider classifying a set of images into the categories "cats" and "dogs". We c
 
 So what does this function actually implement?
 
-$$p(y|x_1,x_2)$$
+![TEDx functional form images](http://stdm.github.io/images/TEDx/tedx-pimages.jpg)
 
-The probability ($p$) of the category ($y$) given the visual features ($x_1,x_2$).
+
+The probability (*p*) of the category (*y*) given the visual features (*x1*, *x2*).
 
 Now, machine learning works not only with simple visual features and straight lines. We can put in all the pixels of the images. Then use a more wiggly function template called a "neural net" [^3]. And then scale to more data to learn a more nuanced relationship. 
 
 It also works with other input-output pairs, e.g. text as input and its likely continuation as output. This gives us "large language models" - the engine behind products like ChatGPT and the arguable pinnacle of modern AI. A LLM then models the following relationship: 
 
-$$p(y|x_{i-1},x_{i-2},...,x_{i-\vert C \vert})$$
+![TEDx functional form LLM](http://stdm.github.io/images/TEDx/tedx-ptext.jpg)
 
-Quite familiar, the probability ($p$) of the next token (or sub-word) ($y$) given the previous tokens in the context window of size $\vert C \vert$.
+Quite familiar, the probability (*p*) of the next token (or sub-word) (*y*) given the previous tokens in the context window of size *C*.
 
 Quantitatively, this context can become as large as millions of words. The respective function will have billions of parameters to fit such data well. And it needs a full internet of text to be well trained.
 
