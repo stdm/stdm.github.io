@@ -11,7 +11,7 @@ Circa two years ago, I started investigating, and putting into words and talks, 
 
 <!-- more -->
 
-Little did I know how much preparation still awaited me. I easily invested more than one order of magnitude more effort here than in any other talk I ever prepared. As the TED format asks for a different style than I usually do (short, dense, less slides, speaker-centered), I had to change my whole approach to creating and then practicing a talk. I felt like a boxer who had prepared intensely for months for this one fight: I created 12 iterations of slides; wrote a script for the talk for the first time in my life; rehearsed and updated it every free minute for the last two weeks; gave premature versions of the talk to my colleagues at least once a day. Thanks to this preparation, we now have a full script of the talk available. I want to share it with you below (video will come soon).
+Little did I know how much preparation still awaited me. I easily invested more than one order of magnitude more effort here than in any other talk I ever prepared. As the TED format asks for a different style than I usually do (shorter, story-focussed, less slides, speaker-centered), I had to change my whole approach to creating and then practicing a talk. I felt like a boxer who had prepared intensely for months for this one fight: I created 12 iterations of slides; wrote a script for the talk for the first time in my life; rehearsed and updated it every free minute for the last two weeks; gave premature versions of the talk to my colleagues at least once a day. Thanks to this preparation, we now have a full script of the talk available. I want to share it with you below (video will come soon).
 
 ![TEDx preparation](http://stdm.github.io/images/TEDx/tedx-prep.jpg)
 
@@ -127,9 +127,9 @@ Its not all solved yet. But we can handle this.
 So that's how not to fear AI:
 
 1. ==Consider it as Extended Intelligence==. It is a tool, built on probability functions, and has fundamental limitations. Don't overestimate its scope.
-2. ==Reject fears purely based on a world view that you probably don’t share== and that is rooted in a view of humanity and of technology that comes from science fiction, and not from reality.
+2. ==Reject fears purely based on a world view that you probably don't share== and that is rooted in a view of humanity and of technology that comes from science fiction, and not from reality.
 
-Instead, contribute to creating the future you want to live in. Use AI where appropriate. Tools are for the worker [^12].
+Instead, ==contribute to creating the future you want to live in. Use AI where appropriate. Tools are for the worker== [^12].
 
 Enjoy.
 
