@@ -7,7 +7,7 @@ category: AI, society, hope, risk, philosophy, talk
 comments: true
 ---
 
-Circa two years ago, I started investigating, and putting into words and talks, how a technically grounded understanding of AI can help mitigate unwarranted fears. [KCF 2023](https://www.youtube.com/watch?v=0Sk_mX0dSCQ) in Berlin was a kick-off, after which many requests reached me to extend this material and make it available to larger audiences. May sabbatical added depth (see [here](https://stdm.github.io/Risk/), [here](https://stdm.github.io/Hope/), and [here](https://stdm.github.io/AI-sports-humanism/)). When Tilman Slembeck asked in January if I wanted to join TEDxZHAW "Merging Worlds" as a speaker, I felt ready. 
+Circa two years ago, I started investigating, and putting into words and talks, how a technically grounded understanding of AI can help mitigate unwarranted fears. [KCF 2023](https://www.youtube.com/watch?v=0Sk_mX0dSCQ) in Berlin was a kick-off, after which many requests reached me to extend this material and make it available to larger audiences. My sabbatical added depth (see [here](https://stdm.github.io/Risk/), [here](https://stdm.github.io/Hope/), and [here](https://stdm.github.io/AI-sports-humanism/)). When Tilman Slembeck asked in January if I wanted to join TEDxZHAW "Merging Worlds" as a speaker, I felt ready. 
 
 ![TEDx preparation](http://stdm.github.io/images/TEDx/tedx-prep.jpg)
 
