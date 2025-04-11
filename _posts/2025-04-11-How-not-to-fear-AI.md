@@ -3,7 +3,7 @@ title: How not to fear AI
 layout: post
 date: 2025-04-11
 modified: 2025-04-11
-category: AI, society, hope, risk, fear, TESCREAL, talk
+category: AI, society, hope, risk, philosophy, talk
 comments: true
 ---
 
@@ -44,7 +44,7 @@ It also works with other input-output pairs, e.g. text as input and its likely c
 
 ![TEDx functional form LLM](http://stdm.github.io/images/TEDx/tedx-ptext.jpg)
 
-Quite familiar, the probability (*p*) of the next token (or sub-word) (*y*) given the previous tokens in the context window of size *|C|*.
+Quite familiar, the probability (*p*) of the next token (or sub-word) (*y*) given the previous tokens (*x*) in the context window (*C*).
 
 Quantitatively, this context can become as large as millions of words. The respective function will have billions of parameters to fit such data well. And it needs a full internet of text to be well trained.
 
@@ -74,7 +74,7 @@ We said AI simulates intelligent behaviour. And we saw it does so by completely 
 
 These **different means constitute a difference *in kind* to human nature**. Think of it using the analogy of a musician and a DJ: While a DJ simulates certain aspects of creating music very well, their method of music creation by design is not general. There are so many aspects of music beyond the method of turntables and remixing. Certain genres. Certain techniques. Certain settings. Similarly, **AI does *not* simulate humans, but certain carefully designed aspects of human behaviour, with a very specific method of cleverly interpolating between pre-recorded behaviour samples**.
 
-What then is **the future of such AI? It is *not* Artificial General Intelligence**, whatever this means precisely. It is not an "AI overlord"" on eye level with humanity. 
+What then is **the future of such AI? It is *not* Artificial General Intelligence**, whatever this means precisely. It is not an "AI overlord" on eye level with humanity. 
 
 ![TEDx computer control](http://stdm.github.io/images/TEDx/tedx-computercontrol.jpg)
 *Image: Maximum Film / Alamy Stock Photo. (c) PARAMOUNT PICTURES.* 
@@ -104,7 +104,7 @@ This means that AI is *not* coming after your freedom nor anything in your life.
 
 First, **we might surrender our freedom prematurely to non-existent machine competence**. Like this: 
 
-> Oh AGI, you calculate probabilities precisely and store so many patterns -
+> Oh AGI, you calculate probabilities precisely and store so many patterns: 
 > What shall I eat today?
 > What vocation shall I train for?
 > Whom shall I marry?
