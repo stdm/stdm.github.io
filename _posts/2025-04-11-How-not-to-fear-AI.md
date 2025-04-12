@@ -15,7 +15,9 @@ Circa two years ago, I started investigating, and putting into words and talks, 
 
 Little did I know how much preparation still awaited me. I easily invested more than one order of magnitude more effort here than in any other talk I ever prepared. As the TED format asks for a different style than I usually do (shorter, story-focussed, less slides, speaker-centered), I had to change my whole approach to creating and then practicing a talk. I felt like a boxer who had prepared intensely for months for this one fight: I created 12 iterations of slides; wrote a script for the talk for the first time in my life; rehearsed and updated it every free minute for the last two weeks; gave premature versions of the talk to my colleagues at least once a day. Thanks to this preparation, we now have a full script of the talk available. I want to share it with you below (video will come soon).
 
+
 ## TEDx talk: How not to fear AI
+
 
 It is 1997. Chess world champion Garri Kasparov takes on Deep Blue - the most advanced chess AI system of its time. High noon for human versus machine. Then it happens, already in the first game: Kasparov observes an AI move that he cannot understand. 
 
@@ -27,6 +29,10 @@ Today, I observe something similar: In my capacity as a professor of AI, I get t
 
 How warranted are such fears? Or: How sober can we afford to think about one of the most defining trends of our times? I would like to help you answer that question based on a clear understanding of what AI is and isn't and where some of the most intimidating ideas on this topic come from.
 
+
+### What is AI?
+
+
 So what is AI? It has been defined as the **simulation of intelligent behaviour with a computer** [2]. AI thus is not about the creation of intelligent beings. It is about mimicking the result of intelligence - by any means available, a whole toolbox full actually, dependent on the intended behaviour. Arguably, the most prominent means of AI in the last 2 decades has been "machine learning". We use machine learning if the behaviour we want to simulate cannot be described by a set of rules.
 
 ![TEDx cats & dogs example](http://stdm.github.io/images/TEDx/tedx-catsdogs.jpg)
@@ -37,18 +43,25 @@ So what does this function actually implement?
 
 ![TEDx functional form images](http://stdm.github.io/images/TEDx/tedx-pimages.jpg)
 
-
 The probability (*p*) of the category (*y*) given the visual features (*x1*, *x2*).
 
 Now, machine learning works not only with simple visual features and straight lines. We can put in all the pixels of the images. Then use a more wiggly function template called a "neural net" [3]. And then scale to more data to learn a more nuanced relationship. 
+
+
+### What is a large language model?
+
 
 It also works with other input-output pairs, e.g. text as input and its likely continuation as output. This gives us "large language models" - the engine behind products like ChatGPT and the arguable pinnacle of modern AI. A LLM then models the following relationship: 
 
 ![TEDx functional form LLM](http://stdm.github.io/images/TEDx/tedx-ptext.jpg)
 
-Quite familiar, the probability (*p*) of the next token (or sub-word) (*y*) given the previous tokens (*x*) in the context window (*C*).
+Quite familiar, the probability (*p*) of the next token (or sub-word) (*y=xi*) given the previous tokens (*xi-1,...*) in the context window (*C*).
 
 Quantitatively, this context can become as large as millions of words. The respective function will have billions of parameters to fit such data well. And it needs a full internet of text to be well trained.
+
+
+### The nature of statistical models
+
 
 What can we say qualitatively about such a model?
  
@@ -70,6 +83,10 @@ it tells us. And actually, variations of my question exist in abundance on the w
 
 So the model's answer is plainly wrong - and totally plausible for any AI system build according to the principles of machine learning at scale. Unfortunately, we don't' have other principles. Not now and not at the horizon of research. So **fundamental limitations like this - while examples come and go - will stay with us** also with GPT 5, 6, 7 et cetera. 
 
+
+### A differnce in kind to human nature
+
+
 How does this compare to the human? [4]
 
 We said AI simulates intelligent behaviour. And we saw it does so by completely different means than human intelligence. These means have fundamental limitations - we just saw one example, the lack of veracity, there are many more. 
@@ -81,8 +98,11 @@ What then is **the future of such AI? It is *not* Artificial General Intelligenc
 ![TEDx computer control](http://stdm.github.io/images/TEDx/tedx-computercontrol.jpg)
 *Image: Maximum Film / Alamy Stock Photo. (c) PARAMOUNT PICTURES.* 
 
-
 But likely quite helpful personal assistants able for example to operate our computer to do our bidding [5]. Still limited by imperfections, but useful.
+
+
+### The source of AI fears in an unexpected world view
+
 
 Where, then, does this fear of AI come from?
 
@@ -96,6 +116,10 @@ Let me explain. AI ethicists Timnit Gebru and Emile Torres recently analysed the
 Instead, the TESCREAL narrative for AI goes like this: Humans are nothing but information processors - just on biological, decaying hardware. This makes them akin to machines, just inferior, because of the fragile hardware (that's the Rationalism above). If humans could gain intelligence, then nothing prevents machines from reaching the same. Soon. And this intelligence will just increase ever further to AGI and beyond (that's the Singularitarism). So humans should upgrade themselves to become more like machines (that's the Transhumanism). It goes without saying that this view is highly contested from different scientific disciplines.
 
 Summarizing, the TESCREAL philosophies are characterized by having little regard for human worth and dignity. It comes at no surprise that they exaggerate machine competence and make people feel small, intimidated and worthless. But this is philosophy, not inevitable science. If TESCREAL is not your world view, there is considerably less to fear about AI.
+
+
+### Source of hope: Appreciating your human worth and dignity 
+
 
 ![TEDx sunrise](http://stdm.github.io/images/TEDx/tedx-sunrise.jpg)
 *Images: tawanlubfah (c) 123RF.com, used with permission under the relevant license; Colourbox, (c) Kostyantin Pankin*
@@ -122,6 +146,10 @@ Fortunately, there is a mitigation strategy against these only two ways how you 
 
 Then you feel not intimidated by a powerful tool. You don't surrender to it. You treat yourself, even with necessary pain for growth.
 
+
+### Real and hypothetical AI risk
+
+
 We are almost there. But... aren't there real risks of AI, philosophy or not? Yes, absolutely. 
 
 Here is one typical list of AI risks, from the many similar ones that exist in the literature [10]. But equipped with the arguments we just discussed, on the nature of the technology and surrounding narratives, this list splits into two list:
@@ -133,6 +161,10 @@ On the right, many of the points that make people fear AI. Now, they appear exag
 What is left, are the risks in green. Existent, real. But these challenges are manageable: Some technologically, some socially, some regulatory. Approaches exist, literature and practice are full of them [11]. 
 Its not all solved yet. But we can handle this.
 
+
+### How not to fear AI
+
+
 So that's how not to fear AI:
 
 1. **Consider it as Extended Intelligence**. It is a tool, built on probability functions, and has fundamental limitations. Don't overestimate its scope.
@@ -142,7 +174,9 @@ Instead, **contribute to creating the future you want to live in. Use AI where a
 
 Enjoy.
 
+
 ## References
+
 
 1. Silver (2012), "The signal and the noise: Why so many predictions fail - but some don't". Penguin Press, ISBN 978-1594204111. (Relating the story of Kasparov vs. Deep Blue in Chapter 9.)
 2. Stadelmann (2025), ["A guide to AI: Understanding the technology, applying it successfully, and shaping a positive future"](https://www.globalresiliencepub.com/wp-content/uploads/2025/01/Global-Resilience-White-Paper-2-A-GUIDE-TO-AI-by-Dr.-Thilo-Stadelmann.pdf). Global Resilience White Papers No. 2. 
