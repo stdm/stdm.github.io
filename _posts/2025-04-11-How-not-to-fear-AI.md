@@ -1,5 +1,5 @@
 ---
-title: How not to fear AI
+title: TEDx talk: How not to fear AI
 layout: post
 date: 2025-04-11
 modified: 2025-04-11
@@ -20,6 +20,8 @@ Little did I know how much preparation still awaited me. I easily invested more 
 It is 1997. Chess world champion Garri Kasparov takes on Deep Blue - the most advanced chess AI system of its time. High noon for human versus machine. Then it happens, already in the first game: Kasparov observes an AI move that he cannot understand. 
 
 This move is pure randomness, the result of a bug in Deep Blue's software. But instead of realising the machine's limitations, Kasparov is overtaken by fear: He thinks this move is a sign of higher intelligence, and concludes that the machine might be unconquerable with his mere human strategies [1]. That throws him off track with his match plan - and ultimately, he loses. Kasparovs defeat became known as the first big loss of humankind against AI. But **the human lost not because of the machine's abilities but because of the man's fears**.
+
+![TEDx Let's go](http://stdm.github.io/images/TEDx/tedx-letsgo.jpg)
 
 Today, I observe something similar: In my capacity as a professor of AI, I get to discuss AI with a lot of different people. And one topic keeps surfacing: people's fear of AI. They share their concerns of being displaced in their job by a future chat bot; of becoming so dependent on some system to lose critical skills for mastering their life independently; of losing their very life to an AI overlord turning against them.
 
