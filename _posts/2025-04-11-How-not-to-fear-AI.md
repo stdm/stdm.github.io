@@ -21,7 +21,7 @@ Little did I know how much preparation still awaited me. I easily invested more 
 
 It is 1997. Chess world champion Garri Kasparov takes on Deep Blue - the most advanced chess AI system of its time. High noon for human versus machine. Then it happens, already in the first game: Kasparov observes an AI move that he cannot understand. 
 
-This move is pure randomness, the result of a bug in Deep Blue's software. But instead of realising the machine's limitations, Kasparov is overtaken by fear: He thinks this move is a sign of higher intelligence, and concludes that the machine might be unconquerable with his mere human strategies [^1]. That throws him off track with his match plan - and ultimately, he loses. Kasparovs defeat became known as the first big loss of humankind against AI. But *the human lost not because of the machine's abilities but because of the man's fears*.
+This move is pure randomness, the result of a bug in Deep Blue's software. But instead of realising the machine's limitations, Kasparov is overtaken by fear: He thinks this move is a sign of higher intelligence, and concludes that the machine might be unconquerable with his mere human strategies [^1]. That throws him off track with his match plan - and ultimately, he loses. Kasparov's defeat became known as the first big loss of humankind against AI. But *the human lost not because of the machine's abilities but because of the man's fears*.
 
 ![TEDx Let's go](http://stdm.github.io/images/TEDx/tedx-letsgo.jpg)
 
@@ -71,12 +71,12 @@ Let's make this concrete: I asked one of the leading so-called "reasoning" model
 
 > The surgeon, who is the boy's father, says "I can't operate on this boy, he is my son!" Who is the surgeon to the boy?"
 
-The answer should be straight-forward and is even contained in the text: "Who is the boy's father". Now the model computes for 10 seconds and replies: "The surgeon is the boy's mother." Which if profoundly stupid. But to the model, this makes actually sense - and it tells us why: "The riddle plays on the assumption that a surgeon is male," it tells us. And actually, variations of my question exist in abundance on the web as tests for our own human biases: Namely our gender bias that usually associates males with the role of a surgeon. So the model has seen all these during its training and learned the utter statistical implausibility of answering anything male to a question that looks remotely like mine.
+The answer should be straight-forward and is even contained in the text: "Who is the boy's father". Now the model computes for 10 seconds and replies: "The surgeon is the boy's mother." Which is profoundly stupid. But to the model, this makes actually sense - and it tells us why: "The riddle plays on the assumption that a surgeon is male," it tells us. And actually, variations of my question exist in abundance on the web as tests for our own human biases: Namely our gender bias that usually associates males with the role of a surgeon. So the model has seen all these during its training and learned the utter statistical implausibility of answering anything male to a question that looks remotely like mine.
 
-So the model's answer is plainly wrong - and totally plausible for any AI system build according to the principles of machine learning at scale. Unfortunately, we don't' have other principles. Not now and not at the horizon of research. So while examples come and go, *fundamental limitations like this will stay with us* also with GPT 5, 6, 7 et cetera. 
+So the model's answer is plainly wrong - and totally plausible for any AI system built according to the principles of machine learning at scale. Unfortunately, we don't' have other principles. Not now and not at the horizon of research. So while examples come and go, *fundamental limitations like this will stay with us* also with GPT 5, 6, 7 et cetera. 
 
 
-### A differnce in kind to human nature
+### A difference in kind to human nature
 
 
 How does this compare to the human? [^4]
@@ -116,7 +116,7 @@ Summarizing, the TESCREAL philosophies are characterized by having little regard
 ![TEDx sunrise](http://stdm.github.io/images/TEDx/tedx-sunrise.jpg)
 *Images: tawanlubfah (c) 123RF.com, used with permission under the relevant license; Colourbox, (c) Kostyantin Pankin*
 
-So how not to fear AI? It begins with the realisation that *the AI you fear does not exist*. AI is a tool. If that helps, rename AI to  "EI" - Extended Intelligence, as we have recently argued in an articl [^9]. Because extending our own human capabilities is all AI can do: Help us to improve our lives. Not replace us. So an insurmountable categorical difference remains: Agency ultimately stays with us, for the better or worse. 
+So how not to fear AI? It begins with the realisation that *the AI you fear does not exist*. AI is a tool. If that helps, rename AI to  "EI" - Extended Intelligence, as we have recently argued in an article [^9]. Because extending our own human capabilities is all AI can do: Help us to improve our lives. Not replace us. So an insurmountable categorical difference remains: Agency ultimately stays with us, for the better or worse. 
 
 This means that AI is *not* coming after your freedom nor anything in your life. That is good news. But you might lose your freedom to AI in a different way - by giving it up voluntarily! We need to look at how this can happen:
 
@@ -132,7 +132,7 @@ Don't laugh - this happened before in the history of human-AI relationship: Reme
 
 Second, *we might become defenceless against the endless conveniences that AI tools offer*, and hence fail to become the person we ought to be. It is part of our human nature that we need to learn, mature, grow. And all growth includes an element of pain - think of sports. If we forego too many opportunities for growth by for example letting AI write the essay, solve the task, enquire the information, we might forfeit future freedom by not forming the character and skills necessary to wield such powerful tools.
 
-Fortunately, there is a mitigation strategy against these only two ways how you can loose to AI: *Know your worth and dignity as a human being!* If you can say with the parents of the universal declaration of human rights: 
+Fortunately, there is a mitigation strategy against these only two ways how you can lose to AI: *Know your worth and dignity as a human being!* If you can say with the parents of the universal declaration of human rights: 
 
 > I am wonderfully made. I have purpose. I love and am loved. I thrive on human relationships. I am endowed with exceptional skills, but I am more than my skillset.
 
@@ -148,10 +148,10 @@ Here is one typical list of AI risks, from the many similar ones that exist in t
 
 ![TEDx risks](http://stdm.github.io/images/TEDx/tedx-risks.jpg)
 
-On the right, many of the points that make people fear AI. Now, they appear exaggerated - like the fear of major job displacements. Because AI tools can automated tasks, but cannot automate the whole you. And controllable - like your own dependence on these tools. And, finally, purely hypothetical - like the existential risk of rogue AI overlords exterminating humanity.
+On the right, many of the points that make people fear AI. Now, they appear exaggerated - like the fear of major job displacements. Because AI tools can automate tasks, but cannot automate the whole you. And controllable - like your own dependence on these tools. And, finally, purely hypothetical - like the existential risk of rogue AI overlords exterminating humanity.
 
 What is left, are the risks in green. Existent, real. But these challenges are manageable: Some technologically, some socially, some regulatory. Approaches exist, literature and practice are full of them [^11]. 
-Its not all solved yet. But we can handle this.
+It's not all solved yet. But we can handle this.
 
 
 ### How not to fear AI
