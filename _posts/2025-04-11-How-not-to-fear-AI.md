@@ -21,7 +21,7 @@ Little did I know how much preparation still awaited me. I easily invested more 
 
 It is 1997. Chess world champion Garri Kasparov takes on Deep Blue - the most advanced chess AI system of its time. High noon for human versus machine. Then it happens, already in the first game: Kasparov observes an AI move that he cannot understand. 
 
-This move is pure randomness, the result of a bug in Deep Blue's software. But instead of realising the machine's limitations, Kasparov is overtaken by fear: He thinks this move is a sign of higher intelligence, and concludes that the machine might be unconquerable with his mere human strategies [1]. That throws him off track with his match plan - and ultimately, he loses. Kasparovs defeat became known as the first big loss of humankind against AI. But **the human lost not because of the machine's abilities but because of the man's fears**.
+This move is pure randomness, the result of a bug in Deep Blue's software. But instead of realising the machine's limitations, Kasparov is overtaken by fear: He thinks this move is a sign of higher intelligence, and concludes that the machine might be unconquerable with his mere human strategies [^1]. That throws him off track with his match plan - and ultimately, he loses. Kasparovs defeat became known as the first big loss of humankind against AI. But **the human lost not because of the machine's abilities but because of the man's fears**.
 
 ![TEDx Let's go](http://stdm.github.io/images/TEDx/tedx-letsgo.jpg)
 
@@ -170,7 +170,7 @@ Enjoy.
 ## References
 
 
-1. Silver (2012), "The signal and the noise: Why so many predictions fail - but some don't". Penguin Press, ISBN 978-1594204111. (Relating the story of Kasparov vs. Deep Blue in Chapter 9.)
+[^1] Silver (2012), "The signal and the noise: Why so many predictions fail - but some don't". Penguin Press, ISBN 978-1594204111. (Relating the story of Kasparov vs. Deep Blue in Chapter 9.)
 2. Stadelmann (2025), ["A guide to AI: Understanding the technology, applying it successfully, and shaping a positive future"](https://www.globalresiliencepub.com/wp-content/uploads/2025/01/Global-Resilience-White-Paper-2-A-GUIDE-TO-AI-by-Dr.-Thilo-Stadelmann.pdf). Global Resilience White Papers No. 2. 
 3. Prince (2023), ["Understanding deep learning"](https://udlbook.github.io/udlbook/). The MIT Press, ISBN 978-0262048644.
 4. Lawrence (2024), "The atomic human". Allen Lane, ISBN 978-0241625248.
