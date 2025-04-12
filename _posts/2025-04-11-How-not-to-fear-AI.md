@@ -73,7 +73,7 @@ Let's make this concrete: I asked one of the leading so-called "reasoning" model
 
 The answer should be straight-forward and is even contained in the text: "Who is the boy's father". Now the model computes for 10 seconds and replies: "The surgeon is the boy's mother." Which if profoundly stupid. But to the model, this makes actually sense - and it tells us why: "The riddle plays on the assumption that a surgeon is male," it tells us. And actually, variations of my question exist in abundance on the web as tests for our own human biases: Namely our gender bias that usually associates males with the role of a surgeon. So the model has seen all these during its training and learned the utter statistical implausibility of answering anything male to a question that looks remotely like mine.
 
-So the model's answer is plainly wrong - and totally plausible for any AI system build according to the principles of machine learning at scale. Unfortunately, we don't' have other principles. Not now and not at the horizon of research. So *fundamental limitations like this - while examples come and go - will stay with us* also with GPT 5, 6, 7 et cetera. 
+So the model's answer is plainly wrong - and totally plausible for any AI system build according to the principles of machine learning at scale. Unfortunately, we don't' have other principles. Not now and not at the horizon of research. So while examples come and go, *fundamental limitations like this will stay with us* also with GPT 5, 6, 7 et cetera. 
 
 
 ### A differnce in kind to human nature
@@ -83,9 +83,9 @@ How does this compare to the human? [^4]
 
 We said AI simulates intelligent behaviour. And we saw it does so by completely different means than human intelligence. These means have fundamental limitations - we just saw one example, the lack of veracity, there are many more. 
 
-These *different means constitute a difference *in kind* to human nature*. Think of it using the analogy of a musician and a DJ: While a DJ simulates certain aspects of creating music very well, their method of music creation by design is not general. There are so many aspects of music beyond the method of turntables and remixing. Certain genres. Certain techniques. Certain settings. Similarly, *AI does not simulate humans, but certain carefully designed aspects of human behaviour, with a very specific method of cleverly interpolating between pre-recorded behaviour samples*.
+These *different means constitute a difference <u>in kind</u> to human nature*. Think of it using the analogy of a musician and a DJ: While a DJ simulates certain aspects of creating music very well, their method of music creation by design is not general. There are so many aspects of music beyond the method of turntables and remixing. Certain genres. Certain techniques. Certain settings. Similarly, *AI does <u>not</u> simulate humans, but certain carefully designed aspects of human behaviour, with a very specific method of cleverly interpolating between pre-recorded behaviour samples*.
 
-What then is *the future of such AI? It is not Artificial General Intelligence*, whatever this means precisely. It is not an "AI overlord" on eye level with humanity. 
+What then is *the future of such AI? It is <u>not</u> Artificial General Intelligence*, whatever this means precisely. It is not an "AI overlord" on eye level with humanity. 
 
 ![TEDx computer control](http://stdm.github.io/images/TEDx/tedx-computercontrol.jpg)
 *Image: Maximum Film / Alamy Stock Photo. (c) PARAMOUNT PICTURES.* 

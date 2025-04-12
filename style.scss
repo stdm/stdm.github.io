@@ -123,6 +123,16 @@ strong, b {
   font-weight: bold;
 }
 
+sub {
+ 	font-size: smaller;
+ 	vertical-align: sub;
+}
+ 
+sup {
+ 	font-size: smaller;
+ 	vertical-align: super;
+}
+
 table.publist {
     cellspacing:0;
     cellpadding:0;
