@@ -1,5 +1,5 @@
 ---
-title: TEDx talk: How not to fear AI
+title: How not to fear AI
 layout: post
 date: 2025-04-11
 modified: 2025-04-11
@@ -15,7 +15,7 @@ Circa two years ago, I started investigating, and putting into words and talks, 
 
 Little did I know how much preparation still awaited me. I easily invested more than one order of magnitude more effort here than in any other talk I ever prepared. As the TED format asks for a different style than I usually do (shorter, story-focussed, less slides, speaker-centered), I had to change my whole approach to creating and then practicing a talk. I felt like a boxer who had prepared intensely for months for this one fight: I created 12 iterations of slides; wrote a script for the talk for the first time in my life; rehearsed and updated it every free minute for the last two weeks; gave premature versions of the talk to my colleagues at least once a day. Thanks to this preparation, we now have a full script of the talk available. I want to share it with you below (video will come soon).
 
-## How not to fear AI
+## TEDx talk: How not to fear AI
 
 It is 1997. Chess world champion Garri Kasparov takes on Deep Blue - the most advanced chess AI system of its time. High noon for human versus machine. Then it happens, already in the first game: Kasparov observes an AI move that he cannot understand. 
 
