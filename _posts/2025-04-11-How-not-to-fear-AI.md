@@ -21,7 +21,7 @@ Little did I know how much preparation still awaited me. I easily invested more 
 
 It is 1997. Chess world champion Garri Kasparov takes on Deep Blue - the most advanced chess AI system of its time. High noon for human versus machine. Then it happens, already in the first game: Kasparov observes an AI move that he cannot understand. 
 
-This move is pure randomness, the result of a bug in Deep Blue's software. But instead of realising the machine's limitations, Kasparov is overtaken by fear: He thinks this move is a sign of higher intelligence, and concludes that the machine might be unconquerable with his mere human strategies [^1]. That throws him off track with his match plan - and ultimately, he loses. Kasparovs defeat became known as the first big loss of humankind against AI. But **the human lost not because of the machine's abilities but because of the man's fears**.
+This move is pure randomness, the result of a bug in Deep Blue's software. But instead of realising the machine's limitations, Kasparov is overtaken by fear: He thinks this move is a sign of higher intelligence, and concludes that the machine might be unconquerable with his mere human strategies [^1]. That throws him off track with his match plan - and ultimately, he loses. Kasparovs defeat became known as the first big loss of humankind against AI. But *the human lost not because of the machine's abilities but because of the man's fears*.
 
 ![TEDx Let's go](http://stdm.github.io/images/TEDx/tedx-letsgo.jpg)
 
@@ -33,7 +33,7 @@ How warranted are such fears? Or: How sober can we afford to think about one of 
 ### What is AI?
 
 
-So what is AI? It has been defined as the **simulation of intelligent behaviour with a computer** [^2]. AI thus is not about the creation of intelligent beings. It is about mimicking the result of intelligence - by any means available, a whole toolbox full actually, dependent on the intended behaviour. Arguably, the most prominent means of AI in the last 2 decades has been "machine learning". We use machine learning if the behaviour we want to simulate cannot be described by a set of rules.
+So what is AI? It has been defined as the *simulation of intelligent behaviour with a computer* [^2]. AI thus is not about the creation of intelligent beings. It is about mimicking the result of intelligence - by any means available, a whole toolbox full actually, dependent on the intended behaviour. Arguably, the most prominent means of AI in the last 2 decades has been "machine learning". We use machine learning if the behaviour we want to simulate cannot be described by a set of rules.
 
 ![TEDx cats & dogs example](http://stdm.github.io/images/TEDx/tedx-catsdogs.jpg)
 
@@ -65,7 +65,7 @@ Quantitatively, this context can become as large as millions of words. The respe
 
 What can we say qualitatively about such a model?
  
-Well, it is a statistical model. That differentiates it quite drastically from how humans work. For example, **a statistical model has no concept of truth and facts** - it has just learned about statistical plausibility. On average, this will be very useful and even outperform humans. But: In any individual case, it may be wrong, because of the fundamental limitation of no facts and truth, just coincidences and correlation instead of causation.
+Well, it is a statistical model. That differentiates it quite drastically from how humans work. For example, *a statistical model has no concept of truth and facts* - it has just learned about statistical plausibility. On average, this will be very useful and even outperform humans. But: In any individual case, it may be wrong, because of the fundamental limitation of no facts and truth, just coincidences and correlation instead of causation.
 
 Let's make this concrete: I asked one of the leading so-called "reasoning" models the following question:
 
@@ -73,7 +73,7 @@ Let's make this concrete: I asked one of the leading so-called "reasoning" model
 
 The answer should be straight-forward and is even contained in the text: "Who is the boy's father". Now the model computes for 10 seconds and replies: "The surgeon is the boy's mother." Which if profoundly stupid. But to the model, this makes actually sense - and it tells us why: "The riddle plays on the assumption that a surgeon is male," it tells us. And actually, variations of my question exist in abundance on the web as tests for our own human biases: Namely our gender bias that usually associates males with the role of a surgeon. So the model has seen all these during its training and learned the utter statistical implausibility of answering anything male to a question that looks remotely like mine.
 
-So the model's answer is plainly wrong - and totally plausible for any AI system build according to the principles of machine learning at scale. Unfortunately, we don't' have other principles. Not now and not at the horizon of research. So **fundamental limitations like this - while examples come and go - will stay with us** also with GPT 5, 6, 7 et cetera. 
+So the model's answer is plainly wrong - and totally plausible for any AI system build according to the principles of machine learning at scale. Unfortunately, we don't' have other principles. Not now and not at the horizon of research. So *fundamental limitations like this - while examples come and go - will stay with us* also with GPT 5, 6, 7 et cetera. 
 
 
 ### A differnce in kind to human nature
@@ -83,9 +83,9 @@ How does this compare to the human? [^4]
 
 We said AI simulates intelligent behaviour. And we saw it does so by completely different means than human intelligence. These means have fundamental limitations - we just saw one example, the lack of veracity, there are many more. 
 
-These **different means constitute a difference *in kind* to human nature**. Think of it using the analogy of a musician and a DJ: While a DJ simulates certain aspects of creating music very well, their method of music creation by design is not general. There are so many aspects of music beyond the method of turntables and remixing. Certain genres. Certain techniques. Certain settings. Similarly, **AI does *not* simulate humans, but certain carefully designed aspects of human behaviour, with a very specific method of cleverly interpolating between pre-recorded behaviour samples**.
+These *different means constitute a difference *in kind* to human nature*. Think of it using the analogy of a musician and a DJ: While a DJ simulates certain aspects of creating music very well, their method of music creation by design is not general. There are so many aspects of music beyond the method of turntables and remixing. Certain genres. Certain techniques. Certain settings. Similarly, *AI does not simulate humans, but certain carefully designed aspects of human behaviour, with a very specific method of cleverly interpolating between pre-recorded behaviour samples*.
 
-What then is **the future of such AI? It is *not* Artificial General Intelligence**, whatever this means precisely. It is not an "AI overlord" on eye level with humanity. 
+What then is *the future of such AI? It is not Artificial General Intelligence*, whatever this means precisely. It is not an "AI overlord" on eye level with humanity. 
 
 ![TEDx computer control](http://stdm.github.io/images/TEDx/tedx-computercontrol.jpg)
 *Image: Maximum Film / Alamy Stock Photo. (c) PARAMOUNT PICTURES.* 
@@ -101,7 +101,7 @@ Where, then, does this fear of AI come from?
 ![TEDx fear](http://stdm.github.io/images/TEDx/tedx-fear.jpg)
 *Image: LANDMARK MEDIA / Alamy Stock Foto license ref. LMK110-J6604-220620. (c) Warner Bros Film.*
 
-It does not have a strong basis in the technology we have, or in the underlying science we just saw. **Here is the thing: Such fear is rather based on wide-spread narratives**. And these dystopian narratives are purely based on world view - on science fiction, not on tech. 
+It does not have a strong basis in the technology we have, or in the underlying science we just saw. Here is the thing: *Such fear is rather based on wide-spread narratives*. And these dystopian narratives are purely based on world view - on science fiction, not on tech. 
 
 Let me explain. AI ethicists Timnit Gebru and Emile Torres recently analysed the respective world views, and coined the acronym *TESCREAL* to refer to Transhumanism, Extropianism, Singularitarism, Cosmism, Rationalism, et cetera [^6]. They show how respective philosophies are widespread in the tech industry, and how they profoundly shape the global narratives on AI. You find traits of TESCREAL in movies like "The Matrix", or in the books of Prof. Harari. In fact, they have become the mainstream school of thought in Silicon Valley [^7]. See for example the 2023 "Open Letter" on an AI research moratorium to circumvent existential risk. It was, as co-originator Prof. Max Tegmark of MIT is very open to explain at length in a podcast [^8], purely based world view, not on a single technical argument. 
 
@@ -116,11 +116,11 @@ Summarizing, the TESCREAL philosophies are characterized by having little regard
 ![TEDx sunrise](http://stdm.github.io/images/TEDx/tedx-sunrise.jpg)
 *Images: tawanlubfah (c) 123RF.com, used with permission under the relevant license; Colourbox, (c) Kostyantin Pankin*
 
-So how not to fear AI? It begins with the realisation that **the AI you fear does not exist**. AI is a tool. If that helps, rename AI to  "EI" - Extended Intelligence, as we have recently argued in an article [^9]. Because extending our own human capabilities is all AI can do: Help us to improve our lives. Not replace us. So an insurmountable categorical difference remains: Agency ultimately stays with us, for the better or worse. 
+So how not to fear AI? It begins with the realisation that *the AI you fear does not exist*. AI is a tool. If that helps, rename AI to  "EI" - Extended Intelligence, as we have recently argued in an article [^9]. Because extending our own human capabilities is all AI can do: Help us to improve our lives. Not replace us. So an insurmountable categorical difference remains: Agency ultimately stays with us, for the better or worse. 
 
 This means that AI is *not* coming after your freedom nor anything in your life. That is good news. But you might lose your freedom to AI in a different way - by giving it up voluntarily! We need to look at how this can happen:
 
-First, **we might surrender our freedom prematurely to non-existent machine competence**. Like this: 
+First, *we might surrender our freedom prematurely to non-existent machine competence*. Like this: 
 
 > Oh AGI, you calculate probabilities precisely and store so many patterns: 
 > What shall I eat today?
@@ -130,9 +130,9 @@ First, **we might surrender our freedom prematurely to non-existent machine comp
 
 Don't laugh - this happened before in the history of human-AI relationship: Remember Kasparov vs. Deep Blue from the beginning? Kasparov didn't primarily lose against an excellent chess computer. First and foremost, he lost the battle in his mind against his assumption of an unconquerable AI. 
 
-Second, **we might become defenceless against the endless conveniences that AI tools offer**, and hence fail to become the person we ought to be. It is part of our human nature that we need to learn, mature, grow. And all growth includes an element of pain - think of sports. If we forego too many opportunities for growth by for example letting AI write the essay, solve the task, enquire the information, we might forfeit future freedom by not forming the character and skills necessary to wield such powerful tools.
+Second, *we might become defenceless against the endless conveniences that AI tools offer*, and hence fail to become the person we ought to be. It is part of our human nature that we need to learn, mature, grow. And all growth includes an element of pain - think of sports. If we forego too many opportunities for growth by for example letting AI write the essay, solve the task, enquire the information, we might forfeit future freedom by not forming the character and skills necessary to wield such powerful tools.
 
-Fortunately, there is a mitigation strategy against these only two ways how you can loose to AI: **Know your worth and dignity as a human being!** If you can say with the parents of the universal declaration of human rights: 
+Fortunately, there is a mitigation strategy against these only two ways how you can loose to AI: *Know your worth and dignity as a human being!* If you can say with the parents of the universal declaration of human rights: 
 
 > I am wonderfully made. I have purpose. I love and am loved. I thrive on human relationships. I am endowed with exceptional skills, but I am more than my skillset.
 
@@ -159,10 +159,10 @@ Its not all solved yet. But we can handle this.
 
 So that's how not to fear AI:
 
-1. **Consider it as Extended Intelligence**. It is a tool, built on probability functions, and has fundamental limitations. Don't overestimate its scope.
-2. **Reject fears purely based on a world view that you probably don't share** and that is rooted in a view of humanity and of technology that comes from science fiction, and not from reality.
+1. *Consider it as Extended Intelligence*. It is a tool, built on probability functions, and has fundamental limitations. Don't overestimate its scope.
+2. *Reject fears purely based on a world view that you probably don't share* and that is rooted in a view of humanity and of technology that comes from science fiction, and not from reality.
 
-Instead, **contribute to creating the future you want to live in. Use AI where appropriate. Tools are for the worker** [^12].
+Instead, **contribute to creating the future you want to live in. Use AI where appropriate. Tools are for the worker* [^12].
 
 Enjoy.
 
