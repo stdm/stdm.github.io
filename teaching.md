@@ -29,9 +29,9 @@ Original versions of my main courses are available as free online ressources as 
 
 | **When** | **Level** | **Type** | **Title** |
 | --- | --- | --- | --- |
-| Spring 2025 | PhD | Thesis | **Advanced Representation Learning Techniques For Graph Neural Networks** <br> student: Waqar Ali |
+| Spring 2025 | PhD | Thesis | [**Advanced Representation Learning Techniques For Graph Neural Networks**](https://doi.org/10.21256/zhaw-32794) <br> Student: Waqar Ali |
 | Spring 2025 | MSc | MT |Process Monitoring and Control with Neural World Models |
-| Fall 2024 | PhD | Thesis | **[Strategies for Practical Deep Learning](https://n2t.net/ark:/12658/srd1330766)** <br> _top grade_ <br> student: Lukas Tuggener |
+| Fall 2024 | PhD | Thesis | **[Strategies for Practical Deep Learning](https://n2t.net/ark:/12658/srd1330766)** <br> _top grade_ <br> Student: Lukas Tuggener |
 | Fall 2024 | BSc | PA | AI-based interpretation of engineering drawings |
 | Fall 2024 | BSc | PA | Enhancing SwissGPT with Agentic RAG |
 | Spring 2024 | MSc | VT1 | Overcoming Sample Scarcity and Label Ambiguity in Cell Segmentation and Classification of Thyroid Cancer: A Kernel-Based Approach on Top of CellSAM |
