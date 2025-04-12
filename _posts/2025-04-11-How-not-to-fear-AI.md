@@ -166,6 +166,8 @@ Instead, **contribute to creating the future you want to live in. Use AI where a
 
 Enjoy.
 
+![TEDx jump the fence](http://stdm.github.io/images/TEDx/tedx-jump.jpg)
+
 
 ## References
 
