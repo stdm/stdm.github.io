@@ -71,15 +71,7 @@ Let's make this concrete: I asked one of the leading so-called "reasoning" model
 
 > The surgeon, who is the boy's father, says "I can't operate on this boy, he is my son!" Who is the surgeon to the boy?"
 
-The answer should be straight-forward and is even contained in the text: "Who is the boy's father". Now the model computes for 10 seconds and replies:
-
-> "The surgeon is the boy's mother."
-
-Which if profoundly stupid. But to the model, this makes actually sense - and it tells us why: 
-
-> "The riddle plays on the assumption that a surgeon is male"
-
-it tells us. And actually, variations of my question exist in abundance on the web as tests for our own human biases: Namely our gender bias that usually associates males with the role of a surgeon. So the model has seen all these during its training and learned the utter statistical implausibility of answering anything male to a question that looks remotely like mine.
+The answer should be straight-forward and is even contained in the text: "Who is the boy's father". Now the model computes for 10 seconds and replies: "The surgeon is the boy's mother." Which if profoundly stupid. But to the model, this makes actually sense - and it tells us why: "The riddle plays on the assumption that a surgeon is male," it tells us. And actually, variations of my question exist in abundance on the web as tests for our own human biases: Namely our gender bias that usually associates males with the role of a surgeon. So the model has seen all these during its training and learned the utter statistical implausibility of answering anything male to a question that looks remotely like mine.
 
 So the model's answer is plainly wrong - and totally plausible for any AI system build according to the principles of machine learning at scale. Unfortunately, we don't' have other principles. Not now and not at the horizon of research. So **fundamental limitations like this - while examples come and go - will stay with us** also with GPT 5, 6, 7 et cetera. 
 
@@ -140,7 +132,7 @@ Don't laugh - this happened before in the history of human-AI relationship: Reme
 
 Second, **we might become defenceless against the endless conveniences that AI tools offer**, and hence fail to become the person we ought to be. It is part of our human nature that we need to learn, mature, grow. And all growth includes an element of pain - think of sports. If we forego too many opportunities for growth by for example letting AI write the essay, solve the task, enquire the information, we might forfeit future freedom by not forming the character and skills necessary to wield such powerful tools.
 
-Fortunately, there is a mitigation strategy against these only two ways how you can loose to AI: **Know you worth and dignity as a human being!** If you can say with the parents of the universal declaration of human rights: 
+Fortunately, there is a mitigation strategy against these only two ways how you can loose to AI: **Know your worth and dignity as a human being!** If you can say with the parents of the universal declaration of human rights: 
 
 > I am wonderfully made. I have purpose. I love and am loved. I thrive on human relationships. I am endowed with exceptional skills, but I am more than my skillset.
 
