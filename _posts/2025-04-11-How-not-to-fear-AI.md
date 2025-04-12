@@ -21,7 +21,7 @@ Little did I know how much preparation still awaited me. I easily invested more 
 
 It is 1997. Chess world champion Garri Kasparov takes on Deep Blue - the most advanced chess AI system of its time. High noon for human versus machine. Then it happens, already in the first game: Kasparov observes an AI move that he cannot understand. 
 
-This move is pure randomness, the result of a bug in Deep Blue's software. But instead of realising the machine's limitations, Kasparov is overtaken by fear: He thinks this move is a sign of higher intelligence, and concludes that the machine might be unconquerable with his mere human strategies[^1]. That throws him off track with his match plan - and ultimately, he loses. Kasparovs defeat became known as the first big loss of humankind against AI. But *the human lost not because of the machine's abilities but because of the man's fears*.
+This move is pure randomness, the result of a bug in Deep Blue's software. But instead of realising the machine's limitations, Kasparov is overtaken by fear: He thinks this move is a sign of higher intelligence, and concludes that the machine might be unconquerable with his mere human strategies [^1]. That throws him off track with his match plan - and ultimately, he loses. Kasparovs defeat became known as the first big loss of humankind against AI. But *the human lost not because of the machine's abilities but because of the man's fears*.
 
 ![TEDx Let's go](http://stdm.github.io/images/TEDx/tedx-letsgo.jpg)
 
@@ -33,7 +33,7 @@ How warranted are such fears? Or: How sober can we afford to think about one of 
 ### What is AI?
 
 
-So what is AI? It has been defined as the *simulation of intelligent behaviour with a computer*[^2]. AI thus is not about the creation of intelligent beings. It is about mimicking the result of intelligence - by any means available, a whole toolbox full actually, dependent on the intended behaviour. Arguably, the most prominent means of AI in the last 2 decades has been "machine learning". We use machine learning if the behaviour we want to simulate cannot be described by a set of rules.
+So what is AI? It has been defined as the *simulation of intelligent behaviour with a computer* [^2]. AI thus is not about the creation of intelligent beings. It is about mimicking the result of intelligence - by any means available, a whole toolbox full actually, dependent on the intended behaviour. Arguably, the most prominent means of AI in the last 2 decades has been "machine learning". We use machine learning if the behaviour we want to simulate cannot be described by a set of rules.
 
 ![TEDx cats & dogs example](http://stdm.github.io/images/TEDx/tedx-catsdogs.jpg)
 
@@ -45,7 +45,7 @@ So what does this function actually implement?
 
 The probability (*p*) of the category (*y*) given the visual features (*x<sub>1</sub>*, *x<sub>2</sub>*).
 
-Now, machine learning works not only with simple visual features and straight lines. We can put in all the pixels of the images. Then use a more wiggly function template called a "neural net"[^3]. And then scale to more data to learn a more nuanced relationship. 
+Now, machine learning works not only with simple visual features and straight lines. We can put in all the pixels of the images. Then use a more wiggly function template called a "neural net" [^3]. And then scale to more data to learn a more nuanced relationship. 
 
 
 ### What is a large language model?
@@ -79,7 +79,7 @@ So the model's answer is plainly wrong - and totally plausible for any AI system
 ### A differnce in kind to human nature
 
 
-How does this compare to the human?[^4]
+How does this compare to the human? [^4]
 
 We said AI simulates intelligent behaviour. And we saw it does so by completely different means than human intelligence. These means have fundamental limitations - we just saw one example, the lack of veracity, there are many more. 
 
@@ -90,7 +90,7 @@ What then is *the future of such AI? It is <u>not</u> Artificial General Intelli
 ![TEDx computer control](http://stdm.github.io/images/TEDx/tedx-computercontrol.jpg)
 *Image: Maximum Film / Alamy Stock Photo. (c) PARAMOUNT PICTURES.* 
 
-But likely quite helpful personal assistants able for example to operate our computer to do our bidding[^5]. Still limited by imperfections, but useful.
+But likely quite helpful personal assistants able for example to operate our computer to do our bidding [^5]. Still limited by imperfections, but useful.
 
 
 ### The source of AI fears in an unexpected world view
@@ -103,7 +103,7 @@ Where, then, does this fear of AI come from?
 
 It does not have a strong basis in the technology we have, or in the underlying science we just saw. Here is the thing: *Such fear is rather based on wide-spread narratives*. And these dystopian narratives are purely based on world view - on science fiction, not on tech. 
 
-Let me explain. AI ethicists Timnit Gebru and Emile Torres recently analysed the respective world views, and coined the acronym *TESCREAL* to refer to Transhumanism, Extropianism, Singularitarism, Cosmism, Rationalism, et cetera[^6]. They show how respective philosophies are widespread in the tech industry, and how they profoundly shape the global narratives on AI. You find traits of TESCREAL in movies like "The Matrix", or in the books of Prof. Harari. In fact, they have become the mainstream school of thought in Silicon Valley[^7]. See for example the 2023 "Open Letter" on an AI research moratorium to circumvent existential risk. It was, as co-originator Prof. Max Tegmark of MIT is very open to explain at length in a podcast[^8], purely based world view, not on a single technical argument. 
+Let me explain. AI ethicists Timnit Gebru and Emile Torres recently analysed the respective world views, and coined the acronym *TESCREAL* to refer to Transhumanism, Extropianism, Singularitarism, Cosmism, Rationalism, et cetera [^6]. They show how respective philosophies are widespread in the tech industry, and how they profoundly shape the global narratives on AI. You find traits of TESCREAL in movies like "The Matrix", or in the books of Prof. Harari. In fact, they have become the mainstream school of thought in Silicon Valley [^7]. See for example the 2023 "Open Letter" on an AI research moratorium to circumvent existential risk. It was, as co-originator Prof. Max Tegmark of MIT is very open to explain at length in a podcast [^8], purely based world view, not on a single technical argument. 
 
 Instead, the TESCREAL narrative for AI goes like this: Humans are nothing but information processors - just on biological, decaying hardware. This makes them akin to machines, just inferior, because of the fragile hardware (that's the Rationalism above). If humans could gain intelligence, then nothing prevents machines from reaching the same. Soon. And this intelligence will just increase ever further to AGI and beyond (that's the Singularitarism). So humans should upgrade themselves to become more like machines (that's the Transhumanism). It goes without saying that this view is highly contested from different scientific disciplines.
 
@@ -116,7 +116,7 @@ Summarizing, the TESCREAL philosophies are characterized by having little regard
 ![TEDx sunrise](http://stdm.github.io/images/TEDx/tedx-sunrise.jpg)
 *Images: tawanlubfah (c) 123RF.com, used with permission under the relevant license; Colourbox, (c) Kostyantin Pankin*
 
-So how not to fear AI? It begins with the realisation that *the AI you fear does not exist*. AI is a tool. If that helps, rename AI to  "EI" - Extended Intelligence, as we have recently argued in an article[^9]. Because extending our own human capabilities is all AI can do: Help us to improve our lives. Not replace us. So an insurmountable categorical difference remains: Agency ultimately stays with us, for the better or worse. 
+So how not to fear AI? It begins with the realisation that *the AI you fear does not exist*. AI is a tool. If that helps, rename AI to  "EI" - Extended Intelligence, as we have recently argued in an articl [^9]. Because extending our own human capabilities is all AI can do: Help us to improve our lives. Not replace us. So an insurmountable categorical difference remains: Agency ultimately stays with us, for the better or worse. 
 
 This means that AI is *not* coming after your freedom nor anything in your life. That is good news. But you might lose your freedom to AI in a different way - by giving it up voluntarily! We need to look at how this can happen:
 
@@ -144,13 +144,13 @@ Then you feel not intimidated by a powerful tool. You don't surrender to it. You
 
 We are almost there. But... aren't there real risks of AI, philosophy or not? Yes, absolutely. 
 
-Here is one typical list of AI risks, from the many similar ones that exist in the literature[^10]. But equipped with the arguments we just discussed, on the nature of the technology and surrounding narratives, this list splits into two list:
+Here is one typical list of AI risks, from the many similar ones that exist in the literature [^10]. But equipped with the arguments we just discussed, on the nature of the technology and surrounding narratives, this list splits into two list:
 
 ![TEDx risks](http://stdm.github.io/images/TEDx/tedx-risks.jpg)
 
 On the right, many of the points that make people fear AI. Now, they appear exaggerated - like the fear of major job displacements. Because AI tools can automated tasks, but cannot automate the whole you. And controllable - like your own dependence on these tools. And, finally, purely hypothetical - like the existential risk of rogue AI overlords exterminating humanity.
 
-What is left, are the risks in green. Existent, real. But these challenges are manageable: Some technologically, some socially, some regulatory. Approaches exist, literature and practice are full of them[^11]. 
+What is left, are the risks in green. Existent, real. But these challenges are manageable: Some technologically, some socially, some regulatory. Approaches exist, literature and practice are full of them [^11]. 
 Its not all solved yet. But we can handle this.
 
 
@@ -162,7 +162,7 @@ So that's how not to fear AI:
 1. *Consider it as Extended Intelligence*. It is a tool, built on probability functions, and has fundamental limitations. Don't overestimate its scope.
 2. *Reject fears purely based on a world view that you probably don't share* and that is rooted in a view of humanity and of technology that comes from science fiction, and not from reality.
 
-Instead, **contribute to creating the future you want to live in. Use AI where appropriate. Tools are for the worker*[^12].
+Instead, **contribute to creating the future you want to live in. Use AI where appropriate. Tools are for the worker* [^12].
 
 Enjoy.
 
