@@ -302,7 +302,7 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 <tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2025d.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2025d.jpg"/></a></td>
 <td>
-Peng Yan, Ahmed Abdulkadir, Gerrit A. Schatte, Giulia Aguzzi, Joonsu Gha, Nikola Pascher, Matthias Rosenthal, Yunlong Gao, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025c.pdf"><strong>Learning Actionable World Models for Industrial Process Control</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/abs/2503.01411">arXiv:2503.01411</a>, March 2025.
+Peng Yan, Ahmed Abdulkadir, Gerrit A. Schatte, Giulia Aguzzi, Joonsu Gha, Nikola Pascher, Matthias Rosenthal, Yunlong Gao, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025d.pdf"><strong>Learning Actionable World Models for Industrial Process Control</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/abs/2503.01411">arXiv:2503.01411</a>, March 2025.
 </td>
 </tr>
 <tr>
