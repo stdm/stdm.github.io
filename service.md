@@ -729,6 +729,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * April 15, 2025 [Die Volkswirtschaft](https://dievolkswirtschaft.ch/de/2025/04/was-ist-kuenstliche-intelligenz/): "**Was ist künstliche Intelligenz?**" Künstliche Intelligenz: Der Begriff löst wahlweise Zukunftsängste oder Begeisterungsstürme aus. Doch was ist KI überhaupt?
+
   * April 08, 2025 [NZZ Jobs](https://jobs.nzz.ch/ratgeber/artikel/1184/ki-als-weltanschauung-verstehen): "**KI als Weltanschauung verstehen**", interview with Prof. Thilo Stadelmann by Prof. Anne Rosken
 
   * April 04, 2025 [ERF Medien](https://erf-medien.ch/gesellschaft/wissen/ki-und-der-mensch/): "**KI und der Mensch**", podcast with Prof. Thilo Stadelmann by Host Raffael Stegmayer
