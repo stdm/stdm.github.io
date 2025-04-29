@@ -300,9 +300,9 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2025b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2025b.jpg"/></a></td>
+<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2025b.jpg"/></td>
 <td>
-Benjamin Meyer, Pascal J. Sager, Ahmed Abdulkadir, Benjamin F. Grewe, Philipp Schuetz, Thilo Stadelmann, and Felice Burn. <a href="https://stdm.github.io/downloads/papers/SDS_2025b.pdf"><strong>Hounsfield Unit Ranges as Inductive Bias for Intra-Clinical Learning of Data-Efficient CT Segmentation Models</strong></a>. In: Proceedings of the 12th IEEE Swiss Conference on Data Science (<strong>SDS'25</strong>), Zurich, Switzerland, June 27, 2025. 
+Benjamin Meyer, Pascal J. Sager, Ahmed Abdulkadir, Benjamin F. Grewe, Philipp Schuetz, Thilo Stadelmann, and Felice Burn. <strong>Hounsfield Unit Ranges as Inductive Bias for Intra-Clinical Learning of Data-Efficient CT Segmentation Models</strong>. In: Proceedings of the 12th IEEE Swiss Conference on Data Science (<strong>SDS'25</strong>), Zurich, Switzerland, June 27, 2025. 
 </td>
 </tr>
 <tr>
