@@ -102,7 +102,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Moderation "GenAI Track" at **AI+X Summit**, Zurich, Switzerland, October 04, 2024
   
-  * Talk "Real life machine learning - How research, inspired by use cases, helps me getting alongwith AI" at Grewe Lab, Institute of Neuroinformatics, University and ETH Zurich, Zurich, Switzerland, September 27, 2024
+  * Talk "Real life machine learning - How research, inspired by use cases, helps me getting alongwith AI" at Grewe Lab, Institute of Neuroinformatics, **University and ETH Zurich**, Zurich, Switzerland, September 27, 2024
 
   * Guest lecture "Digitalization, Faith and AI - A Practice Perspective" at **University of Fribourg**, CAS Integral Economics, Biel, Switzerland, September 20, 2024
   
