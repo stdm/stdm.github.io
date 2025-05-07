@@ -324,7 +324,7 @@ Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan E
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/GRW_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/GRW_2025.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/GRW_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/GRW_2025.jpg"/></a></a><strong>Invited Paper</strong></td>
 <td>
 Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/GRW_2025.pdf"><strong>A guide to AI: Understanding the technology, applying it successfully, and shaping a positive future</strong></a>. <strong>Global Resilience White Papers</strong>, <a href="https://www.globalresiliencepub.com/wp-content/uploads/2025/01/Global-Resilience-White-Paper-2-A-GUIDE-TO-AI-by-Dr.-Thilo-Stadelmann.pdf">No. 2</a>, January 28, 2025.
 </td>
@@ -336,7 +336,7 @@ Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christop
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/KIW_2025.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/KIW_2025.jpg"/></a></a><strong>Invited Paper</strong></td>
 <td>
 Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"><strong>Wegweiser Künstliche Intelligenz: Verstehen, anwenden und zuversichtlich Zukunft gestalten</strong></a>. In: Sebastian Hersberger and Christian Hugo Hoffmann (Editors). "Wie die Künstliche Intelligenz die Wirtschaft verändert - Überblick über die theoretischen Grundlagen und Praxisbeispiele entlang von Ökosystemen", <strong>Springer</strong>, 2025.
 </td>
@@ -568,7 +568,7 @@ Mohammadreza Amirian, Javier A. Montoya-Zegarra, Jonathan Gruss, Yves D. Stebler
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://www.mdpi.com/2227-7102/11/7/318/pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/EducSci_2021.jpg"/></a><strong>Best Teaching - Best Practices Award</strong></td>
+<td style="width: 175px;"><a href="https://www.mdpi.com/2227-7102/11/7/318/pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/EducSci_2021.jpg"/></a></td>
 <td>
 Thilo Stadelmann, Julian Keuzenkamp, Helmut Grabner, and Christoph Würsch. <a href="https://www.mdpi.com/2227-7102/11/7/318/pdf"><strong>The AI Atlas: Didactics for Teaching AI and Machine Learning On-Site, Online, and hybrid</strong></a>. <strong>Educ. Sci.</strong> 2021, 11, 318, MDPI, Basel, Switzerland, June 25, 2021.
 </td>
@@ -592,7 +592,7 @@ Niclas Simmler, Pascal Sager, Philipp Andermatt, Ricardo Chavarriaga, Frank-Pete
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/TR_2020.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/TR_2020.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/TR_2020.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/TR_2020.jpg"/></a><strong>Best Teaching - Best Practices Award</strong></td>
 <td>
 Thilo Stadelmann, and Christoph Würsch. <a href="https://stdm.github.io/downloads/papers/TR_2020.pdf"><strong>Maps for an Uncertain Future: Teaching AI and Machine Learning Using the ATLAS Concept</strong></a>. Technical report (didactic concept), <strong>ZHAW</strong>, Winterthur, Switzerland, 2020.
 </td>
@@ -634,7 +634,7 @@ Mohammadreza Amirian, Lukas Tuggener, Ricardo Chavarriaga, Yvan Putra Satyawan, 
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2020.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2020.jpg"/></a>Best Poster Presentation Award</td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2020.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2020.jpg"/></a><strong>Best Poster Presentation Award</strong></td>
 <td>
 Dano Roost, Ralph Meier, Stephan Huschauer, Erik Nygren, Adrian Egli, Andreas Weiler, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2020.pdf"><strong>Improving Sample Efficiency and Multi-Agent Communication in RL-based Train Rescheduling</strong></a>. In: Proceedings of the 7th Swiss Conference on Data Science (<strong>SDS'20</strong>), Lucerne, Switzerland, June 26, 2020. IEEE. <strong><a href="https://twitter.com/i/status/1258367206846541825">Best poster presentation award</a></strong>.
 </td>
@@ -723,7 +723,7 @@ Ismail Elezi, Lukas Tuggener, Marcello Pelillo, and Thilo Stadelmann. <a href="h
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ANNPR_2018d.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ANNPR_2018d.jpg"/></a><strong>Invited Paper</strong></td>
 <td>
 Thilo Stadelmann, Mohammadreza Amirian, Ismail Arabaci, Marek Arnold, Gilbert François Duivesteijn, Ismail Elezi, Melanie Geiger, Stefan Lörwald, Benjamin Bruno Meier, Katharina Rombach, and Lukas Tuggener. <a href="https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf"><strong>Deep Learning in the Wild</strong></a>. In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR'18</strong>), Springer, LNAI 11081, pp. 17-38, Siena, Italy, September 19-21, 2018. <strong>Invited paper</strong>.
 </td>
