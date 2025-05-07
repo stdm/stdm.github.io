@@ -622,9 +622,9 @@ Dano Roost, Ralph Meier, Giovanni Toffetti Carughi, and Thilo Stadelmann. <a hre
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ANNPR_2020.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ANNPR_2020.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ANNPR_2020.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ANNPR_2020.jpg"/></a><strong>Top-5 paper, invited for extended journal paper</strong>.</td>
 <td>
-Stefan Glüge, Mohammadreza Amirian, Dandolo Flumini, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ANNPR_2020.pdf"><strong>How (Not) to Measure Bias in Face Recognition Networks</strong></a>. In: Proceedings of the 9th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR'20</strong>), Springer, LNAI, Winterthur, Switzerland, September 02-04, 2020. <strong>Top-5 paper, invitation for extended journal paper</strong>.
+Stefan Glüge, Mohammadreza Amirian, Dandolo Flumini, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ANNPR_2020.pdf"><strong>How (Not) to Measure Bias in Face Recognition Networks</strong></a>. In: Proceedings of the 9th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR'20</strong>), Springer, LNAI, Winterthur, Switzerland, September 02-04, 2020.
 </td>
 </tr>
 <tr>
@@ -636,7 +636,7 @@ Mohammadreza Amirian, Lukas Tuggener, Ricardo Chavarriaga, Yvan Putra Satyawan, 
 <tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2020.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2020.jpg"/></a><strong>Best Poster Presentation Award</strong></td>
 <td>
-Dano Roost, Ralph Meier, Stephan Huschauer, Erik Nygren, Adrian Egli, Andreas Weiler, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2020.pdf"><strong>Improving Sample Efficiency and Multi-Agent Communication in RL-based Train Rescheduling</strong></a>. In: Proceedings of the 7th Swiss Conference on Data Science (<strong>SDS'20</strong>), Lucerne, Switzerland, June 26, 2020. IEEE. <strong><a href="https://twitter.com/i/status/1258367206846541825">Best poster presentation award</a></strong>.
+Dano Roost, Ralph Meier, Stephan Huschauer, Erik Nygren, Adrian Egli, Andreas Weiler, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2020.pdf"><strong>Improving Sample Efficiency and Multi-Agent Communication in RL-based Train Rescheduling</strong></a>. In: Proceedings of the 7th Swiss Conference on Data Science (<strong>SDS'20</strong>), Lucerne, Switzerland, June 26, 2020. IEEE.
 </td>
 </tr>
 </table>
@@ -700,7 +700,7 @@ Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="http
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/FCW_2019.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/FCW_2019.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/FCW_2019.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/FCW_2019.jpg"/></a><strong>Invited Paper</strong></td>
 <td>
 Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/FCW_2019.pdf"><strong>Wie maschinelles Lernen den Markt verändert</strong></a>. In: Reinhard Haupt, Stephan Schmitz (Editors), "Digitalisierung: Datenhype mit Werteverlust? Ethische Perspektiven für eine Schlüsseltechnologie", pp. 67-79, ISBN 377516040X, <strong>SCM Hänssler</strong>, 2019.
 </td>
@@ -725,7 +725,7 @@ Ismail Elezi, Lukas Tuggener, Marcello Pelillo, and Thilo Stadelmann. <a href="h
 <tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ANNPR_2018d.jpg"/></a><strong>Invited Paper</strong></td>
 <td>
-Thilo Stadelmann, Mohammadreza Amirian, Ismail Arabaci, Marek Arnold, Gilbert François Duivesteijn, Ismail Elezi, Melanie Geiger, Stefan Lörwald, Benjamin Bruno Meier, Katharina Rombach, and Lukas Tuggener. <a href="https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf"><strong>Deep Learning in the Wild</strong></a>. In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR'18</strong>), Springer, LNAI 11081, pp. 17-38, Siena, Italy, September 19-21, 2018. <strong>Invited paper</strong>.
+Thilo Stadelmann, Mohammadreza Amirian, Ismail Arabaci, Marek Arnold, Gilbert François Duivesteijn, Ismail Elezi, Melanie Geiger, Stefan Lörwald, Benjamin Bruno Meier, Katharina Rombach, and Lukas Tuggener. <a href="https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf"><strong>Deep Learning in the Wild</strong></a>. In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR'18</strong>), Springer, LNAI 11081, pp. 17-38, Siena, Italy, September 19-21, 2018.
 </td>
 </tr>
 <tr>
@@ -811,9 +811,9 @@ Kurt Stockinger, Thilo Stadelmann, and Andreas Ruckstuhl. <a href="https://stdm.
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/AIMAG_2015.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AIMAG_2015.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/AIMAG_2015.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AIMAG_2015.jpg"/></a><strong>Invited Paper</strong></td>
 <td>
-Jean-Daniel Dessimoz, Jana Koehler, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/AIMAG_2015.pdf"><strong>AI in Switzerland</strong></a>. <strong>AI Magazine</strong>. 36(2), S. 102-105, 2015. DOI <a href="https://doi.org/10.21256/zhaw-3642">10.21256/zhaw-3642</a>. <strong>Invited paper</strong>.
+Jean-Daniel Dessimoz, Jana Koehler, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/AIMAG_2015.pdf"><strong>AI in Switzerland</strong></a>. <strong>AI Magazine</strong>. 36(2), S. 102-105, 2015. DOI <a href="https://doi.org/10.21256/zhaw-3642">10.21256/zhaw-3642</a>.
 </td>
 </tr>
 <tr>
