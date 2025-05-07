@@ -396,7 +396,7 @@ Peng Yan, Ahmed Abdulkadir, Giulia Aguzzi, Gerrit A. Schatte, Benjamin F. Grewe,
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2024b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2024b.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2024b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2024b.jpg"/></a><strong>Honourable Mention - Best Paper Award</strong></td>
 <td>
 Lukas Tuggener, Pascal Sager, Yassine Taoudi-Benchekroun, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2024b.pdf"><strong>So you want your private LLM at home? A survey and benchmark of methods for efficient GPTs</strong></a>. In: Proceedings of the 11th IEEE Swiss Conference on Data Science (<strong>SDS'24</strong>), Zurich, Switzerland, May 31, 2024, DOI <a href="https://doi.org/10.1109/SDS60720.2024.00036">10.1109/SDS60720.2024.00036</a>.
 </td>
@@ -466,7 +466,7 @@ Paul-Philipp Luley, Jan M. Deriu, Peng Yan, Gerrit A. Schatte, and Thilo Stadelm
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.16405"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/MedPhys_2023.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.16405"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/MedPhys_2023.jpg"/></a><strong>Top-Viewed Wiley Article</strong></td>
 <td>
 Mohammadreza Amirian, Javier A. Montoya-Zegarra, Lukas Lichtensteiger, Ivo Herzig, Peter Eggenberger Hotz,  Marco Morf, Alexander Züst, Rudolf Marcel Füchslin, Pascal Paysan, Igor Peterlik, Stefan Scheib, Thilo Stadelmann, and Frank-Peter Schilling. <a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.16405"><strong>Mitigation of Motion-Induced Artifacts in Cone Beam Computed Tomography using Deep Convolutional Neural Networks</strong></a>. <strong>Med. Phys.</strong> 50: 6228-6242, Wiley, March 2023. DOI <a href="https://doi.org/10.1002/mp.16405">10.1002/mp.16405</a>.
 </td>
@@ -568,15 +568,15 @@ Mohammadreza Amirian, Javier A. Montoya-Zegarra, Jonathan Gruss, Yves D. Stebler
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://www.mdpi.com/2227-7102/11/7/318/pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/EducSci_2021.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://www.mdpi.com/2227-7102/11/7/318/pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/EducSci_2021.jpg"/></a><strong>Best Teaching - Best Practices Award</strong></td>
 <td>
 Thilo Stadelmann, Julian Keuzenkamp, Helmut Grabner, and Christoph Würsch. <a href="https://www.mdpi.com/2227-7102/11/7/318/pdf"><strong>The AI Atlas: Didactics for Teaching AI and Machine Learning On-Site, Online, and hybrid</strong></a>. <strong>Educ. Sci.</strong> 2021, 11, 318, MDPI, Basel, Switzerland, June 25, 2021.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2021b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2021b.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2021b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2021b.jpg"/></a><strong>Best Paper Award</strong></td>
 <td>
-Evelyne Knapp, Mattia Battaglia, Thilo Stadelmann, Sandra Jenatsch, and Beat Ruhstaller. <a href="https://stdm.github.io/downloads/papers/SDS_2021b.pdf"><strong>XGBoost Trained on Synthetic Data to Extract Material Parameters of Organic Semiconductors</strong></a>. In: Proceedings of the 8th Swiss Conference on Data Science (<strong>SDS'21</strong>), Lucerne, Switzerland, 2021. <strong><a href="https://twitter.com/thilo_on_data/status/1402663898289950727">Best paper award</a></strong>.
+Evelyne Knapp, Mattia Battaglia, Thilo Stadelmann, Sandra Jenatsch, and Beat Ruhstaller. <a href="https://stdm.github.io/downloads/papers/SDS_2021b.pdf"><strong>XGBoost Trained on Synthetic Data to Extract Material Parameters of Organic Semiconductors</strong></a>. In: Proceedings of the 8th Swiss Conference on Data Science (<strong>SDS'21</strong>), Lucerne, Switzerland, 2021. 
 </td>
 </tr>
 <tr>
@@ -634,7 +634,7 @@ Mohammadreza Amirian, Lukas Tuggener, Ricardo Chavarriaga, Yvan Putra Satyawan, 
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2020.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2020.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2020.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2020.jpg"/></a>Best Poster Presentation Award</td>
 <td>
 Dano Roost, Ralph Meier, Stephan Huschauer, Erik Nygren, Adrian Egli, Andreas Weiler, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2020.pdf"><strong>Improving Sample Efficiency and Multi-Agent Communication in RL-based Train Rescheduling</strong></a>. In: Proceedings of the 7th Swiss Conference on Data Science (<strong>SDS'20</strong>), Lucerne, Switzerland, June 26, 2020. IEEE. <strong><a href="https://twitter.com/i/status/1258367206846541825">Best poster presentation award</a></strong>.
 </td>
@@ -706,7 +706,7 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/FCW_2019.pdf"
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2019.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2019.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2019.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2019.jpg"/></a><strong>Most Cited Paper Award</strong></td>
 <td>
 Lukas Tuggener, Mohammadreza Amirian, Katharina Rombach, Stefan Lörwald, Anastasia Varlet, Christian Westermann, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2019.pdf"><strong>Automated Machine Learning in Practice: State of the Art and Recent Results</strong></a>. In: Proceedings of the 6th Swiss Conference on Data Science (<strong>SDS'19</strong>), Bern, Switzerland, June 14, 2019. IEEE.
 </td>
