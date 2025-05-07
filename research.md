@@ -324,7 +324,7 @@ Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan E
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/GRW_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/GRW_2025.jpg"/></a></a><strong>Invited Paper</strong></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/GRW_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/GRW_2025.jpg"/></a><strong>Invited Paper</strong></td>
 <td>
 Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/GRW_2025.pdf"><strong>A guide to AI: Understanding the technology, applying it successfully, and shaping a positive future</strong></a>. <strong>Global Resilience White Papers</strong>, <a href="https://www.globalresiliencepub.com/wp-content/uploads/2025/01/Global-Resilience-White-Paper-2-A-GUIDE-TO-AI-by-Dr.-Thilo-Stadelmann.pdf">No. 2</a>, January 28, 2025.
 </td>
@@ -336,7 +336,7 @@ Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christop
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/KIW_2025.jpg"/></a></a><strong>Invited Paper</strong></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/KIW_2025.jpg"/></a><strong>Invited Paper</strong></td>
 <td>
 Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"><strong>Wegweiser Künstliche Intelligenz: Verstehen, anwenden und zuversichtlich Zukunft gestalten</strong></a>. In: Sebastian Hersberger and Christian Hugo Hoffmann (Editors). "Wie die Künstliche Intelligenz die Wirtschaft verändert - Überblick über die theoretischen Grundlagen und Praxisbeispiele entlang von Ökosystemen", <strong>Springer</strong>, 2025.
 </td>
