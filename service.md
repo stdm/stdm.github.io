@@ -729,6 +729,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * April 24, 2025 [Technik und Wissen](https://www.technik-und-wissen.ch/warum-man-ki-nicht-fuerchten-muss.htm): "**Warum man KI nicht fürchten muss**". TEDxZHAW-Vortrag von KI-Professor Thilo Stadelmann.
+
   * April 17, 2025 [IA Resources - Switzerland](https://www.linkedin.com/posts/ia-resources_switzerland-is-moving-toward-its-own-ai-regulation-activity-7318540630203293696-gYQq): "**Who’s shaping the Swiss AI landscape? Let’s tag them.** Researchers & AI Experts. 
     
     [<img alt="AI Leaders" src="http://stdm.github.io/images/20250417_LinkedIn-AI-Leaders.png"/>](https://www.linkedin.com/posts/ia-resources_switzerland-is-moving-toward-its-own-ai-regulation-activity-7318540630203293696-gYQq)
