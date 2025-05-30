@@ -300,9 +300,9 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2025c.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2025c.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2025e.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2025e.jpg"/></a></td>
 <td>
-Pascal J. Sager, Ashwini Kamaraj, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ICML_2025.pdf"><strong>Deep Retrieval at CheckThat! 2025: Identifying Scientific Papers from Implicit Social Media Mentions via Hybrid Retrieval and Re-Ranking</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/abs/2505.23250">arXiv:2505.23250v1</a>, May 2025.
+Pascal J. Sager, Ashwini Kamaraj, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025e.pdf"><strong>Deep Retrieval at CheckThat! 2025: Identifying Scientific Papers from Implicit Social Media Mentions via Hybrid Retrieval and Re-Ranking</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/abs/2505.23250">arXiv:2505.23250v1</a>, May 2025.
 </td>
 </tr>
 <tr>
