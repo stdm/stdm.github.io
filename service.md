@@ -52,7 +52,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Invited talk "The AI you fear does not exist" at "Who will we become with AI?" colloquium at **Octet/MIT Media Lab**, March 09, 2025
 
-  * Invited talk "Wie wir die KI-Chance nutzen" at **KCF 2025**, Karlsruhe, Germany, March 07, 2025
+  * Invited talk ["Wie wir die KI-Chance nutzen"](https://www.youtube.com/watch?v=4yibG2BK3zk) at **KCF 2025**, Karlsruhe, Germany, March 07, 2025
   
   * Talk at the **Pattern Recognition Lab** of the Friedrich-Alexander-University Erlangen-Nuremberg, Erlangen, February 26, 2025
   
