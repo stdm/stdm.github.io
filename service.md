@@ -38,7 +38,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Invited talk at **AFI Solutions**, Stuttgart and Cologne, Germany, May 13 and 22, 2025
   
-  * Invited talk ["How not to fear AI"](https://stdm.github.io/How-not-to-fear-AI/) at **TEDxZHAW**, Winterthur, Switzerland, April 10, 2025
+  * Invited talk ["How not to fear AI"](https://www.youtube.com/watch?v=deVbP-hViMQ) (see also [manuscript](https://stdm.github.io/How-not-to-fear-AI/)) at **TEDxZHAW**, Winterthur, Switzerland, April 10, 2025
 
   * Invited talk at **Rotary Club Kyburg**, Winterthur, Switzerland, March 21, 2025
   
