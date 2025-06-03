@@ -32,7 +32,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Invited talk at **UNITED** leadership conference, Baden Baden, Germany, July 05, 2025
 
-  * Invited talk at **KIWANIS Waldshut**, Tiengen, Germany, June 03, 2025
+  * Invited talk "Gelegenheit macht Diebe. Oder: KI und den Mensch besser verstehen, um sich nicht selber zu berauben" at **KIWANIS Waldshut**, Tiengen, Germany, June 03, 2025
   
   * Invited talk at **Oase Health Solutions**, Zurich, Switzerland, May 20, 2025
   
