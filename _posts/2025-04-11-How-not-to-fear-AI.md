@@ -9,11 +9,13 @@ comments: true
 
 Circa two years ago, I started investigating, and putting into words and talks, how a technically grounded understanding of AI can help mitigate unwarranted fears. [KCF 2023](https://www.youtube.com/watch?v=0Sk_mX0dSCQ) in Berlin was a kick-off, after which many requests reached me to extend this material and make it available to larger audiences. My sabbatical added depth (see [here](https://stdm.github.io/Risk/), [here](https://stdm.github.io/Hope/), and [here](https://stdm.github.io/AI-sports-humanism/)). When Tilman Slembeck asked in January if I wanted to join [TEDxZHAW "Merging Worlds"](https://www.zhaw.ch/en/sml/about-us/events/event-detail/event-news/tedxzhaw-merging-worlds) as a speaker, I felt ready. 
 
-![TEDx preparation](http://stdm.github.io/images/TEDx/tedx-prep.jpg)
+<iframe width="560" height="315" src="https://youtu.be/deVbP-hViMQ?si=V2ifTjAq1jj1EM_S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!-- more -->
 
-Little did I know how much preparation still awaited me. I easily invested more than one order of magnitude more effort here than in any other talk I ever prepared. As the TED format asks for a different style than I usually do (shorter, story-focussed, less slides, speaker-centered), I had to change my whole approach to creating and then practicing a talk. I felt like a boxer who had prepared intensely for months for this one fight: I created 12 iterations of slides; wrote a script for the talk for the first time in my life; rehearsed and updated it every free minute for the last two weeks; gave premature versions of the talk to my colleagues at least once a day. Thanks to this preparation, we now have a full script of the talk available. I want to share it with you below (video will come soon).
+Little did I know how much preparation still awaited me. I easily invested more than one order of magnitude more effort here than in any other talk I ever prepared. As the TED format asks for a different style than I usually do (shorter, story-focussed, less slides, speaker-centered), I had to change my whole approach to creating and then practicing a talk. I felt like a boxer who had prepared intensely for months for this one fight: I created 12 iterations of slides; wrote a script for the talk for the first time in my life; rehearsed and updated it every free minute for the last two weeks; gave premature versions of the talk to my colleagues at least once a day. Thanks to this preparation, we now have a full script of the talk available:
+
+![TEDx preparation](http://stdm.github.io/images/TEDx/tedx-prep.jpg)
 
 
 ## TEDx talk: How not to fear AI
