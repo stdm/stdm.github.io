@@ -366,6 +366,12 @@ Waqar Ali, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. <a href="h
 </td>
 </tr>
 <tr>
+<td style="width: 175px;"><a href="https://link.springer.com/article/10.1007/s00501-025-01563-y"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/MAMC_2024.jpg"/></a></td>
+<td>
+Briac Lanfant, Silvan Lack, Benjamin Meyer, Ahmed Abdulkadir, Thilo Stadelmann, and Daniel Schmid. <a href="https://link.springer.com/article/10.1007/s00501-025-01563-y"><strong>3D-master-based method for optimizing the cost calculation of PBF-LB/M manufactured parts</strong></a>. In: Proceedings of the Metal Additive Manufacturing Conference (<strong>MAMC'24</strong>), Aachen, Germany, 17-19 September 2024. Pp. 158-171. Springer, DOI <a href = "https://doi.org/10.1007/s00501-025-01563-y">10.1007/s00501-025-01563-y</a>.
+</td>
+</tr>
+<tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ANNPR_2024.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ANNPR_2024.jpg"/></a></td>
 <td>
 Peter Bolt, Volker Ziebart, Christian Jaeger, Nicolas Schmid, Thilo Stadelmann, and Rudolf M. Füchslin. <a href="https://stdm.github.io/downloads/papers/ANNPR_2024.pdf"><strong>A Simulation Study on Energy Optimization in Building Control with Reinforcement Learning</strong></a>. In: Proceedings of the 11th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR'24</strong>), Springer, Montreal, Canada, October 10-12, 2024.
@@ -426,7 +432,7 @@ Lukas Tuggener, Raphael Emberger, Adhiraj Ghosh, Pascal Sager, Yvan Putra Satyaw
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10379639"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Access_2023.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10379639"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Access_2023.jpg"/></a> <strong>\>100 citations</strong></td>
 <td>
 Peng Yan, Ahmed Abdulkadir, Paul-Philipp Luley, Matthias Rosenthal, Gerrit A. Schatte, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10379639"><strong>A Comprehensive Survey of Deep Transfer Learning for Anomaly Detection in Industrial Time Series: Methods, Applications, and Directions</strong></a>. In: <strong>IEEE Access</strong>, January 2024. DOI <a href="https://doi.org/10.1109/ACCESS.2023.3349132">10.1109/ACCESS.2023.3349132</a>.
 </td>
@@ -700,7 +706,7 @@ Thilo Stadelmann, Martin Braschler, and Kurt Stockinger. <a href="https://stdm.g
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ADS_2019_Preface.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ADS_2019.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ADS_2019_Preface.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ADS_2019.jpg"/></a> <strong>\>123k accesses</strong></td>
 <td>
 Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="https://stdm.github.io/downloads/papers/ADS_2019_Preface.pdf"><strong>Applied Data Science - Lessons Learned for the Data-Driven Business</strong></a>. <strong>Springer</strong>, 2019.
 </td>
@@ -795,13 +801,13 @@ Yanick X. Lukic, Carlo Vogt, Oliver Dürr, and Thilo Stadelmann. <a href="https:
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/MLSP_2016.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/MLSP_2016.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/MLSP_2016.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/MLSP_2016.jpg"/></a> <strong>\>100 citations</strong></td>
 <td>
 Yanick Lukic, Carlo Vogt, Oliver Dürr, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/MLSP_2016.pdf"><strong>Speaker Identification and Clustering using Convolutional Neural Networks</strong></a>. In: Proceedings of IEEE International Workshop on Machine Learning for Signal Processing (<strong>MLSP'16</strong>). Salerno: IEEE. DOI <a href="https://doi.org/10.21256/zhaw-3761">10.21256/zhaw-3761</a>.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/HMD_2016.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/HMD_2016.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/HMD_2016.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/HMD_2016.jpg"/></a> <strong>\>45k accesses</strong></td>
 <td>
 Kurt Stockinger, Thilo Stadelmann, and Andreas Ruckstuhl. <a href="https://stdm.github.io/downloads/papers/HMD_2016.pdf"><strong>Data Scientist als Beruf</strong></a>. Big Data - Grundlagen, Systeme und Nutzungspotenziale, Springer Verlag, <strong>Edition HMD</strong> 59-81, 2016. DOI <a href="https://doi.org/10.1007/978-3-658-11589-0_4">10.1007/978-3-658-11589-0_4</a>.
 </td>
