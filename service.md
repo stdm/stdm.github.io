@@ -31,6 +31,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   * Invited talk at **Vetter Kabelverlegetechnik GmbH**, Lottstetten, Germany, September 29, 2025
   
   * Invited talk at **UNITED** leadership conference, Baden Baden, Germany, July 05, 2025
+  
+  * Invited talk "What is AI and how to develop it prohuman?" at the Workshop on "AI and Humanity", **Faraday Institute for Science and Religion at Cambridge University**, Cambridge, UK, June 06, 2025
 
   * Invited talk "Gelegenheit macht Diebe. Oder: KI und den Mensch besser verstehen, um sich nicht selber zu berauben" at **KIWANIS Waldshut**, Tiengen, Germany, June 03, 2025
   
