@@ -801,7 +801,7 @@ Yanick X. Lukic, Carlo Vogt, Oliver Dürr, and Thilo Stadelmann. <a href="https:
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/MLSP_2016.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/MLSP_2016.jpg"/></a> <strong>\>100 citations</strong></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/MLSP_2016.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/MLSP_2016.jpg"/></a> <strong>>100 citations</strong></td>
 <td>
 Yanick Lukic, Carlo Vogt, Oliver Dürr, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/MLSP_2016.pdf"><strong>Speaker Identification and Clustering using Convolutional Neural Networks</strong></a>. In: Proceedings of IEEE International Workshop on Machine Learning for Signal Processing (<strong>MLSP'16</strong>). Salerno: IEEE. DOI <a href="https://doi.org/10.21256/zhaw-3761">10.21256/zhaw-3761</a>.
 </td>
