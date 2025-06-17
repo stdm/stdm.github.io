@@ -324,6 +324,12 @@ Peng Yan, Ahmed Abdulkadir, Gerrit A. Schatte, Giulia Aguzzi, Joonsu Gha, Nikola
 </td>
 </tr>
 <tr>
+<td style="width: 175px;"><a href="https://link.springer.com/article/10.1007/s00501-025-01563-y"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/BHM_2025.jpg"/></a></td>
+<td>
+Briac Lanfant, Silvan Lack, Benjamin Meyer, Ahmed Abdulkadir, Thilo Stadelmann, and Daniel Schmid. <a href="https://link.springer.com/article/10.1007/s00501-025-01563-y"><strong>3D-master-based method for optimizing the cost calculation of PBF-LB/M manufactured parts</strong></a>. In: Berg- und Hüttenmännische Monatshefte (<strong>BHM</strong>) 170(3), pp. 158-171, 2025. Springer, DOI <a href = "https://doi.org/10.1007/s00501-025-01563-y">10.1007/s00501-025-01563-y</a>.
+</td>
+</tr>
+<tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2025b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2025b.jpg"/></a></td>
 <td>
 Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan Etaiwi, Aref Enayati, Gabriel Nobel, Ahmed Abdulkadir, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025b.pdf"><strong>AI Agents for Computer Use: A Review of Instruction-based Computer Control, GUI Automation, and Operator Assistants</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/abs/2501.16150">arXiv:2501.16150v1</a>, January 2025.
@@ -363,12 +369,6 @@ Ahmed Begga, Waqar Ali, Gabriel Niculescu, Francisco Escolano, Thilo Stadelmann,
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/PRL_2024b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/PRL_2024b.jpg"/></a></td>
 <td>
 Waqar Ali, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. <a href="https://stdm.github.io/downloads/papers/PRL_2024b.pdf"><strong>Hierarchical Glocal Attention Pooling for Graph Classification</strong></a>. In: <strong>Pattern Recognition Letters</strong> 186, pp. 71-77, Elsevier, September 2024, DOI <a href="https://doi.org/10.1016/j.patrec.2024.09.009">10.1016/j.patrec.2024.09.009</a>.
-</td>
-</tr>
-<tr>
-<td style="width: 175px;"><a href="https://link.springer.com/article/10.1007/s00501-025-01563-y"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/MAMC_2024.jpg"/></a></td>
-<td>
-Briac Lanfant, Silvan Lack, Benjamin Meyer, Ahmed Abdulkadir, Thilo Stadelmann, and Daniel Schmid. <a href="https://link.springer.com/article/10.1007/s00501-025-01563-y"><strong>3D-master-based method for optimizing the cost calculation of PBF-LB/M manufactured parts</strong></a>. In: Proceedings of the Metal Additive Manufacturing Conference (<strong>MAMC'24</strong>), Aachen, Germany, 17-19 September 2024. Pp. 158-171. Springer, DOI <a href = "https://doi.org/10.1007/s00501-025-01563-y">10.1007/s00501-025-01563-y</a>.
 </td>
 </tr>
 <tr>
