@@ -48,6 +48,8 @@ The group has very diverse backgrounds, which helps us complement each other's s
     <li><a href="https://www.linkedin.com/in/elia-untern%C3%A4hrer-201593255/">Elia Unternährer</a>, M.Sc. student: B.Sc. business information technology (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/jakub-hanush/">Jakub Hanuska</a>, M.Sc. student: B.Sc. open informatics (Mendel University of Brno)</li>
     <li><a href="https://www.linkedin.com/in/rebekka-von-wartburg-3b807b298/">Rebekka von Wartburg</a>, M.Sc. student: B.Sc. computer science (ZHAW)</li>
+    <li><a href="https://www.linkedin.com/in/marco-betschart-26baa2133/">Marco Betschart</a>, M.Sc. student: B.Sc. computer science (ZHAW)</li>
+    <li><a href="https://www.linkedin.com/in/jose-pablo-mu%C3%B1oz/">Jose Pablo Muñoz Montero</a>, M.Sc. student: B.Sc. computer engineering (Tecnológico de Costa Rica)</li>
 </ul>
 </details>
 
@@ -312,9 +314,9 @@ Matteo Saponati, Pascal Sager, Pau Vilimelis Aceituno, Thilo Stadelmann, and Ben
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2025b.jpg"/></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2025b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2025b.jpg"/></a></td>
 <td>
-Benjamin Meyer, Pascal J. Sager, Ahmed Abdulkadir, Benjamin F. Grewe, Philipp Schuetz, Thilo Stadelmann, and Felice Burn. <strong>Hounsfield Unit Ranges as Inductive Bias for Intra-Clinical Learning of Data-Efficient CT Segmentation Models</strong>. In: Proceedings of the 12th IEEE Swiss Conference on Data Science (<strong>SDS'25</strong>), Zurich, Switzerland, June 27, 2025. 
+Benjamin Meyer, Pascal J. Sager, Ahmed Abdulkadir, Benjamin F. Grewe, Philipp Schuetz, Thilo Stadelmann, and Felice Burn. <a href="https://stdm.github.io/downloads/papers/SDS_2025b.pdf"><strong>Hounsfield Unit Ranges as Inductive Bias for Intra-Clinical Learning of Data-Efficient CT Segmentation Models</strong></a>. In: Proceedings of the 12th IEEE Swiss Conference on Data Science (<strong>SDS'25</strong>), Zurich, Switzerland, June 27, 2025. 
 </td>
 </tr>
 <tr>
