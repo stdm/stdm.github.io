@@ -14,8 +14,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 2. [Community offices](#offices)
 3. [In the press](#press) 
 
-[<img alt="Interview" src="http://stdm.github.io/images/stdm-kcf-2023.jpg"/>](http://stdm.github.io/images/stdm-kcf-2023.jpg)
-
+<a href="https://www.youtube.com/watch?v=4yibG2BK3zk" target="_blank"><img src="http://stdm.github.io/images/thilo-2025.jpg"/></a>
 
 <a name="talks"></a>
 ## Talks 
