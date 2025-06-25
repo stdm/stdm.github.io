@@ -21,16 +21,16 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 #### 2026
 
-	* Invited talk on "Prohuman Tech Design" at **Digital Winterthur**, Winterthur, Switzerland, February 26, 2026
-
-	* Invites talk at **Reformierte Kirche Beringen**, Beringen, Switzerland, February 17, 2026
-
-	* Invited talk at the **SPM Leiterkonferenz**, Sitzerland, January 21, 2026
-	
-	* Invited talk at **ZKB christliches Netzwerk**, Zurich, Switzerland, January 13, 2026
-
-	* Invited talk at **JuMiKo**, Stuttgart, Germany, January 11, 2026
-
+  * Invited talk on "Prohuman Tech Design" at **Digital Winterthur**, Winterthur, Switzerland, February 26, 2026
+  
+  * Invites talk at **Reformierte Kirche Beringen**, Beringen, Switzerland, February 17, 2026
+  
+  * Invited talk at the **SPM Leiterkonferenz**, Sitzerland, January 21, 2026
+  
+  * Invited talk at **ZKB christliches Netzwerk**, Zurich, Switzerland, January 13, 2026
+  
+  * Invited talk at **JuMiKo**, Stuttgart, Germany, January 11, 2026
+  
 #### 2025
 
   * Invited talk at **FRZ Wirtschaftsforum 2025**, Kloten, Switzerland, November 24, 2025
