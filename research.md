@@ -302,9 +302,9 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2025e.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2025e.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/CLEF_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/CLEF_2025.jpg"/></a></td>
 <td>
-Pascal J. Sager, Ashwini Kamaraj, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025e.pdf"><strong>Deep Retrieval at CheckThat! 2025: Identifying Scientific Papers from Implicit Social Media Mentions via Hybrid Retrieval and Re-Ranking</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/abs/2505.23250">arXiv:2505.23250v1</a>, May 2025.
+Pascal J. Sager, Ashwini Kamaraj, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025e.pdf"><strong>Deep Retrieval at CheckThat! 2025: Identifying Scientific Papers from Implicit Social Media Mentions via Hybrid Retrieval and Re-Ranking</strong></a>. In: Working Notes of CLEF 2025 - Conference and Labs of the Evaluation Forum, CEUR, July 2025.
 </td>
 </tr>
 <tr>
@@ -314,7 +314,7 @@ Matteo Saponati, Pascal Sager, Pau Vilimelis Aceituno, Thilo Stadelmann, and Ben
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2025b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2025b.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2025b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2025b.jpg"/></a>Best Scientific Full Paper Award</td>
 <td>
 Benjamin Meyer, Pascal J. Sager, Ahmed Abdulkadir, Benjamin F. Grewe, Philipp Schuetz, Thilo Stadelmann, and Felice Burn. <a href="https://stdm.github.io/downloads/papers/SDS_2025b.pdf"><strong>Hounsfield Unit Ranges as Inductive Bias for Intra-Clinical Learning of Data-Efficient CT Segmentation Models</strong></a>. In: Proceedings of the 12th IEEE Swiss Conference on Data Science (<strong>SDS'25</strong>), Zurich, Switzerland, June 27, 2025. 
 </td>
