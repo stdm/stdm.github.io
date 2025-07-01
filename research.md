@@ -346,7 +346,7 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/GRW_2025.pdf"
 <tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2025a.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2025a.jpg"/></a></td>
 <td>
-Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christoph von der Malsburg. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025a.pdf"><strong>The Cooperative Network Architecture: Learning Structured Networks as Representations of Sensory Patterns</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/abs/2407.05650">arXiv:2407.05650</a>, January 2025.
+Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christoph von der Malsburg. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025a.pdf"><strong>The Cooperative Network Architecture: Learning Structured Networks as Representation of Sensory Patterns</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/abs/2407.05650">arXiv:2407.05650</a>, January 2025.
 </td>
 </tr>
 <tr>
