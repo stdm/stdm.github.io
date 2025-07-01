@@ -744,6 +744,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * July 01, 2025 [Make-it-C.-L.-I.-C.-K. der Podcast](https://podcasts.apple.com/ch/podcast/prof-dr-thilo-stadelmann/id1769916908?i=1000715231954) mit Prof. Dr. Thilo Stadelmann
+  
   * April 24, 2025 [Technik und Wissen](https://www.technik-und-wissen.ch/warum-man-ki-nicht-fuerchten-muss.htm): "**Warum man KI nicht fürchten muss**". TEDxZHAW-Vortrag von KI-Professor Thilo Stadelmann.
 
   * April 17, 2025 [IA Resources - Switzerland](https://www.linkedin.com/posts/ia-resources_switzerland-is-moving-toward-its-own-ai-regulation-activity-7318540630203293696-gYQq): "**Who’s shaping the Swiss AI landscape? Let’s tag them.** Researchers & AI Experts. 
