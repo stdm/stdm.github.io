@@ -2,7 +2,7 @@
 title: How not to fear AI
 layout: post
 date: 2025-04-11
-modified: 2025-04-12
+modified: 2025-07-02
 category: AI, society, hope, risk, philosophy, talk
 comments: true
 ---
