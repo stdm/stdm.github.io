@@ -155,7 +155,7 @@ So that's how not to fear AI:
 1. *Consider it as Extended Intelligence*. It is a tool, built on probability functions, and has fundamental limitations. Don't overestimate its scope.
 2. *Reject fears purely based on a world view that you probably don't share* and that is rooted in a view of humanity and of technology that comes from science fiction, and not from reality.
 
-Instead, **contribute to creating the future you want to live in. Use AI where appropriate. Tools are for the worker* [^12].
+Instead, *contribute to creating the future you want to live in. Use AI where appropriate. Tools are for the worker* [^12].
 
 Enjoy.
 
