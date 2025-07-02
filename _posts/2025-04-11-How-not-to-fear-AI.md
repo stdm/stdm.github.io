@@ -7,25 +7,16 @@ category: AI, society, hope, risk, philosophy, talk
 comments: true
 ---
 
-Circa two years ago, I started investigating, and putting into words and talks, how a technically grounded understanding of AI can help mitigate unwarranted fears. [KCF 2023](https://www.youtube.com/watch?v=0Sk_mX0dSCQ) in Berlin was a kick-off, after which many requests reached me to extend this material and make it available to larger audiences. My sabbatical added depth (see [here](https://stdm.github.io/Risk/), [here](https://stdm.github.io/Hope/), and [here](https://stdm.github.io/AI-sports-humanism/)). When Tilman Slembeck asked in January if I wanted to join [TEDxZHAW "Merging Worlds"](https://www.zhaw.ch/en/sml/about-us/events/event-detail/event-news/tedxzhaw-merging-worlds) as a speaker, I felt ready. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/deVbP-hViMQ?si=WwLPqSmvsMMTCTyx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<!-- more -->
-
-Little did I know how much preparation still awaited me. I easily invested more than one order of magnitude more effort here than in any other talk I ever prepared. As the TED format asks for a different style than I usually do (shorter, story-focussed, less slides, speaker-centered), I had to change my whole approach to creating and then practicing a talk. I felt like a boxer who had prepared intensely for months for this one fight: I created 12 iterations of slides; wrote a script for the talk for the first time in my life; rehearsed and updated it every free minute for the last two weeks; gave premature versions of the talk to my colleagues at least once a day. Thanks to this preparation, we now have a full script of the talk available:
-
-![TEDx preparation](http://stdm.github.io/images/TEDx/tedx-prep.jpg)
-
-
-## TEDx talk: How not to fear AI
-
 
 It is 1997. Chess world champion Garri Kasparov takes on Deep Blue - the most advanced chess AI system of its time. High noon for human versus machine. Then it happens, already in the first game: Kasparov observes an AI move that he cannot understand. 
 
 This move is pure randomness, the result of a bug in Deep Blue's software. But instead of realising the machine's limitations, Kasparov is overtaken by fear: He thinks this move is a sign of higher intelligence, and concludes that the machine might be unconquerable with his mere human strategies [^1]. That throws him off track with his match plan - and ultimately, he loses. Kasparov's defeat became known as the first big loss of humankind against AI. But *the human lost not because of the machine's abilities but because of the man's fears*.
 
-![TEDx Let's go](http://stdm.github.io/images/TEDx/tedx-letsgo.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/deVbP-hViMQ?si=WwLPqSmvsMMTCTyx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<!-- more -->
+
+<!-- ![TEDx Let's go](http://stdm.github.io/images/TEDx/tedx-letsgo.jpg) -->
 
 Today, I observe something similar: In my capacity as a professor of AI, I get to discuss AI with a lot of different people. And one topic keeps surfacing: people's fear of AI. They share their concerns of being displaced in their job by a future chat bot; of becoming so dependent on some system to lose critical skills for mastering their life independently; of losing their very life to an AI overlord turning against them.
 
@@ -169,6 +160,16 @@ Instead, **contribute to creating the future you want to live in. Use AI where a
 Enjoy.
 
 ![TEDx jump the fence](http://stdm.github.io/images/TEDx/tedx-jump.gif)
+
+
+## Background
+
+
+Circa two years ago, I started investigating, and putting into words and talks, how a technically grounded understanding of AI can help mitigate unwarranted fears. [KCF 2023](https://www.youtube.com/watch?v=0Sk_mX0dSCQ) in Berlin was a kick-off, after which many requests reached me to extend this material and make it available to larger audiences. My sabbatical added depth (see [here](https://stdm.github.io/Risk/), [here](https://stdm.github.io/Hope/), and [here](https://stdm.github.io/AI-sports-humanism/)). When Tilman Slembeck asked in January if I wanted to join [TEDxZHAW "Merging Worlds"](https://www.zhaw.ch/en/sml/about-us/events/event-detail/event-news/tedxzhaw-merging-worlds) as a speaker, I felt ready. 
+
+Little did I know how much preparation still awaited me. I easily invested more than one order of magnitude more effort here than in any other talk I ever prepared. As the TED format asks for a different style than I usually do (shorter, story-focussed, less slides, speaker-centered), I had to change my whole approach to creating and then practicing a talk. I felt like a boxer who had prepared intensely for months for this one fight: I created 12 iterations of slides; wrote a script for the talk for the first time in my life; rehearsed and updated it every free minute for the last two weeks; gave premature versions of the talk to my colleagues at least once a day. Thanks to this preparation, what we have above is the full script of the talk.
+
+![TEDx preparation](http://stdm.github.io/images/TEDx/tedx-prep.jpg)
 
 
 ## References
