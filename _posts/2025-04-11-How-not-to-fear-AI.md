@@ -10,11 +10,11 @@ comments: true
 
 It is 1997. Chess world champion Garri Kasparov takes on Deep Blue - the most advanced chess AI system of its time. High noon for human versus machine. Then it happens, already in the first game: Kasparov observes an AI move that he cannot understand. 
 
-This move is pure randomness, the result of a bug in Deep Blue's software. But instead of realising the machine's limitations, Kasparov is overtaken by fear: He thinks this move is a sign of higher intelligence, and concludes that the machine might be unconquerable with his mere human strategies [^1]. That throws him off track with his match plan - and ultimately, he loses. Kasparov's defeat became known as the first big loss of humankind against AI. But *the human lost not because of the machine's abilities but because of the man's fears*.
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/deVbP-hViMQ?si=WwLPqSmvsMMTCTyx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!-- more -->
+
+This move is pure randomness, the result of a bug in Deep Blue's software. But instead of realising the machine's limitations, Kasparov is overtaken by fear: He thinks this move is a sign of higher intelligence, and concludes that the machine might be unconquerable with his mere human strategies [^1]. That throws him off track with his match plan - and ultimately, he loses. Kasparov's defeat became known as the first big loss of humankind against AI. But *the human lost not because of the machine's abilities but because of the man's fears*.
 
 <!-- ![TEDx Let's go](http://stdm.github.io/images/TEDx/tedx-letsgo.jpg) -->
 
