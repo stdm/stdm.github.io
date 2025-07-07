@@ -6,7 +6,7 @@ comments: false
 
 I enjoy active networking (matching people, organizations and ideas), public speaking, and leadership in different organizations. You find information related to such academic and public services below.
 
-**Booking**: I regularly give **keynote talks at public or private events** outside of the academic sphere. Topics are [generative AI and ChatGPT](https://stdm.github.io/downloads/talks/2023-04-02_Usecases-ChatGPT.pdf), [a hope-filled outlook on a future with AI](https://www.youtube.com/watch?v=0Sk_mX0dSCQ), [what to expect from AI and deep learning](https://stdm.github.io/downloads/talks/2018-11-22_Was-Sie-von-KI-erwarten-koennen.pdf), including an introduction to the methodology for laypersons; a [showcase of current industrial applications of deep learning technology](https://stdm.github.io/downloads/talks/2019-02-01_Industrial-Applications-DL-AI.pdf) and [recent research puzzles](https://stdm.github.io/downloads/talks/2022-03-18_Scientific-debt-wonder.pdf); and discussions of specific lessons learned for businesses and society in the areas of [data science](https://stdm.github.io/downloads/talks/2018-10-19_DS-Lessons-Learned.pdf) and [digitalization](https://stdm.github.io/downloads/talks/2018-08-29_SMEs_Digitalization.pdf). If you want to book me as a speaker for your prefessional event, please look at my [speaker page](https://thilo-stadelmann.com/) and get in touch with my [agency](https://premium-speakers.com/referent-moderator/thilo-stadelmann/). 
+**Booking**: I regularly give **keynote talks at public or private events** outside of the academic sphere (see also my [YouTube channel](https://www.youtube.com/channel/UCqEjuibTwlVoO9bUW0oI0pA)). Topics are [generative AI and ChatGPT](https://stdm.github.io/downloads/talks/2023-04-02_Usecases-ChatGPT.pdf), [a hope-filled outlook on a future with AI](https://www.youtube.com/watch?v=0Sk_mX0dSCQ), [what to expect from AI and deep learning](https://stdm.github.io/downloads/talks/2018-11-22_Was-Sie-von-KI-erwarten-koennen.pdf), including an introduction to the methodology for laypersons; a [showcase of current industrial applications of deep learning technology](https://stdm.github.io/downloads/talks/2019-02-01_Industrial-Applications-DL-AI.pdf) and [recent research puzzles](https://stdm.github.io/downloads/talks/2022-03-18_Scientific-debt-wonder.pdf); and discussions of specific lessons learned for businesses and society in the areas of [data science](https://stdm.github.io/downloads/talks/2018-10-19_DS-Lessons-Learned.pdf) and [digitalization](https://stdm.github.io/downloads/talks/2018-08-29_SMEs_Digitalization.pdf). If you want to book me as a speaker for your prefessional event, please look at my [speaker page](https://thilo-stadelmann.com/) and get in touch with my [agency](https://premium-speakers.com/referent-moderator/thilo-stadelmann/). 
 
 
 ### TOC 
@@ -623,6 +623,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 ## Community offices
 
 #### Boards & leadership
+  * 12/2024-ongoing: Associate of the [AI Faith & Civil Society Comission](https://www.ai-commission.com/), UK
+  
   * 07/2023-ongoing: Member of the scientific council of the [Israeli Association for Ethics in Artificial Intelligence](https://iaeai.org/)
   
   * 04/2021-01/2023: Member of the Interdisciplinary AI Working Group Law and Technology of [SATW](https://www.satw.ch/en/) and [FDFA](https://www.eda.admin.ch/eda/en/fdfa.html)
@@ -744,6 +746,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * July 07, 2025 [SEA Fokus](https://www.each.ch/wp-content/uploads/2025/06/250620_SEA_Fokus_KI_Juni_25_web.pdf): "Die Chance für Christen ist so gross wie lange nicht mehr"
+  
   * July 01, 2025 [Make-it-C.-L.-I.-C.-K. der Podcast](https://podcasts.apple.com/ch/podcast/prof-dr-thilo-stadelmann/id1769916908?i=1000715231954) mit Prof. Dr. Thilo Stadelmann
   
   * April 24, 2025 [Technik und Wissen](https://www.technik-und-wissen.ch/warum-man-ki-nicht-fuerchten-muss.htm): "**Warum man KI nicht fürchten muss**". TEDxZHAW-Vortrag von KI-Professor Thilo Stadelmann.
