@@ -434,7 +434,7 @@ Lukas Tuggener, Raphael Emberger, Adhiraj Ghosh, Pascal Sager, Yvan Putra Satyaw
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10379639"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Access_2023.jpg"/></a> <p style="color:green;text-align:center;font-weight:bold;">100 citations</p></td>
+<td style="width: 175px;"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10379639"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Access_2023.jpg"/></a> <p style="color:green;text-align:center;font-weight:bold;">>100 citations</p></td>
 <td>
 Peng Yan, Ahmed Abdulkadir, Paul-Philipp Luley, Matthias Rosenthal, Gerrit A. Schatte, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10379639"><strong>A Comprehensive Survey of Deep Transfer Learning for Anomaly Detection in Industrial Time Series: Methods, Applications, and Directions</strong></a>. In: <strong>IEEE Access</strong>, January 2024. DOI <a href="https://doi.org/10.1109/ACCESS.2023.3349132">10.1109/ACCESS.2023.3349132</a>.
 </td>
@@ -714,7 +714,7 @@ Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="http
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/FCW_2019.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/FCW_2019.jpg"/></a><strong>Invited Paper</strong></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/FCW_2019.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/FCW_2019.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Invited Paper</p></td>
 <td>
 Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/FCW_2019.pdf"><strong>Wie maschinelles Lernen den Markt verändert</strong></a>. In: Reinhard Haupt, Stephan Schmitz (Editors), "Digitalisierung: Datenhype mit Werteverlust? Ethische Perspektiven für eine Schlüsseltechnologie", pp. 67-79, ISBN 377516040X, <strong>SCM Hänssler</strong>, 2019.
 </td>
@@ -737,7 +737,7 @@ Ismail Elezi, Lukas Tuggener, Marcello Pelillo, and Thilo Stadelmann. <a href="h
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ANNPR_2018d.jpg"/></a><strong>Invited Paper</strong></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ANNPR_2018d.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Invited Paper</p></td>
 <td>
 Thilo Stadelmann, Mohammadreza Amirian, Ismail Arabaci, Marek Arnold, Gilbert François Duivesteijn, Ismail Elezi, Melanie Geiger, Stefan Lörwald, Benjamin Bruno Meier, Katharina Rombach, and Lukas Tuggener. <a href="https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf"><strong>Deep Learning in the Wild</strong></a>. In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR'18</strong>), Springer, LNAI 11081, pp. 17-38, Siena, Italy, September 19-21, 2018.
 </td>
