@@ -302,7 +302,7 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/CLEF_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/CLEF_2025.jpg"/></a><strong>Top-3 competition entry</strong></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/CLEF_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/CLEF_2025.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Top-3 competition entry<p></td>
 <td>
 Pascal J. Sager, Ashwini Kamaraj, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/CLEF_2025.pdf"><strong>Deep Retrieval at CheckThat! 2025: Identifying Scientific Papers from Implicit Social Media Mentions via Hybrid Retrieval and Re-Ranking</strong></a>. In: Working Notes of CLEF 2025 - Conference and Labs of the Evaluation Forum (<strong>CLEF'25 - CheckThat! Lab</strong>), Madrid, Spain, CEUR, 2025.
 </td>
