@@ -302,7 +302,7 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/CLEF_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/CLEF_2025.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Top-3 competition entry<p></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/CLEF_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/CLEF_2025.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Top-3 competition entry</p></td>
 <td>
 Pascal J. Sager, Ashwini Kamaraj, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/CLEF_2025.pdf"><strong>Deep Retrieval at CheckThat! 2025: Identifying Scientific Papers from Implicit Social Media Mentions via Hybrid Retrieval and Re-Ranking</strong></a>. In: Working Notes of CLEF 2025 - Conference and Labs of the Evaluation Forum (<strong>CLEF'25 - CheckThat! Lab</strong>), Madrid, Spain, CEUR, 2025.
 </td>
@@ -314,7 +314,7 @@ Matteo Saponati, Pascal Sager, Pau Vilimelis Aceituno, Thilo Stadelmann, and Ben
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2025b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2025b.jpg"/></a><strong>Best Scientific Full Paper Award</strong></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2025b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2025b.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Best Scientific Full Paper Award</p></td>
 <td>
 Benjamin Meyer, Pascal J. Sager, Ahmed Abdulkadir, Benjamin F. Grewe, Philipp Schuetz, Thilo Stadelmann, and Felice Burn. <a href="https://stdm.github.io/downloads/papers/SDS_2025b.pdf"><strong>Hounsfield Unit Ranges as Inductive Bias for Intra-Clinical Learning of Data-Efficient CT Segmentation Models</strong></a>. In: Proceedings of the 12th IEEE Swiss Conference on Data Science (<strong>SDS'25</strong>), Zurich, Switzerland, June 27, 2025. 
 </td>
@@ -338,7 +338,7 @@ Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan E
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/GRW_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/GRW_2025.jpg"/></a><strong>Invited Paper</strong></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/GRW_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/GRW_2025.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Invited Paper</p></td>
 <td>
 Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/GRW_2025.pdf"><strong>A guide to AI: Understanding the technology, applying it successfully, and shaping a positive future</strong></a>. <strong>Global Resilience White Papers</strong>, <a href="https://www.globalresiliencepub.com/wp-content/uploads/2025/01/Global-Resilience-White-Paper-2-A-GUIDE-TO-AI-by-Dr.-Thilo-Stadelmann.pdf">No. 2</a>, January 28, 2025.
 </td>
@@ -350,7 +350,7 @@ Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christop
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/KIW_2025.jpg"/></a><strong>Invited Paper</strong></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/KIW_2025.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Invited Paper</p></td>
 <td>
 Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"><strong>Wegweiser Künstliche Intelligenz: Verstehen, anwenden und zuversichtlich Zukunft gestalten</strong></a>. In: Sebastian Hersberger and Christian Hugo Hoffmann (Editors). "Wie die Künstliche Intelligenz die Wirtschaft verändert - Überblick über die theoretischen Grundlagen und Praxisbeispiele entlang von Ökosystemen", <strong>Springer</strong>, 2025.
 </td>
@@ -410,7 +410,7 @@ Peng Yan, Ahmed Abdulkadir, Giulia Aguzzi, Gerrit A. Schatte, Benjamin F. Grewe,
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2024b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2024b.jpg"/></a><strong>Honourable Mention - Best Paper Award</strong></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2024b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2024b.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Honourable Mention - Best Paper Award</p></td>
 <td>
 Lukas Tuggener, Pascal Sager, Yassine Taoudi-Benchekroun, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2024b.pdf"><strong>So you want your private LLM at home? A survey and benchmark of methods for efficient GPTs</strong></a>. In: Proceedings of the 11th IEEE Swiss Conference on Data Science (<strong>SDS'24</strong>), Zurich, Switzerland, May 31, 2024, DOI <a href="https://doi.org/10.1109/SDS60720.2024.00036">10.1109/SDS60720.2024.00036</a>.
 </td>
@@ -434,7 +434,7 @@ Lukas Tuggener, Raphael Emberger, Adhiraj Ghosh, Pascal Sager, Yvan Putra Satyaw
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10379639"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Access_2023.jpg"/></a> <strong>>100 citations</strong></td>
+<td style="width: 175px;"><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10379639"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Access_2023.jpg"/></a> <p style="color:green;text-align:center;font-weight:bold;">100 citations</p></td>
 <td>
 Peng Yan, Ahmed Abdulkadir, Paul-Philipp Luley, Matthias Rosenthal, Gerrit A. Schatte, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10379639"><strong>A Comprehensive Survey of Deep Transfer Learning for Anomaly Detection in Industrial Time Series: Methods, Applications, and Directions</strong></a>. In: <strong>IEEE Access</strong>, January 2024. DOI <a href="https://doi.org/10.1109/ACCESS.2023.3349132">10.1109/ACCESS.2023.3349132</a>.
 </td>
@@ -480,7 +480,7 @@ Paul-Philipp Luley, Jan M. Deriu, Peng Yan, Gerrit A. Schatte, and Thilo Stadelm
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.16405"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/MedPhys_2023.jpg"/></a><strong>Top-Viewed Wiley Article</strong></td>
+<td style="width: 175px;"><a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.16405"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/MedPhys_2023.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Top-Viewed Wiley Article</p></td>
 <td>
 Mohammadreza Amirian, Javier A. Montoya-Zegarra, Lukas Lichtensteiger, Ivo Herzig, Peter Eggenberger Hotz,  Marco Morf, Alexander Züst, Rudolf Marcel Füchslin, Pascal Paysan, Igor Peterlik, Stefan Scheib, Thilo Stadelmann, and Frank-Peter Schilling. <a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.16405"><strong>Mitigation of Motion-Induced Artifacts in Cone Beam Computed Tomography using Deep Convolutional Neural Networks</strong></a>. <strong>Med. Phys.</strong> 50: 6228-6242, Wiley, March 2023. DOI <a href="https://doi.org/10.1002/mp.16405">10.1002/mp.16405</a>.
 </td>
@@ -588,7 +588,7 @@ Thilo Stadelmann, Julian Keuzenkamp, Helmut Grabner, and Christoph Würsch. <a h
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2021b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2021b.jpg"/></a><strong>Best Paper Award</strong></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2021b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2021b.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Best Paper Award</p></td>
 <td>
 Evelyne Knapp, Mattia Battaglia, Thilo Stadelmann, Sandra Jenatsch, and Beat Ruhstaller. <a href="https://stdm.github.io/downloads/papers/SDS_2021b.pdf"><strong>XGBoost Trained on Synthetic Data to Extract Material Parameters of Organic Semiconductors</strong></a>. In: Proceedings of the 8th Swiss Conference on Data Science (<strong>SDS'21</strong>), Lucerne, Switzerland, 2021. 
 </td>
@@ -606,7 +606,7 @@ Niclas Simmler, Pascal Sager, Philipp Andermatt, Ricardo Chavarriaga, Frank-Pete
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/TR_2020.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/TR_2020.jpg"/></a><strong>Best Teaching - Best Practices Award</strong></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/TR_2020.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/TR_2020.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Best Teaching - Best Practices Award</p></td>
 <td>
 Thilo Stadelmann, and Christoph Würsch. <a href="https://stdm.github.io/downloads/papers/TR_2020.pdf"><strong>Maps for an Uncertain Future: Teaching AI and Machine Learning Using the ATLAS Concept</strong></a>. Technical report (didactic concept), <strong>ZHAW</strong>, Winterthur, Switzerland, 2020.
 </td>
@@ -636,7 +636,7 @@ Dano Roost, Ralph Meier, Giovanni Toffetti Carughi, and Thilo Stadelmann. <a hre
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ANNPR_2020.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ANNPR_2020.jpg"/></a><strong>Top-5 paper, invited for extended journal paper</strong>.</td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ANNPR_2020.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ANNPR_2020.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Top-5 paper, invited for extended journal paper</p>.</td>
 <td>
 Stefan Glüge, Mohammadreza Amirian, Dandolo Flumini, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ANNPR_2020.pdf"><strong>How (Not) to Measure Bias in Face Recognition Networks</strong></a>. In: Proceedings of the 9th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR'20</strong>), Springer, LNAI, Winterthur, Switzerland, September 02-04, 2020.
 </td>
@@ -648,7 +648,7 @@ Mohammadreza Amirian, Lukas Tuggener, Ricardo Chavarriaga, Yvan Putra Satyawan, 
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2020.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2020.jpg"/></a><strong>Best Poster Presentation Award</strong></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2020.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2020.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Best Poster Presentation Award</p></td>
 <td>
 Dano Roost, Ralph Meier, Stephan Huschauer, Erik Nygren, Adrian Egli, Andreas Weiler, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2020.pdf"><strong>Improving Sample Efficiency and Multi-Agent Communication in RL-based Train Rescheduling</strong></a>. In: Proceedings of the 7th Swiss Conference on Data Science (<strong>SDS'20</strong>), Lucerne, Switzerland, June 26, 2020. IEEE.
 </td>
@@ -708,7 +708,7 @@ Thilo Stadelmann, Martin Braschler, and Kurt Stockinger. <a href="https://stdm.g
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ADS_2019_Preface.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ADS_2019.jpg"/></a> <strong>>123k accesses</strong></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ADS_2019_Preface.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ADS_2019.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">>123k accesses</p></td>
 <td>
 Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="https://stdm.github.io/downloads/papers/ADS_2019_Preface.pdf"><strong>Applied Data Science - Lessons Learned for the Data-Driven Business</strong></a>. <strong>Springer</strong>, 2019.
 </td>
@@ -720,7 +720,7 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/FCW_2019.pdf"
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2019.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2019.jpg"/></a><strong>Most Cited Paper Award</strong></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2019.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2019.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Most Cited Paper Award</p></td>
 <td>
 Lukas Tuggener, Mohammadreza Amirian, Katharina Rombach, Stefan Lörwald, Anastasia Varlet, Christian Westermann, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2019.pdf"><strong>Automated Machine Learning in Practice: State of the Art and Recent Results</strong></a>. In: Proceedings of the 6th Swiss Conference on Data Science (<strong>SDS'19</strong>), Bern, Switzerland, June 14, 2019. IEEE.
 </td>
@@ -803,13 +803,13 @@ Yanick X. Lukic, Carlo Vogt, Oliver Dürr, and Thilo Stadelmann. <a href="https:
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/MLSP_2016.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/MLSP_2016.jpg"/></a> <strong>>100 citations</strong></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/MLSP_2016.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/MLSP_2016.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">>100 citations</p></td>
 <td>
 Yanick Lukic, Carlo Vogt, Oliver Dürr, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/MLSP_2016.pdf"><strong>Speaker Identification and Clustering using Convolutional Neural Networks</strong></a>. In: Proceedings of IEEE International Workshop on Machine Learning for Signal Processing (<strong>MLSP'16</strong>). Salerno: IEEE. DOI <a href="https://doi.org/10.21256/zhaw-3761">10.21256/zhaw-3761</a>.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/HMD_2016.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/HMD_2016.jpg"/></a> <strong>>45k accesses</strong></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/HMD_2016.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/HMD_2016.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">>45k accesses</p></td>
 <td>
 Kurt Stockinger, Thilo Stadelmann, and Andreas Ruckstuhl. <a href="https://stdm.github.io/downloads/papers/HMD_2016.pdf"><strong>Data Scientist als Beruf</strong></a>. Big Data - Grundlagen, Systeme und Nutzungspotenziale, Springer Verlag, <strong>Edition HMD</strong> 59-81, 2016. DOI <a href="https://doi.org/10.1007/978-3-658-11589-0_4">10.1007/978-3-658-11589-0_4</a>.
 </td>
@@ -825,7 +825,7 @@ Kurt Stockinger, Thilo Stadelmann, and Andreas Ruckstuhl. <a href="https://stdm.
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/AIMAG_2015.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AIMAG_2015.jpg"/></a><strong>Invited Paper</strong></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/AIMAG_2015.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AIMAG_2015.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Invited Paper</p></td>
 <td>
 Jean-Daniel Dessimoz, Jana Koehler, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/AIMAG_2015.pdf"><strong>AI in Switzerland</strong></a>. <strong>AI Magazine</strong>. 36(2), S. 102-105, 2015. DOI <a href="https://doi.org/10.21256/zhaw-3642">10.21256/zhaw-3642</a>.
 </td>
@@ -1034,7 +1034,7 @@ Ralph Ewerth, Christian Behringer, Tobias Kopp, Michael Niebergall, Thilo Stadel
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/DiplomaThesis_2004.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/DiplomaThesis_2004.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/DiplomaThesis_2004.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/DiplomaThesis_2004.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Top grade</p></td>
 <td>
 Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/DiplomaThesis_2004.pdf"><strong>Sprechererkennung in Videos</strong></a>. Diplomarbeit, <strong>Fachhochschule Giessen-Friedberg</strong>, 2004.
 </td>
