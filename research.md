@@ -302,6 +302,12 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2025c.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2025c.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Top-3 competition entry</p></td>
+<td>
+Benjamin Meyer, Lukas Tuggener, Sascha Hänzi, Daniel Schmid, Erdal Ayfer, Benjamin F. Grewe, Ahmed Abdulkadir, Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025c.pdf"><strong>A document is worth a structured record: Principled inductive bias design for document recognition</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/abs/2507.08458">arXiv:2507.08458</a>, July 2025.
+</td>
+</tr>
+<tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/CLEF_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/CLEF_2025.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Top-3 competition entry</p></td>
 <td>
 Pascal J. Sager, Ashwini Kamaraj, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/CLEF_2025.pdf"><strong>Deep Retrieval at CheckThat! 2025: Identifying Scientific Papers from Implicit Social Media Mentions via Hybrid Retrieval and Re-Ranking</strong></a>. In: Working Notes of CLEF 2025 - Conference and Labs of the Evaluation Forum (<strong>CLEF'25 - CheckThat! Lab</strong>), Madrid, Spain, CEUR, 2025.
