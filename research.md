@@ -302,7 +302,7 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2025c.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2025c.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Top-3 competition entry</p></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2025c.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2025c.jpg"/></a></td>
 <td>
 Benjamin Meyer, Lukas Tuggener, Sascha Hänzi, Daniel Schmid, Erdal Ayfer, Benjamin F. Grewe, Ahmed Abdulkadir, Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025c.pdf"><strong>A document is worth a structured record: Principled inductive bias design for document recognition</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/abs/2507.08458">arXiv:2507.08458</a>, July 2025.
 </td>
