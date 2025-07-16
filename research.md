@@ -21,7 +21,7 @@ This is the academic website of [Thilo Stadelmann](https://www.zhaw.ch/en/about-
 
 Thilo studied computer science in Giessen and Marburg and received the Doctor of Science degree from [Marburg University](https://www.informatik.uni-marburg.de/~stadelmann/), Germany, in 2010, where he worked on multimedia analysis and voice recognition. Thilo held engineering and leadership roles in the automotive industry for several years prior to the appointment at the ZHAW. His current research interests revolve around robust representation learning in deep neural networks for pattern recognition problems; how to learn structured and actionable representations for world models; and societal effects of AI. The group and research is introduced in more detail [below](#group).
 
-A personal note: I like kitesurfing, enjoy playing music on stringed instruments (guitars, bass), and am a follower of <a href="https://odb.org/">Jesus Christ</a>. If this makes you curious, send me an email with a meeting request (subject "30 minutes on faith"), I am happy to explain. I try living by the following values (my closer colleagues know I am not there yet): excellence; wisdom; honor all people; mercy for failure; and courage.
+A personal note: I like kitesurfing, enjoy playing music on stringed instruments (guitars, bass), and am a follower of <a href="https://jesus.net">Jesus Christ</a>. If this makes you curious, send me an email with a meeting request (subject "30 minutes on faith"), I am happy to explain. I try living by the following values (my closer colleagues know I am not there yet): excellence; wisdom; honor all people; mercy for failure; and courage.
 
 
 <a name="group"></a>
