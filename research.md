@@ -302,7 +302,7 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/PMM_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/PMM_2025.png"/></a></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/PMM_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/PMM_2025.png"/></a><p style="color:green;text-align:center;font-weight:bold;">Invited Paper</p></td>
 <td>
 Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/PMM_2025.pdf"><strong>Debate: Evidence-based AI risk assessment for public policy</strong></a>. In: <strong>Public Money & Management</strong>, accepted for publication, July 2025.
 </td>
