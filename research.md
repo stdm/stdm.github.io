@@ -322,13 +322,13 @@ Matteo Saponati, Pascal Sager, Pau Vilimelis Aceituno, Thilo Stadelmann, and Ben
 <tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2025b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2025b.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Best Scientific Full Paper Award</p></td>
 <td>
-Benjamin Meyer, Pascal J. Sager, Ahmed Abdulkadir, Benjamin F. Grewe, Philipp Schuetz, Thilo Stadelmann, and Felice Burn. <a href="https://stdm.github.io/downloads/papers/SDS_2025b.pdf"><strong>Hounsfield Unit Ranges as Inductive Bias for Intra-Clinical Learning of Data-Efficient CT Segmentation Models</strong></a>. In: Proceedings of the 12th IEEE Swiss Conference on Data Science (<strong>SDS'25</strong>), Zurich, Switzerland, June 27, 2025. 
+Benjamin Meyer, Pascal J. Sager, Ahmed Abdulkadir, Benjamin F. Grewe, Philipp Schuetz, Thilo Stadelmann, and Felice Burn. <a href="https://stdm.github.io/downloads/papers/SDS_2025b.pdf"><strong>Hounsfield Unit Ranges as Inductive Bias for Intra-Clinical Learning of Data-Efficient CT Segmentation Models</strong></a>. In: Proceedings of the 12th IEEE Swiss Conference on Data Science (<strong>SDS'25</strong>), pp. 1-7, Zurich, Switzerland, June 27, 2025. DOI <a href="https://doi.org/10.1109/SDS66131.2025.00008">10.1109/SDS66131.2025.00008</a>.
 </td>
 </tr>
 <tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2025a.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2025a.jpg"/></a></td>
 <td>
-Peng Yan, Ahmed Abdulkadir, Gerrit A. Schatte, Giulia Aguzzi, Joonsu Gha, Nikola Pascher, Matthias Rosenthal, Yunlong Gao, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2025a.pdf"><strong>Learning Actionable World Models for Industrial Process Control</strong></a>. In: Proceedings of the 12th IEEE Swiss Conference on Data Science (<strong>SDS'25</strong>), Zurich, Switzerland, June 27, 2025. 
+Peng Yan, Ahmed Abdulkadir, Gerrit A. Schatte, Giulia Aguzzi, Joonsu Gha, Nikola Pascher, Matthias Rosenthal, Yunlong Gao, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2025a.pdf"><strong>Learning Actionable World Models for Industrial Process Control</strong></a>. In: Proceedings of the 12th IEEE Swiss Conference on Data Science (<strong>SDS'25</strong>), pp. 111-118, Zurich, Switzerland, June 27, 2025. DOI <a href="https://doi.org/10.1109/SDS66131.2025.00022">10.1109/SDS66131.2025.00022</a>.
 </td>
 </tr>
 <tr>
