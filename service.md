@@ -37,11 +37,15 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Interview and Q&A at **GoUnity**, Zurich, Switzerland, November 20, 2025
 
+  * Keynote at "IPA Jahrestagung" of **PSI Software**, Munich, Germany November 13, 2025
+
   * Panelist at  **Hoffnungswoche 2025**, Embrach, Switzerland, November 05, 2025
   
   * Invited talk "Künstliche Intelligenz und Weltanschauung" at **VBG Zürich**, Zurich, Switzerland, October 07, 2025
 
   * Invited talk at **Vetter Kabelverlegetechnik GmbH**, Lottstetten, Germany, September 29, 2025
+  
+  * Invited talk on "AI & robotics sector highlights" at "Go Switzerland!" Webinar of **Greater Zurich Area** and **Israeli Export Institute**, online, July 29, 2025
   
   * Invited talk at **UNITED** leadership conference, Baden Baden, Germany, July 05, 2025
   
