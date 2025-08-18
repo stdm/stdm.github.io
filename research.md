@@ -302,6 +302,12 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
+<td style="width: 175px;"><a href="https://doi.org/10.3389/fcomp.2025.1644044"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2023c.jpg"/></a></td>
+<td>
+Lukas Tuggener, Thilo Stadelmann, and Jürgen Schmidhuber. <a href="https://stdm.github.io/downloads/papers/ArXiv_2023c.pdf"><strong>Efficient Rotation Invariance in Deep Neural Networks through Artificial Mental Rotation</strong></a>. In: Computer Vision - <strong>Frontiers in Computer Science</strong> 7, August 2025. DOI <a href="https://doi.org/10.3389/fcomp.2025.1644044">10.3389/fcomp.2025.1644044</a>.
+</td>
+</tr>
+<tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/PMM_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/PMM_2025.png"/></a><p style="color:green;text-align:center;font-weight:bold;">Invited Paper</p></td>
 <td>
 Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/PMM_2025.pdf"><strong>Debate: Evidence-based AI risk assessment for public policy</strong></a>. In: <strong>Public Money & Management</strong>, accepted for publication, July 2025. DOI <a href="https://doi.org/10.1080/09540962.2025.2541304">10.1080/09540962.2025.2541304</a>.
@@ -468,12 +474,6 @@ Jan Segessenmann, Thilo Stadelmann, Andrew Davison, and Oliver Dürr. <a href="h
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2023c.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2023c.jpg"/></a></td>
-<td>
-Lukas Tuggener, Thilo Stadelmann, and Jürgen Schmidhuber. <a href="https://stdm.github.io/downloads/papers/ArXiv_2023c.pdf"><strong>Efficient Rotation Invariance in Deep Neural Networks through Artificial Mental Rotation</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/pdf/2311.08525.pdf">arXiv:2311.08525</a>, November 2023.
-</td>
-</tr>
-<tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/APLML_2023.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/APLML_2023.jpg"/></a></td>
 <td>
 Matthia Battaglia, Ennio Comi, Thilo Stadelmann, Roman Hiestand, Beat Ruhstaller, and Evelyne Knapp. <a href="https://stdm.github.io/downloads/papers/APLML_2023.pdf"><strong>Deep Ensemble Inverse Model for Image-Based Estimation of Solar Cell Parameters</strong></a>. In: <strong>APL Machine Learning</strong> 1(3). 01. September 2023. DOI <a href="https://doi.org/10.1063/5.0139707">10.1063/5.0139707</a>.
@@ -518,7 +518,7 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/Buergenstock_
 <tr>
 <td style="width: 175px;"><a href="https://doi.org/10.3389/fcomp.2022.1041703"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Frontiers_2022.jpg"/></a></td>
 <td>
-Lukas Tuggener, Jürgen Schmidhuber, and Thilo Stadelmann. <a href="https://doi.org/10.3389/fcomp.2022.1041703"><strong>Is it enough to optimize CNN architectures on ImageNet?</strong></a>. Computer Vision - <strong>Frontiers in Computer Science</strong>, DOI <a href="https://doi.org/10.3389/fcomp.2022.1041703">10.3389/fcomp.2022.1041703</a>, 15 November 2022.
+Lukas Tuggener, Jürgen Schmidhuber, and Thilo Stadelmann. <a href="https://doi.org/10.3389/fcomp.2022.1041703"><strong>Is it enough to optimize CNN architectures on ImageNet?</strong></a>. In: Computer Vision - <strong>Frontiers in Computer Science</strong>, DOI <a href="https://doi.org/10.3389/fcomp.2022.1041703">10.3389/fcomp.2022.1041703</a>, 15 November 2022.
 </td>
 </tr>
 <tr>
