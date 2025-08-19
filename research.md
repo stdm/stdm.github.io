@@ -380,7 +380,10 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"
 </td>
 </tr>
 </table>
+</details>
 
+<details>
+<summary><b>2016-2024</b></summary>
 
 <b>2024</b>
 
@@ -464,11 +467,6 @@ Peng Yan, Ahmed Abdulkadir, Paul-Philipp Luley, Matthias Rosenthal, Gerrit A. Sc
 </td>
 </tr>
 </table>
-</details>
-
-
-<details>
-<summary><b>2016-2023</b></summary>
 
 <b>2023</b>
 
