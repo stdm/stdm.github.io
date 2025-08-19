@@ -304,11 +304,9 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 <tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/iScience_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/iScience_2025.png"/></a></td>
 <td>
-Marco Mussi, Alberto M. Metelli, Marcello Restelli, Gianvito Losapio, Ricardo J. Bessa, Daniel Boos, Clark Borst, Giulia Leto, Alberto Castagna, Ricardo Chavarriaga, Duarte Dias, Adrian Egli, Andrina Eisenegger, Yassine El Manyari, Anton Fuxjäger, Joaquim Geraldes, Samira Hamouche, Mohamed Hassouna, Bruno Lemetayer, Milad Leyli-Abadi, Roman Liessner, Jonas Lundberg, Antoine Marot, Maroua Meddeb, Viola Schiaffonati, Manuel
-Schneider, Thilo Stadelmann, Julia Usher, Herke Van Hoof, Jan Viebahn, Toni Waefler, and Giacomo Zanotti. <a href="https://stdm.github.io/downloads/papers/iScience_2025.pdf"><strong>Human-AI Interaction in Safety-Critical Network Infrastructures</strong></a>. In: <strong>iScience</strong>, August 2025. 
+Marco Mussi, Alberto M. Metelli, Marcello Restelli, Gianvito Losapio, Ricardo J. Bessa, Daniel Boos, Clark Borst, Giulia Leto, Alberto Castagna, Ricardo Chavarriaga, Duarte Dias, Adrian Egli, Andrina Eisenegger, Yassine El Manyari, Anton Fuxjäger, Joaquim Geraldes, Samira Hamouche, Mohamed Hassouna, Bruno Lemetayer, Milad Leyli-Abadi, Roman Liessner, Jonas Lundberg, Antoine Marot, Maroua Meddeb, Viola Schiaffonati, Manuel Schneider, Thilo Stadelmann, Julia Usher, Herke Van Hoof, Jan Viebahn, Toni Waefler, and Giacomo Zanotti. <a href="https://stdm.github.io/downloads/papers/iScience_2025.pdf"><strong>Human-AI Interaction in Safety-Critical Network Infrastructures</strong></a>. In: <strong>iScience</strong>, August 2025. 
 </td>
 </tr>
-<tr>
 <tr>
 <td style="width: 175px;"><a href="https://doi.org/10.3389/fcomp.2025.1644044"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2023c.jpg"/></a></td>
 <td>
