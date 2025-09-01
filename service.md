@@ -750,6 +750,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * August 31, 2025 [NAU.ch](https://www.nau.ch/news/schweiz/so-echt-sehen-ki-schauspieler-heute-schon-aus-67011067): "So echt sehen KI-Schauspieler heute schon aus"
+
   * July 07, 2025 [SEA Fokus](https://www.each.ch/wp-content/uploads/2025/06/250620_SEA_Fokus_KI_Juni_25_web.pdf): "Die Chance für Christen ist so gross wie lange nicht mehr"
   
   * July 01, 2025 [Make-it-C.-L.-I.-C.-K. der Podcast](https://podcasts.apple.com/ch/podcast/prof-dr-thilo-stadelmann/id1769916908?i=1000715231954) mit Prof. Dr. Thilo Stadelmann
