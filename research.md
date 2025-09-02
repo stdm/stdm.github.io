@@ -358,7 +358,7 @@ Briac Lanfant, Silvan Lack, Benjamin Meyer, Ahmed Abdulkadir, Thilo Stadelmann, 
 <tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2025b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2025b.jpg"/></a></td>
 <td>
-Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan Etaiwi, Aref Enayati, Gabriel Nobel, Ahmed Abdulkadir, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025b.pdf"><strong>AI Agents for Computer Use: A Review of Instruction-based Computer Control, GUI Automation, and Operator Assistants</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/abs/2501.16150">arXiv:2501.16150v1</a>, January 2025.
+Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan Etaiwi, Aref Enayati, Gabriel Nobel, Ahmed Abdulkadir, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025b.pdf"><strong>A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/abs/2501.16150">arXiv:2501.16150v1</a>, January 2025.
 </td>
 </tr>
 <tr>
