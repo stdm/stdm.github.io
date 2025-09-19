@@ -308,9 +308,9 @@ Marco Mussi, Alberto M. Metelli, Marcello Restelli, Gianvito Losapio, Ricardo J.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://doi.org/10.3389/fcomp.2025.1644044"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2023c.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://doi.org/10.3389/fcomp.2025.1644044"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Frontiers_2025.jpg"/></a></td>
 <td>
-Lukas Tuggener, Thilo Stadelmann, and Jürgen Schmidhuber. <a href="https://stdm.github.io/downloads/papers/ArXiv_2023c.pdf"><strong>Efficient Rotation Invariance in Deep Neural Networks through Artificial Mental Rotation</strong></a>. In: Computer Vision - <strong>Frontiers in Computer Science</strong> 7, August 2025. DOI <a href="https://doi.org/10.3389/fcomp.2025.1644044">10.3389/fcomp.2025.1644044</a>.
+Lukas Tuggener, Thilo Stadelmann, and Jürgen Schmidhuber. <a href="https://stdm.github.io/downloads/papers/Frontiers_2025.pdf"><strong>Efficient Rotation Invariance in Deep Neural Networks through Artificial Mental Rotation</strong></a>. In: Computer Vision - <strong>Frontiers in Computer Science</strong> 7:1644044, August 2025. DOI <a href="https://doi.org/10.3389/fcomp.2025.1644044">10.3389/fcomp.2025.1644044</a>.
 </td>
 </tr>
 <tr>
