@@ -21,9 +21,13 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 #### 2026
 
+  * Invited talk at **Congreso Christiano**, Asunción, Paraguay, September 03-04, 2026
+
   * Invited talk on "Prohuman Tech Design" at **Digital Winterthur**, Winterthur, Switzerland, February 26, 2026
   
-  * Invites talk at **Reformierte Kirche Beringen**, Beringen, Switzerland, February 17, 2026
+  * Invited talk at **Reformierte Kirche Beringen**, Beringen, Switzerland, February 17, 2026
+  
+  * Invited talk at **Pharma Davos**, Davos, Switzerland, February 10, 2026
   
   * Invited talk at the **SPM Leiterkonferenz**, Sitzerland, January 21, 2026
   
@@ -39,11 +43,21 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
   * Keynote at "IPA Jahrestagung" of **PSI Software**, Munich, Germany November 13, 2025
 
-  * Panelist at  **Hoffnungswoche 2025**, Embrach, Switzerland, November 05, 2025
+  * Panelist at **Hoffnungswoche 2025**, Embrach, Switzerland, November 05, 2025
   
-  * Invited talk "Künstliche Intelligenz und Weltanschauung" at **VBG Zürich**, Zurich, Switzerland, October 07, 2025
+  * Invited talk at **Metanoia IV - Heart & Knowledge**, Chateau de Bossey, Switzerland, Octiber 24-26, 2025
+  
+  * Invited talk on "Künstliche Intelligenz und Weltanschauung" at **VBG Zürich**, Zurich, Switzerland, October 07, 2025
+  
+  * Invited talk at **Ageas** leadership offsite, Rueschlikon, Switzerland, October 06, 2025
+  
+  * Keynote "AI - The unexpected opportunity for missions" at **Digital Missionary Conference**, online, October 01, 2025
+  
+  * Invited talk at **TX Media Leadership Summit**, Zurich, Switzerland, September 30, 2025
 
   * Invited talk at **Vetter Kabelverlegetechnik GmbH**, Lottstetten, Germany, September 29, 2025
+  
+  * Invited talk on "The stochastic nature of machine learning and its implications for high-consequence AI" at Workshop on "AI on the Battlefield"", **Reichman University**, Herzliya, Israel, September 12-14, 2025
   
   * Invited talk on "AI & robotics sector highlights" at "Go Switzerland!" Webinar of **Greater Zurich Area** and **Israeli Export Institute**, online, July 29, 2025
   
@@ -750,7 +764,15 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * October 03, 2025 [ERF relevant - das Wochenmagazin](https://erf-medien.ch/gesellschaft/wissen/best-of-ki-und-der-mensch/): "Best of - KI und der Mensch"
+  
+  * October 02, 2025 [Stadtanzeiger Opfikon](https://www.opfikon.ch/_docn/6157678/SA_02_10_2025.pdf): "Wie Kloten, Opfikon und Wallisellen KI nutzen"
+  
+  * September 06, 2025 [NZZ](https://www.nzz.ch/wirtschaft/und-der-ki-gewinner-heisst-google-ld.1900727): "Und der KI-Gewinner heisst... Google!"
+
   * August 31, 2025 [NAU.ch](https://www.nau.ch/news/schweiz/so-echt-sehen-ki-schauspieler-heute-schon-aus-67011067): "So echt sehen KI-Schauspieler heute schon aus"
+  
+  * August 01, 2025 [Heime & Spitäler](https://www.heimeundspitaeler.ch/e-health/wie-die-oase-gruppe-mit-ki-und-software-robotern-die-pflege-entlastet): "Wie die Oase-Gruppe mit KI und Software-Robotern die Pflege entlastet"
 
   * July 07, 2025 [SEA Fokus](https://www.each.ch/wp-content/uploads/2025/06/250620_SEA_Fokus_KI_Juni_25_web.pdf): "Die Chance für Christen ist so gross wie lange nicht mehr"
   

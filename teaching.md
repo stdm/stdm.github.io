@@ -29,6 +29,9 @@ Original versions of my main courses are available as free online ressources as 
 
 | **When** | **Level** | **Type** | **Title** |
 | --- | --- | --- | --- |
+| Fall 2025 | MSc | VT1| Prohuman tech design for AI |
+| Fall 2025 | BSc | PA | Deep Learning for MRI Analysis |
+| Fall 2025 | BSc | PA | Neural world models for next-generation AI: Longterm planning for robot navigation |
 | Spring 2025 | PhD | Thesis | [**Advanced Representation Learning Techniques For Graph Neural Networks**](https://doi.org/10.21256/zhaw-32794) <br> Student: Waqar Ali |
 | Spring 2025 | MSc | MT |Process Monitoring and Control with Neural World Models |
 | Fall 2024 | PhD | Thesis | **[Strategies for Practical Deep Learning](https://n2t.net/ark:/12658/srd1330766)** <br> _top grade_ <br> Student: Lukas Tuggener |
@@ -135,9 +138,11 @@ Original versions of my main courses are available as free online ressources as 
 
 | Tag | Name | Format | Type | Content | Did what? | When? |
 | --- | --- | --- | --- | --- | --- | --- |
-| [AI1](http://stdm.github.io/ai-course) | **Artificial Intelligence 1** | lecture & lab | final year BSc computer science elective course; won [best teaching award (3rd place)](https://stdm.github.io/ATLAS/) in 2019 | foundational AI course based on Russell&Norvig's book | responsible, initiate, create, teach | Spring 2017, fall 2017-2023 |
-| AI2 | **Artificial Intelligence 2** | lecture & lab | finale year BSc computer science / data science elective course | developing fair algorithms; towards more general neural models | responsible, co-initiate, co-create, co-teach | Fall 2017, spring 2023-2025 |
-| INTAI | **Introduction to AI for Engineers** | block week | elective final year block course for all engineering programmes | short introduction based on AI1 | responsible, initiate, create, teach | Fall 2023 |
+| [AI1](http://stdm.github.io/ai-course) | **Artificial Intelligence 1** | lecture & lab | final year BSc computer science elective course; won [best teaching award (3rd place)](https://stdm.github.io/ATLAS/) in 2019 | foundational AI course focusing on deep learning, based on Prince's UDL book | responsible, initiate, create, teach | Spring 2017, fall 2017-2023, 2025 |
+| AI2 | **Artificial Intelligence 2** | lecture & lab | finale year BSc computer science / data science elective course | More general AI based on symbolic methods (based on Russell&Norvig's book) and advanced neural models | responsible, co-initiate, co-create, co-teach | Fall 2017, spring 2023-2025 |
+| INTAI | **Introduction to AI for Engineers** | block week | elective final year block course for all engineering programmes | short introduction based on AI1/AI2 | responsible, initiate, create, teach | Fall 2023, 2025 |
+| CAS KIVA | **Introduction to AI and Machine Learning** | half day | introducory half day in no-code continuing eductation certificate on understanding and using AI | AI and ML basic undertanding | responsible, initiate, create, teach | Fall  2025 |
+
 
 
 #### Previously
