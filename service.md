@@ -22,6 +22,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 #### 2026
 
   * Invited talk at **Congreso Christiano**, Asunción, Paraguay, September 03-04, 2026
+  
+  * Keynote on "Zones of Encounter? Where and How Digital Theologies relate to the Tech World" at Chruch and AI workshop, University of Zurich, Zurich, Switzerland, June 17, 2025
 
   * Invited talk on "Prohuman Tech Design" at **Digital Winterthur**, Winterthur, Switzerland, February 26, 2026
   
@@ -37,7 +39,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
 #### 2025
 
-  * Invited talk at **FRZ Wirtschaftsforum 2025**, Kloten, Switzerland, November 24, 2025
+  * Invited talk on "Prohuman AI" at **FRZ Wirtschaftsforum 2025**, Kloten, Switzerland, November 24, 2025
   
   * Interview and Q&A at **GoUnity**, Zurich, Switzerland, November 20, 2025
 
@@ -45,7 +47,9 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
   * Panelist at **Hoffnungswoche 2025**, Embrach, Switzerland, November 05, 2025
   
-  * Invited talk at **Metanoia IV - Heart & Knowledge**, Chateau de Bossey, Switzerland, Octiber 24-26, 2025
+  * Invited talk on "Ethos: Ethics, Humanity, and the Heart of Technology" at **Metanoia IV - Heart & Knowledge**, Chateau de Bossey, Switzerland, October 24-26, 2025
+  
+  * Invited talk "Of Zombies and DJs: Leading Business amidst AI-Circus" at ZGV leadership offsite, Zurich, October 20, 2025
   
   * Invited talk on "Künstliche Intelligenz und Weltanschauung" at **VBG Zürich**, Zurich, Switzerland, October 07, 2025
   
@@ -673,6 +677,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   * Topic editor for the [Journal of Imaging](http://www.mdpi.com/journal/jimaging), an international multi/interdisciplinary peer-reviewed open access journal of imaging techniques published online monthly by MDPI (postponed until special issue for sister journal "Computers" is completed)
   
   * Reviewer for [IEEE Transactions on Systems, Man and Cybernetics: Systems](https://www.ieeesmc.org/publications/transactions-on-smc-systems), [IEEE/ACM Transactions on Audio, Speech and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655), [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78), [EURASIP Journal on Audio, Speech, and Music Processing](https://asmp-eurasipjournals.springeropen.com/), [PLOS ONE](https://journals.plos.org/plosone/) and the [Science Media Center Germany](https://www.sciencemediacenter.de/)
+
+  * Program Co-Chair, IEEE Swiss Conference on Data Science 2026, May 07-08, 2026, Zurich, Switzerland
 
   * Program Co-Chair, [IEEE Swiss Conference on Data Science 2025](https://sds2025.ch/), June 26-27, 2025, Zurich, Switzerland
 
