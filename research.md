@@ -43,8 +43,8 @@ The group has very diverse backgrounds, which helps us complement each other's s
     <li><a href="https://www.linkedin.com/in/peng520/">Peng Yan</a>, PhD student: B.Sc. measuring & control technology (Jianghan U.) & M.Sc. control engineering (Xiamen U.), M.Sc. data science (UZH), doctorate in conjunction with <a href="https://www.ini.uzh.ch/en/research/groups/grewe.html">Benjamin F. Grewe</a> of the University of Zurich / Switzerland</li>
     <li><a href="https://www.linkedin.com/in/pascal-sager-3b7403168">Pascal Sager</a>, PhD student: B.Sc. & M.Sc. computer science (ZHAW), doctorate in conjunction with <a href="https://www.ini.uzh.ch/en/research/groups/grewe.html">Benjamin F. Grewe</a> of the University of Zurich / Switzerland</li>
     <li><a href="https://www.linkedin.com/in/benjamin-meyer-b87077151">Benjamin Meyer</a>, PhD student: B.Sc. information technology (FHNW), M.Sc. computer science (U Basel), doctorate in conjunction with <a href="https://www.ini.uzh.ch/en/research/groups/grewe.html">Benjamin F. Grewe</a> of the University of Zurich / Switzerland</li>
+    <li><a href="https://www.linkedin.com/in/adrian-th%C3%BCr-01976b160/">Adrian Thuer</a>, research assistent and M.Sc. student: B.Sc. computer science (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/livia-l%C3%BCscher-72aaaa139/">Livia Luescher</a>, M.Sc. student: B.Sc. business administration with honors (HWZ Zurich)</li>
-    <li><a href="https://www.linkedin.com/in/adrian-th%C3%BCr-01976b160/">Adrian Thuer</a>, M.Sc. student: B.Sc. computer science (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/elia-untern%C3%A4hrer-201593255/">Elia Unternährer</a>, M.Sc. student: B.Sc. business information technology (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/jakub-hanush/">Jakub Hanuska</a>, M.Sc. student: B.Sc. open informatics (Mendel University of Brno)</li>
     <li><a href="https://www.linkedin.com/in/rebekka-von-wartburg-3b807b298/">Rebekka von Wartburg</a>, M.Sc. student: B.Sc. computer science (ZHAW)</li>
@@ -298,6 +298,18 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 <details open="open">
 <summary><b>Recent</b></summary>
 
+<b>2026</b>
+
+<table class="publist">
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/PMM_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/PMM_2025.png"/></a><p style="color:green;text-align:center;font-weight:bold;">Invited Paper</p></td>
+<td>
+Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/PMM_2025.pdf"><strong>Debate: Evidence-based AI risk assessment for public policy</strong></a>. In: <strong>Public Money & Management</strong>, vol. 46, no. 1, January 2026. DOI <a href="https://doi.org/10.1080/09540962.2025.2541304">10.1080/09540962.2025.2541304</a>.
+</td>
+</tr>
+</table>
+
+
 <b>2025</b>
 
 <table class="publist">
@@ -311,12 +323,6 @@ Marco Mussi, Alberto M. Metelli, Marcello Restelli, Gianvito Losapio, Ricardo J.
 <td style="width: 175px;"><a href="https://doi.org/10.3389/fcomp.2025.1644044"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Frontiers_2025.jpg"/></a></td>
 <td>
 Lukas Tuggener, Thilo Stadelmann, and Jürgen Schmidhuber. <a href="https://stdm.github.io/downloads/papers/Frontiers_2025.pdf"><strong>Efficient Rotation Invariance in Deep Neural Networks through Artificial Mental Rotation</strong></a>. In: Computer Vision - <strong>Frontiers in Computer Science</strong> 7:1644044, August 2025. DOI <a href="https://doi.org/10.3389/fcomp.2025.1644044">10.3389/fcomp.2025.1644044</a>.
-</td>
-</tr>
-<tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/PMM_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/PMM_2025.png"/></a><p style="color:green;text-align:center;font-weight:bold;">Invited Paper</p></td>
-<td>
-Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/PMM_2025.pdf"><strong>Debate: Evidence-based AI risk assessment for public policy</strong></a>. In: <strong>Public Money & Management</strong>, accepted for publication, July 2025. DOI <a href="https://doi.org/10.1080/09540962.2025.2541304">10.1080/09540962.2025.2541304</a>.
 </td>
 </tr>
 <tr>
