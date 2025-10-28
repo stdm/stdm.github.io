@@ -607,7 +607,7 @@ Mohammadreza Amirian, Javier A. Montoya-Zegarra, Jonathan Gruss, Yves D. Stebler
 <tr>
 <td style="width: 175px;"><a href="https://www.mdpi.com/2227-7102/11/7/318/pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/EducSci_2021.jpg"/></a></td>
 <td>
-Thilo Stadelmann, Julian Keuzenkamp, Helmut Grabner, and Christoph Würsch. <a href="https://www.mdpi.com/2227-7102/11/7/318/pdf"><strong>The AI Atlas: Didactics for Teaching AI and Machine Learning On-Site, Online, and hybrid</strong></a>. <strong>Educ. Sci.</strong> 2021, 11, 318, MDPI, Basel, Switzerland, June 25, 2021.
+Thilo Stadelmann, Julian Keuzenkamp, Helmut Grabner, and Christoph Würsch. <a href="https://www.mdpi.com/2227-7102/11/7/318"><strong>The AI Atlas: Didactics for Teaching AI and Machine Learning On-Site, Online, and hybrid</strong></a>. <strong>Educ. Sci.</strong> 2021, 11, 318, MDPI, Basel, Switzerland, June 25, 2021. DOI <a href="https://doi.org/10.3390/educsci11070318">10.3390/educsci11070318</a>.
 </td>
 </tr>
 <tr>
