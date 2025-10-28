@@ -9,7 +9,7 @@ comments: true
 
 So what is happening in sports due to AI? Well, the game has changed, as one could say. Diverse AI methods, from data analysis on wearables' data streams to computer vision methods for electronic line calling in Tennis, are improving many aspects, from athletes' health and game plan to fairness of decisions. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KrSbb_YG6NY?si=PPHs5TAVtDQrNyOd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="740" height="416" src="https://www.youtube.com/embed/KrSbb_YG6NY?si=PPHs5TAVtDQrNyOd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!-- more -->
 
