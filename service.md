@@ -770,6 +770,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * November 06,2025 [NZZ Jobs](https://jobs.nzz.ch/ratgeber/artikel/1204/prohumane-ki-wie-technologie-uns-staerkt-statt-uns-zu-schwachen): "**Prohumane KI: Wie Technologie uns stärkt, statt uns zu schwächen**", interview with Prof. Thilo Stadelmann by Prof. Anne Rosken
+
   * October 03, 2025 [ERF relevant - das Wochenmagazin](https://erf-medien.ch/gesellschaft/wissen/best-of-ki-und-der-mensch/): "Best of - KI und der Mensch"
   
   * October 02, 2025 [Stadtanzeiger Opfikon](https://www.opfikon.ch/_docn/6157678/SA_02_10_2025.pdf): "Wie Kloten, Opfikon und Wallisellen KI nutzen"
