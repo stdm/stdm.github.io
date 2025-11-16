@@ -21,17 +21,25 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 #### 2026
 
+  * Invited talk at **IST InfraStrukturTreff**, Rapperswil, Switzerland, November 05, 2026
+
+  * Invited talk on "Prohuman Tech Design" at **Digital Winterthur**, Winterthur, Switzerland, September 10, 2026
+  
   * Invited talk at **Congreso Christiano**, Asunción, Paraguay, September 03-04, 2026
   
   * Keynote on "Zones of Encounter? Where and How Digital Theologies relate to the Tech World" at Chruch and AI workshop, University of Zurich, Zurich, Switzerland, June 17, 2025
-
-  * Invited talk on "Prohuman Tech Design" at **Digital Winterthur**, Winterthur, Switzerland, February 26, 2026
   
+  * Keynote at *eMoomerce Day 2026*, Cologne, Germany, June 11, 2026
+  
+  * Invited talk at **Kirchen in Wetzikon ZH**, Wetzikon, Switzerland, April 15, 2026
+
   * Invited talk at **Reformierte Kirche Beringen**, Beringen, Switzerland, February 17, 2026
   
   * Invited talk at **Pharma Davos**, Davos, Switzerland, February 10, 2026
   
   * Invited talk at the **SPM Leiterkonferenz**, Sitzerland, January 21, 2026
+  
+  * Keynote at "AI, Bible Apps and Hermeneutics" workshop at the Faculty of Divinity of the **University of Cambridge**, Cambridge, UK, January 19, 2026
   
   * Invited talk at **ZKB christliches Netzwerk**, Zurich, Switzerland, January 13, 2026
   
@@ -41,9 +49,11 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
   * Invited talk on "Prohuman AI" at **FRZ Wirtschaftsforum 2025**, Kloten, Switzerland, November 24, 2025
   
-  * Interview and Q&A at **GoUnity**, Zurich, Switzerland, November 20, 2025
+  * Invited talk on "Künstliche Intelligenz und Zukunft" and Q&A at **GoUnity**, Zurich Airport, Switzerland, November 20, 2025
 
   * Keynote at "IPA Jahrestagung" of **PSI Software**, Munich, Germany November 13, 2025
+  
+  * Keynote on "Innovation in Zeiten von KI" at the **27. Swiss Insurance Innovation Award** of **HZ Insurance**, Zurich, Switzerland, November 12, 2025
 
   * Panelist at **Hoffnungswoche 2025**, Embrach, Switzerland, November 05, 2025
   
@@ -771,18 +781,22 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 <a name="press"></a>
 ## In the press 
   * November 06,2025 [NZZ Jobs](https://jobs.nzz.ch/ratgeber/artikel/1204/prohumane-ki-wie-technologie-uns-staerkt-statt-uns-zu-schwachen): "**Prohumane KI: Wie Technologie uns stärkt, statt uns zu schwächen**", interview with Prof. Thilo Stadelmann by Prof. Anne Rosken
-
-  * October 03, 2025 [ERF relevant - das Wochenmagazin](https://erf-medien.ch/gesellschaft/wissen/best-of-ki-und-der-mensch/): "Best of - KI und der Mensch"
   
-  * October 02, 2025 [Stadtanzeiger Opfikon](https://www.opfikon.ch/_docn/6157678/SA_02_10_2025.pdf): "Wie Kloten, Opfikon und Wallisellen KI nutzen"
-  
-  * September 06, 2025 [NZZ](https://www.nzz.ch/wirtschaft/und-der-ki-gewinner-heisst-google-ld.1900727): "Und der KI-Gewinner heisst... Google!"
+  * October 31, 2025 [Human Elevation Podcast](https://www.youtube.com/watch?v=p0uM4sW05EQ) mit Prof. Dr. Thilo Stadelmann
 
-  * August 31, 2025 [NAU.ch](https://www.nau.ch/news/schweiz/so-echt-sehen-ki-schauspieler-heute-schon-aus-67011067): "So echt sehen KI-Schauspieler heute schon aus"
+  * October 03, 2025 [ERF relevant - das Wochenmagazin](https://erf-medien.ch/gesellschaft/wissen/best-of-ki-und-der-mensch/): "Best of - **KI und der Mensch**"
   
-  * August 01, 2025 [Heime & Spitäler](https://www.heimeundspitaeler.ch/e-health/wie-die-oase-gruppe-mit-ki-und-software-robotern-die-pflege-entlastet): "Wie die Oase-Gruppe mit KI und Software-Robotern die Pflege entlastet"
+  * October 02, 2025 [Stadtanzeiger Opfikon](https://www.opfikon.ch/_docn/6157678/SA_02_10_2025.pdf): "**Wie Kloten, Opfikon und Wallisellen KI nutzen**"
+  
+  * September 06, 2025 [NZZ](https://www.nzz.ch/wirtschaft/und-der-ki-gewinner-heisst-google-ld.1900727): "**Und der KI-Gewinner heisst... Google!**"
 
-  * July 07, 2025 [SEA Fokus](https://www.each.ch/wp-content/uploads/2025/06/250620_SEA_Fokus_KI_Juni_25_web.pdf): "Die Chance für Christen ist so gross wie lange nicht mehr"
+  * August 31, 2025 [NAU.ch](https://www.nau.ch/news/schweiz/so-echt-sehen-ki-schauspieler-heute-schon-aus-67011067): "**So echt sehen KI-Schauspieler heute schon aus**"
+  
+  * August 14, 2025 [Promis Glauben](https://promisglauben.de/ki-experte-thilo-stadelmann-der-mensch-braucht-zuallererst-identitaet/): "KI-Experte Thilo Stadelmann: '**Der Mensch braucht zuallererst Identität**'"
+  
+  * August 01, 2025 [Heime & Spitäler](https://www.heimeundspitaeler.ch/e-health/wie-die-oase-gruppe-mit-ki-und-software-robotern-die-pflege-entlastet): "**Wie die Oase-Gruppe mit KI und Software-Robotern die Pflege entlastet**"
+
+  * July 07, 2025 [SEA Fokus](https://www.each.ch/wp-content/uploads/2025/06/250620_SEA_Fokus_KI_Juni_25_web.pdf): "**Die Chance für Christen ist so gross wie lange nicht mehr**"
   
   * July 01, 2025 [Make-it-C.-L.-I.-C.-K. der Podcast](https://podcasts.apple.com/ch/podcast/prof-dr-thilo-stadelmann/id1769916908?i=1000715231954) mit Prof. Dr. Thilo Stadelmann
   
