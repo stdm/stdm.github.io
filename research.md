@@ -51,6 +51,7 @@ The group has very diverse backgrounds, which helps us complement each other's s
     <li><a href="https://www.linkedin.com/in/rebekka-von-wartburg-3b807b298/">Rebekka von Wartburg</a>, M.Sc. student: B.Sc. computer science (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/marco-betschart-26baa2133/">Marco Betschart</a>, M.Sc. student: B.Sc. computer science (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/jose-pablo-mu%C3%B1oz/">Jose Pablo Muñoz Montero</a>, M.Sc. student: B.Sc. computer engineering (Tecnológico de Costa Rica)</li>
+    <li><a href="https://www.linkedin.com/in/mouni-sattenapally-4b0276202">Mouni Sattenapally</a>, M.Sc. student: B.Sc. electronics and communications engineering (CVR College of Engineering, Hyderabad, India)</li>
 </ul>
 </details>
 
@@ -303,7 +304,7 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/PMM_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/PMM_2025.png"/></a><p style="color:green;text-align:center;font-weight:bold;">Invited Paper</p></td>
+<td style="width: 175px;"><a href="https://doi.org/10.1080/09540962.2025.2541304"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/PMM_2025.png"/></a><p style="color:green;text-align:center;font-weight:bold;">Invited Paper</p></td>
 <td>
 Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/PMM_2025.pdf"><strong>Debate: Evidence-based AI risk assessment for public policy</strong></a>. In: <strong>Public Money & Management</strong>, vol. 46, no. 1, January 2026. DOI <a href="https://doi.org/10.1080/09540962.2025.2541304">10.1080/09540962.2025.2541304</a>.
 </td>
@@ -314,6 +315,13 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/PMM_2025.pdf"
 <b>2025</b>
 
 <table class="publist">
+<tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/PR_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/PR_2025.png"/></a></td>
+<td>
+Waqar Ali, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. <a href="https://stdm.github.io/downloads/papers/PR_2025.pdf"><strong>Multi-View Graph Pooling via Dominant Sets for Graph
+Classification</strong></a>. Accepted to Pattern Recognition, Elsevier, November 2025.
+</td>
+</tr>
 <tr>
 <td style="width: 175px;"><a href="https://doi.org/10.1016/j.isci.2025.113400"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/iScience_2025.png"/></a></td>
 <td>
