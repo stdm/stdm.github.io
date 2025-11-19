@@ -319,7 +319,7 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/PMM_2025.pdf"
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/PR_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/PR_2025.png"/></a></td>
 <td>
 Waqar Ali, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. <a href="https://stdm.github.io/downloads/papers/PR_2025.pdf"><strong>Multi-View Graph Pooling via Dominant Sets for Graph
-Classification</strong></a>. Accepted to Pattern Recognition, Elsevier, November 2025.
+Classification</strong></a>. Accepted to <strong>Pattern Recognition</strong>, Elsevier, November 2025.
 </td>
 </tr>
 <tr>
