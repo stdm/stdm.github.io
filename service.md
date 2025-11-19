@@ -27,9 +27,9 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Invited talk at **Congreso Christiano**, Asunción, Paraguay, September 03-04, 2026
   
-  * Keynote on "Zones of Encounter? Where and How Digital Theologies relate to the Tech World" at Chruch and AI workshop, University of Zurich, Zurich, Switzerland, June 17, 2025
+  * Keynote on "Zones of Encounter? Where and How Digital Theologies relate to the Tech World" at Chruch and AI workshop, **University of Zurich**, Zurich, Switzerland, June 17, 2025
   
-  * Keynote at *eMoomerce Day 2026*, Cologne, Germany, June 11, 2026
+  * Keynote at *eCommerce Day 2026*, Cologne, Germany, June 11, 2026
   
   * Invited talk at **Kirchen in Wetzikon ZH**, Wetzikon, Switzerland, April 15, 2026
 
