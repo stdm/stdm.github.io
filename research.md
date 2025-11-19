@@ -316,10 +316,16 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/PMM_2025.pdf"
 
 <table class="publist">
 <tr>
+<td style="width: 175px;"><a href="https://arxiv.org/abs/2407.05650"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2025a.jpg"/></a></td>
+<td>
+Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christoph von der Malsburg. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025a.pdf"><strong>The Cooperative Network Architecture: Learning Structured Networks as Representation of Sensory Patterns</strong></a>. Accepted to <strong>Neural Computation</strong>, The MIT Press, November 19, 2025.
+</td>
+</tr>
+<tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/PR_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/PR_2025.png"/></a></td>
 <td>
 Waqar Ali, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. <a href="https://stdm.github.io/downloads/papers/PR_2025.pdf"><strong>Multi-View Graph Pooling via Dominant Sets for Graph
-Classification</strong></a>. Accepted to <strong>Pattern Recognition</strong>, Elsevier, November 2025.
+Classification</strong></a>. Accepted to <strong>Pattern Recognition</strong>, Elsevier, November 18, 2025.
 </td>
 </tr>
 <tr>
@@ -380,12 +386,6 @@ Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan E
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/GRW_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/GRW_2025.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Invited Paper</p></td>
 <td>
 Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/GRW_2025.pdf"><strong>A guide to AI: Understanding the technology, applying it successfully, and shaping a positive future</strong></a>. <strong>Global Resilience White Papers</strong>, <a href="https://www.globalresiliencepub.com/wp-content/uploads/2025/01/Global-Resilience-White-Paper-2-A-GUIDE-TO-AI-by-Dr.-Thilo-Stadelmann.pdf">No. 2</a>, January 28, 2025.
-</td>
-</tr>
-<tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2025a.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2025a.jpg"/></a></td>
-<td>
-Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christoph von der Malsburg. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025a.pdf"><strong>The Cooperative Network Architecture: Learning Structured Networks as Representation of Sensory Patterns</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/abs/2407.05650">arXiv:2407.05650</a>, January 2025.
 </td>
 </tr>
 <tr>
