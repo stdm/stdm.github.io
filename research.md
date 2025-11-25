@@ -316,9 +316,9 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/PMM_2025.pdf"
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><a href="https://arxiv.org/abs/2407.05650"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2025a.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://arxiv.org/abs/2407.05650"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/NeuralComput_2025.jpg"/></a></td>
 <td>
-Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christoph von der Malsburg. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025a.pdf"><strong>The Cooperative Network Architecture: Learning Structured Networks as Representation of Sensory Patterns</strong></a>. Accepted to <strong>Neural Computation</strong>, The MIT Press, November 19, 2025.
+Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christoph von der Malsburg. <a href="https://stdm.github.io/downloads/papers/NeuralComput_2025.pdf"><strong>The Cooperative Network Architecture: Learning Structured Networks as Representation of Sensory Patterns</strong></a>. Accepted to <strong>Neural Computation</strong>, The MIT Press, November 19, 2025.
 </td>
 </tr>
 <tr>
