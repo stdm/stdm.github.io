@@ -304,6 +304,13 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
+<td style="width: 175px;"><a href="https://doi.org/10.1016/j.patcog.2025.112786"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/PR_2025.png"/></a></td>
+<td>
+Waqar Ali, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. <a href="https://stdm.github.io/downloads/papers/PR_2025.pdf"><strong>Multi-View Graph Pooling via Dominant Sets for Graph
+Classification</strong></a>. In: <strong>Pattern Recognition</strong> 172(D), 112786, April 2026, Elsevier. DOI <a href="https://doi.org/10.1016/j.patcog.2025.112786">10.1016/j.patcog.2025.112786</a>.
+</td>
+</tr>
+<tr>
 <td style="width: 175px;"><a href="https://doi.org/10.1080/09540962.2025.2541304"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/PMM_2025.png"/></a><p style="color:green;text-align:center;font-weight:bold;">Invited Paper</p></td>
 <td>
 Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/PMM_2025.pdf"><strong>Debate: Evidence-based AI risk assessment for public policy</strong></a>. In: <strong>Public Money & Management</strong>, vol. 46, no. 1, January 2026. DOI <a href="https://doi.org/10.1080/09540962.2025.2541304">10.1080/09540962.2025.2541304</a>.
@@ -319,13 +326,6 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/PMM_2025.pdf"
 <td style="width: 175px;"><a href="https://arxiv.org/abs/2407.05650"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/NeuralComput_2025.jpg"/></a></td>
 <td>
 Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christoph von der Malsburg. <a href="https://stdm.github.io/downloads/papers/NeuralComput_2025.pdf"><strong>The Cooperative Network Architecture: Learning Structured Networks as Representation of Sensory Patterns</strong></a>. Accepted to <strong>Neural Computation</strong>, The MIT Press, November 19, 2025.
-</td>
-</tr>
-<tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/PR_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/PR_2025.png"/></a></td>
-<td>
-Waqar Ali, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. <a href="https://stdm.github.io/downloads/papers/PR_2025.pdf"><strong>Multi-View Graph Pooling via Dominant Sets for Graph
-Classification</strong></a>. Accepted to <strong>Pattern Recognition</strong>, Elsevier, November 18, 2025.
 </td>
 </tr>
 <tr>
