@@ -780,6 +780,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * November 25, 2025 [Persoenlich.com](https://www.persoenlich.com/marketing/wirtschaftsforum-mit-teilnehmerrekord): "**Wirtschaftsforum mit Teilnehmerrekord**: Höhepunkte des Programms waren eine Keynote von Thilo Stadelmann, Leiter des ZHAW Centre for AI, der gemeinsam mit einem humanoiden Roboter zukunftsweisende KI-Technologien präsentierte [...]" 
+
   * November 06,2025 [NZZ Jobs](https://jobs.nzz.ch/ratgeber/artikel/1204/prohumane-ki-wie-technologie-uns-staerkt-statt-uns-zu-schwachen): "**Prohumane KI: Wie Technologie uns stärkt, statt uns zu schwächen**", interview with Prof. Thilo Stadelmann by Prof. Anne Rosken
   
   * October 31, 2025 [Human Elevation Podcast](https://www.youtube.com/watch?v=p0uM4sW05EQ) mit Prof. Dr. Thilo Stadelmann
