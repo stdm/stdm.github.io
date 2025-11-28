@@ -323,6 +323,12 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/PMM_2025.pdf"
 
 <table class="publist">
 <tr>
+<td style="width: 175px;"><a href="https://arxiv.org/abs/2501.16150"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/JAIR_2025.jpg"/></a></td>
+<td>
+Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan Etaiwi, Aref Enayati, Gabriel Nobel, Ahmed Abdulkadir, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/JAIR_2025.pdf"><strong>A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions</strong></a>. In: Accepted to <strong>JAIR</strong>, <a href="https://arxiv.org/abs/2501.16150">arXiv:2501.16150v1</a>, November 2025.
+</td>
+</tr>
+<tr>
 <td style="width: 175px;"><a href="https://arxiv.org/abs/2407.05650"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/NeuralComput_2025.jpg"/></a></td>
 <td>
 Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christoph von der Malsburg. <a href="https://stdm.github.io/downloads/papers/NeuralComput_2025.pdf"><strong>The Cooperative Network Architecture: Learning Structured Networks as Representation of Sensory Patterns</strong></a>. Accepted to <strong>Neural Computation</strong>, The MIT Press, November 19, 2025.
@@ -374,12 +380,6 @@ Peng Yan, Ahmed Abdulkadir, Gerrit A. Schatte, Giulia Aguzzi, Joonsu Gha, Nikola
 <td style="width: 175px;"><a href="https://link.springer.com/article/10.1007/s00501-025-01563-y"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/BHM_2025.jpg"/></a></td>
 <td>
 Briac Lanfant, Silvan Lack, Benjamin Meyer, Ahmed Abdulkadir, Thilo Stadelmann, and Daniel Schmid. <a href="https://link.springer.com/article/10.1007/s00501-025-01563-y"><strong>3D-master-based method for optimizing the cost calculation of PBF-LB/M manufactured parts</strong></a>. In: Berg- und Hüttenmännische Monatshefte (<strong>BHM</strong>) 170(3), pp. 158-171, 2025. Springer, DOI <a href = "https://doi.org/10.1007/s00501-025-01563-y">10.1007/s00501-025-01563-y</a>.
-</td>
-</tr>
-<tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2025b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2025b.jpg"/></a></td>
-<td>
-Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan Etaiwi, Aref Enayati, Gabriel Nobel, Ahmed Abdulkadir, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025b.pdf"><strong>A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/abs/2501.16150">arXiv:2501.16150v1</a>, January 2025.
 </td>
 </tr>
 <tr>
