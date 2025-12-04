@@ -1,5 +1,5 @@
 ---
-title: Pro-human AI design - a primer
+title: Pro-human AI design - A preliminary primer
 layout: post
 date: 2025-12-04
 modified: 2025-12-04
@@ -28,7 +28,7 @@ Consider the "like"" button as an example: Created as a harmless device to boost
 
 ### From pro-social to pro-human AI: A method in the making
 
-Seeing similar potential in the field of AI [^4], I assembled an interdisciplinary team to establish the methodological foundations for pro-human AI design: (a) compile what makes up the human at their core; (b) measure how a given AI system for a specific use case interacts with these core property; (c) and develop interventions to the system's design to mitigate any negative influence (if any). Amongst this prioneering group are Prof. [Christoph Heitz](https://www.zhaw.ch/en/about-us/person/heit) (AI fairness, ZHAW IDP), master's student [Rebekka von Wartburg](https://www.linkedin.com/in/rebekka-von-wartburg-kottler-3b807b298/), and several external advisors from the humanities, together with the company [Alpine AI](https://alpineai.swiss/en/) as use case provider. 
+Seeing similar potential in the field of AI [^4], I assembled an interdisciplinary team to establish the methodological foundations for pro-human AI design: (a) compile what makes up the human at their core; (b) measure how a given AI system for a specific use case interacts with these core property; (c) and develop interventions to the system's design to mitigate any negative influence (if any). To creeate these three pillars, the prioneering group includes Prof. [Christoph Heitz](https://www.zhaw.ch/en/about-us/person/heit) (AI fairness, ZHAW IDP), master's student [Rebekka von Wartburg](https://www.linkedin.com/in/rebekka-von-wartburg-kottler-3b807b298/), and several external advisors from the humanities, together with the company [Alpine AI](https://alpineai.swiss/en/) as use case provider. 
 
 Our goal is to establish pro-human AI design methodologically by directly adressing all three steps (a)-(c) in the very first analysis that we are currently undertaking, as we believe that such approaches need to be anchored in practical use cases from the start. Preliminary results exist for step (a): What makes up the human?
 
@@ -37,16 +37,16 @@ Our goal is to establish pro-human AI design methodologically by directly adress
 
 This question is hard to answer once and for all, but after surveying the literature across psychology, anthropology, sociology, and theology, the following core properties appear to point in the direction of the sufficiently agreeable and complete [^5]: 
 
-Humans are (-> a)
--	Relational and social: We cannot live in isolation, hence we seek connection to an other [^6].
--	Free and autonomous: We are fiercely independent; revoking a human's right to have any say in their own affairs (i.e., slavery) has been rightly abolished [^7].
--	Driven to shape: Everyone rules about their own circle of influence, exhibiting a drive to shape their environment [^8].
--	Embodied and limited: Arguably, we are not especially fond of most of the limitations of our mind and body, but as Neil Lawrence points out in "The Atomic Human", this is also what shapes our intelligence and humanity; becoming limitless hence is becoming less fully human, which is a qualitative regress [^9].
--	Transcendent: At the least, we all seek purpose and meaning [^10].
+Humans are (cp. pillar (a) above)...
+-	**Relational and social**: We cannot live in isolation, hence we seek connection to an other [^6].
+-	**Free and autonomous**: We are fiercely independent; revoking a human's right to have any say in their own affairs (i.e., slavery) has been rightly abolished [^7].
+-	**Driven to shape**: Everyone rules about their own circle of influence, exhibiting a drive to shape their environment [^8].
+-	**Embodied and limited**: Arguably, we are not especially fond of most of the limitations of our mind and body, but as Neil Lawrence points out in "The Atomic Human", this is also what shapes our intelligence and humanity; becoming limitless hence is becoming less fully human, which is a qualitative regress [^9].
+-	**Transcendent**: At the least, we all seek purpose and meaning [^10].
 
 #### A product design methodology
 
-Pro-human AI design then is the habit of taking into account, when designing any *specific AI system* for a *specific use case*, how this system interacts with each of these properties (-> b): Is any stakeholder's competency to exhibit one or more of these traits diminished profoundly by the AI system? For example, does work become meaningless? Is the user's ability to form meaningful human relationships or act socially reduced? Would their feeling of agency be weakened, the free forming of opinion manipulated? Then, countermeasures can be considered alongside other factors of product design (-> c).
+Pro-human AI design then is the habit of taking into account, when designing any *specific AI system* for a *specific use case*, how this system interacts with each of these properties (cp. pillar (b) above): Is any stakeholder's competency to exhibit one or more of these traits diminished profoundly by the AI system? For example, does work become meaningless? Is the user's ability to form meaningful human relationships or act socially reduced? Would their feeling of agency be weakened, the free forming of opinion manipulated? Then, countermeasures can be considered alongside other factors of product design (cp. pillar (c) above).
 
 
 ### Join us!
