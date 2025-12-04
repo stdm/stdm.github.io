@@ -688,7 +688,9 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Reviewer for [IEEE Transactions on Systems, Man and Cybernetics: Systems](https://www.ieeesmc.org/publications/transactions-on-smc-systems), [IEEE/ACM Transactions on Audio, Speech and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655), [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78), [EURASIP Journal on Audio, Speech, and Music Processing](https://asmp-eurasipjournals.springeropen.com/), [PLOS ONE](https://journals.plos.org/plosone/) and the [Science Media Center Germany](https://www.sciencemediacenter.de/)
 
-  * Program Co-Chair, IEEE Swiss Conference on Data Science 2026, May 07-08, 2026, Zurich, Switzerland
+  * Member of program committee, [ANNPR 2026](https://annpr2026.unimi.it/), the 12th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition, October 07-12, 2026, Milan, Italy
+  
+  * Program Co-Chair, IEEE Swiss Conference on Data Science and AI 2026, May 07-08, 2026, Zurich, Switzerland
 
   * Program Co-Chair, [IEEE Swiss Conference on Data Science 2025](https://sds2025.ch/), June 26-27, 2025, Zurich, Switzerland
 
