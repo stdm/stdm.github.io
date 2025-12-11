@@ -65,7 +65,7 @@ Please reach out if you want to collaborate with us on this.
 
 ### Ackknowledgements
 
-I am grateful for the thoughful comments on earlier drafts by Rebekka von Wartburg and Christoph Heitz, and for the joint project with them an Andrea Luca Schärer which provides the opportunity to think more thoroughly on these things!
+I am grateful for the thoughful comments on earlier drafts by Rebekka von Wartburg and Christoph Heitz, and for the joint project with them an Andrea Luca Schaerer which provides the opportunity to think more thoroughly on these things!
 
 
 ## Footnotes
