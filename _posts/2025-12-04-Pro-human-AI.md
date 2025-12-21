@@ -2,7 +2,7 @@
 title: Pro-human AI design - A primer
 layout: post
 date: 2025-12-04
-modified: 2025-12-11
+modified: 2025-12-21
 category: AI, society, hope, pro-human AI
 comments: true
 ---
@@ -71,7 +71,7 @@ I am grateful for the thoughful comments on earlier drafts by Rebekka von Wartbu
 ## Footnotes
 
 [^1]: In the taxonomy of AI risks adopted in my recent [paper](https://doi.org/10.1080/09540962.2025.2541304), this one runs under the headline of "dependence".
-[^2]: Neil Lawrence coined this term in the context of AI and how it relates to the human in his recent book [The Atomic Human](https://inverseprobability.com/atomic-human/).
+[^2]: Neil Lawrence coined this term in the context of AI and how it relates to the human in his recent book [The Atomic Human](https://inverseprobability.com/atomic-human/). I assume such risks could emerge in a plethora of AI use cases, but likely most prominently in cases of "consumer AI" (e.g., the products of companies like Google or Facebook, geared towards personal use by indiviuals; cp. episode 127 of the podcast [Beziehungskosmos](https://www.beziehungskosmos.com/episoden/127-%E2%80%93--ki-und-beziehung---oder-chat-gpt-als-beziehungscoach) on AI and relationships), maybe less frequently in "industrial AI" (like automatic quality control systems); thanks to [Benjamin Bargetzi](https://benjaminbargetzi.com/) for this differentiation.
 [^3]: Mind the pattern: it was "engagement maximization" that also caused the harms reported by the New York Times [article](https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html) above.
 [^4]: Compare this [article](https://uxdesign.cc/the-like-button-when-perfect-design-causes-catastrophic-outcomes-539c7ba5007c) by Neel Dozome.
 [^5]: The respective mechanisms of action in social media and AI appear very similar (i.e., technology changing humans, for the better or worse), yet the target of the solution seems different to me: "Pro-social" tech design for social media aims foremost at a societal effect (countering increased anti-social behavior and the drifting apart of society). This is important and necessary. However, there are many effects on the personal sinde of the individual human that are not accounted for when only looking at societal outcomes. Hence I opt for the term "pro-human" AI, although colleagues like [Conelia C. Walther](https://link.springer.com/article/10.1186/s44263-024-00111-z) work towards a similar direction under the term "pro-social AI".
