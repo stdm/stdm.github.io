@@ -2,7 +2,7 @@
 title: Advice for (prospective) students
 layout: post
 date: 2016-09-09
-modified: 2023-03-17
+modified: 2025-12-23
 category: education, research, mentoring, writing
 comments: true
 ---
@@ -25,6 +25,7 @@ Here you go: you first may want to have a look at...
   * [Bewertungsschema_CH](http://stdm.github.io/downloads/Bewertungsschema_CH.xlsx) edited by myself, serving as my "Bauchgefühlobjektivierer" when it comes to grading theses and presentations (in German). If you have a careful look at the criteria and their weighting, you know exactly what matters (to me). 
   * [LaTex template](http://stdm.github.io/downloads/LaTeX_PABA_Vorlage_Rev.0.zip) for ZHAW thesis reports.
   * [Standard outline](http://stdm.github.io/downloads/standard-outline-thesis.txt) for a student thesis in our field.
+  * [How to Get Your Paper Accepted](https://maxwellforbes.com/posts/how-to-get-a-paper-accepted/): Great perspective on how to write an appealing paper (or thesis) by Maxwell Forbes on "The PhD Metagame"
 
 Related, here are a couple of links to blog posts of myself that pertain to successfully study, write a thesis, become an applied researcher, and by that start your career:
 
