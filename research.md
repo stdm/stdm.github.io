@@ -418,7 +418,7 @@ Waqar Ali, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. <a href="h
 <tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ANNPR_2024.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ANNPR_2024.jpg"/></a></td>
 <td>
-Peter Bolt, Volker Ziebart, Christian Jaeger, Nicolas Schmid, Thilo Stadelmann, and Rudolf M. Füchslin. <a href="https://stdm.github.io/downloads/papers/ANNPR_2024.pdf"><strong>A Simulation Study on Energy Optimization in Building Control with Reinforcement Learning</strong></a>. In: Proceedings of the 11th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR'24</strong>), Springer, Montreal, Canada, October 10-12, 2024.
+Peter Bolt, Volker Ziebart, Christian Jaeger, Nicolas Schmid, Thilo Stadelmann, and Rudolf M. Füchslin. <a href="https://stdm.github.io/downloads/papers/ANNPR_2024.pdf"><strong>A Simulation Study on Energy Optimization in Building Control with Reinforcement Learning</strong></a>. In: Proceedings of the 11th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR'24</strong>), Springer, Montreal, Canada, October 10-12, 2024. DOI <a href="https://doi.org/10.1007/978-3-031-71602-7_27">10.1007/978-3-031-71602-7_27</a>.
 </td>
 </tr>
 <tr>
@@ -770,7 +770,7 @@ Ismail Elezi, Lukas Tuggener, Marcello Pelillo, and Thilo Stadelmann. <a href="h
 <tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ANNPR_2018d.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Invited Paper</p></td>
 <td>
-Thilo Stadelmann, Mohammadreza Amirian, Ismail Arabaci, Marek Arnold, Gilbert François Duivesteijn, Ismail Elezi, Melanie Geiger, Stefan Lörwald, Benjamin Bruno Meier, Katharina Rombach, and Lukas Tuggener. <a href="https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf"><strong>Deep Learning in the Wild</strong></a>. In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR'18</strong>), Springer, LNAI 11081, pp. 17-38, Siena, Italy, September 19-21, 2018.
+Thilo Stadelmann, Mohammadreza Amirian, Ismail Arabaci, Marek Arnold, Gilbert François Duivesteijn, Ismail Elezi, Melanie Geiger, Stefan Lörwald, Benjamin Bruno Meier, Katharina Rombach, and Lukas Tuggener. <a href="https://stdm.github.io/downloads/papers/ANNPR_2018d.pdf"><strong>Deep Learning in the Wild</strong></a>. In: Proceedings of the 8th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR'18</strong>), Springer, LNAI 11081, pp. 17-38, Siena, Italy, September 19-21, 2018. DOI <a href="https://doi.org/10.1007/978-3-319-99978-4">10.1007/978-3-319-99978-4</a>.
 </td>
 </tr>
 <tr>
