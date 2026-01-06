@@ -782,6 +782,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * December 31, 2025 [Swissinfo.ch](https://www.swissinfo.ch/eng/swiss-ai/artificial-intelligence-in-switzerland-whats-new-in-2026/90701795): "**Artificial intelligence in Switzerland: what’s new in 2026**": '_According to Stadelmann, however, the biggest economic impact of AI in Switzerland will come not so much from the big flagship projects, but from the hundreds of initiatives involving small- and medium-sized companies and research institutes that rarely make headlines. Stadelmann mentions a Zurich startup that wants to use AI for livestreaming cultural events – a sort of "Netflix of the performing arts" that, if successful, could give rise to a new Swiss media platform. "It is projects like these that have the greatest potential for creating value and jobs," he says._'
+  
   * November 25, 2025 [Persoenlich.com](https://www.persoenlich.com/marketing/wirtschaftsforum-mit-teilnehmerrekord): "**Wirtschaftsforum mit Teilnehmerrekord**: Höhepunkte des Programms waren eine Keynote von Thilo Stadelmann, Leiter des ZHAW Centre for AI, der gemeinsam mit einem humanoiden Roboter zukunftsweisende KI-Technologien präsentierte [...]" 
 
   * November 06,2025 [NZZ Jobs](https://jobs.nzz.ch/ratgeber/artikel/1204/prohumane-ki-wie-technologie-uns-staerkt-statt-uns-zu-schwachen): "**Prohumane KI: Wie Technologie uns stärkt, statt uns zu schwächen**", interview with Prof. Thilo Stadelmann by Prof. Anne Rosken
