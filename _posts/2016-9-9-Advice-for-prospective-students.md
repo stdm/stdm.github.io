@@ -2,7 +2,7 @@
 title: Advice for (prospective) students
 layout: post
 date: 2016-09-09
-modified: 2025-12-23
+modified: 2026-01-07
 category: education, research, mentoring, writing
 comments: true
 ---
