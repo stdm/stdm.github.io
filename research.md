@@ -309,6 +309,7 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 Waqar Ali, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. <strong>Topology-Aware Node Dropping Augmentation for
 Graph Classification</strong>. In: Proceedings of the 6th IEEE International Conference on Neural Networks, Information and Communication Engineering (<strong>NNICE'26</strong>), Hefei, China, January 23-25, 2026.
 </td>
+</tr>
 <tr>
 <td style="width: 175px;"><a href="https://doi.org/10.1016/j.patcog.2025.112786"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/PR_2025.png"/></a></td>
 <td>
