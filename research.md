@@ -396,9 +396,9 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/GRW_2025.pdf"
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/KIW_2025.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Invited Paper</p></td>
+<td style="width: 175px;"><a href="https://link.springer.com/chapter/10.1007/978-3-658-46839-2_1"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/KIW_2025.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Invited Paper</p></td>
 <td>
-Thilo Stadelmann. <a href="https://link.springer.com/chapter/10.1007/978-3-658-46839-2_1"><strong>Wegweiser Künstliche Intelligenz: Verstehen, anwenden und zuversichtlich Zukunft gestalten</strong></a>. In: Sebastian Hersberger and Christian Hugo Hoffmann (Editors). "Wie die Künstliche Intelligenz die Wirtschaft verändert - Überblick über die theoretischen Grundlagen und Praxisbeispiele entlang von Ökosystemen", 2025. <strong>Springer</strong>, DOI <a href = "https://link.springer.com/chapter/10.1007/978-3-658-46839-2_1">10.1007/978-3-658-46839-2_1</a>.
+Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"><strong>Wegweiser Künstliche Intelligenz: Verstehen, anwenden und zuversichtlich Zukunft gestalten</strong></a>. In: Sebastian Hersberger and Christian Hugo Hoffmann (Editors). "Wie die Künstliche Intelligenz die Wirtschaft verändert - Überblick über die theoretischen Grundlagen und Praxisbeispiele entlang von Ökosystemen", 2025. <strong>Springer</strong>, DOI <a href = "https://link.springer.com/chapter/10.1007/978-3-658-46839-2_1">10.1007/978-3-658-46839-2_1</a>.
 </td>
 </tr>
 </table>
