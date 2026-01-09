@@ -354,31 +354,31 @@ Lukas Tuggener, Thilo Stadelmann, and Jürgen Schmidhuber. <a href="https://stdm
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2025c.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2025c.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://arxiv.org/abs/2507.08458"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ArXiv_2025c.jpg"/></a></td>
 <td>
 Benjamin Meyer, Lukas Tuggener, Sascha Hänzi, Daniel Schmid, Erdal Ayfer, Benjamin F. Grewe, Ahmed Abdulkadir, Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025c.pdf"><strong>A document is worth a structured record: Principled inductive bias design for document recognition</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/abs/2507.08458">arXiv:2507.08458</a>, July 2025.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/CLEF_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/CLEF_2025.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Top-3 competition entry</p></td>
+<td style="width: 175px;"><a href="https://ceur-ws.org/Vol-4038/paper_89.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/CLEF_2025.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Top-3 competition entry</p></td>
 <td>
 Pascal J. Sager, Ashwini Kamaraj, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/CLEF_2025.pdf"><strong>Deep Retrieval at CheckThat! 2025: Identifying Scientific Papers from Implicit Social Media Mentions via Hybrid Retrieval and Re-Ranking</strong></a>. In: Working Notes of CLEF 2025 - Conference and Labs of the Evaluation Forum (<strong>CLEF'25 - CheckThat! Lab</strong>), Madrid, Spain, CEUR, 2025.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ICML_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ICML_2025.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://icml.cc/virtual/2025/poster/44452"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ICML_2025.jpg"/></a></td>
 <td>
-Matteo Saponati, Pascal Sager, Pau Vilimelis Aceituno, Thilo Stadelmann, and Benjamin Grewe. <a href="https://stdm.github.io/downloads/papers/ICML_2025.pdf"><strong>The underlying structures of self-attention: symmetry, directionality, and emergent dynamics in Transformer training</strong></a>. In: Proceedings of the 42nd International Conference on Machine Learning (<strong>ICML'25</strong>), Vancouver, Canada, July 13-19, 2025.
+Matteo Saponati, Pascal Sager, Pau Vilimelis Aceituno, Thilo Stadelmann, and Benjamin Grewe. <a href="https://stdm.github.io/downloads/papers/ICML_2025.pdf"><strong>The underlying structures of self-attention: symmetry, directionality, and emergent dynamics in Transformer training</strong></a>. In: Proceedings of the 42nd International Conference on Machine Learning (<strong>ICML'25</strong>), PMLR 267:52958-52994, Vancouver, Canada, July 13-19, 2025.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2025b.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2025b.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Best Scientific Full Paper Award</p></td>
+<td style="width: 175px;"><a href="https://doi.org/10.1109/SDS66131.2025.00008"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2025b.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Best Scientific Full Paper Award</p></td>
 <td>
 Benjamin Meyer, Pascal J. Sager, Ahmed Abdulkadir, Benjamin F. Grewe, Philipp Schuetz, Thilo Stadelmann, and Felice Burn. <a href="https://stdm.github.io/downloads/papers/SDS_2025b.pdf"><strong>Hounsfield Unit Ranges as Inductive Bias for Intra-Clinical Learning of Data-Efficient CT Segmentation Models</strong></a>. In: Proceedings of the 12th IEEE Swiss Conference on Data Science (<strong>SDS'25</strong>), pp. 1-7, Zurich, Switzerland, June 27, 2025. DOI <a href="https://doi.org/10.1109/SDS66131.2025.00008">10.1109/SDS66131.2025.00008</a>.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2025a.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2025a.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://doi.org/10.1109/SDS66131.2025.00022"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/SDS_2025a.jpg"/></a></td>
 <td>
 Peng Yan, Ahmed Abdulkadir, Gerrit A. Schatte, Giulia Aguzzi, Joonsu Gha, Nikola Pascher, Matthias Rosenthal, Yunlong Gao, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2025a.pdf"><strong>Learning Actionable World Models for Industrial Process Control</strong></a>. In: Proceedings of the 12th IEEE Swiss Conference on Data Science (<strong>SDS'25</strong>), pp. 111-118, Zurich, Switzerland, June 27, 2025. DOI <a href="https://doi.org/10.1109/SDS66131.2025.00022">10.1109/SDS66131.2025.00022</a>.
 </td>
@@ -390,7 +390,7 @@ Briac Lanfant, Silvan Lack, Benjamin Meyer, Ahmed Abdulkadir, Thilo Stadelmann, 
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/GRW_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/GRW_2025.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Invited Paper</p></td>
+<td style="width: 175px;"><a href="https://www.globalresiliencepub.com/wp-content/uploads/2025/01/Global-Resilience-White-Paper-2-A-GUIDE-TO-AI-by-Dr.-Thilo-Stadelmann.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/GRW_2025.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Invited Paper</p></td>
 <td>
 Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/GRW_2025.pdf"><strong>A guide to AI: Understanding the technology, applying it successfully, and shaping a positive future</strong></a>. <strong>Global Resilience White Papers</strong>, <a href="https://www.globalresiliencepub.com/wp-content/uploads/2025/01/Global-Resilience-White-Paper-2-A-GUIDE-TO-AI-by-Dr.-Thilo-Stadelmann.pdf">No. 2</a>, January 28, 2025.
 </td>
@@ -398,7 +398,7 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/GRW_2025.pdf"
 <tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/KIW_2025.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Invited Paper</p></td>
 <td>
-Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"><strong>Wegweiser Künstliche Intelligenz: Verstehen, anwenden und zuversichtlich Zukunft gestalten</strong></a>. In: Sebastian Hersberger and Christian Hugo Hoffmann (Editors). "Wie die Künstliche Intelligenz die Wirtschaft verändert - Überblick über die theoretischen Grundlagen und Praxisbeispiele entlang von Ökosystemen", 2025. <strong>Springer</strong>, DOI <a href = "https://link.springer.com/chapter/10.1007/978-3-658-46839-2_1">10.1007/978-3-658-46839-2_1</a>.
+Thilo Stadelmann. <a href="https://link.springer.com/chapter/10.1007/978-3-658-46839-2_1"><strong>Wegweiser Künstliche Intelligenz: Verstehen, anwenden und zuversichtlich Zukunft gestalten</strong></a>. In: Sebastian Hersberger and Christian Hugo Hoffmann (Editors). "Wie die Künstliche Intelligenz die Wirtschaft verändert - Überblick über die theoretischen Grundlagen und Praxisbeispiele entlang von Ökosystemen", 2025. <strong>Springer</strong>, DOI <a href = "https://link.springer.com/chapter/10.1007/978-3-658-46839-2_1">10.1007/978-3-658-46839-2_1</a>.
 </td>
 </tr>
 </table>
