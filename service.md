@@ -688,6 +688,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Reviewer for [IEEE Transactions on Systems, Man and Cybernetics: Systems](https://www.ieeesmc.org/publications/transactions-on-smc-systems), [IEEE/ACM Transactions on Audio, Speech and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655), [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78), [EURASIP Journal on Audio, Speech, and Music Processing](https://asmp-eurasipjournals.springeropen.com/), [PLOS ONE](https://journals.plos.org/plosone/) and the [Science Media Center Germany](https://www.sciencemediacenter.de/)
 
+  * Member of the program committee, [Swiss AI Days 2026](https://ai-days.swiss-ai-center.ch/en)
+
   * Member of program committee, [ANNPR 2026](https://annpr2026.unimi.it/), the 12th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition, October 07-12, 2026, Milan, Italy
   
   * Program Co-Chair, IEEE Swiss Conference on Data Science and AI 2026, May 07-08, 2026, Zurich, Switzerland
@@ -782,6 +784,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * January 11, 2025 [IDEA](https://www.idea.de/artikel/ki-experte-technologie-ist-ein-gottgegebenes-werkzeug): "KI-Experte: Technologie ist ein gottgegebenes Werkzeug"
+
   * December 31, 2025 [Swissinfo.ch](https://www.swissinfo.ch/eng/swiss-ai/artificial-intelligence-in-switzerland-whats-new-in-2026/90701795): "**Artificial intelligence in Switzerland: what’s new in 2026**: _[...] According to Stadelmann, however, the biggest economic impact of AI in Switzerland will come not so much from the big flagship projects, but from the hundreds of initiatives involving small- and medium-sized companies and research institutes that rarely make headlines. Stadelmann mentions a Zurich startup that wants to use AI for livestreaming cultural events – a sort of "Netflix of the performing arts" that, if successful, could give rise to a new Swiss media platform. "It is projects like these that have the greatest potential for creating value and jobs," he says. [...]_"
   
   * November 25, 2025 [Persoenlich.com](https://www.persoenlich.com/marketing/wirtschaftsforum-mit-teilnehmerrekord): "**Wirtschaftsforum mit Teilnehmerrekord**: Höhepunkte des Programms waren eine Keynote von Thilo Stadelmann, Leiter des ZHAW Centre for AI, der gemeinsam mit einem humanoiden Roboter zukunftsweisende KI-Technologien präsentierte [...]" 
