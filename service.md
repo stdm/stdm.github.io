@@ -784,7 +784,9 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
-  * January 11, 2025 [IDEA](https://www.idea.de/artikel/ki-experte-technologie-ist-ein-gottgegebenes-werkzeug): "KI-Experte: Technologie ist ein gottgegebenes Werkzeug"
+  * January 11, 2026 [IDEA](https://www.idea.de/artikel/ki-experte-technologie-ist-ein-gottgegebenes-werkzeug): "**KI-Experte: Technologie ist ein gottgegebenes Werkzeug**"
+  
+  * January 05, 206 [PRO](https://www.pro-medienmagazin.de/wenn-ki-teenager-in-den-suizid-treibt/): "**Wenn KI Teenager in den Suizid treibt**"
 
   * December 31, 2025 [Swissinfo.ch](https://www.swissinfo.ch/eng/swiss-ai/artificial-intelligence-in-switzerland-whats-new-in-2026/90701795): "**Artificial intelligence in Switzerland: what’s new in 2026**: _[...] According to Stadelmann, however, the biggest economic impact of AI in Switzerland will come not so much from the big flagship projects, but from the hundreds of initiatives involving small- and medium-sized companies and research institutes that rarely make headlines. Stadelmann mentions a Zurich startup that wants to use AI for livestreaming cultural events – a sort of "Netflix of the performing arts" that, if successful, could give rise to a new Swiss media platform. "It is projects like these that have the greatest potential for creating value and jobs," he says. [...]_"
   
