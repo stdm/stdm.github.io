@@ -655,7 +655,7 @@ Thilo Stadelmann, and Christoph Würsch. <a href="https://stdm.github.io/downloa
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://www.mdpi.com/2673-2688/1/4/31"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AI_2020.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://www.mdpi.com/2673-2688/1/4/31"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AI_2020.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Top-5 competition entry</p></td>
 <td>
 Lukas Tuggener, Mohammadreza Amirian, Fernando Benites, Pius von Däniken, Prakhar Gupta, Frank-Peter Schilling, and Thilo Stadelmann. <a href="https://www.mdpi.com/2673-2688/1/4/31"><strong>Design Patterns for Resource-Constrained Automated Deep-Learning Methods</strong></a>. <strong>AI</strong> section "Intelligent Systems: Theory and Applications" 1(4):510-538, MDPI, Basel, Switzerland, November 06, 2020.
 </td>
