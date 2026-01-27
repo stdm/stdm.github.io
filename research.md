@@ -304,9 +304,9 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ISBI_2026.jpg"/></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ISBI_2026.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ISBI_2026.jpg"/></a></td>
 <td>
-Waqar Ali, Shana Staempfli, Thilo Stadelmann, Schlomo Aschkenasy, and Ahmed Abdulkadir. <strong>Automated, Vendor-agnostic Measurement of Myocardial Tissue Velocities in Echocardiography</strong>. In: Proceedings of the 23rd IEEE International Symposium on Biomedical Imaging (<strong>ISBI'26</strong>), London, UK, April 08-11, 2026.
+Waqar Ali, Shana Staempfli, Thilo Stadelmann, Schlomo Aschkenasy, and Ahmed Abdulkadir. <a href="https://stdm.github.io/downloads/papers/ISBI_2026.pdf"><strong>Automated, Vendor-agnostic Measurement of Myocardial Tissue Velocities in Echocardiography</strong></a>. In: Proceedings of the 23rd IEEE International Symposium on Biomedical Imaging (<strong>ISBI'26</strong>), London, UK, April 08-11, 2026.
 </td>
 </tr>
 <tr>
