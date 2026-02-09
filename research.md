@@ -304,6 +304,13 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/AIEthics_2026.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AIEthics_2026.jpg"/></a></td>
+<td>
+Thilo Stadelmann, Philipp H. Merkt, and Kasey Barr. <a href="https://stdm.github.io/downloads/papers/AIEthics_2026.pdf"><strong>The stochastic nature of machine learning and its
+implications for high-consequence AI</strong></a>. In: Accepted to <strong>AI and Ethics</strong>, Springer, February 09, 2026.
+</td>
+</tr>
+<tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ISBI_2026.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ISBI_2026.jpg"/></a></td>
 <td>
 Waqar Ali, Shana Staempfli, Thilo Stadelmann, Schlomo Aschkenasy, and Ahmed Abdulkadir. <a href="https://stdm.github.io/downloads/papers/ISBI_2026.pdf"><strong>Automated, Vendor-agnostic Measurement of Myocardial Tissue Velocities in Echocardiography</strong></a>. In: Proceedings of the 23rd IEEE International Symposium on Biomedical Imaging (<strong>ISBI'26</strong>), London, UK, April 08-11, 2026.
