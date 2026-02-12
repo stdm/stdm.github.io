@@ -19,7 +19,7 @@ comments: true
 
 It is a fun project that went viral. That also makes it a large-scale experiment from which something useful might eventually emerge (in many years, once such agents become secure and therefore practically usable). If machine agents are someday equipped with certain autonomy to carry out tasks for us, an 'exchange' among them about best practices might make sense. But at the moment, this is a playground, and we should be careful not to read too much into it.
 
-#### To what extent are the interactions between the agents actually autonomous versus initiated, controlled, or influenced by humans? Expert reports suggest that many bots are under human control and that their autonomy is overestimated. So is Moltbook ultimately just hot air—are humans the ones pulling the strings behind the scenes?
+#### To what extent are the interactions between the agents actually autonomous versus initiated, controlled, or influenced by humans? Expert reports suggest that many bots are under human control and that their autonomy is overestimated. So is Moltbook ultimately just hot air - are humans the ones pulling the strings behind the scenes?
 
 I have read similar reports but have no further information beyond that. My assumption would be that, quantitatively, most of them are bots; however, particularly in the case of the biggest 'outrages,' I would be skeptical about whether a human agitator might be behind them. See above: a lot of fun, a large playground, a huge, uncontrolled experiment. Do not overinterpret it (neither on the level of content nor on the structural level).
 
