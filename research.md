@@ -17,7 +17,7 @@ This is the academic website of [Thilo Stadelmann](https://www.zhaw.ch/en/about-
 <a name="bio"></a>
 ## Biography
 
-<a href="https://youtu.be/deVbP-hViMQ?si=G4ZgS3woMhGiyDLR" target="_blank"><img src="http://stdm.github.io/images/thumbnail-tedx.jpg"/></a>
+<a href="https://youtu.be/deVbP-hViMQ" target="_blank"><img src="http://stdm.github.io/images/thumbnail-tedx.jpg"/></a>
 
 Thilo studied computer science in Giessen and Marburg and received the Doctor of Science degree from [Marburg University](https://www.informatik.uni-marburg.de/~stadelmann/), Germany, in 2010, where he worked on multimedia analysis and voice recognition. Thilo held engineering and leadership roles in the automotive industry for several years prior to the appointment at the ZHAW. His current research interests revolve around robust representation learning in deep neural networks for pattern recognition problems; how to learn structured and actionable representations for world models; and societal effects of AI. The group and research is introduced in more detail [below](#group).
 
