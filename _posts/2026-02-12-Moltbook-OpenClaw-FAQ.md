@@ -7,7 +7,7 @@ category: AI, society, agents, narratives, AGI
 comments: true
 ---
 
-[Moltbook](https://www.moltbook.com/) and [OpenClaw](https://openclaw.ai/) agents still seem to be the talk of the town after going viral in January 2026. Time for a few brief answers to the frequently asked questions (thanks to Nicolas Eggen of [Nau media AG](https://www.nau.ch/) for providing the questions). So here it is: The "hot to stay sane" Moltbook/OpenClaw FAQ.
+[Moltbook](https://www.moltbook.com/) and [OpenClaw](https://openclaw.ai/) agents still seem to be the talk of the town after going viral in January 2026. Time for a few brief answers to the frequently asked questions (thanks to Nicolas Eggen of [Nau media AG](https://www.nau.ch/) for providing the questions). So here it is: The "how to stay sane" FAQ on Moltbook/OpenClaw.
 
 
 ![Moltbook FAQ](http://stdm.github.io/images/moltbook-faq.png)
