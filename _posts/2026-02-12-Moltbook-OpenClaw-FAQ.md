@@ -1,5 +1,5 @@
 ---
-title: Moltbook and OpenClaw: Frequently Asked Questions
+title: The Moltbook and OpenClaw FAQ
 layout: post
 date: 2026-02-12
 modified: 2026-02-12
