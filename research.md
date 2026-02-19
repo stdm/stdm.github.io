@@ -304,6 +304,12 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/Frontiers_2026.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Frontiers_2026.png"/></a></td>
+<td>
+Hella A. Bolck, Janik Vollenweider, Fabian Merkli, Alexander Barden, Martin Jajcay, Peter Trempeck, Boško Rafailović, Robert Fraefel, Peter M. Lenhart, Ricardo Chavarriaga, Manuel Renold, Jasmina Bogojeska, Thilo Stadelmann, and Michel Guillaume. <a href="https://stdm.github.io/downloads/papers/Frontiers_2026.pdf"><strong>Perspective: LINA's testing infrastructure enables AI to take-off in unmanned aerial vehicles (UAVs)</strong></a>. In: Accepted to <strong>Frontiers in Robotics and AI</strong>, February 18, 2026.
+</td>
+</tr>
+<tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/AIEthics_2026.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AIEthics_2026.jpg"/></a></td>
 <td>
 Thilo Stadelmann, Philipp H. Merkt, and Kasey Barr. <a href="https://stdm.github.io/downloads/papers/AIEthics_2026.pdf"><strong>The stochastic nature of machine learning and its
