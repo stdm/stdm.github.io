@@ -29,7 +29,6 @@ Original versions of my main courses are available as free online ressources as 
 
 | **When** | **Level** | **Type** | **Title** |
 | --- | --- | --- | --- |
-
 | Spring 2026 | MSc | VT2 | Implementing pro-human AI design |
 | Spring 2026 | MSc | VT2 | Scaling transformer-based graph prediction models towards document foundation models |
 | Spring 2026 | MSc | VT1 | AI for Drug Development: Automated Binding Detection in 19F NMR Spectra |
@@ -38,7 +37,7 @@ Original versions of my main courses are available as free online ressources as 
 | Spring 2026 | BSc | BA | SketchAI: AI-based interpretation of engineering drawings |
 | Spring 2026 | BSc | BA | Enhanced Sample Efficiency for Deep-Learning-Based Medical Image Analysis |
 | Fall 2025 | MSc | MT | Learning Generalizable Representations for Injection Molding Process Monitoring Using a World Model |
-| Fall 2025 | MSc | VT1| Pro-human AI System Design: Preserving Human Characteristics in Practice <br> _top grade_ <br> Student: Rebekka von Wartburg |
+| Fall 2025 | MSc | VT1| **Pro-human AI System Design: Preserving Human Characteristics in Practice** <br> _top grade_ <br> Student: Rebekka von Wartburg |
 | Fall 2025 | BSc | PA | Deep Learning for MRI Analysis |
 | Fall 2025 | BSc | PA | How does uncertainty quantification improve the quality of latent representations in world models? |
 | Spring 2025 | PhD | Thesis | [**Advanced Representation Learning Techniques For Graph Neural Networks**](https://doi.org/10.21256/zhaw-32794) <br> Student: Waqar Ali |
