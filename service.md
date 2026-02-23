@@ -784,6 +784,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * February 21, 2026 [Nau.ch](https://www.nau.ch/news/amerika/ki-bots-diskutieren-in-eigenem-forum-uber-menschen-eine-gefahr-67093428): "**KI-Bots diskutieren in eigenem Forum über Menschen - eine Gefahr?**"
+  
   * January 11, 2026 [IDEA](https://www.idea.de/artikel/ki-experte-technologie-ist-ein-gottgegebenes-werkzeug): "**KI-Experte: Technologie ist ein gottgegebenes Werkzeug**"
   
   * January 05, 206 [PRO](https://www.pro-medienmagazin.de/wenn-ki-teenager-in-den-suizid-treibt/): "**Wenn KI Teenager in den Suizid treibt**"
