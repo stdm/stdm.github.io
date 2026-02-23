@@ -22,6 +22,10 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 #### 2026
 
   * Invited talk at **IST InfraStrukturTreff**, Rapperswil, Switzerland, November 05, 2026
+  
+  * Invited talk at **Schweizerische Technische Fachschule Winterthur**, Steckborn, Switzerland, October 23, 2026
+  
+  * Invited talk at "Sternstunde", **Christen bei Daimler & Benz**, online, October 07, 2026
 
   * Invited talk on "Prohuman Tech Design" at **Digital Winterthur**, Winterthur, Switzerland, September 10, 2026
   
@@ -32,14 +36,22 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   * Keynote at *eCommerce Day 2026*, Cologne, Germany, June 11, 2026
   
   * Invited talk at **Kirchen in Wetzikon ZH**, Wetzikon, Switzerland, April 15, 2026
+  
+  * Keynote "Lernen in komplexen Systemen - KI, Human Factors und die Zukunft der Gefahrenabwehr" at the **TENuK Symposium Taktischen Einsatz-, Notfall- und Katastrophenmedizin**, Idstein, Germany, April 01, 2026
+  
+  * Keynote at the "**AI-days 2026**", Fribourg, Switzerland, March 24, 2026
+    
+  * Talk "From Real-world Machine Learning to Pro-human AI: Mending the Break Points of Man an Machine" at "Computer Science Insights @ HSG" of the School of Computer Science, **University of St. Gallen**, St. Gallen, Switzerland, March 12, 2026
+    
+  * Invited talk "KI als Wettbewerbsfaktor für KMU" at "KMU-Empfang" of the **City of Winterthur**, Winterthur, Switzerland, March 03, 2026
 
   * Invited talk at **Reformierte Kirche Beringen**, Beringen, Switzerland, February 17, 2026
   
-  * Invited talk at **Pharma Davos**, Davos, Switzerland, February 10, 2026
+  * Invited talks "Der KI-Vorteil in Apotheken" and "Hilft KI im Beratungsgespraech?"  at **Pharma Davos**, Davos, Switzerland, February 10, 2026
   
   * Invited talk at the **SPM Leiterkonferenz**, Sitzerland, January 21, 2026
   
-  * Keynote at "AI, Bible Apps and Hermeneutics" workshop at the Faculty of Divinity of the **University of Cambridge**, Cambridge, UK, January 19, 2026
+  * Keynote "The current state of AI" at the "AI, Bible Apps and Hermeneutics" workshop at the Faculty of Divinity of the **University of Cambridge**, Cambridge, UK, January 19, 2026
   
   * Invited talk at **ZKB christliches Netzwerk**, Zurich, Switzerland, January 13, 2026
   
@@ -692,7 +704,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
   * Member of program committee, [ANNPR 2026](https://annpr2026.unimi.it/), the 12th IAPR TC3 Workshop on Artificial Neural Networks in Pattern Recognition, October 07-12, 2026, Milan, Italy
   
-  * Program Co-Chair, IEEE Swiss Conference on Data Science and AI 2026, May 07-08, 2026, Zurich, Switzerland
+  * Program Co-Chair, [IEEE Swiss Conference on Data Science and AI 2026](https://sds2026.ch/), May 07-08, 2026, Zurich, Switzerland
 
   * Program Co-Chair, [IEEE Swiss Conference on Data Science 2025](https://sds2025.ch/), June 26-27, 2025, Zurich, Switzerland
 
@@ -785,6 +797,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 <a name="press"></a>
 ## In the press 
   * February 21, 2026 [Nau.ch](https://www.nau.ch/news/amerika/ki-bots-diskutieren-in-eigenem-forum-uber-menschen-eine-gefahr-67093428): "**KI-Bots diskutieren in eigenem Forum über Menschen - eine Gefahr?**"
+  
+  * February 15, 2026 [NZZ am Sonntag](https://www.nzz.ch/wirtschaft/auf-der-plattform-rentahuman-fuehren-menschen-aus-was-algorithmen-befehlen-das-ist-kein-scherz-sondern-ein-vorgeschmack-auf-die-zukunft-ld.1924343): "**Erste KI-Agenten erteilen Menschen Aufträge. Das ist kein Scherz, sondern ein Vorgeschmack auf die Zukunft**"
   
   * January 11, 2026 [IDEA](https://www.idea.de/artikel/ki-experte-technologie-ist-ein-gottgegebenes-werkzeug): "**KI-Experte: Technologie ist ein gottgegebenes Werkzeug**"
   
