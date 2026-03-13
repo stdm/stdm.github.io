@@ -318,7 +318,7 @@ Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christop
 <tr>
 <td style="width: 175px;"><a href="https://doi.org/10.3389/frobt.2026.1764248"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Frontiers_2026.png"/></a></td>
 <td>
-Hella A. Bolck, Janik Vollenweider, Fabian Merkli, Alexander Barden, Martin Jajcay, Peter Trempeck, Boško Rafailović, Robert Fraefel, Peter M. Lenhart, Ricardo Chavarriaga, Manuel Renold, Jasmina Bogojeska, Thilo Stadelmann, and Michel Guillaume. <a href="https://doi.org/10.3389/frobt.2026.1764248"><strong>Perspective: LINA's testing infrastructure enables AI to take-off in unmanned aerial vehicles (UAVs)</strong></a>. In: Accepted to <strong>Frontiers in Robotics and AI</strong>, February 18, 2026. DOI <a href="https://doi.org/10.3389/frobt.2026.1764248">10.3389/frobt.2026.1764248</a>.
+Hella A. Bolck, Janik Vollenweider, Fabian Merkli, Alexander Barden, Martin Jajcay, Peter Trempeck, Boško Rafailović, Robert Fraefel, Peter M. Lenhart, Ricardo Chavarriaga, Manuel Renold, Jasmina Bogojeska, Thilo Stadelmann, and Michel Guillaume. <a href="https://doi.org/10.3389/frobt.2026.1764248"><strong>Perspective: LINA's testing infrastructure enables AI to take-off in unmanned aerial vehicles (UAVs)</strong></a>. In: <strong>Frontiers in Robotics and AI</strong>, February 18, 2026. DOI <a href="https://doi.org/10.3389/frobt.2026.1764248">10.3389/frobt.2026.1764248</a>.
 </td>
 </tr>
 <tr>
