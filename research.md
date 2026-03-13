@@ -310,9 +310,15 @@ Lukas Tuggener, Simon Spalinger, and Thilo Stadelmann. <strong>From POC to produ
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/Frontiers_2026.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Frontiers_2026.png"/></a></td>
+<td style="width: 175px;"><a href="https://doi.org/10.1162/NECO.a.1505"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/NeuralComput_2025.jpg"/></a></td>
 <td>
-Hella A. Bolck, Janik Vollenweider, Fabian Merkli, Alexander Barden, Martin Jajcay, Peter Trempeck, Boško Rafailović, Robert Fraefel, Peter M. Lenhart, Ricardo Chavarriaga, Manuel Renold, Jasmina Bogojeska, Thilo Stadelmann, and Michel Guillaume. <a href="https://stdm.github.io/downloads/papers/Frontiers_2026.pdf"><strong>Perspective: LINA's testing infrastructure enables AI to take-off in unmanned aerial vehicles (UAVs)</strong></a>. In: Accepted to <strong>Frontiers in Robotics and AI</strong>, February 18, 2026.
+Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christoph von der Malsburg. <a href="https://stdm.github.io/downloads/papers/NeuralComput_2025.pdf"><strong>The Cooperative Network Architecture: Learning Structured Networks as Representation of Sensory Patterns</strong></a>. In: <strong>Neural Computation</strong>, 1-35, The MIT Press, March 05, 2026. DOI <a href="https://doi.org/10.1162/NECO.a.1505">10.1162/NECO.a.1505</a>.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://doi.org/10.3389/frobt.2026.1764248"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/Frontiers_2026.png"/></a></td>
+<td>
+Hella A. Bolck, Janik Vollenweider, Fabian Merkli, Alexander Barden, Martin Jajcay, Peter Trempeck, Boško Rafailović, Robert Fraefel, Peter M. Lenhart, Ricardo Chavarriaga, Manuel Renold, Jasmina Bogojeska, Thilo Stadelmann, and Michel Guillaume. <a href="https://doi.org/10.3389/frobt.2026.1764248"><strong>Perspective: LINA's testing infrastructure enables AI to take-off in unmanned aerial vehicles (UAVs)</strong></a>. In: Accepted to <strong>Frontiers in Robotics and AI</strong>, February 18, 2026. DOI <a href="https://doi.org/10.3389/frobt.2026.1764248">10.3389/frobt.2026.1764248</a>.
 </td>
 </tr>
 <tr>
@@ -357,12 +363,6 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/PMM_2025.pdf"
 <td style="width: 175px;"><a href="https://arxiv.org/abs/2501.16150"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/JAIR_2025.jpg"/></a></td>
 <td>
 Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan Etaiwi, Aref Enayati, Gabriel Nobel, Ahmed Abdulkadir, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/JAIR_2025.pdf"><strong>A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions</strong></a>. In: Accepted to <strong>JAIR</strong>, <a href="https://arxiv.org/abs/2501.16150">arXiv:2501.16150v1</a>, November 2025.
-</td>
-</tr>
-<tr>
-<td style="width: 175px;"><a href="https://arxiv.org/abs/2407.05650"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/NeuralComput_2025.jpg"/></a></td>
-<td>
-Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christoph von der Malsburg. <a href="https://stdm.github.io/downloads/papers/NeuralComput_2025.pdf"><strong>The Cooperative Network Architecture: Learning Structured Networks as Representation of Sensory Patterns</strong></a>. Accepted to <strong>Neural Computation</strong>, The MIT Press, November 19, 2025.
 </td>
 </tr>
 <tr>
