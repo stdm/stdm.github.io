@@ -45,7 +45,6 @@ The group has very diverse backgrounds, which helps us complement each other's s
     <li><a href="https://www.linkedin.com/in/benjamin-meyer-b87077151">Benjamin Meyer</a>, PhD student: B.Sc. information technology (FHNW), M.Sc. computer science (U Basel), doctorate in conjunction with <a href="https://www.ini.uzh.ch/en/research/groups/grewe.html">Benjamin F. Grewe</a> of the University of Zurich / Switzerland</li>
     <li><a href="https://www.linkedin.com/in/adrian-th%C3%BCr-01976b160/">Adrian Thuer</a>, research assistent and M.Sc. student: B.Sc. computer science (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/linus-stuhlmann-29b3831ba/">Linus Carl Stuhlmann</a>, research assistent: B.Sc. data science (ZHAW)</li>
-    <li><a href="https://www.linkedin.com/in/livia-l%C3%BCscher-72aaaa139/">Livia Luescher</a>, M.Sc. student: B.Sc. business administration with honors (HWZ Zurich)</li>
     <li><a href="https://www.linkedin.com/in/elia-untern%C3%A4hrer-201593255/">Elia Unternährer</a>, M.Sc. student: B.Sc. business information technology (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/jakub-hanush/">Jakub Hanuska</a>, M.Sc. student: B.Sc. open informatics (Mendel University of Brno)</li>
     <li><a href="https://www.linkedin.com/in/rebekka-von-wartburg-3b807b298/">Rebekka von Wartburg</a>, M.Sc. student: B.Sc. computer science (ZHAW)</li>
@@ -58,6 +57,7 @@ The group has very diverse backgrounds, which helps us complement each other's s
 <details>
 <summary><b>Alumni</b></summary>
 <ul>
+  <li> <a href="https://www.linkedin.com/in/livia-l%C3%BCscher-72aaaa139/">Livia Luescher</a>, M.Sc. student 2023-2026, B.Sc. business administration with honors (HWZ Zurich) <br>&rarr; Data Scientist @ Zuercher Kantonalbank</li>
   <li> <a href="https://tuggeluk.github.io/">Dr. Lukas Tuggener</a>, PhD student 2016-2024, postdoc 2024-2025, B.Sc. industrial engineering (ZHAW), M.Sc. statistics (ETH), PhD (U Lugano & ZHAW) <br>&rarr; Co-Founder @ Real World Artificial Intelligence</li>
   <li> <a href="https://www.linkedin.com/in/raphael-emberger-206015bb">Raphael Emberger</a>, research assistant 2021-2024 & MSc student 2023-2024, M.Sc. and B.Sc. computer science (ZHAW) <br>&rarr; Deep Learning Engineer @ Rheinmetall Air Defence</li>
   <li> <a href="https://www.zhaw.ch/en/about-us/person/ayfe/">Erdal Ayfer</a>, intern 2023-2024, B.Sc. student computer science(ZHAW) <br>&rarr; Freelance Web- and Software Developer</li>
