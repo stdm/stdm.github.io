@@ -304,6 +304,12 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
+<td style="width: 175px;"><a href="https://arxiv.org/abs/2501.16150"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/JAIR_2025.jpg"/></a></td>
+<td>
+Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan Etaiwi, Aref Enayati, Gabriel Nobel, Ahmed Abdulkadir, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/JAIR_2025.pdf"><strong>A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions</strong></a>. In: <strong>JAIR</strong> 85(34), March 2026. DOI <a href="https://doi.org/10.1613/jair.1.19490">10.1613/jair.1.19490</a>.
+</td>
+</tr>
+<tr>
 <td style="width: 175px;"><a href="https://link.springer.com/article/10.1007/s43681-026-01042-1"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/AIEthics_2026.jpg"/></a></td>
 <td>
 Thilo Stadelmann, Philipp H. Merkt, and Kasey Barr. <a href="https://stdm.github.io/downloads/papers/AIEthics_2026.pdf"><strong>The stochastic nature of machine learning and its
@@ -359,12 +365,6 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/PMM_2025.pdf"
 <b>2025</b>
 
 <table class="publist">
-<tr>
-<td style="width: 175px;"><a href="https://arxiv.org/abs/2501.16150"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/JAIR_2025.jpg"/></a></td>
-<td>
-Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan Etaiwi, Aref Enayati, Gabriel Nobel, Ahmed Abdulkadir, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/JAIR_2025.pdf"><strong>A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions</strong></a>. In: Accepted to <strong>JAIR</strong>, <a href="https://arxiv.org/abs/2501.16150">arXiv:2501.16150v1</a>, November 2025.
-</td>
-</tr>
 <tr>
 <td style="width: 175px;"><a href="https://doi.org/10.1016/j.isci.2025.113400"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/iScience_2025.png"/></a></td>
 <td>
