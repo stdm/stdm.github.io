@@ -45,10 +45,10 @@ The group has very diverse backgrounds, which helps us complement each other's s
     <li><a href="https://www.linkedin.com/in/benjamin-meyer-b87077151">Benjamin Meyer</a>, PhD student: B.Sc. information technology (FHNW), M.Sc. computer science (U Basel), doctorate in conjunction with <a href="https://www.ini.uzh.ch/en/research/groups/grewe.html">Benjamin F. Grewe</a> of the University of Zurich / Switzerland</li>
     <li><a href="https://www.linkedin.com/in/adrian-th%C3%BCr-01976b160/">Adrian Thuer</a>, research assistent and M.Sc. student: B.Sc. computer science (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/linus-stuhlmann-29b3831ba/">Linus Carl Stuhlmann</a>, research assistent: B.Sc. data science (ZHAW)</li>
+    <li><a href="https://www.linkedin.com/in/marco-betschart-26baa2133/">Marco Betschart</a>, research assistant and M.Sc. student: B.Sc. computer science (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/elia-untern%C3%A4hrer-201593255/">Elia Unternährer</a>, M.Sc. student: B.Sc. business information technology (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/jakub-hanush/">Jakub Hanuska</a>, M.Sc. student: B.Sc. open informatics (Mendel University of Brno)</li>
     <li><a href="https://www.linkedin.com/in/rebekka-von-wartburg-3b807b298/">Rebekka von Wartburg</a>, M.Sc. student: B.Sc. computer science (ZHAW)</li>
-    <li><a href="https://www.linkedin.com/in/marco-betschart-26baa2133/">Marco Betschart</a>, M.Sc. student: B.Sc. computer science (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/jose-pablo-mu%C3%B1oz/">Jose Pablo Muñoz Montero</a>, M.Sc. student: B.Sc. computer engineering (Tecnológico de Costa Rica)</li>
     <li><a href="https://www.linkedin.com/in/mouni-sattenapally-4b0276202">Mouni Sattenapally</a>, M.Sc. student: B.Sc. electronics and communications engineering (CVR College of Engineering, Hyderabad, India)</li>
 </ul>
