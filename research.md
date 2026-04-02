@@ -304,6 +304,12 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/TENuK_2026.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/TENuK_2026.png"/></a></td>
+<td>
+Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/TENuK_2026.pdf"><strong>Lernen in komplexen Systemen: KI, Human Factors und die Zukunft der Gefahrenabwehr</strong></a>. In: Abstractband zum zweiten Symposium für Taktische Einsatz- Notfall- und Katastrophenmedizin (<strong>TENuK'26</strong>), Idstein, Germany, 30.03.-01.04.2026. Hrsg. Bildungszentrum für Gefahrenabwehr & Krisenmanagement an der Hochschule Fresenius gem. Trägergesellschaft mbH / Idstein, 2026.
+</td>
+</tr>
+<tr>
 <td style="width: 175px;"><a href="https://jair.org/index.php/jair/article/view/19490"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/JAIR_2026.jpg"/></a></td>
 <td>
 Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan Etaiwi, Aref Enayati, Gabriel Nobel, Ahmed Abdulkadir, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/JAIR_2026.pdf"><strong>A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions</strong></a>. In: <strong>JAIR</strong> 85(34), March 2026. DOI <a href="https://doi.org/10.1613/jair.1.19490">10.1613/jair.1.19490</a>.

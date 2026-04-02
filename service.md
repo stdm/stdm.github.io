@@ -25,6 +25,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Invited talk at **Schweizerische Technische Fachschule Winterthur**, Steckborn, Switzerland, October 23, 2026
   
+  * Keynote at Fachtagung der Schweizerischen Kirchen on **10 rules for the digital world**, Paulusakademie Zurich, Switzerland, October 20, 2026
+  
   * Invited talk at "Sternstunde", **Christen bei Daimler & Benz**, online, October 07, 2026
 
   * Invited talk on "Prohuman Tech Design" at **Digital Winterthur**, Winterthur, Switzerland, September 10, 2026
@@ -33,7 +35,9 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Keynote on "Zones of Encounter? Where and How Digital Theologies relate to the Tech World" at Chruch and AI workshop, **University of Zurich**, Zurich, Switzerland, June 17, 2025
   
-  * Keynote at *eCommerce Day 2026*, Cologne, Germany, June 11, 2026
+  * Keynote at **eCommerce Day 2026**, Cologne, Germany, June 11, 2026
+  
+  * Keynote at **Orbis Customers Connect**, Munich, Germany, April 29, 2026
   
   * Invited talk at **Kirchen in Wetzikon ZH**, Wetzikon, Switzerland, April 15, 2026
   
@@ -796,6 +800,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * April 01, 2026 [Forum Integriertes Christsein](https://www.insist-consulting.ch/forum-integriertes-christsein/26-4-5-informationstechnologie-ki-zeit-hoffnung-zu-verbreiten.html): "**Informationstechnologie: KI – Zeit, Hoffnung zu verbreiten**"
+
   * February 21, 2026 [Nau.ch](https://www.nau.ch/news/amerika/ki-bots-diskutieren-in-eigenem-forum-uber-menschen-eine-gefahr-67093428): "**KI-Bots diskutieren in eigenem Forum über Menschen - eine Gefahr?**"
   
   * February 15, 2026 [NZZ am Sonntag](https://www.nzz.ch/wirtschaft/auf-der-plattform-rentahuman-fuehren-menschen-aus-was-algorithmen-befehlen-das-ist-kein-scherz-sondern-ein-vorgeschmack-auf-die-zukunft-ld.1924343): "**Erste KI-Agenten erteilen Menschen Aufträge. Das ist kein Scherz, sondern ein Vorgeschmack auf die Zukunft**"
