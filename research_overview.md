@@ -53,7 +53,7 @@ comments: false
 
 ---
 
-<details>
+<details markdown="1">
 <summary><strong>Part I — Main Lines of Research</strong> &nbsp;<em style="font-weight:normal; color:#666;">Nine sustained research threads, 2004–2026. Click to expand.</em></summary>
 
 <br>
@@ -263,7 +263,7 @@ A newer thread, developed in collaboration with Marcello Pelillo (Venice), inves
 
 ---
 
-<details>
+<details markdown="1">
 <summary><strong>Part II — Key Examples Appealing to Practitioners</strong> &nbsp;<em style="font-weight:normal; color:#666;">Twelve concrete deployments and applied results. Click to expand.</em></summary>
 
 <br>
@@ -289,7 +289,7 @@ The table below maps the most concrete, practitioner-relevant examples from acro
 
 ---
 
-<details>
+<details markdown="1">
 <summary><strong>Part III — Three Main Scientific Contributions</strong> &nbsp;<em style="font-weight:normal; color:#666;">The strongest claims for a scientific funding agency. Click to expand.</em></summary>
 
 <br>
