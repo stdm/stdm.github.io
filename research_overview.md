@@ -66,31 +66,6 @@ The Machine Perception and Cognition group occupies a distinctive position at th
 Being motivated by real-world pattern recognition problems (how perceptions are formed from sensory input and cognitively tranlated into reasonable actions) leads to a suprinsingly broad field of use cases and industries amidst a stable core of methodological focal points. Here's an overview of sub-disciplines our inquiry contributes to.
 
 
-<br>
-
-<details markdown="1">
-<summary><b>Speaker recognition & audio representation learning</b></summary>
-
-*~2004–ongoing: formative line from PhD to continued breakthroughs with deep learning*
-
-<div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em;">
-<a href="https://archiv.ub.uni-marburg.de/ubfind/Record/urn:nbn:de:hebis:04-z2010-0465"><img src="http://stdm.github.io/images/papers/PhdThesis_2010.jpg" alt="PhD Thesis 2010" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
-<a href="https://stdm.github.io/downloads/papers/ICASSP_2006.pdf"><img src="http://stdm.github.io/images/papers/ICASSP_2006.jpg" alt="ICASSP 2006" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
-<a href="https://doi.org/10.21256/zhaw-3761"><img src="http://stdm.github.io/images/papers/MLSP_2016.jpg" alt="MLSP 2016" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
-<a href="https://doi.org/10.21256/zhaw-3762"><img src="http://stdm.github.io/images/papers/MLSP_2017.jpg" alt="MLSP 2017" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
-<a href="https://doi.org/10.1016/j.patrec.2024.03.016"><img src="http://stdm.github.io/images/papers/PRL_2024a.jpg" alt="PRL 2024" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
-</div>
-
-The earliest sustained research thread centres on automatic speaker recognition. The [PhD thesis](https://archiv.ub.uni-marburg.de/ubfind/Record/urn:nbn:de:hebis:04-z2010-0465) (Marburg, 2010) introduced the *Dimension-Decoupled Gaussian Mixture Model* for coping with very short speech segments and established that improved recognition hinges at exploting temporal cues in a voice. Later work introduced deep learning to the field: CNNs applied directly to spectrograms ([MLSP'16](https://doi.org/10.21256/zhaw-3761), >100 citations) proved competitive for both speaker identification and clustering. Subsequent work used RNNs to capture supra-segmental voice characteristics ([ANNPR'18b](https://doi.org/10.1007/978-3-319-99978-4)) and metric-learning embeddings for measuring voice similarity ([MLSP'17](https://doi.org/10.21256/zhaw-3762)). A 2024 *Pattern Recognition Letters* paper delivers a sobering counter-result: deep networks for speaker recognition [*do not yet learn supra-segmental temporal features*](https://doi.org/10.1016/j.patrec.2024.03.016), raising open questions about what these models actually learn.
-
-| Paper | Key finding / message |
-|---|---|
-| [Stadelmann, PhD thesis (2010)](https://archiv.ub.uni-marburg.de/ubfind/Record/urn:nbn:de:hebis:04-z2010-0465) | Supra-segmental temporal features are key to unlocking an order of magnitude lower error rates. |
-| [Lukic et al., MLSP'16](https://doi.org/10.21256/zhaw-3761) (>100 citations) | CNN on spectrograms achieve state-of-the-art speaker ID and clustering without hand-crafted features. |
-| [Stadelmann et al., ANNPR'18b](https://doi.org/10.1007/978-3-319-99978-4) | RNNs seem to capture supra-segmental prosodic features for improved voice clustering. |
-| [Neururer et al., PRL 2024](https://doi.org/10.1016/j.patrec.2024.03.016) | DNNs for ASR learn spectral but *not* temporal features, even if they could: the models are more superficial than expected. |
-</details>
-
 <details markdown="1">
 <summary><b>Applied deep learning: from benchmarks to production</b></summary>
 *~2016–ongoing: Centrepiece applied-ML research programme*
@@ -111,28 +86,6 @@ A distinctive contribution is the systematic study of the gap between benchmark-
 | [Stadelmann et al., ADS ch. *Beyond ImageNet* (2019)](https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf) | Most industrial DL projects require domain-specific data curation, loss shaping, and calibration absent from canonical ImageNet training. |
 | [Tuggener et al., MDPI AI 2020 *Design Patterns*](https://www.mdpi.com/2673-2688/1/4/31) | Seven reusable design patterns cover the majority of resource-constrained AutoML scenarios. |
 | [Tuggener et al., Frontiers 2022](https://doi.org/10.3389/fcomp.2022.1041703) | CNN architectures optimised on ImageNet do not reliably transfer across domains, hence architecture search must be domain-aware. |
-</details>
-
-
-<details markdown="1">
-<summary><b>Data Science as a scientific discipline</b></summary>
-*~2013–2022: conceptual / disciplinary foundation work*
-
-<div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em;">
-<a href="https://stdm.github.io/downloads/papers/ECSS_2013.pdf"><img src="http://stdm.github.io/images/papers/ECSS_2013.jpg" alt="ECSS 2013" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
-<a href="https://doi.org/10.21256/zhaw-3759"><img src="http://stdm.github.io/images/papers/HMD_2014.jpg" alt="HMD 2014" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
-<a href="https://doi.org/10.1007/978-3-658-11589-0_4"><img src="http://stdm.github.io/images/papers/HMD_2016.jpg" alt="HMD 2016" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
-<a href="https://stdm.github.io/data-science-book/"><img src="http://stdm.github.io/images/papers/ADS_2019.jpg" alt="ADS book 2019" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
-<a href="https://stdm.github.io/downloads/papers/ADS_2019_DataScience.pdf"><img src="http://stdm.github.io/images/papers/ADS_2019_DataScience.jpg" alt="What is Data Science" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
-</div>
-
-Running parallel to empirical research is a sustained effort to define and legitimise *data science as a discipline in its own right*. The early papers ([ECSS'13](https://stdm.github.io/downloads/papers/ECSS_2013.pdf), [HMD'14](https://doi.org/10.21256/zhaw-3759), [HMD'16](https://doi.org/10.1007/978-3-658-11589-0_4)) characterised the emerging role of the "data scientist." The Springer edited volume [*Applied Data Science*](https://stdm.github.io/data-science-book/) (2019, >123 000 accesses) became a widely-read practitioner reference. The 2022 *Archives of Data Science* paper [*"Data Centrism and the Core of Data Science"*](https://dx.doi.org/10.5445/IR/1000143637) provides the most theoretically developed argument: that *data centrism*, treating data as the central object of study rather than a means to an end, is the overarching principle distinguishing data science from statistics, ML, and data management.
-
-| Paper | Key finding / message |
-|---|---|
-| [ECSS'13](https://stdm.github.io/downloads/papers/ECSS_2013.pdf); [HMD'14](https://doi.org/10.21256/zhaw-3759); [HMD'16](https://doi.org/10.1007/978-3-658-11589-0_4) | The data scientist profession requires a unique combination of analytics, technology, entrepreneurship, and communication; none of the contributing disciplines provides this alone. |
-| [Braschler, Stadelmann, Stockinger (Eds.), Springer 2019](https://stdm.github.io/data-science-book/) (>123k accesses) | 16 case-study chapters; central lesson: "necessity is the mother of invention" - applied data science is always problem-driven, not method-driven. |
-| [Stadelmann, Klamt, Merkt, AoDSA'22](https://dx.doi.org/10.5445/IR/1000143637) | *Data centrism* (data as the central subject, not a resource) is the unique disciplinary core that no contributing field shares to the same degree. |
 </details>
 
 
@@ -275,6 +228,52 @@ A self-contained thread, developed in collaboration with Marcello Pelillo (Venic
 |---|---|
 | [Ali et al., PRL'24 *Hierarchical Glocal Attention Pooling*](https://doi.org/10.1016/j.patrec.2024.09.009) | Combining global graph structure with local neighbourhood attention in hierarchical pooling achieves state-of-the-art graph classification. |
 | [Ali et al., Pattern Recognition'26 *Multi-View via Dominant Sets*](https://doi.org/10.1016/j.patcog.2025.112786) | Treating pooling as a dominant-set clustering problem provides a principled, parameter-efficient alternative to learned pooling operators. |
+</details>
+
+
+<details markdown="1">
+<summary><b>Speaker recognition & audio representation learning</b></summary>
+
+*~2004–ongoing: formative line from PhD to continued breakthroughs with deep learning*
+
+<div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em;">
+<a href="https://archiv.ub.uni-marburg.de/ubfind/Record/urn:nbn:de:hebis:04-z2010-0465"><img src="http://stdm.github.io/images/papers/PhdThesis_2010.jpg" alt="PhD Thesis 2010" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+<a href="https://stdm.github.io/downloads/papers/ICASSP_2006.pdf"><img src="http://stdm.github.io/images/papers/ICASSP_2006.jpg" alt="ICASSP 2006" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+<a href="https://doi.org/10.21256/zhaw-3761"><img src="http://stdm.github.io/images/papers/MLSP_2016.jpg" alt="MLSP 2016" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+<a href="https://doi.org/10.21256/zhaw-3762"><img src="http://stdm.github.io/images/papers/MLSP_2017.jpg" alt="MLSP 2017" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+<a href="https://doi.org/10.1016/j.patrec.2024.03.016"><img src="http://stdm.github.io/images/papers/PRL_2024a.jpg" alt="PRL 2024" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+</div>
+
+The earliest sustained research thread centres on automatic speaker recognition. The [PhD thesis](https://archiv.ub.uni-marburg.de/ubfind/Record/urn:nbn:de:hebis:04-z2010-0465) (Marburg, 2010) introduced the *Dimension-Decoupled Gaussian Mixture Model* for coping with very short speech segments and established that improved recognition hinges at exploting temporal cues in a voice. Later work introduced deep learning to the field: CNNs applied directly to spectrograms ([MLSP'16](https://doi.org/10.21256/zhaw-3761), >100 citations) proved competitive for both speaker identification and clustering. Subsequent work used RNNs to capture supra-segmental voice characteristics ([ANNPR'18b](https://doi.org/10.1007/978-3-319-99978-4)) and metric-learning embeddings for measuring voice similarity ([MLSP'17](https://doi.org/10.21256/zhaw-3762)). A 2024 *Pattern Recognition Letters* paper delivers a sobering counter-result: deep networks for speaker recognition [*do not yet learn supra-segmental temporal features*](https://doi.org/10.1016/j.patrec.2024.03.016), raising open questions about what these models actually learn.
+
+| Paper | Key finding / message |
+|---|---|
+| [Stadelmann, PhD thesis (2010)](https://archiv.ub.uni-marburg.de/ubfind/Record/urn:nbn:de:hebis:04-z2010-0465) | Supra-segmental temporal features are key to unlocking an order of magnitude lower error rates. |
+| [Lukic et al., MLSP'16](https://doi.org/10.21256/zhaw-3761) (>100 citations) | CNN on spectrograms achieve state-of-the-art speaker ID and clustering without hand-crafted features. |
+| [Stadelmann et al., ANNPR'18b](https://doi.org/10.1007/978-3-319-99978-4) | RNNs seem to capture supra-segmental prosodic features for improved voice clustering. |
+| [Neururer et al., PRL 2024](https://doi.org/10.1016/j.patrec.2024.03.016) | DNNs for ASR learn spectral but *not* temporal features, even if they could: the models are more superficial than expected. |
+</details>
+
+
+<details markdown="1">
+<summary><b>Data Science as a scientific discipline</b></summary>
+*~2013–2022: conceptual / disciplinary foundation work*
+
+<div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em;">
+<a href="https://stdm.github.io/downloads/papers/ECSS_2013.pdf"><img src="http://stdm.github.io/images/papers/ECSS_2013.jpg" alt="ECSS 2013" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+<a href="https://doi.org/10.21256/zhaw-3759"><img src="http://stdm.github.io/images/papers/HMD_2014.jpg" alt="HMD 2014" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+<a href="https://doi.org/10.1007/978-3-658-11589-0_4"><img src="http://stdm.github.io/images/papers/HMD_2016.jpg" alt="HMD 2016" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+<a href="https://stdm.github.io/data-science-book/"><img src="http://stdm.github.io/images/papers/ADS_2019.jpg" alt="ADS book 2019" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+<a href="https://stdm.github.io/downloads/papers/ADS_2019_DataScience.pdf"><img src="http://stdm.github.io/images/papers/ADS_2019_DataScience.jpg" alt="What is Data Science" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+</div>
+
+Running parallel to empirical research is a sustained effort to define and legitimise *data science as a discipline in its own right*. The early papers ([ECSS'13](https://stdm.github.io/downloads/papers/ECSS_2013.pdf), [HMD'14](https://doi.org/10.21256/zhaw-3759), [HMD'16](https://doi.org/10.1007/978-3-658-11589-0_4)) characterised the emerging role of the "data scientist." The Springer edited volume [*Applied Data Science*](https://stdm.github.io/data-science-book/) (2019, >123 000 accesses) became a widely-read practitioner reference. The 2022 *Archives of Data Science* paper [*"Data Centrism and the Core of Data Science"*](https://dx.doi.org/10.5445/IR/1000143637) provides the most theoretically developed argument: that *data centrism*, treating data as the central object of study rather than a means to an end, is the overarching principle distinguishing data science from statistics, ML, and data management.
+
+| Paper | Key finding / message |
+|---|---|
+| [ECSS'13](https://stdm.github.io/downloads/papers/ECSS_2013.pdf); [HMD'14](https://doi.org/10.21256/zhaw-3759); [HMD'16](https://doi.org/10.1007/978-3-658-11589-0_4) | The data scientist profession requires a unique combination of analytics, technology, entrepreneurship, and communication; none of the contributing disciplines provides this alone. |
+| [Braschler, Stadelmann, Stockinger (Eds.), Springer 2019](https://stdm.github.io/data-science-book/) (>123k accesses) | 16 case-study chapters; central lesson: "necessity is the mother of invention" - applied data science is always problem-driven, not method-driven. |
+| [Stadelmann, Klamt, Merkt, AoDSA'22](https://dx.doi.org/10.5445/IR/1000143637) | *Data centrism* (data as the central subject, not a resource) is the unique disciplinary core that no contributing field shares to the same degree. |
 </details>
 
 
