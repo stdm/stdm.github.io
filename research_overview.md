@@ -119,7 +119,7 @@ An ongoing programme addresses the computational reading of printed musical scor
 
 <details markdown="1">
 <summary><b>Applied deep learning: from benchmarks to production</b></summary>
-*~2016–ongoing: Centrepiece applied-ML research programme*
+*~2016–ongoing: centrepiece applied-ML research programme*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em;">
 <a href="https://doi.org/10.1007/978-3-319-99978-4"><img src="http://stdm.github.io/images/papers/ANNPR_2018d.jpg" alt="DL in the Wild" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
@@ -285,7 +285,7 @@ The table below maps concrete, practitioner-relevant examples from across the re
 
 | | Application | Domain | What was done | Practical takeaway |
 |---|---|---|---|---|
-| <a href="https://doi.org/10.1007/978-3-319-99978-4"><img src="http://stdm.github.io/images/papers/ANNPR_2018d.jpg" style="height:60px; width:auto; min-width: unset; display: block;"/></a> | **Face-ID verification product** | Identity & security | Full production pipeline: orientation detection, image quality assessment, anti-spoofing (3-method ensemble), face matching, user guidance. ([ANNPR'18d](https://doi.org/10.1007/978-3-319-99978-4)) | A single ML model is never enough in production; wrapping in auxiliary quality and security modules is mandatory. |
+| <a href="https://doi.org/10.1007/978-3-319-99978-4"><img src="http://stdm.github.io/images/papers/ANNPR_2018d.jpg" style="height:60px; width:auto;"/></a> | **Face-ID verification product** | Identity & security | Full production pipeline: orientation detection, image quality assessment, anti-spoofing (3-method ensemble), face matching, user guidance. ([ANNPR'18d](https://doi.org/10.1007/978-3-319-99978-4)) | A single ML model is never enough in production; wrapping in auxiliary quality and security modules is mandatory. |
 | <a href="https://doi.org/10.21256/zhaw-1533"><img src="http://stdm.github.io/images/papers/ICDAR_2017.jpg" style="height:60px; width:auto;"/></a> | **Newspaper article segmentation** | Media / publishing | FCNNs segment printed newspaper pages into articles at >10 000 pages/day for a media monitoring company. ([ICDAR'17](https://doi.org/10.21256/zhaw-1533)) | Excluding non-article regions and handling layout diversity are the dominant engineering challenges, not the core model. |
 | <a href="https://doi.org/10.1002/mp.16405"><img src="http://stdm.github.io/images/papers/MedPhys_2023.jpg" style="height:60px; width:auto;"/></a> | **Radiotherapy CBCT correction** | Medical physics | Deep CNNs reduce motion artefacts in cone-beam CT scans, improving image quality for treatment planning. ([MedPhys'23](https://doi.org/10.1002/mp.16405), *Top-Viewed*) | DL replaces iterative reconstruction, cutting processing from hours to seconds at equivalent image quality. |
 | <a href="https://doi.org/10.1038/s41598-024-64855-2"><img src="http://stdm.github.io/images/papers/SR_2024.jpg" style="height:60px; width:auto;"/></a> | **Thyroid cancer cytology** | Pathology / oncology | Cell segmentation on rapid optical cytopathology images (no staining required) enables real-time intraoperative diagnosis. ([Sci. Reports'24](https://doi.org/10.1038/s41598-024-64855-2)) | Stain-free optical biopsy becomes clinically feasible; DL cell segmentation matches standard pathology accuracy. |
@@ -303,17 +303,12 @@ The table below maps concrete, practitioner-relevant examples from across the re
 <a name="contributions"></a>
 ## Main scientific contributions
 
+The following three contributions represent the group's most coherent and strong scientific claims, each with a clear arc, a body of evidence, and an open trajectory.
+
+
 <details markdown="1">
-<summary><b>Three strong claims for scientific breakthrough</b></summary>
-
-<br>
-
-The following three contributions represent the group's most coherent and fundable scientific claims — each with a clear arc, a body of evidence, and an open trajectory.
-
----
-
-### 1. Neural Speaker Recognition and Diarization
-*2004 – 2018, with ongoing relevance as a methodological platform*
+<summary><b>Neural speaker recognition and diarization</b></summary>
+*~2004–ongoing: Temporal features as key, with ongoing relevance as a methodological platform*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em;">
 <a href="https://stdm.github.io/downloads/papers/ICASSP_2006.pdf"><img src="http://stdm.github.io/images/papers/ICASSP_2006.jpg" alt="ICASSP 2006" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
@@ -325,11 +320,12 @@ The following three contributions represent the group's most coherent and fundab
 Starting from first principles in signal processing and statistical modelling, this line of work built a comprehensive account of how to identify and cluster speakers automatically from audio — the task known as speaker diarization. The early contributions ([ICASSP'06](https://stdm.github.io/downloads/papers/ICASSP_2006.pdf)) introduced fast and robust speaker clustering using Earth Mover's Distance and MixMax models, operating on real-world degraded recordings without prior knowledge of the number of speakers. The [doctoral dissertation (2010)](https://archiv.ub.uni-marburg.de/ubfind/Record/urn:nbn:de:hebis:04-z2010-0465) provided the most complete treatment of voice modelling methods for speaker recognition of its time, systematically comparing generative and discriminative approaches across diverse corpora.
 
 The line was transformed by deep learning: [MLSP'16](https://doi.org/10.21256/zhaw-3761) demonstrated that convolutional networks trained on spectrograms could learn speaker-discriminative embeddings that cluster across unseen recordings without retraining — one of the early demonstrations of this paradigm before x-vectors became standard practice. The follow-up [MLSP'17](https://doi.org/10.21256/zhaw-3762) refined the approach through metric learning objectives directly optimised for clustering quality. Together, this body of work documents a full methodological cycle from classical statistical approaches to neural representations, establishing the group as a European reference point in audio-based biometric intelligence.
+</details>
 
----
 
-### 2. Dense Small-Object Detection: DeepScores and the Deep Watershed Detector
-*2017 – 2025, with DeepScores as an ongoing community resource*
+<details markdown="1">
+<summary><b>Dense small-object detection: DeepScores and the Deep Watershed Detector</b></summary>
+*~2017–2025: OMR transformed, with DeepScores as an ongoing community resource*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em;">
 <a href="https://doi.org/10.21256/zhaw-1533"><img src="http://stdm.github.io/images/papers/ICDAR_2017.jpg" alt="ICDAR 2017" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
@@ -342,11 +338,12 @@ The line was transformed by deep learning: [MLSP'16](https://doi.org/10.21256/zh
 This is the group's strongest claim to a core computer vision contribution. Standard object detectors — YOLO, SSD, Faster R-CNN — share a structural failure mode when applied to images containing large numbers of very small, densely packed objects: grid-based anchor mechanisms impose spatial constraints that prevent detecting multiple co-located objects regardless of training data or hyperparameter tuning. [DeepScores (ICPR'18)](https://doi.org/10.21256/zhaw-4255), with 80 million labelled objects across 300,000 high-resolution images of music notation, makes this failure mode precisely measurable. At several orders of magnitude larger in object count than PASCAL VOC or MS-COCO, it poses the dense small-object detection problem to the broader computer vision community rather than to optical music recognition alone.
 
 The [Deep Watershed Detector (ISMIR'18)](https://doi.org/10.21256/zhaw-3760) addresses this structurally: instead of bounding-box regression from a spatial grid, it predicts a dense energy map where object centres appear as local peaks extracted by the watershed transform. This makes it conceptually an anchor-free dense detector — contemporaneous with CornerNet (ECCV'18) but derived from different mathematical foundations that provide a clean topological justification for handling crowded scenes. A model trained on synthetically rendered scores generalised directly to handwritten notation (MUSCIMA++) without retraining, a strong out-of-distribution result. Subsequent work ([TISMIR'24](https://doi.org/10.5334/tismir.157), [PR'25](https://doi.org/10.1016/j.patcog.2025.112786)) extended and validated the approach on real-world scores, with methodology that transfers to satellite imagery, document analysis, and histopathology.
+</details>
 
----
 
-### 3. From Algorithmic Research to Societal Questions
-*2018 – present, increasingly the group's primary intellectual orientation*
+<details markdown="1">
+<summary><b>From algorithmic research to societal questions</b></summary>
+*~2018–ongoing: increasingly the group's primary intellectual orientation*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em;">
 <a href="https://doi.org/10.1007/978-3-319-99978-4"><img src="http://stdm.github.io/images/papers/ANNPR_2018d.jpg" alt="Deep Learning in the Wild" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
@@ -360,5 +357,4 @@ The [Deep Watershed Detector (ISMIR'18)](https://doi.org/10.21256/zhaw-3760) add
 The third contribution is not a method but a movement: the group has systematically traced what happens when machine learning results exit the research lab and encounter real human contexts, producing original scientific arguments at each stage of that transition. The invited position paper [Deep Learning in the Wild (ANNPR'18)](https://doi.org/10.1007/978-3-319-99978-4) opened this line by cataloguing the gap between benchmark conditions and deployment realities, providing a taxonomy of failure modes that predates much of the later "reproducibility crisis" literature in ML. The [Data Centrism paper (AoDSA'22)](https://dx.doi.org/10.5445/IR/1000143637) went further, arguing that data — not algorithms or models — is the primary scientific object of data science, with direct implications for how the discipline should evaluate its own contributions.
 
 On the applied side, the [AI & Ethics (2021)](https://doi.org/10.1007/s43681-021-00108-6) bias study showed quantitatively that demographic awareness in face recognition design does not translate to reduced bias at deployment. [Assessing Deep Learning (AI&Ethics'23)](https://doi.org/10.1007/s43681-023-00408-z) proposed a humanities-grounded framework for evaluating AI systems beyond technical metrics. Most recently, [PMM'26](https://doi.org/10.1080/09540962.2025.2541304) and [AI&Ethics'26](https://doi.org/10.1007/s43681-026-01042-1) formalised how intrinsic ML properties — stochasticity of training, distributional shift — map to policy-relevant risk categories, giving regulators technically grounded criteria that go beyond checklist compliance.
-
 </details>
