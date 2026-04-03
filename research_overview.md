@@ -4,20 +4,20 @@ layout: page
 comments: false
 ---
 
-The Machine Perception and Cognition group occupies a distinctive position at the intersection of applied and foundational AI research. It is firmly motivated by practical problems (ca. 80% of our research is joint work with practice partners), yet consistently engages fundamental questions about, e.g., what data science <em>is</em>, how natural intelligence works, and what ML's stochastic nature means for safety, publishing  at top venues regularly (ICML, Nature Scientific Reports, Pattern Recognition, AI and Ethics etc.). Below is a summary of some defining traits that emerge consistently across the full publication record of >100 papers from >20 years.
+The Machine Perception and Cognition group occupies a distinctive position at the intersection of applied and foundational AI research. It is firmly motivated by practical problems (ca. 80% of our research is joint work with practice partners), yet consistently engages fundamental questions about, e.g., what data science <em>is</em>, how natural intelligence works, and what ML's stochastic nature means for safety, publishing  at top venues regularly (ICML, Nature Scientific Reports, Pattern Recognition, AI and Ethics etc.). Below is a summary of some defining traits that emerge consistently across the full publication record of >100 papers from >20 years, geasred towards researchers.
 
 ### TOC
-1. [Mindset behind our work](#mindset)
+1. [The mindset behind our work](#mindset)
 2. [Research lines](#research)
 3. [Examples of translation into practice](#practice)
-4. [Main Scientific Contributions](#contributions)
+4. [Main scientific contributions](#contributions)
 
 
 <img alt="Thilo Stadelmann and Yann LeCun discussing world models and cowbell blues at the Swiss AI Award 2023 ceremony in Davos, Switzerland" src="http://stdm.github.io/images/stdm-lecun.jpg"/>
 
 
 <a name="mindset"></a>
-## Mindset behind our work
+## The mindset behind our work
 
 <div style="background:#f0f5fb; border:1px solid #bdd0e8; border-radius:6px; padding:20px 26px 14px; margin:1.2em 0 2em;">
 
@@ -66,12 +66,11 @@ The Machine Perception and Cognition group occupies a distinctive position at th
 Being motivated by real-world pattern recognition problems (how perceptions are formed from sensory input and cognitively tranlated into reasonable actions) leads to a suprinsingly broad field of use cases and industries amidst a stable core of methodological focal points. Here's an overview of sub-disciplines our inquiry contributes to.
 
 
-<details markdown="1">
-<summary><b>Nine sustained research threads</b></summary>
-
 <br>
 
-### Speaker recognition & audio representation learning
+<details markdown="1">
+<summary><b>Speaker recognition & audio representation learning</b></summary>
+
 *~2004–ongoing: formative line from PhD to continued breakthroughs with deep learning*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em;">
@@ -90,9 +89,9 @@ The earliest sustained research thread centres on automatic speaker recognition.
 | [Lukic et al., MLSP'16](https://doi.org/10.21256/zhaw-3761) (>100 citations) | CNN on spectrograms achieve state-of-the-art speaker ID and clustering without hand-crafted features. |
 | [Stadelmann et al., ANNPR'18b](https://doi.org/10.1007/978-3-319-99978-4) | RNNs seem to capture supra-segmental prosodic features for improved voice clustering. |
 | [Neururer et al., PRL 2024](https://doi.org/10.1016/j.patrec.2024.03.016) | DNNs for ASR learn spectral but *not* temporal features, even if they could: the models are more superficial than expected. |
+</details>
 
-
-### Applied deep learning: from benchmarks to production
+<summary><b>Applied deep learning: from benchmarks to production</b></summary>
 *~2016–ongoing: Centrepiece applied-ML research programme*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em;">
@@ -111,9 +110,10 @@ A distinctive contribution is the systematic study of the gap between benchmark-
 | [Stadelmann et al., ADS ch. *Beyond ImageNet* (2019)](https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf) | Most industrial DL projects require domain-specific data curation, loss shaping, and calibration absent from canonical ImageNet training. |
 | [Tuggener et al., MDPI AI 2020 *Design Patterns*](https://www.mdpi.com/2673-2688/1/4/31) | Seven reusable design patterns cover the majority of resource-constrained AutoML scenarios. |
 | [Tuggener et al., Frontiers 2022](https://doi.org/10.3389/fcomp.2022.1041703) | CNN architectures optimised on ImageNet do not reliably transfer across domains, hence architecture search must be domain-aware. |
+</details>
 
 
-### Data Science as a scientific discipline
+<summary><b>Data Science as a scientific discipline</b></summary>
 *~2013–2022: conceptual / disciplinary foundation work*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em;">
@@ -131,9 +131,10 @@ Running parallel to empirical research is a sustained effort to define and legit
 | [ECSS'13](https://stdm.github.io/downloads/papers/ECSS_2013.pdf); [HMD'14](https://doi.org/10.21256/zhaw-3759); [HMD'16](https://doi.org/10.1007/978-3-658-11589-0_4) | The data scientist profession requires a unique combination of analytics, technology, entrepreneurship, and communication; none of the contributing disciplines provides this alone. |
 | [Braschler, Stadelmann, Stockinger (Eds.), Springer 2019](https://stdm.github.io/data-science-book/) (>123k accesses) | 16 case-study chapters; central lesson: "necessity is the mother of invention" - applied data science is always problem-driven, not method-driven. |
 | [Stadelmann, Klamt, Merkt, AoDSA'22](https://dx.doi.org/10.5445/IR/1000143637) | *Data centrism* (data as the central subject, not a resource) is the unique disciplinary core that no contributing field shares to the same degree. |
+</details>
 
 
-### Document recognition & optical music recognition
+<summary><b>Document recognition & optical music recognition</b></summary>
 *~2017–ongoing: dedicated dataset and methods programme*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em;">
@@ -155,9 +156,10 @@ An ongoing programme addresses the computational reading of printed musical scor
 | [ISMIR'18 *Deep Watershed Detector*](https://doi.org/10.21256/zhaw-3760) | Energy-based instance segmentation via watershed post-processing achieves state-of-the-art on polyphonic music object detection. |
 | [TISMIR'24 *Real World Music Object Recognition*](https://doi.org/10.5334/tismir.157) | Substantial performance gap versus synthetic data; domain adaptation is key for real OMR deployment. |
 | [ArXiv'25 *Document Recognition as Tramscriptiion*](https://arxiv.org/abs/2507.08458) | Document recognition shouldn't be viewed as isolated computer vision tasks, but as end-to-end transcription of a full information; this view leads to rules for inductive bias design that allow the creation of document foundation models. |
+</details>
 
 
-### Medical image analysis
+<summary><b>Medical image analysis</b></summary>
 *~2021–ongoing: growing interdisciplinary programme*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em;">
@@ -179,9 +181,10 @@ A growing body of work addresses clinical imaging across four sub-themes: (a) *c
 | [Sager et al., JImaging'22](https://doi.org/10.3390/jimaging8080222) | A "domain sanity loss" achieves robust vertebra detection across different scanner vendors without paired training data. |
 | [Jermain et al., Sci. Reports'24](https://doi.org/10.1038/s41598-024-64855-2) | DL cell segmentation on rapid optical cytopathology images matches standard pathology accuracy for thyroid cancer. |
 | [Meyer et al., SDS'25b](https://doi.org/10.1109/SDS66131.2025.00008) (Best Paper) | Hounsfield unit value ranges, a standard radiological prior, enable data-efficient CT segmentation trained within a single clinic. |
+</details>
 
 
-### AI Ethics & societal implications
+<summary><b>AI Ethics & societal implications</b></summary>
 *~2021–ongoing: normative and empirical strand*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em;">
@@ -199,9 +202,10 @@ A distinct thread examines the ethical and societal dimensions of AI. The [2021 
 | [Wehrli et al., AI&Ethics'21](https://doi.org/10.1007/s43681-021-00108-6) | Model awareness of sensitive features and demographic accuracy disparity are empirically uncorrelated, hence blinding is not a valid de-biasing technique. |
 | [Segessenmann et al., AI&Ethics'23](https://link.springer.com/article/10.1007/s43681-023-00408-z) | A structured humanities-informed programme for critically assessing DL systems across epistemology, ethics, and societal impact. |
 | [Stadelmann et al., AI&Ethics'26](https://link.springer.com/article/10.1007/s43681-026-01042-1) | ML's inherent stochasticity must be explicitly accounted for in safety engineering; one way of doing so is with co-learning. |
+</details>
 
 
-### Theoretical foundations of intelligence
+<summary><b>Theoretical foundations of intelligence</b></summary>
 *~2022–ongoing: theoretical / foundational strand*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em;">
@@ -219,9 +223,10 @@ In collaboration with Christoph von der Malsburg (Frankfurt) and Benjamin Grewe 
 | [von der Malsburg, Stadelmann, Grewe, arXiv'22](https://arxiv.org/abs/2205.00002) | Brain and environment are highly structured; self-organised "net fragments" serve as the structural inductive bias enabling data-efficient natural learning. |
 | [Saponati, Sager et al., ICML'25](https://icml.cc/virtual/2025/poster/44452) | Transformers' self-attention develops symmetry and directionality structures during training, theoretically grounding attempts to increase training efficiency through initialization tricks. |
 | [Sager et al., Neural Computation'26](https://doi.org/10.1162/NECO.a.1505) | The cooperative network architecture instantiates net-fragment theory; learns structured representations with strong few-shot generalisation. |
+</details>
 
 
-### Industrial AI applications
+<summary><b>Industrial AI applications</b></summary>
 *~2019–ongoing: applied programme across multiple industrial domains*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em;">
@@ -242,9 +247,10 @@ A broad programme applies ML, including RL and representation learning, to indus
 | [Roost et al., SDS'20](https://stdm.github.io/downloads/papers/SDS_2020.pdf) (Best Poster) | Multi-agent RL improves train rescheduling; sample efficiency and inter-agent communication are the key bottlenecks for real rail deployment. |
 | [Yan et al., SDS'25a](https://doi.org/10.1109/SDS66131.2025.00022) | World-model-based RL enables industrial process control from limited real data by leveraging a learned environment model for planning. |
 | [Mussi et al., iScience'25](https://doi.org/10.1016/j.isci.2025.113400) | Human-AI teaming in safety-critical systems requires trust calibration, explainability, and explicit workload allocation, resulting in co-learning architectures — purely autonomous AI is inappropriate in regulated contexts. |
+</details>
 
 
-### Graph neural networks for pattern recognition
+<summary><b>Graph neural networks for pattern recognition</b></summary>
 *~2022–2026: methodical deep dive*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em;">
@@ -261,7 +267,6 @@ A self-contained thread, developed in collaboration with Marcello Pelillo (Venic
 |---|---|
 | [Ali et al., PRL'24 *Hierarchical Glocal Attention Pooling*](https://doi.org/10.1016/j.patrec.2024.09.009) | Combining global graph structure with local neighbourhood attention in hierarchical pooling achieves state-of-the-art graph classification. |
 | [Ali et al., Pattern Recognition'26 *Multi-View via Dominant Sets*](https://doi.org/10.1016/j.patcog.2025.112786) | Treating pooling as a dominant-set clustering problem provides a principled, parameter-efficient alternative to learned pooling operators. |
-
 </details>
 
 
