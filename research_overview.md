@@ -67,25 +67,27 @@ Being motivated by real-world pattern recognition problems (how perceptions are 
 
 
 <details markdown="1">
-<summary><b>Applied deep learning: from benchmarks to production</b></summary>
-*~2016–ongoing: Centrepiece applied-ML research programme*
+<summary><b>Industrial AI applications</b></summary>
+*~2019–ongoing: applied programme across multiple industrial domains*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em;">
-<a href="https://doi.org/10.1007/978-3-319-99978-4"><img src="http://stdm.github.io/images/papers/ANNPR_2018d.jpg" alt="DL in the Wild" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
-<a href="https://stdm.github.io/downloads/papers/SDS_2019.pdf"><img src="http://stdm.github.io/images/papers/SDS_2019.jpg" alt="SDS 2019" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
-<a href="https://www.mdpi.com/2673-2688/1/4/31"><img src="http://stdm.github.io/images/papers/AI_2020.jpg" alt="AI 2020" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
-<a href="https://stdm.github.io/downloads/papers/TAILOR_2020.pdf"><img src="http://stdm.github.io/images/papers/TAILOR_2020.jpg" alt="TAILOR 2020" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
-<a href="https://doi.org/10.3389/fcomp.2022.1041703"><img src="http://stdm.github.io/images/papers/Frontiers_2022.jpg" alt="Frontiers 2022" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+<a href="https://stdm.github.io/downloads/papers/AVHRC_2020.pdf"><img src="http://stdm.github.io/images/papers/AVHRC_2020.jpg" alt="AVHRC 2020" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+<a href="https://stdm.github.io/downloads/papers/SDS_2020.pdf"><img src="http://stdm.github.io/images/papers/SDS_2020.jpg" alt="SDS 2020" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+<a href="https://doi.org/10.1016/j.geothermics.2024.103012"><img src="http://stdm.github.io/images/papers/Geothermics_2024.jpg" alt="Geothermics 2024" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+<a href="https://doi.org/10.1109/SDS60720.2024.00027"><img src="http://stdm.github.io/images/papers/SDS_2024c.jpg" alt="SDS 2024c" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+<a href="https://doi.org/10.1007/978-3-031-71602-7_27"><img src="http://stdm.github.io/images/papers/ANNPR_2024.jpg" alt="ANNPR 2024" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+<a href="https://doi.org/10.1016/j.isci.2025.113400"><img src="http://stdm.github.io/images/papers/iScience_2025.png" alt="iScience 2025" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+<a href="https://doi.org/10.1109/SDS66131.2025.00022"><img src="http://stdm.github.io/images/papers/SDS_2025a.jpg" alt="SDS 2025a" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+<a href="https://link.springer.com/article/10.1007/s00501-025-01563-y"><img src="http://stdm.github.io/images/papers/BHM_2025.jpg" alt="BHM 2025" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
 </div>
 
-A distinctive contribution is the systematic study of the gap between benchmark-driven research and real-world deployment. The invited paper [*"Deep Learning in the Wild"*](https://doi.org/10.1007/978-3-319-99978-4) (ANNPR'18) distils lessons from six production use cases. The companion book chapter [*"Beyond ImageNet"*](https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf) (Springer, 2019) generalises these into transferable principles. The MDPI AI paper on ["Design Patterns for Resource-Constrained Automated Deep-Learning Methods"](https://www.mdpi.com/2673-2688/1/4/31) (2020) synthesises the methodological takeaways into reusable patterns. The [Frontiers'22 paper](https://doi.org/10.3389/fcomp.2022.1041703) closes the loop empirically, showing that ImageNet-optimal architectures fail to transfer across domains.
+A broad programme applies ML, including RL and representation learning, to industrial control and monitoring. Key domains include rail traffic ([SDS'20](https://stdm.github.io/downloads/papers/SDS_2020.pdf): RL-based train rescheduling), building energy optimisation ([ANNPR'24](https://doi.org/10.1007/978-3-031-71602-7_27)), injection-moulding process monitoring ([SDS'24c](https://doi.org/10.1109/SDS60720.2024.00027)), industrial process control via world models ([SDS'25a](https://doi.org/10.1109/SDS66131.2025.00022)), and geothermal reservoir uncertainty quantification ([Geothermics'24](https://doi.org/10.1016/j.geothermics.2024.103012)). The [iScience'25 paper](https://doi.org/10.1016/j.isci.2025.113400) synthesises lessons on human-AI interaction in safety-critical infrastructures, introducing co-learning as a development paradigm.
 
 | Paper | Key finding / message |
 |---|---|
-| [Stadelmann et al., ANNPR'18d](https://doi.org/10.1007/978-3-319-99978-4) | Real deployment requires wrapping core DL models in ensembles of auxiliary modules; benchmark accuracy is necessary but not sufficient. |
-| [Stadelmann et al., ADS ch. *Beyond ImageNet* (2019)](https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf) | Most industrial DL projects require domain-specific data curation, loss shaping, and calibration absent from canonical ImageNet training. |
-| [Tuggener et al., MDPI AI 2020 *Design Patterns*](https://www.mdpi.com/2673-2688/1/4/31) | Seven reusable design patterns cover the majority of resource-constrained AutoML scenarios. |
-| [Tuggener et al., Frontiers 2022](https://doi.org/10.3389/fcomp.2022.1041703) | CNN architectures optimised on ImageNet do not reliably transfer across domains, hence architecture search must be domain-aware. |
+| [Roost et al., SDS'20](https://stdm.github.io/downloads/papers/SDS_2020.pdf) (Best Poster) | Multi-agent RL improves train rescheduling; sample efficiency and inter-agent communication are the key bottlenecks for real rail deployment. |
+| [Yan et al., SDS'25a](https://doi.org/10.1109/SDS66131.2025.00022) | World-model-based RL enables industrial process control from limited real data by leveraging a learned environment model for planning. |
+| [Mussi et al., iScience'25](https://doi.org/10.1016/j.isci.2025.113400) | Human-AI teaming in safety-critical systems requires trust calibration, explainability, and explicit workload allocation, resulting in co-learning architectures — purely autonomous AI is inappropriate in regulated contexts. |
 </details>
 
 
@@ -112,6 +114,29 @@ An ongoing programme addresses the computational reading of printed musical scor
 | [ISMIR'18 *Deep Watershed Detector*](https://doi.org/10.21256/zhaw-3760) | Energy-based instance segmentation via watershed post-processing achieves state-of-the-art on polyphonic music object detection. |
 | [TISMIR'24 *Real World Music Object Recognition*](https://doi.org/10.5334/tismir.157) | Substantial performance gap versus synthetic data; domain adaptation is key for real OMR deployment. |
 | [ArXiv'25 *Document Recognition as Tramscriptiion*](https://arxiv.org/abs/2507.08458) | Document recognition shouldn't be viewed as isolated computer vision tasks, but as end-to-end transcription of a full information; this view leads to rules for inductive bias design that allow the creation of document foundation models. |
+</details>
+
+
+<details markdown="1">
+<summary><b>Applied deep learning: from benchmarks to production</b></summary>
+*~2016–ongoing: Centrepiece applied-ML research programme*
+
+<div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em;">
+<a href="https://doi.org/10.1007/978-3-319-99978-4"><img src="http://stdm.github.io/images/papers/ANNPR_2018d.jpg" alt="DL in the Wild" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+<a href="https://stdm.github.io/downloads/papers/SDS_2019.pdf"><img src="http://stdm.github.io/images/papers/SDS_2019.jpg" alt="SDS 2019" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+<a href="https://www.mdpi.com/2673-2688/1/4/31"><img src="http://stdm.github.io/images/papers/AI_2020.jpg" alt="AI 2020" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+<a href="https://stdm.github.io/downloads/papers/TAILOR_2020.pdf"><img src="http://stdm.github.io/images/papers/TAILOR_2020.jpg" alt="TAILOR 2020" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+<a href="https://doi.org/10.3389/fcomp.2022.1041703"><img src="http://stdm.github.io/images/papers/Frontiers_2022.jpg" alt="Frontiers 2022" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+</div>
+
+A distinctive contribution is the systematic study of the gap between benchmark-driven research and real-world deployment. The invited paper [*"Deep Learning in the Wild"*](https://doi.org/10.1007/978-3-319-99978-4) (ANNPR'18) distils lessons from six production use cases. The companion book chapter [*"Beyond ImageNet"*](https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf) (Springer, 2019) generalises these into transferable principles. The MDPI AI paper on ["Design Patterns for Resource-Constrained Automated Deep-Learning Methods"](https://www.mdpi.com/2673-2688/1/4/31) (2020) synthesises the methodological takeaways into reusable patterns. The [Frontiers'22 paper](https://doi.org/10.3389/fcomp.2022.1041703) closes the loop empirically, showing that ImageNet-optimal architectures fail to transfer across domains.
+
+| Paper | Key finding / message |
+|---|---|
+| [Stadelmann et al., ANNPR'18d](https://doi.org/10.1007/978-3-319-99978-4) | Real deployment requires wrapping core DL models in ensembles of auxiliary modules; benchmark accuracy is necessary but not sufficient. |
+| [Stadelmann et al., ADS ch. *Beyond ImageNet* (2019)](https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf) | Most industrial DL projects require domain-specific data curation, loss shaping, and calibration absent from canonical ImageNet training. |
+| [Tuggener et al., MDPI AI 2020 *Design Patterns*](https://www.mdpi.com/2673-2688/1/4/31) | Seven reusable design patterns cover the majority of resource-constrained AutoML scenarios. |
+| [Tuggener et al., Frontiers 2022](https://doi.org/10.3389/fcomp.2022.1041703) | CNN architectures optimised on ImageNet do not reliably transfer across domains, hence architecture search must be domain-aware. |
 </details>
 
 
@@ -182,31 +207,6 @@ In collaboration with Christoph von der Malsburg (Frankfurt) and Benjamin Grewe 
 | [von der Malsburg, Stadelmann, Grewe, arXiv'22](https://arxiv.org/abs/2205.00002) | Brain and environment are highly structured; self-organised "net fragments" serve as the structural inductive bias enabling data-efficient natural learning. |
 | [Saponati, Sager et al., ICML'25](https://icml.cc/virtual/2025/poster/44452) | Transformers' self-attention develops symmetry and directionality structures during training, theoretically grounding attempts to increase training efficiency through initialization tricks. |
 | [Sager et al., Neural Computation'26](https://doi.org/10.1162/NECO.a.1505) | The cooperative network architecture instantiates net-fragment theory; learns structured representations with strong few-shot generalisation. |
-</details>
-
-
-<details markdown="1">
-<summary><b>Industrial AI applications</b></summary>
-*~2019–ongoing: applied programme across multiple industrial domains*
-
-<div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em;">
-<a href="https://stdm.github.io/downloads/papers/AVHRC_2020.pdf"><img src="http://stdm.github.io/images/papers/AVHRC_2020.jpg" alt="AVHRC 2020" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
-<a href="https://stdm.github.io/downloads/papers/SDS_2020.pdf"><img src="http://stdm.github.io/images/papers/SDS_2020.jpg" alt="SDS 2020" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
-<a href="https://doi.org/10.1016/j.geothermics.2024.103012"><img src="http://stdm.github.io/images/papers/Geothermics_2024.jpg" alt="Geothermics 2024" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
-<a href="https://doi.org/10.1109/SDS60720.2024.00027"><img src="http://stdm.github.io/images/papers/SDS_2024c.jpg" alt="SDS 2024c" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
-<a href="https://doi.org/10.1007/978-3-031-71602-7_27"><img src="http://stdm.github.io/images/papers/ANNPR_2024.jpg" alt="ANNPR 2024" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
-<a href="https://doi.org/10.1016/j.isci.2025.113400"><img src="http://stdm.github.io/images/papers/iScience_2025.png" alt="iScience 2025" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
-<a href="https://doi.org/10.1109/SDS66131.2025.00022"><img src="http://stdm.github.io/images/papers/SDS_2025a.jpg" alt="SDS 2025a" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
-<a href="https://link.springer.com/article/10.1007/s00501-025-01563-y"><img src="http://stdm.github.io/images/papers/BHM_2025.jpg" alt="BHM 2025" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
-</div>
-
-A broad programme applies ML, including RL and representation learning, to industrial control and monitoring. Key domains include rail traffic ([SDS'20](https://stdm.github.io/downloads/papers/SDS_2020.pdf): RL-based train rescheduling), building energy optimisation ([ANNPR'24](https://doi.org/10.1007/978-3-031-71602-7_27)), injection-moulding process monitoring ([SDS'24c](https://doi.org/10.1109/SDS60720.2024.00027)), industrial process control via world models ([SDS'25a](https://doi.org/10.1109/SDS66131.2025.00022)), and geothermal reservoir uncertainty quantification ([Geothermics'24](https://doi.org/10.1016/j.geothermics.2024.103012)). The [iScience'25 paper](https://doi.org/10.1016/j.isci.2025.113400) synthesises lessons on human-AI interaction in safety-critical infrastructures, introducing co-learning as a development paradigm.
-
-| Paper | Key finding / message |
-|---|---|
-| [Roost et al., SDS'20](https://stdm.github.io/downloads/papers/SDS_2020.pdf) (Best Poster) | Multi-agent RL improves train rescheduling; sample efficiency and inter-agent communication are the key bottlenecks for real rail deployment. |
-| [Yan et al., SDS'25a](https://doi.org/10.1109/SDS66131.2025.00022) | World-model-based RL enables industrial process control from limited real data by leveraging a learned environment model for planning. |
-| [Mussi et al., iScience'25](https://doi.org/10.1016/j.isci.2025.113400) | Human-AI teaming in safety-critical systems requires trust calibration, explainability, and explicit workload allocation, resulting in co-learning architectures — purely autonomous AI is inappropriate in regulated contexts. |
 </details>
 
 
@@ -285,7 +285,7 @@ The table below maps concrete, practitioner-relevant examples from across the re
 
 | | Application | Domain | What was done | Practical takeaway |
 |---|---|---|---|---|
-| <a href="https://doi.org/10.1007/978-3-319-99978-4"><img src="http://stdm.github.io/images/papers/ANNPR_2018d.jpg" style="height:60px; width:auto;"/></a> | **Face-ID verification product** | Identity & security | Full production pipeline: orientation detection, image quality assessment, anti-spoofing (3-method ensemble), face matching, user guidance. ([ANNPR'18d](https://doi.org/10.1007/978-3-319-99978-4)) | A single ML model is never enough in production; wrapping in auxiliary quality and security modules is mandatory. |
+| <a href="https://doi.org/10.1007/978-3-319-99978-4"><img src="http://stdm.github.io/images/papers/ANNPR_2018d.jpg" style="height:60px; width:auto; min-width: unset; display: block;"/></a> | **Face-ID verification product** | Identity & security | Full production pipeline: orientation detection, image quality assessment, anti-spoofing (3-method ensemble), face matching, user guidance. ([ANNPR'18d](https://doi.org/10.1007/978-3-319-99978-4)) | A single ML model is never enough in production; wrapping in auxiliary quality and security modules is mandatory. |
 | <a href="https://doi.org/10.21256/zhaw-1533"><img src="http://stdm.github.io/images/papers/ICDAR_2017.jpg" style="height:60px; width:auto;"/></a> | **Newspaper article segmentation** | Media / publishing | FCNNs segment printed newspaper pages into articles at >10 000 pages/day for a media monitoring company. ([ICDAR'17](https://doi.org/10.21256/zhaw-1533)) | Excluding non-article regions and handling layout diversity are the dominant engineering challenges, not the core model. |
 | <a href="https://doi.org/10.1002/mp.16405"><img src="http://stdm.github.io/images/papers/MedPhys_2023.jpg" style="height:60px; width:auto;"/></a> | **Radiotherapy CBCT correction** | Medical physics | Deep CNNs reduce motion artefacts in cone-beam CT scans, improving image quality for treatment planning. ([MedPhys'23](https://doi.org/10.1002/mp.16405), *Top-Viewed*) | DL replaces iterative reconstruction, cutting processing from hours to seconds at equivalent image quality. |
 | <a href="https://doi.org/10.1038/s41598-024-64855-2"><img src="http://stdm.github.io/images/papers/SR_2024.jpg" style="height:60px; width:auto;"/></a> | **Thyroid cancer cytology** | Pathology / oncology | Cell segmentation on rapid optical cytopathology images (no staining required) enables real-time intraoperative diagnosis. ([Sci. Reports'24](https://doi.org/10.1038/s41598-024-64855-2)) | Stain-free optical biopsy becomes clinically feasible; DL cell segmentation matches standard pathology accuracy. |
