@@ -91,6 +91,7 @@ The earliest sustained research thread centres on automatic speaker recognition.
 | [Neururer et al., PRL 2024](https://doi.org/10.1016/j.patrec.2024.03.016) | DNNs for ASR learn spectral but *not* temporal features, even if they could: the models are more superficial than expected. |
 </details>
 
+<details markdown="1">
 <summary><b>Applied deep learning: from benchmarks to production</b></summary>
 *~2016–ongoing: Centrepiece applied-ML research programme*
 
@@ -113,6 +114,7 @@ A distinctive contribution is the systematic study of the gap between benchmark-
 </details>
 
 
+<details markdown="1">
 <summary><b>Data Science as a scientific discipline</b></summary>
 *~2013–2022: conceptual / disciplinary foundation work*
 
@@ -134,6 +136,7 @@ Running parallel to empirical research is a sustained effort to define and legit
 </details>
 
 
+<details markdown="1">
 <summary><b>Document recognition & optical music recognition</b></summary>
 *~2017–ongoing: dedicated dataset and methods programme*
 
@@ -159,6 +162,7 @@ An ongoing programme addresses the computational reading of printed musical scor
 </details>
 
 
+<details markdown="1">
 <summary><b>Medical image analysis</b></summary>
 *~2021–ongoing: growing interdisciplinary programme*
 
@@ -184,6 +188,7 @@ A growing body of work addresses clinical imaging across four sub-themes: (a) *c
 </details>
 
 
+<details markdown="1">
 <summary><b>AI Ethics & societal implications</b></summary>
 *~2021–ongoing: normative and empirical strand*
 
@@ -205,6 +210,7 @@ A distinct thread examines the ethical and societal dimensions of AI. The [2021 
 </details>
 
 
+<details markdown="1">
 <summary><b>Theoretical foundations of intelligence</b></summary>
 *~2022–ongoing: theoretical / foundational strand*
 
@@ -226,6 +232,7 @@ In collaboration with Christoph von der Malsburg (Frankfurt) and Benjamin Grewe 
 </details>
 
 
+<details markdown="1">
 <summary><b>Industrial AI applications</b></summary>
 *~2019–ongoing: applied programme across multiple industrial domains*
 
@@ -250,6 +257,7 @@ A broad programme applies ML, including RL and representation learning, to indus
 </details>
 
 
+<details markdown="1">
 <summary><b>Graph neural networks for pattern recognition</b></summary>
 *~2022–2026: methodical deep dive*
 
@@ -270,15 +278,11 @@ A self-contained thread, developed in collaboration with Marcello Pelillo (Venic
 </details>
 
 
+
 <a name="practice"></a>
 ## Examples of translation into practice
 
-<details markdown="1">
-<summary><b>Twelve concrete deployments and applied results</b></summary>
-
-<br>
-
-The table below maps the most concrete, practitioner-relevant examples from across the research portfolio to their domain, method, and key practical takeaway.
+The table below maps concrete, practitioner-relevant examples from across the research portfolio to their domain, method, and key practical takeaway.
 
 | | Application | Domain | What was done | Practical takeaway |
 |---|---|---|---|---|
@@ -295,11 +299,10 @@ The table below maps the most concrete, practitioner-relevant examples from acro
 | <a href="https://doi.org/10.1109/ACCESS.2023.3349132"><img src="http://stdm.github.io/images/papers/Access_2023.jpg" style="height:60px; width:auto;"/></a> | **Industrial anomaly detection** | Manufacturing / IoT | Comprehensive survey of deep transfer learning for anomaly detection in industrial time series, covering 150+ papers. ([Access'23/24](https://doi.org/10.1109/ACCESS.2023.3349132), *>100 citations*) | Pre-trained models fine-tuned with as few as 10–50 labelled examples; transfer learning is the practical standard for industrial sensor data. |
 | <a href="https://doi.org/10.1080/09540962.2025.2541304"><img src="http://stdm.github.io/images/papers/PMM_2025.png" style="height:60px; width:auto;"/></a> | **AI risk assessment for public policy** | Governance / regulation | Evidence-based framework mapping technical ML properties (stochasticity, distributional shift) to policy-relevant risk categories. ([PMM'26](https://doi.org/10.1080/09540962.2025.2541304); [AI&Ethics'26](https://link.springer.com/article/10.1007/s43681-026-01042-1)) | Regulators need technically grounded criteria; the stochastic nature of ML training must be acknowledged in safety cases. |
 
-</details>
 
 
 <a name="contributions"></a>
-## Main Scientific Contributions
+## Main scientific contributions
 
 <details markdown="1">
 <summary><b>Three strong claims for scientific breakthrough</b></summary>
