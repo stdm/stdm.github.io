@@ -7,14 +7,15 @@ comments: false
 This is the academic website of [Thilo Stadelmann](https://www.zhaw.ch/en/about-us/person/stdm/), professor of **artificial intelligence** and **machine learning** at the [ZHAW](https://www.zhaw.ch/en/university/) [School of Engineering](https://www.zhaw.ch/en/engineering) and holder of the chair of Engineering-Information, director of the [Centre for Artificial Intelligence](https://www.zhaw.ch/en/engineering/institutes-centres/cai/) and head of its [Machine Perception and Cognition group](https://www.zhaw.ch/en/engineering/institutes-centres/cai/machine-perception-and-cognition-group/). He is also (co-)founder and board member of [AlpineAI AG](https://alpineai.swiss/) and the [ZHAW Datalab](https://www.zhaw.ch/datalab), pioneered [several other organizations](https://www.linkedin.com/in/thilo-stadelmann/), frequently gives [keynote talks](https://premium-speakers.com/en/speaker-presenter/thilo-stadelmann/), and received several [awards](https://www.zhaw.ch/en/about-us/person/stdm/) for his teaching, research, and ecosystem engagement. For latest news, follow on [LinkedIn](https://www.linkedin.com/in/thilo-stadelmann/). Views expressed are my own.
 
 ### TOC
-1. [Biography](#bio)
-2. [The Machine Perception and Cognition group](#group)
+1. [People](#people)
+2. [Publications](#publications)
 3. [Collaborations](#collaborations)
-4. [Publications](#publications)
 
+
+## People
 
 <a name="bio"></a>
-## Biography
+### Thilo Stadelmann's biography
 
 <a href="https://youtu.be/deVbP-hViMQ" target="_blank"><img src="http://stdm.github.io/images/thumbnail-tedx.jpg"/></a>
 
@@ -24,7 +25,7 @@ A personal note: I like kitesurfing, enjoy playing music on stringed instruments
 
 
 <a name="group"></a>
-## The Machine Perception and Cognition group
+### The Machine Perception and Cognition group
 
 <img alt="The ZHAW Centre for AI members as of March 2024" src="http://stdm.github.io/images/CAI-2024.jpg"/>
 
@@ -83,35 +84,6 @@ The group has very diverse backgrounds, which helps us complement each other's s
 </details>
 
  
-<a name="collaborations"></a>
-## Collaborations
-
-<img alt="Meeting friends and colleagues in Brisbane, Australia" src="http://stdm.github.io/images/collaboration.jpg"/>
-
-We usually collaborate with industry to work on novel pattern recognition use cases after funding is secured. Partners come from start-ups, SMEs and multi-national enterprises alike. It is actually helpful, in our experience over more than a decade, to work across domains (e.g., industrial production, medicine/health, entertainment, ...): The methodical questions are very comparable (robustness, transferability, ...), while the different application areas help to not make subsequent partners competitors. For any concrete project, we build the team that is best suited to solve the particular challenges, which often leads to collaborations with other research groups from the ZHAW.
-
-<details>
-<summary><b>Research partnerships</b></summary>
-
-We collaborate a lot with different universities and research institutions worldwide, also for joint supervision of our PhD students.
-
-<ul>
-	<li><a href="https://sites.uml.edu/abl">Prof. Benjamin Grewe</a> (neuroinformatics and machine learning) of ETH Zurich</li>
-	<li><a href="https://www.fias.science/en/life-and-neurosciences/research-groups/christoph-von-der-malsburg/">Prof. Christoph von der Malsburg</a> (neuroscience) of Frankfurt Institute of Advanced Studies</li>
-	<li><a href="http://www.dsi.unive.it/~pelillo/">Prof. Marcello Pelillo</a> (pattern recognition) of Ca'Foscari University of Venice</li>
-	<li><a href="http://people.idsia.ch/~juergen/">Prof. Juergen Schmidhuber</a> (AI, deep learning) of IDSIA and KAUST</li>
-	<li><a href="https://sites.uml.edu/abl/">Prof. Anna Yaroslavsky</a> (biophotonics) of UMass Lovell</li>
-	<li><a href="https://www.ru.nl/en/about-us/news/carmody-grey-appointed-professor-by-special-appointment-of-integral-ecology">Prof. Carmody Grey</a> (theology, integral ecology) of Radboud Universiteit</li>
-	<li><a href="https://www.unifr.ch/glaubeundgesellschaft/en/center/people/team-en/oliver-duerr.html">Dr. Oliver Duerr</a> (techno-theology, ethics, faith & society) of University of Fribourg</li>
-	<li><a href="https://mlo.epfl.ch/">Prof. Martin Jaggi</a> (machine learning, optimisation) of EPFL</li>
-	<li><a href="https://www.empa.ch/web/s799/mirko-kovac">Prof. Mirko Kovac</a> (sustainability robotics) of EMPA/EPFL</li>
-	<li><a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Prof. Davide Scaramuzza</a> (robotics, perception) of University of Zurich</li>
-</ul>
-</details>
-
-If you are interested in a collaboration, please [contact](http://www.zhaw.ch/=stdm) me.
-
-
 <a name="publications"></a>
 ## Publications
 
@@ -932,3 +904,33 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/DiplomaThesis
 </tr>
 </table>
 </details>
+
+
+<a name="collaborations"></a>
+## Collaborations
+
+<img alt="Meeting friends and colleagues in Brisbane, Australia" src="http://stdm.github.io/images/collaboration.jpg"/>
+
+We usually collaborate with industry to work on novel pattern recognition use cases after funding is secured. Partners come from start-ups, SMEs and multi-national enterprises alike. It is actually helpful, in our experience over more than a decade, to work across domains (e.g., industrial production, medicine/health, entertainment, ...): The methodical questions are very comparable (robustness, transferability, ...), while the different application areas help to not make subsequent partners competitors. For any concrete project, we build the team that is best suited to solve the particular challenges, which often leads to collaborations with other research groups from the ZHAW.
+
+<details>
+<summary><b>Research partnerships</b></summary>
+
+We collaborate a lot with different universities and research institutions worldwide, also for joint supervision of our PhD students.
+
+<ul>
+	<li><a href="https://sites.uml.edu/abl">Prof. Benjamin Grewe</a> (neuroinformatics and machine learning) of ETH Zurich</li>
+	<li><a href="https://www.fias.science/en/life-and-neurosciences/research-groups/christoph-von-der-malsburg/">Prof. Christoph von der Malsburg</a> (neuroscience) of Frankfurt Institute of Advanced Studies</li>
+	<li><a href="http://www.dsi.unive.it/~pelillo/">Prof. Marcello Pelillo</a> (pattern recognition) of Ca'Foscari University of Venice</li>
+	<li><a href="http://people.idsia.ch/~juergen/">Prof. Juergen Schmidhuber</a> (AI, deep learning) of IDSIA and KAUST</li>
+	<li><a href="https://sites.uml.edu/abl/">Prof. Anna Yaroslavsky</a> (biophotonics) of UMass Lovell</li>
+	<li><a href="https://www.ru.nl/en/about-us/news/carmody-grey-appointed-professor-by-special-appointment-of-integral-ecology">Prof. Carmody Grey</a> (theology, integral ecology) of Radboud Universiteit</li>
+	<li><a href="https://www.unifr.ch/glaubeundgesellschaft/en/center/people/team-en/oliver-duerr.html">Dr. Oliver Duerr</a> (techno-theology, ethics, faith & society) of University of Fribourg</li>
+	<li><a href="https://mlo.epfl.ch/">Prof. Martin Jaggi</a> (machine learning, optimisation) of EPFL</li>
+	<li><a href="https://www.empa.ch/web/s799/mirko-kovac">Prof. Mirko Kovac</a> (sustainability robotics) of EMPA/EPFL</li>
+	<li><a href="https://rpg.ifi.uzh.ch/people_scaramuzza.html">Prof. Davide Scaramuzza</a> (robotics, perception) of University of Zurich</li>
+</ul>
+</details>
+
+If you are interested in a collaboration, please [contact](http://www.zhaw.ch/=stdm) me.
+
