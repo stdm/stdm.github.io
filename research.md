@@ -45,11 +45,11 @@ The [Machine Perception and Cognition group](https://stdm.github.io/home/#group)
 </div>
 
 <div style="background:white; border-left:4px solid #2c5f8a; border-radius:3px; padding:10px 14px; box-shadow:0 1px 3px rgba(0,0,0,0.07);">
-<strong>Genuinely interdisciplinary collaborators.</strong> Co-authors span radiologists, physicists, geothermal engineers, cognitive neuroscientists, musicologists, social workers, transport engineers, and ethicists. Domain knowledge visibly shapes methodology in each case.
+<strong>Genuinely interdisciplinary collaborators.</strong> Co-authors span <a href="https://doi.org/10.1002/mp.16405">radiologists</a>, <a href="https://doi.org/10.1063/5.0139707">physicists</a>, <a href="https://doi.org/10.1016/j.geothermics.2024.103012">geothermal engineers</a>, <a href="https://arxiv.org/abs/2205.00002">cognitive neuroscientists</a>, <a href="https://doi.org/10.21256/zhaw-3760">musicologists</a>, <a href="https://doi.org/10.1007/s43681-021-00108-6">social workers</a>, <a href="https://stdm.github.io/downloads/papers/SDS_2020.pdf">transport engineers</a>, and <a href="https://link.springer.com/article/10.1007/s43681-023-00408-z">ethicists</a>. Domain knowledge visibly shapes methodology in each case.
 </div>
 
 <div style="background:white; border-left:4px solid #2c5f8a; border-radius:3px; padding:10px 14px; box-shadow:0 1px 3px rgba(0,0,0,0.07);">
-<strong>Applied science identity, worn lightly.</strong> The Fachhochschule mandate (problems must be real) is treated as the motivational inspiration rather than a ceiling on ambition. ICML papers and Neural Computation articles coexist with industrial reports and practitioner handbooks.
+<strong>Applied science identity, worn lightly.</strong> The Fachhochschule mandate (problems must be real) is treated as the motivational inspiration rather than a ceiling on ambition. <a href="https://icml.cc/virtual/2025/poster/44452">ICML papers</a> and <a href="https://doi.org/10.1162/NECO.a.1505">Neural Computation articles</a> coexist with <a href="https://stdm.github.io/downloads/papers/SDS_2023a.pdf">industrial reports</a> and <a href="https://stdm.github.io/data-science-book/">practitioner handbooks</a>.
 </div>
 
 <div style="background:white; border-left:4px solid #2c5f8a; border-radius:3px; padding:10px 14px; box-shadow:0 1px 3px rgba(0,0,0,0.07);">
@@ -83,11 +83,15 @@ Being motivated by real-world pattern recognition problems (how perceptions are 
 
 A broad programme applies ML, including RL and representation learning, to industrial control and monitoring. Key domains include rail traffic ([SDS'20](https://stdm.github.io/downloads/papers/SDS_2020.pdf): RL-based train rescheduling), building energy optimisation ([ANNPR'24](https://doi.org/10.1007/978-3-031-71602-7_27)), injection-moulding process monitoring ([SDS'24c](https://doi.org/10.1109/SDS60720.2024.00027)), industrial process control via world models ([SDS'25a](https://doi.org/10.1109/SDS66131.2025.00022)), and geothermal reservoir uncertainty quantification ([Geothermics'24](https://doi.org/10.1016/j.geothermics.2024.103012)). The [iScience'25 paper](https://doi.org/10.1016/j.isci.2025.113400) synthesises lessons on human-AI interaction in safety-critical infrastructures, introducing co-learning as a development paradigm.
 
+<div markdown="1">
+
 | Paper | Key finding / message |
 |---|---|
 | [Roost et al., SDS'20](https://stdm.github.io/downloads/papers/SDS_2020.pdf) (Best Poster) | Multi-agent RL improves train rescheduling; sample efficiency and inter-agent communication are the key bottlenecks for real rail deployment. |
 | [Yan et al., SDS'25a](https://doi.org/10.1109/SDS66131.2025.00022) | World-model-based RL enables industrial process control from limited real data by leveraging a learned environment model for planning. |
 | [Mussi et al., iScience'25](https://doi.org/10.1016/j.isci.2025.113400) | Human-AI teaming in safety-critical systems requires trust calibration, explainability, and explicit workload allocation, resulting in co-learning architectures — purely autonomous AI is inappropriate in regulated contexts. |
+
+</div>
 </details>
 
 
@@ -108,12 +112,16 @@ A broad programme applies ML, including RL and representation learning, to indus
 
 An ongoing programme addresses the computational reading of printed musical scores and document images, i.e., document recognition. The [DeepScores](https://doi.org/10.21256/zhaw-4255) (ICPR'18a) and [DeepScoresV2](https://stdm.github.io/downloads/papers/ICPR_2020.pdf) (ICPR'20) datasets are among the largest for tiny, densely packed object detection, enabling systematic benchmarking on musical notation. The associated [Deep Watershed Detector](https://doi.org/10.21256/zhaw-3760) (ISMIR'18) demonstrated a novel instance segmentation approach for overlapping small objects. A [2024 TISMIR journal paper](https://doi.org/10.5334/tismir.157) reports real-world deployment, showing a substantial performance gap on digitised historical scores. Parallel work applied FCNNs to [newspaper article segmentation](https://doi.org/10.21256/zhaw-1533) and CNNs to [formula detection](https://doi.org/10.1109/ACCESS.2022.3202639) and [recognition](https://dx.doi.org/10.1109/ACCESS.2024.3404834). A new [preprint](https://arxiv.org/abs/2507.08458) draws on this background and introduces a new theory and first empirical results towards building document foundation models beyond optical character recognition (OCR) also for complex document typers like floor plans and engineering drawings.
 
+<div markdown="1">
+
 | Paper | Key finding / message |
 |---|---|
 | [ICPR'18a](https://doi.org/10.21256/zhaw-4255) / [ICPR'20 *DeepScores(V2)*](https://stdm.github.io/downloads/papers/ICPR_2020.pdf) | Standard detectors fail on tiny, high-density objects; the dataset surfaces the gap and motivates specialised architectures. |
 | [ISMIR'18 *Deep Watershed Detector*](https://doi.org/10.21256/zhaw-3760) | Energy-based instance segmentation via watershed post-processing achieves state-of-the-art on polyphonic music object detection. |
 | [TISMIR'24 *Real World Music Object Recognition*](https://doi.org/10.5334/tismir.157) | Substantial performance gap versus synthetic data; domain adaptation is key for real OMR deployment. |
 | [ArXiv'25 *Document Recognition as Tramscriptiion*](https://arxiv.org/abs/2507.08458) | Document recognition shouldn't be viewed as isolated computer vision tasks, but as end-to-end transcription of a full information; this view leads to rules for inductive bias design that allow the creation of document foundation models. |
+
+</div>
 </details>
 
 
@@ -131,12 +139,16 @@ An ongoing programme addresses the computational reading of printed musical scor
 
 A distinctive contribution is the systematic study of the gap between benchmark-driven research and real-world deployment. The invited paper [*"Deep Learning in the Wild"*](https://doi.org/10.1007/978-3-319-99978-4) (ANNPR'18) distils lessons from six production use cases. The companion book chapter [*"Beyond ImageNet"*](https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf) (Springer, 2019) generalises these into transferable principles. The MDPI AI paper on ["Design Patterns for Resource-Constrained Automated Deep-Learning Methods"](https://www.mdpi.com/2673-2688/1/4/31) (2020) synthesises the methodological takeaways into reusable patterns. The [Frontiers'22 paper](https://doi.org/10.3389/fcomp.2022.1041703) closes the loop empirically, showing that ImageNet-optimal architectures fail to transfer across domains.
 
+<div markdown="1">
+
 | Paper | Key finding / message |
 |---|---|
 | [Stadelmann et al., ANNPR'18d](https://doi.org/10.1007/978-3-319-99978-4) | Real deployment requires wrapping core DL models in ensembles of auxiliary modules; benchmark accuracy is necessary but not sufficient. |
 | [Stadelmann et al., ADS ch. *Beyond ImageNet* (2019)](https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf) | Most industrial DL projects require domain-specific data curation, loss shaping, and calibration absent from canonical ImageNet training. |
 | [Tuggener et al., MDPI AI 2020 *Design Patterns*](https://www.mdpi.com/2673-2688/1/4/31) | Seven reusable design patterns cover the majority of resource-constrained AutoML scenarios. |
 | [Tuggener et al., Frontiers 2022](https://doi.org/10.3389/fcomp.2022.1041703) | CNN architectures optimised on ImageNet do not reliably transfer across domains, hence architecture search must be domain-aware. |
+
+</div>
 </details>
 
 
@@ -157,12 +169,16 @@ A distinctive contribution is the systematic study of the gap between benchmark-
 
 A growing body of work addresses clinical imaging across four sub-themes: (a) *cross-domain generalisation* — [PrepNet](https://stdm.github.io/downloads/papers/CISP_BMEI_2021.pdf) homogenises heterogeneous CT scanners; [unsupervised domain adaptation](https://doi.org/10.3390/jimaging8080222) with a "domain sanity loss" detects vertebrae across scanner vendors; (b) *motion artefact correction* in CBCT ([MedPhys'23](https://doi.org/10.1002/mp.16405), top-viewed Wiley article); (c) *cell segmentation* for stain-free thyroid cancer diagnosis ([Sci. Reports'24](https://doi.org/10.1038/s41598-024-64855-2)); (d) *inductive bias design* — Hounsfield unit priors enable data-efficient CT segmentation within a single clinic ([SDS'25b](https://doi.org/10.1109/SDS66131.2025.00008), Best Paper Award). The unifying theme is encoding domain knowledge as inductive biases to overcome data scarcity.
 
+<div markdown="1">
+
 | Paper | Key finding / message |
 |---|---|
 | [Amirian et al., MedPhys'23](https://doi.org/10.1002/mp.16405) (Top-Viewed) | Deep CNNs reduce motion artefacts in 4D-CBCT to clinically acceptable levels, cutting processing from hours to seconds. |
 | [Sager et al., JImaging'22](https://doi.org/10.3390/jimaging8080222) | A "domain sanity loss" achieves robust vertebra detection across different scanner vendors without paired training data. |
 | [Jermain et al., Sci. Reports'24](https://doi.org/10.1038/s41598-024-64855-2) | DL cell segmentation on rapid optical cytopathology images matches standard pathology accuracy for thyroid cancer. |
 | [Meyer et al., SDS'25b](https://doi.org/10.1109/SDS66131.2025.00008) (Best Paper) | Hounsfield unit value ranges, a standard radiological prior, enable data-efficient CT segmentation trained within a single clinic. |
+
+</div>
 </details>
 
 
@@ -180,11 +196,15 @@ A growing body of work addresses clinical imaging across four sub-themes: (a) *c
 
 A distinct thread examines the ethical and societal dimensions of AI. The [2021 AI and Ethics paper](https://doi.org/10.1007/s43681-021-00108-6) on face recognition demonstrates empirically that *blinding a model to sensitive attributes does not reduce bias*, directly challenging a widely proposed de-biasing strategy. The [2023 AI and Ethics paper](https://link.springer.com/article/10.1007/s43681-023-00408-z) proposes a systematic work programme for the humanities to assess deep learning. The [2026 AI and Ethics paper](https://link.springer.com/article/10.1007/s43681-026-01042-1) establishes that the *stochastic nature of ML training has direct safety implications* for high-consequence deployments. The invited [PMM'26 paper](https://doi.org/10.1080/09540962.2025.2541304) proposes an evidence-based framework for AI risk assessment in public policy, arguing against worldview-induced AI fears.
 
+<div markdown="1">
+
 | Paper | Key finding / message |
 |---|---|
 | [Wehrli et al., AI&Ethics'21](https://doi.org/10.1007/s43681-021-00108-6) | Model awareness of sensitive features and demographic accuracy disparity are empirically uncorrelated, hence blinding is not a valid de-biasing technique. |
 | [Segessenmann et al., AI&Ethics'23](https://link.springer.com/article/10.1007/s43681-023-00408-z) | A structured humanities-informed programme for critically assessing DL systems across epistemology, ethics, and societal impact. |
 | [Stadelmann et al., AI&Ethics'26](https://link.springer.com/article/10.1007/s43681-026-01042-1) | ML's inherent stochasticity must be explicitly accounted for in safety engineering; one way of doing so is with co-learning. |
+
+</div>
 </details>
 
 
@@ -202,11 +222,15 @@ A distinct thread examines the ethical and societal dimensions of AI. The [2021 
 
 In collaboration with Christoph von der Malsburg (Frankfurt) and Benjamin Grewe (ETH Zurich), a theoretical programme investigates why natural intelligence is so data-efficient compared to current AI. The central argument in [*"A Theory of Natural Intelligence"*](https://arxiv.org/abs/2205.00002) (arXiv'22) is that both brain and natural environment are highly structured and that this mutual structural regularity acts as the key inductive bias enabling rapid, generalising learning via self-organised "net fragments." The [Neural Computation'26 paper](https://doi.org/10.1162/NECO.a.1505) instantiates the cooperative network architecture as a concrete instance of this theory of a a next level of AI could be build. At [ICML'25](https://icml.cc/virtual/2025/poster/44452), Saponati et al. showed that Transformer self-attention develops symmetry and directionality structures during training, informing deeper understanding of current ML methods. 
 
+<div markdown="1">
+
 | Paper | Key finding / message |
 |---|---|
 | [von der Malsburg, Stadelmann, Grewe, arXiv'22](https://arxiv.org/abs/2205.00002) | Brain and environment are highly structured; self-organised "net fragments" serve as the structural inductive bias enabling data-efficient natural learning. |
 | [Saponati, Sager et al., ICML'25](https://icml.cc/virtual/2025/poster/44452) | Transformers' self-attention develops symmetry and directionality structures during training, theoretically grounding attempts to increase training efficiency through initialization tricks. |
 | [Sager et al., Neural Computation'26](https://doi.org/10.1162/NECO.a.1505) | The cooperative network architecture instantiates net-fragment theory; learns structured representations with strong few-shot generalisation. |
+
+</div>
 </details>
 
 
@@ -224,10 +248,14 @@ In collaboration with Christoph von der Malsburg (Frankfurt) and Benjamin Grewe 
 
 A self-contained thread, developed in collaboration with Marcello Pelillo (Venice), investigates graph-based deep learning, particularly the design of expressive yet computationally efficient *graph pooling* operators for graph classification. Key contributions include [Quasi-CliquePool](https://doi.org/10.1145/3555776.3578600) (SAC'23), [Hierarchical Glocal Attention Pooling](https://doi.org/10.1016/j.patrec.2024.09.009) (PRL'24), [Multi-View Pooling via Dominant Sets](https://doi.org/10.1016/j.patcog.2025.112786) (Pattern Recognition'26), and [Community-Hop](https://stdm.github.io/downloads/papers/S+SSPR_2024.pdf) for node classification (S+SSPR'24). These methods consistently outperform prior pooling approaches while maintaining interpretability through their graph-theoretic foundations.
 
+<div markdown="1">
+
 | Paper | Key finding / message |
 |---|---|
 | [Ali et al., PRL'24 *Hierarchical Glocal Attention Pooling*](https://doi.org/10.1016/j.patrec.2024.09.009) | Combining global graph structure with local neighbourhood attention in hierarchical pooling achieves state-of-the-art graph classification. |
 | [Ali et al., Pattern Recognition'26 *Multi-View via Dominant Sets*](https://doi.org/10.1016/j.patcog.2025.112786) | Treating pooling as a dominant-set clustering problem provides a principled, parameter-efficient alternative to learned pooling operators. |
+
+</div>
 </details>
 
 
@@ -246,12 +274,16 @@ A self-contained thread, developed in collaboration with Marcello Pelillo (Venic
 
 The earliest sustained research thread centres on automatic speaker recognition. The [PhD thesis](https://archiv.ub.uni-marburg.de/ubfind/Record/urn:nbn:de:hebis:04-z2010-0465) (Marburg, 2010) introduced the *Dimension-Decoupled Gaussian Mixture Model* for coping with very short speech segments and established that improved recognition hinges at exploting temporal cues in a voice. Later work introduced deep learning to the field: CNNs applied directly to spectrograms ([MLSP'16](https://doi.org/10.21256/zhaw-3761), >100 citations) proved competitive for both speaker identification and clustering. Subsequent work used RNNs to capture supra-segmental voice characteristics ([ANNPR'18b](https://doi.org/10.1007/978-3-319-99978-4)) and metric-learning embeddings for measuring voice similarity ([MLSP'17](https://doi.org/10.21256/zhaw-3762)). A 2024 *Pattern Recognition Letters* paper delivers a sobering counter-result: deep networks for speaker recognition [*do not yet learn supra-segmental temporal features*](https://doi.org/10.1016/j.patrec.2024.03.016), raising open questions about what these models actually learn.
 
+<div markdown="1">
+
 | Paper | Key finding / message |
 |---|---|
 | [Stadelmann, PhD thesis (2010)](https://archiv.ub.uni-marburg.de/ubfind/Record/urn:nbn:de:hebis:04-z2010-0465) | Supra-segmental temporal features are key to unlocking an order of magnitude lower error rates. |
 | [Lukic et al., MLSP'16](https://doi.org/10.21256/zhaw-3761) (>100 citations) | CNN on spectrograms achieve state-of-the-art speaker ID and clustering without hand-crafted features. |
 | [Stadelmann et al., ANNPR'18b](https://doi.org/10.1007/978-3-319-99978-4) | RNNs seem to capture supra-segmental prosodic features for improved voice clustering. |
 | [Neururer et al., PRL 2024](https://doi.org/10.1016/j.patrec.2024.03.016) | DNNs for ASR learn spectral but *not* temporal features, even if they could: the models are more superficial than expected. |
+
+</div>
 </details>
 
 
@@ -269,11 +301,15 @@ The earliest sustained research thread centres on automatic speaker recognition.
 
 Running parallel to empirical research is a sustained effort to define and legitimise *data science as a discipline in its own right*. The early papers ([ECSS'13](https://stdm.github.io/downloads/papers/ECSS_2013.pdf), [HMD'14](https://doi.org/10.21256/zhaw-3759), [HMD'16](https://doi.org/10.1007/978-3-658-11589-0_4)) characterised the emerging role of the "data scientist." The Springer edited volume [*Applied Data Science*](https://stdm.github.io/data-science-book/) (2019, >123 000 accesses) became a widely-read practitioner reference. The 2022 *Archives of Data Science* paper [*"Data Centrism and the Core of Data Science"*](https://dx.doi.org/10.5445/IR/1000143637) provides the most theoretically developed argument: that *data centrism*, treating data as the central object of study rather than a means to an end, is the overarching principle distinguishing data science from statistics, ML, and data management.
 
+<div markdown="1">
+
 | Paper | Key finding / message |
 |---|---|
 | [ECSS'13](https://stdm.github.io/downloads/papers/ECSS_2013.pdf); [HMD'14](https://doi.org/10.21256/zhaw-3759); [HMD'16](https://doi.org/10.1007/978-3-658-11589-0_4) | The data scientist profession requires a unique combination of analytics, technology, entrepreneurship, and communication; none of the contributing disciplines provides this alone. |
 | [Braschler, Stadelmann, Stockinger (Eds.), Springer 2019](https://stdm.github.io/data-science-book/) (>123k accesses) | 16 case-study chapters; central lesson: "necessity is the mother of invention" - applied data science is always problem-driven, not method-driven. |
 | [Stadelmann, Klamt, Merkt, AoDSA'22](https://dx.doi.org/10.5445/IR/1000143637) | *Data centrism* (data as the central subject, not a resource) is the unique disciplinary core that no contributing field shares to the same degree. |
+
+</div>
 </details>
 
 
@@ -282,6 +318,9 @@ Running parallel to empirical research is a sustained effort to define and legit
 ## Examples of translation into practice
 
 The table below maps concrete, practitioner-relevant examples from across the research portfolio to their domain, method, and key practical takeaway.
+
+<style>.practice-table td { vertical-align: top; }</style>
+<div class="practice-table" markdown="1">
 
 | | Application | Domain | What was done | Practical takeaway |
 |---|---|---|---|---|
@@ -306,6 +345,7 @@ The table below maps concrete, practitioner-relevant examples from across the re
 | <a href="https://doi.org/10.1007/978-3-319-99978-4"><img src="http://stdm.github.io/images/papers/ANNPR_2018d.jpg" style="height:auto; width:60px;"/></a> | **Face-ID verification product** | Identity & security | Full production pipeline: orientation detection, image quality assessment, anti-spoofing (3-method ensemble), face matching, user guidance. ([ANNPR'18d](https://doi.org/10.1007/978-3-319-99978-4)) | A single ML model is never enough in production; wrapping in auxiliary quality and security modules is mandatory. |
 | <a href="https://doi.org/10.21256/zhaw-1533"><img src="http://stdm.github.io/images/papers/ICDAR_2017.jpg" style="height:auto; width:60px;"/></a> | **Newspaper article segmentation** | Media / publishing | FCNNs segment printed newspaper pages into articles at >10 000 pages/day for a media monitoring company. ([ICDAR'17](https://doi.org/10.21256/zhaw-1533)) | Excluding non-article regions and handling layout diversity are the dominant engineering challenges, not the core model. |
 
+</div>
 
 
 <a name="contributions"></a>
@@ -396,7 +436,7 @@ The theoretical culmination is the *Archives of Data Science* paper [*"Data Cent
 <a href="https://doi.org/10.1007/s43681-026-01042-1"><img src="http://stdm.github.io/images/papers/AIEthics_2026.jpg" alt="AI Ethics 2026" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
 </div>
 
-The third contribution is not a method but a movement: the group has systematically traced what happens when machine learning results exit the research lab and encounter real human contexts, producing original scientific arguments at each stage of that transition. The invited position paper [Deep Learning in the Wild (ANNPR'18)](https://doi.org/10.1007/978-3-319-99978-4) opened this line by cataloguing the gap between benchmark conditions and deployment realities, providing a taxonomy of failure modes that predates much of the later "reproducibility crisis" literature in ML. The [Data Centrism paper (AoDSA'22)](https://dx.doi.org/10.5445/IR/1000143637) went further, arguing that data — not algorithms or models — is the primary scientific object of data science, with direct implications for how the discipline should evaluate its own contributions.
+This contribution is not a method but a movement: the group has systematically traced what happens when machine learning results exit the research lab and encounter real human contexts, producing original scientific arguments at each stage of that transition. The invited position paper [Deep Learning in the Wild (ANNPR'18)](https://doi.org/10.1007/978-3-319-99978-4) opened this line by cataloguing the gap between benchmark conditions and deployment realities, providing a taxonomy of failure modes that predates much of the later "reproducibility crisis" literature in ML. The [Data Centrism paper (AoDSA'22)](https://dx.doi.org/10.5445/IR/1000143637) went further, arguing that data — not algorithms or models — is the primary scientific object of data science, with direct implications for how the discipline should evaluate its own contributions.
 
 On the applied side, the [AI & Ethics (2021)](https://doi.org/10.1007/s43681-021-00108-6) bias study showed quantitatively that demographic awareness in face recognition design does not translate to reduced bias at deployment. [Assessing Deep Learning (AI&Ethics'23)](https://doi.org/10.1007/s43681-023-00408-z) proposed a humanities-grounded framework for evaluating AI systems beyond technical metrics. Most recently, [PMM'26](https://doi.org/10.1080/09540962.2025.2541304) and [AI&Ethics'26](https://doi.org/10.1007/s43681-026-01042-1) formalised how intrinsic ML properties — stochasticity of training, distributional shift — map to policy-relevant risk categories, giving regulators technically grounded criteria that go beyond checklist compliance.
 </details>
