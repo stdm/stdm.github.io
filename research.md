@@ -11,6 +11,7 @@ The [Machine Perception and Cognition group](https://stdm.github.io/home/#group)
 2. [Research lines](#research)
 3. [Examples of translation into practice](#practice)
 4. [Main scientific contributions](#contributions)
+5. [Ideas we'd love to work on in the future](#ideas)
 
 
 <img alt="Thilo Stadelmann and Yann LeCun discussing world models and cowbell blues at the Swiss AI Award 2023 ceremony in Davos, Switzerland" src="http://stdm.github.io/images/stdm-lecun.jpg"/>
@@ -442,3 +443,19 @@ The group has systematically traced what happens when machine learning results e
 
 On the applied side, the [AI and Ethics (2021)](https://doi.org/10.1007/s43681-021-00108-6) bias study showed quantitatively that demographic awareness in face recognition design does not translate to reduced bias at deployment. [Assessing Deep Learning (AI and Ethics'23)](https://doi.org/10.1007/s43681-023-00408-z) proposed a humanities-grounded framework for evaluating AI systems beyond technical metrics. Most recently, [PMM'26](https://doi.org/10.1080/09540962.2025.2541304) and [AI and Ethics'26](https://doi.org/10.1007/s43681-026-01042-1) formalised how intrinsic ML properties (stochasticity of training, distributional shift) map to policy-relevant risk categories, giving regulators technically grounded criteria that go beyond checklist compliance. In another translatory effort, these have been made accessible to general public audiences in form of a [TEDx talk](https://youtu.be/deVbP-hViMQ).
 </details>                                                                                  
+
+
+<a name="ideas"></a>
+## Ideas we'd love to work on in the future
+
+Project opportunities abound, and we are involved in several activities in medical imaging, multimedia analysis, robotics / physical AI, speaker diarization (to name a few). However, the following 5 research directions that emerged from our work appear to us as "golden": ideas that have not yet reached full maturity, yet their potential impact can already now be assessed as huge. Hence, we are actively seeking ways to inquire more in these directions and seek respective collaborations, notwithstanding our general openness to interesting use cases and challenges. The order is from algorithmic to societal, the links point to previous publications giving more insight. If you are interested in those (and see an opportunity also for funding respective work), please get in touch.
+
+  * [Next-level, neuroscience-informed AI](https://arxiv.org/abs/2205.00002) based on **world models** for higher sample efficiency and robust understanding of cause and effect of actions
+  
+  * Towards **document foundation models** based on an understanding of [document recognition as image-to-record transcription](https://arxiv.org/abs/2507.08458)
+  
+  * **Co-learning** as a [framework for human-AI teaming](https://doi.org/10.1007/s43681-026-01042-1) in high-consequence environments
+  
+  * **Pro-human AI design** as a [methodology to build AI systems](https://stdm.github.io/Pro-human-AI/) specifically with the individual human's flourishing in mind (instead of accidentally eroding the human's core)
+  
+  * **Scenario development** for [positive visions](https://stdm.github.io/AI-in-2035/) for our societal future with AI
