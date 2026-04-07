@@ -41,7 +41,7 @@ The [Machine Perception and Cognition group](https://stdm.github.io/home/#group)
 </div>
 
 <div style="background:white; border-left:4px solid #2c5f8a; border-radius:3px; padding:10px 14px; box-shadow:0 1px 3px rgba(0,0,0,0.07);">
-<strong>Long arcs alongside rapid response.</strong> Some threads run for more than a decade (<a href="#speakerrec">speaker recognition</a>, <a href=""#dromr">optical music recognition</a>, <a href="#datascience">applied data science</a>). Others respond quickly to emerging topics (<a href="https://doi.org/10.1109/SDS60720.2024.00036">LLM efficiency</a>, <a href="https://doi.org/10.1613/jair.1.19490">AI agents survey</a>, <a href="https://link.springer.com/article/10.1007/s43681-026-01042-1">stochasticity and safety</a>). A stable intellectual core with enough flexibility to engage new problems without losing continuity.
+<strong>Long arcs alongside rapid response.</strong> Some threads run for more than a decade (<a href="#speakerrec">speaker recognition</a>, <a href="#dromr">optical music recognition</a>, <a href="#datascience">applied data science</a>). Others respond quickly to emerging topics (<a href="https://doi.org/10.1109/SDS60720.2024.00036">LLM efficiency</a>, <a href="https://doi.org/10.1613/jair.1.19490">AI agents survey</a>, <a href="https://link.springer.com/article/10.1007/s43681-026-01042-1">stochasticity and safety</a>). A stable intellectual core with enough flexibility to engage new problems without losing continuity.
 </div>
 
 <div style="background:white; border-left:4px solid #2c5f8a; border-radius:3px; padding:10px 14px; box-shadow:0 1px 3px rgba(0,0,0,0.07);">
@@ -81,7 +81,7 @@ Being motivated by real-world pattern recognition problems (how perceptions are 
 <a href="https://link.springer.com/article/10.1007/s00501-025-01563-y"><img src="http://stdm.github.io/images/papers/BHM_2025.jpg" alt="BHM 2025" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
 </div>
 
-A broad programme applies ML, including RL and representation learning, to industrial problems like control and monitoring. Domains include predictive maintenance ([ANNPR'18 invited paper](https://link.springer.com/book/10.1007/978-3-319-99978-4)), rail traffic ([SDS'20](https://stdm.github.io/downloads/papers/SDS_2020.pdf): RL-based train rescheduling), building energy optimisation ([ANNPR'24](https://doi.org/10.1007/978-3-031-71602-7_27)), injection-moulding process monitoring ([SDS'24c](https://doi.org/10.1109/SDS60720.2024.00027)), industrial process control via world models ([SDS'25a](https://doi.org/10.1109/SDS66131.2025.00022)), and geothermal reservoir uncertainty quantification ([Geothermics'24](https://doi.org/10.1016/j.geothermics.2024.103012)). The [iScience'25 paper](https://doi.org/10.1016/j.isci.2025.113400) synthesises lessons on human-AI interaction in safety-critical infrastructures, introducing co-learning as a development paradigm.
+A broad programme applies ML, including RL and representation learning, to industrial problems like control and monitoring. Domains include visual quality control ([ANNPR'18 invited paper](https://link.springer.com/book/10.1007/978-3-319-99978-4)), predictive maintenance ([Beyond ImageNet chapter](https://doi.org/10.1007/978-3-030-11821-1_12)), rail traffic ([SDS'20](https://stdm.github.io/downloads/papers/SDS_2020.pdf): RL-based train rescheduling), building energy optimisation ([ANNPR'24](https://doi.org/10.1007/978-3-031-71602-7_27)), injection-moulding process monitoring ([SDS'24c](https://doi.org/10.1109/SDS60720.2024.00027)), industrial process control via world models ([SDS'25a](https://doi.org/10.1109/SDS66131.2025.00022)), and geothermal reservoir uncertainty quantification ([Geothermics'24](https://doi.org/10.1016/j.geothermics.2024.103012)). The [iScience'25 paper](https://doi.org/10.1016/j.isci.2025.113400) synthesises lessons on human-AI interaction in safety-critical infrastructures, introducing co-learning as a development paradigm.
 
 <div markdown="1">
 
@@ -89,7 +89,7 @@ A broad programme applies ML, including RL and representation learning, to indus
 |---|---|
 | [Roost et al., SDS'20](https://stdm.github.io/downloads/papers/SDS_2020.pdf) (Best Poster) | Multi-agent RL improves train rescheduling; sample efficiency and inter-agent communication are the key bottlenecks for real rail deployment. |
 | [Yan et al., SDS'25a](https://doi.org/10.1109/SDS66131.2025.00022) | World-model-based RL enables industrial process control from limited real data by leveraging a learned environment model for planning. |
-| [Mussi et al., iScience'25](https://doi.org/10.1016/j.isci.2025.113400) | Human-AI teaming in safety-critical systems requires trust calibration, explainability, and explicit workload allocation, resulting in co-learning architectures — purely autonomous AI is inappropriate in regulated contexts. |
+| [Mussi et al., iScience'25](https://doi.org/10.1016/j.isci.2025.113400) | Human-AI teaming in safety-critical systems requires trust calibration, explainability, and explicit workload allocation, resulting in co-learning architectures. |
 
 </div>
 </details>
@@ -111,16 +111,16 @@ A broad programme applies ML, including RL and representation learning, to indus
 <a href="https://dx.doi.org/10.1109/ACCESS.2024.3404834"><img src="http://stdm.github.io/images/papers/Access_2024.jpg" alt="Access 2024" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
 </div>
 
-An ongoing programme addresses the computational reading of printed musical scores and document images, i.e., document recognition. The [DeepScores](https://doi.org/10.21256/zhaw-4255) (ICPR'18a) and [DeepScoresV2](https://stdm.github.io/downloads/papers/ICPR_2020.pdf) (ICPR'20) datasets are among the largest for tiny, densely packed object detection, enabling systematic benchmarking on musical notation. The associated [Deep Watershed Detector](https://doi.org/10.21256/zhaw-3760) (ISMIR'18) demonstrated a novel instance segmentation approach for overlapping small objects. A [2024 TISMIR journal paper](https://doi.org/10.5334/tismir.157) reports real-world deployment, showing a substantial performance gap on digitised historical scores. Parallel work applied FCNNs to [newspaper article segmentation](https://doi.org/10.21256/zhaw-1533) and CNNs to [formula detection](https://doi.org/10.1109/ACCESS.2022.3202639) and [recognition](https://dx.doi.org/10.1109/ACCESS.2024.3404834). A new [preprint](https://arxiv.org/abs/2507.08458) draws on this background and introduces a new theory and first empirical results towards building document foundation models beyond optical character recognition (OCR) also for complex document typers like floor plans and engineering drawings.
+An ongoing programme addresses document recognition, i.e., the computational reading of document images like printed musical scores. The [DeepScores](https://doi.org/10.21256/zhaw-4255) (ICPR'18a) and [DeepScoresV2](https://stdm.github.io/downloads/papers/ICPR_2020.pdf) (ICPR'20) datasets are among the largest for tiny, densely packed object detection, enabling systematic benchmarking on musical notation. The associated [Deep Watershed Detector](https://doi.org/10.21256/zhaw-3760) (ISMIR'18) demonstrated a novel instance segmentation approach for overlapping small objects. A [2024 TISMIR journal paper](https://doi.org/10.5334/tismir.157) reports real-world deployment, showing a substantial performance gap on digitised historical scores. Parallel work applied FCNNs to [newspaper article segmentation](https://doi.org/10.21256/zhaw-1533) and CNNs to [formula detection](https://doi.org/10.1109/ACCESS.2022.3202639) and [recognition](https://dx.doi.org/10.1109/ACCESS.2024.3404834). A new [preprint](https://arxiv.org/abs/2507.08458) draws on this background and introduces a new theory and first empirical results towards building document foundation models beyond optical character recognition (OCR) also for complex document typers like floor plans and engineering drawings.
 
 <div markdown="1">
 
 | Paper | Key finding / message |
 |---|---|
-| [ICPR'18a](https://doi.org/10.21256/zhaw-4255) / [ICPR'20 *DeepScores(V2)*](https://stdm.github.io/downloads/papers/ICPR_2020.pdf) | Standard detectors fail on tiny, high-density objects; the dataset surfaces the gap and motivates specialised architectures. |
+| [ICPR'18a](https://doi.org/10.21256/zhaw-4255) / [ICPR'20 *DeepScores(V2)*](https://stdm.github.io/downloads/papers/ICPR_2020.pdf) | Standard detectors fail on tiny, high-density objects; the datasets surfaces the gap and motivate specialised architectures. |
 | [ISMIR'18 *Deep Watershed Detector*](https://doi.org/10.21256/zhaw-3760) | Energy-based instance segmentation via watershed post-processing achieves state-of-the-art on polyphonic music object detection. |
-| [TISMIR'24 *Real World Music Object Recognition*](https://doi.org/10.5334/tismir.157) | Substantial performance gap versus synthetic data; domain adaptation is key for real OMR deployment. |
-| [ArXiv'25 *Document Recognition as Tramscriptiion*](https://arxiv.org/abs/2507.08458) | Document recognition shouldn't be viewed as isolated computer vision tasks, but as end-to-end transcription of a full information; this view leads to rules for inductive bias design that allow the creation of document foundation models. |
+| [TISMIR'24 *Real World Music Object Recognition*](https://doi.org/10.5334/tismir.157) | Domain adaptation and confidence estimation is key for real OMR deployment. |
+| [ArXiv'25 *Document Recognition as Tramscriptiion*](https://arxiv.org/abs/2507.08458) | Document recognition shouldn't be viewed as isolated computer vision tasks, but as end-to-end transcription of full information; this view leads to rules for inductive bias design that allow the creation of document foundation models. |
 
 </div>
 </details>
@@ -146,7 +146,7 @@ A distinctive contribution is the systematic study of the gap between benchmark-
 |---|---|
 | [Stadelmann et al., ANNPR'18d](https://doi.org/10.1007/978-3-319-99978-4) | Real deployment requires wrapping core DL models in ensembles of auxiliary modules; benchmark accuracy is necessary but not sufficient. |
 | [Stadelmann et al., ADS ch. *Beyond ImageNet* (2019)](https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf) | Most industrial DL projects require domain-specific data curation, loss shaping, and calibration absent from canonical ImageNet training. |
-| [Tuggener et al., MDPI AI 2020 *Design Patterns*](https://www.mdpi.com/2673-2688/1/4/31) | Seven reusable design patterns cover the majority of resource-constrained AutoML scenarios. |
+| [Tuggener et al., MDPI AI 2020 *Design Patterns*](https://www.mdpi.com/2673-2688/1/4/31) | Seven reusable design patterns cover the majority of resource-constrained AutoML scenarios and lead to top-5 results in international AutoML competitions. |
 | [Tuggener et al., Frontiers 2022](https://doi.org/10.3389/fcomp.2022.1041703) | CNN architectures optimised on ImageNet do not reliably transfer across domains, hence architecture search must be domain-aware. |
 
 </div>
