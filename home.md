@@ -571,9 +571,9 @@ Thilo Stadelmann, Martin Braschler, and Kurt Stockinger. <a href="https://stdm.g
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ADS_2019_Preface.pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/ADS_2019.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">>123k accesses</p></td>
+<td style="width: 175px;"><a href=https://doi.org/10.1007/978-3-030-11821-1"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/ADS_2019.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">>123k accesses</p></td>
 <td>
-Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="https://stdm.github.io/downloads/papers/ADS_2019_Preface.pdf"><strong>Applied Data Science - Lessons Learned for the Data-Driven Business</strong></a>. <strong>Springer</strong>, 2019.
+Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="https://stdm.github.io/downloads/papers/ADS_2019_Preface.pdf"><strong>Applied Data Science - Lessons Learned for the Data-Driven Business</strong></a>. <strong>Springer</strong>, 2019. DOI <a href="https://doi.org/10.1007/978-3-030-11821-1">10.1007/978-3-030-11821-1</a>.
 </td>
 </tr>
 <tr>
@@ -801,9 +801,9 @@ Dominik Seiler, Ralph Ewerth, Steffen Heinzl, Thilo Stadelmann, Markus Mühling,
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ACMMM_2009.pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/ACMMM_2009.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://doi.org/10.1145/1631272.1631300"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/ACMMM_2009.jpg"/></a></td>
 <td>
-Thilo Stadelmann and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/ACMMM_2009.pdf"><strong>Unfolding Speaker Clustering Potential: A Biomimetic Approach</strong></a>. In Proceedings of the ACM International Conference on Multimedia (<strong>ACMMM'09</strong>), pages 185-194, Beijing, China, October 2009. ACM.
+Thilo Stadelmann and Bernd Freisleben. <a href="https://stdm.github.io/downloads/papers/ACMMM_2009.pdf"><strong>Unfolding Speaker Clustering Potential: A Biomimetic Approach</strong></a>. In Proceedings of the ACM International Conference on Multimedia (<strong>ACMMM'09</strong>), pages 185-194, Beijing, China, October 2009. ACM. DOI <a href="https://doi.org/10.1145/1631272.1631300">10.1145/1631272.1631300</a>.
 </td>
 </tr>
 <tr>
