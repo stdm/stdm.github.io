@@ -4,7 +4,7 @@ layout: page
 comments: false
 ---
 
-The [Machine Perception and Cognition group](https://stdm.github.io/home/#group) occupies a distinctive position at the intersection of applied and foundational AI research. It is firmly motivated by practical problems (ca. 80% of our research is joint work with practice partners), yet consistently engages fundamental questions about, e.g., what data science <em>is</em>, how natural intelligence works, and what ML's stochastic nature means for safety, publishing  at top venues regularly (ICML, Nature Scientific Reports, Pattern Recognition, AI and Ethics etc.). Below is a summary of some defining traits that emerge consistently across the [full publication record](https://stdm.github.io/homme/#publications) of >100 papers from >20 years (as of April 2026), geared towards fellow researchers & engineers.
+The [Machine Perception and Cognition group](https://stdm.github.io/home/#group) occupies a distinctive position at the intersection of applied and foundational AI research. It is firmly motivated by practical problems (ca. 80% of our research is joint work with practice partners), yet consistently engages fundamental questions about, e.g., what data science <em>is</em>, how natural intelligence works, and what ML's stochastic nature means for safety, publishing  at top venues regularly (ICML, Nature Scientific Reports, Pattern Recognition, AI and Ethics etc.). Below is a summary of some defining traits that emerge consistently across the [full publication record](https://stdm.github.io/homme/#publications) of >100 papers from >20 years (as of April 2026), serving as a key to our work. It is geared towards fellow researchers & engineers.
 
 ### TOC
 1. [The mindset behind our work](#mindset)
@@ -25,35 +25,35 @@ The [Machine Perception and Cognition group](https://stdm.github.io/home/#group)
 <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(300px, 1fr)); gap:14px; margin-top:1em;">
 
 <div style="background:white; border-left:4px solid #2c5f8a; border-radius:3px; padding:10px 14px; box-shadow:0 1px 3px rgba(0,0,0,0.07);">
-<strong>Principled pragmatism.</strong> Problems must matter outside the lab, but engineering alone is not enough. There is a recurring impulse to step back and ask "what general principle explains this?", leading to <a href="https://www.mdpi.com/2673-2688/1/4/31">design-pattern taxonomies</a>, the <a href="https://dx.doi.org/10.5445/IR/1000143637">data-centrism argument</a>, a <a href="https://arxiv.org/abs/2205.00002">theory of natural intelligence</a>, or the <a href="https://doi.org/10.3390/educsci11070318">ATLAS teaching concept</a>.
+<strong>Principled pragmatism.</strong> Problems must matter outside the lab, but engineering alone is not enough. There is a recurring impulse to step back and ask "what general principle explains this?", leading to <a href="https://www.mdpi.com/2673-2688/1/4/31">design-pattern taxonomies</a>, a proposal for <a href="https://dx.doi.org/10.5445/IR/1000143637">data science's foundation</a>, a <a href="https://arxiv.org/abs/2205.00002">theory of natural intelligence</a>, or the <a href="https://doi.org/10.3390/educsci11070318">ATLAS teaching concept</a>.
 </div>
 
 <div style="background:white; border-left:4px solid #2c5f8a; border-radius:3px; padding:10px 14px; box-shadow:0 1px 3px rgba(0,0,0,0.07);">
-<strong>Translator instinct.</strong> A substantial share of the output (e.g., the <a href="https://stdm.github.io/data-science-book/">Applied Data Science book</a> (with &gt;123 k readers), <a href="https://doi.org/10.1007/978-3-319-99978-4">"Deep Learning in the Wild"</a>, or <a href="https://doi.org/10.1080/09540962.2025.2541304">white papers for policymakers</a>) explicitly closes the gap between what researchers know and what practitioners and regulators can act on.
+<strong>Translator instinct.</strong> A substantial share of the output (e.g., the <a href="https://stdm.github.io/data-science-book/">Applied Data Science book</a> (with &gt;123 k readers), <a href="https://doi.org/10.1007/978-3-319-99978-4">"Deep Learning in the Wild"</a>, or <a href="https://doi.org/10.1080/09540962.2025.2541304">white papers for policymakers</a> explicitly closes the gap between what researchers know and what practitioners and regulators can act on.
 </div>
 
 <div style="background:white; border-left:4px solid #2c5f8a; border-radius:3px; padding:10px 14px; box-shadow:0 1px 3px rgba(0,0,0,0.07);">
-<strong>Emoirical honesty.</strong> Several of the strongest papers report negative or counter-intuitive findings: <a href="https://doi.org/10.1016/j.patrec.2024.03.016">DNNs for speaker recognition don't learn temporal voice features</a>; <a href="https://doi.org/10.1007/s43681-021-00108-6">blinding face-recognition models to sensitive attributes doesn't reduce demographic bias</a>; <a href="https://doi.org/10.3389/fcomp.2022.1041703">ImageNet-optimal architectures don't transfer across domains</a>.
+<strong>Empirical honesty.</strong> Several of the strongest papers report negative or counter-intuitive findings: <a href="https://doi.org/10.1016/j.patrec.2024.03.016">DNNs for speaker recognition don't learn temporal voice features</a>; <a href="https://doi.org/10.1007/s43681-021-00108-6">blinding face-recognition models to sensitive attributes doesn't reduce demographic bias</a>; <a href="https://doi.org/10.3389/fcomp.2022.1041703">ImageNet-optimal architectures don't transfer across domains</a>.
 </div>
 
 <div style="background:white; border-left:4px solid #2c5f8a; border-radius:3px; padding:10px 14px; box-shadow:0 1px 3px rgba(0,0,0,0.07);">
-<strong>Disciplinary self-consciousness.</strong> Unusual for a technical ML group, we invest sustained effort in defining what our own discipline fundamentally <em>is</em>. The <a href="https://dx.doi.org/10.5445/IR/1000143637">data-centrism paper</a>, the <a href="https://stdm.github.io/downloads/papers/ECSS_2013.pdf">ECSS</a> and <a href="https://doi.org/10.21256/zhaw-3759">HMD series</a>, or the "Foundations of Data Science" overview are acts of disciplinary self-definition.
+<strong>Disciplinary self-consciousness.</strong> Unusual for a technical ML group, we invest sustained effort in defining what our own discipline fundamentally <em>is</em>. The <a href="https://dx.doi.org/10.5445/IR/1000143637">data-centrism paper</a>, the <a href="https://stdm.github.io/downloads/papers/ECSS_2013.pdf">ECSS</a> and <a href="https://doi.org/10.21256/zhaw-3759">HMD series</a>, or the <a href= "https://publikationen.bibliothek.kit.edu/1000146422">"Foundations of Data Science" overview</a> are acts of disciplinary self-definition.
 </div>
 
 <div style="background:white; border-left:4px solid #2c5f8a; border-radius:3px; padding:10px 14px; box-shadow:0 1px 3px rgba(0,0,0,0.07);">
-<strong>Long arcs alongside rapid response.</strong> Some threads run for more than a decade (speaker recognition, optical music recognition, applied data science). Others respond quickly to emerging topics (LLM efficiency, <a href="https://doi.org/10.1613/jair.1.19490">AI agents survey</a>, <a href="https://link.springer.com/article/10.1007/s43681-026-01042-1">stochasticity and safety</a>). A stable intellectual core with enough flexibility to engage new problems without losing continuity.
+<strong>Long arcs alongside rapid response.</strong> Some threads run for more than a decade (<a href="#speakerrec">speaker recognition</a>, <a href=""#dromr">optical music recognition</a>, <a href="#datascience">applied data science</a>). Others respond quickly to emerging topics (<a href="https://doi.org/10.1109/SDS60720.2024.00036">LLM efficiency</a>, <a href="https://doi.org/10.1613/jair.1.19490">AI agents survey</a>, <a href="https://link.springer.com/article/10.1007/s43681-026-01042-1">stochasticity and safety</a>). A stable intellectual core with enough flexibility to engage new problems without losing continuity.
 </div>
 
 <div style="background:white; border-left:4px solid #2c5f8a; border-radius:3px; padding:10px 14px; box-shadow:0 1px 3px rgba(0,0,0,0.07);">
-<strong>Genuinely interdisciplinary collaborators.</strong> Co-authors span <a href="https://doi.org/10.1002/mp.16405">radiologists</a>, <a href="https://doi.org/10.1063/5.0139707">physicists</a>, <a href="https://doi.org/10.1016/j.geothermics.2024.103012">geothermal engineers</a>, <a href="https://arxiv.org/abs/2205.00002">cognitive neuroscientists</a>, <a href="https://doi.org/10.21256/zhaw-3760">musicologists</a>, <a href="https://doi.org/10.1007/s43681-021-00108-6">social workers</a>, <a href="https://stdm.github.io/downloads/papers/SDS_2020.pdf">transport engineers</a>, and <a href="https://link.springer.com/article/10.1007/s43681-023-00408-z">ethicists</a>. Domain knowledge visibly shapes methodology in each case.
+<strong>Genuinely interdisciplinary collaborators.</strong> Co-authors span, amongst others, <a href="https://doi.org/10.1002/mp.16405">radiologists</a>, <a href="https://doi.org/10.1063/5.0139707">physicists</a>, <a href="https://doi.org/10.1016/j.geothermics.2024.103012">geothermal engineers</a>, <a href="https://arxiv.org/abs/2205.00002">cognitive neuroscientists</a>, <a href="https://doi.org/10.5334/tismir.157">musicians</a>, <a href="https://doi.org/10.1007/s43681-021-00108-6">social workers</a>, <a href="https://stdm.github.io/downloads/papers/SDS_2020.pdf">transport engineers</a>, and <a href="https://link.springer.com/article/10.1007/s43681-023-00408-z">theologians</a>. Domain knowledge visibly shapes methodology in each case.
 </div>
 
 <div style="background:white; border-left:4px solid #2c5f8a; border-radius:3px; padding:10px 14px; box-shadow:0 1px 3px rgba(0,0,0,0.07);">
-<strong>Applied science identity, worn lightly.</strong> The Fachhochschule mandate (problems must be real) is treated as the motivational inspiration rather than a ceiling on ambition. <a href="https://icml.cc/virtual/2025/poster/44452">ICML papers</a> and <a href="https://doi.org/10.1162/NECO.a.1505">Neural Computation articles</a> coexist with <a href="https://stdm.github.io/downloads/papers/SDS_2023a.pdf">industrial reports</a> and <a href="https://stdm.github.io/data-science-book/">practitioner handbooks</a>.
+<strong>Applied science identity, worn lightly.</strong> The Fachhochschule mandate (problems must be real) is treated as the motivational inspiration, not a ceiling on ambition. <a href="https://icml.cc/virtual/2025/poster/44452">ICML papers</a> and <a href="https://doi.org/10.1162/NECO.a.1505">Neural Computation articles</a> coexist with <a href="https://stdm.github.io/downloads/papers/SDS_2023a.pdf">industrial reports</a> and <a href="https://stdm.github.io/data-science-book/">practitioner handbooks</a>.
 </div>
 
 <div style="background:white; border-left:4px solid #2c5f8a; border-radius:3px; padding:10px 14px; box-shadow:0 1px 3px rgba(0,0,0,0.07);">
-<strong>Education as a research topic.</strong> Teaching AI is treated as an object of scholarly inquiry, not just a duty. The <a href="https://doi.org/10.3390/educsci11070318">ATLAS concept and EducSci paper on hybrid AI education</a>, and the <a href="https://stdm.github.io/downloads/papers/Buergenstock_2023.pdf">Bürgenstock higher education workshop</a> reflect a conviction that how we teach shapes what the field becomes.
+<strong>Education as a research topic.</strong> Teaching AI is treated as an object of scholarly inquiry, not just a duty. The <a href="https://doi.org/10.3390/educsci11070318">ATLAS concept on hybrid AI education</a>, and the <a href="https://stdm.github.io/downloads/papers/Buergenstock_2023.pdf">Bürgenstock higher education workshop</a> reflect a conviction that how we teach and how we build organizations of higher education shapes what the field becomes.
 </div>
 
 </div><!-- trait grid -->
@@ -63,12 +63,12 @@ The [Machine Perception and Cognition group](https://stdm.github.io/home/#group)
 <a name="research"></a>
 ## Research lines
 
-Being motivated by real-world pattern recognition problems (how perceptions are formed from sensory input and cognitively tranlated into reasonable actions) leads to a suprinsingly broad field of use cases and industries amidst a stable core of methodological focal points. Here's an overview of sub-disciplines our inquiry contributes to.
+Being motivated by real-world pattern recognition problems (how perceptions are formed from sensory input and cognitively translated into reasonable actions) leads to a suprinsingly broad field of use cases and industries amidst a stable core of methodological focal points. Here's an overview of sub-disciplines our inquiry contributes to.
 
 
 <details markdown="1">
 <summary><b>Industrial AI applications</b></summary>
-*~2019–ongoing: applied programme across multiple industrial domains*
+*~2019-ongoing: applied programme across multiple industrial domains*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em; justify-content:center;">
 <a href="https://stdm.github.io/downloads/papers/AVHRC_2020.pdf"><img src="http://stdm.github.io/images/papers/AVHRC_2020.jpg" alt="AVHRC 2020" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
@@ -81,7 +81,7 @@ Being motivated by real-world pattern recognition problems (how perceptions are 
 <a href="https://link.springer.com/article/10.1007/s00501-025-01563-y"><img src="http://stdm.github.io/images/papers/BHM_2025.jpg" alt="BHM 2025" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
 </div>
 
-A broad programme applies ML, including RL and representation learning, to industrial control and monitoring. Key domains include rail traffic ([SDS'20](https://stdm.github.io/downloads/papers/SDS_2020.pdf): RL-based train rescheduling), building energy optimisation ([ANNPR'24](https://doi.org/10.1007/978-3-031-71602-7_27)), injection-moulding process monitoring ([SDS'24c](https://doi.org/10.1109/SDS60720.2024.00027)), industrial process control via world models ([SDS'25a](https://doi.org/10.1109/SDS66131.2025.00022)), and geothermal reservoir uncertainty quantification ([Geothermics'24](https://doi.org/10.1016/j.geothermics.2024.103012)). The [iScience'25 paper](https://doi.org/10.1016/j.isci.2025.113400) synthesises lessons on human-AI interaction in safety-critical infrastructures, introducing co-learning as a development paradigm.
+A broad programme applies ML, including RL and representation learning, to industrial problems like control and monitoring. Domains include predictive maintenance ([ANNPR'18 invited paper](https://link.springer.com/book/10.1007/978-3-319-99978-4)), rail traffic ([SDS'20](https://stdm.github.io/downloads/papers/SDS_2020.pdf): RL-based train rescheduling), building energy optimisation ([ANNPR'24](https://doi.org/10.1007/978-3-031-71602-7_27)), injection-moulding process monitoring ([SDS'24c](https://doi.org/10.1109/SDS60720.2024.00027)), industrial process control via world models ([SDS'25a](https://doi.org/10.1109/SDS66131.2025.00022)), and geothermal reservoir uncertainty quantification ([Geothermics'24](https://doi.org/10.1016/j.geothermics.2024.103012)). The [iScience'25 paper](https://doi.org/10.1016/j.isci.2025.113400) synthesises lessons on human-AI interaction in safety-critical infrastructures, introducing co-learning as a development paradigm.
 
 <div markdown="1">
 
@@ -96,8 +96,9 @@ A broad programme applies ML, including RL and representation learning, to indus
 
 
 <details markdown="1">
+<a name="dromr"></a>
 <summary><b>Document recognition & optical music recognition</b></summary>
-*~2017–ongoing: dedicated dataset and methods programme*
+*~2017-ongoing: dedicated dataset and methods programme*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em; justify-content:center;">
 <a href="https://doi.org/10.21256/zhaw-1533"><img src="http://stdm.github.io/images/papers/ICDAR_2017.jpg" alt="ICDAR 2017" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
@@ -127,7 +128,7 @@ An ongoing programme addresses the computational reading of printed musical scor
 
 <details markdown="1">
 <summary><b>Applied deep learning: from benchmarks to production</b></summary>
-*~2016–ongoing: centrepiece applied-ML research programme*
+*~2016-ongoing: centrepiece applied-ML research programme*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em; justify-content:center;">
 <a href="https://doi.org/10.1007/978-3-319-99978-4"><img src="http://stdm.github.io/images/papers/ANNPR_2018d.jpg" alt="DL in the Wild" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
@@ -154,7 +155,7 @@ A distinctive contribution is the systematic study of the gap between benchmark-
 
 <details markdown="1">
 <summary><b>Medical image analysis</b></summary>
-*~2021–ongoing: growing interdisciplinary programme*
+*~2021-ongoing: growing interdisciplinary programme*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em; justify-content:center;">
 <a href="https://stdm.github.io/downloads/papers/CISP_BMEI_2021.pdf"><img src="http://stdm.github.io/images/papers/CISP_BMEI_2021.jpg" alt="CISP BMEI 2021" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
@@ -184,7 +185,7 @@ A growing body of work addresses clinical imaging across four sub-themes: (a) *c
 
 <details markdown="1">
 <summary><b>AI Ethics & societal implications</b></summary>
-*~2021–ongoing: normative and empirical strand*
+*~2021-ongoing: normative and empirical strand*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em; justify-content:center;">
 <a href="https://doi.org/10.1007/s43681-021-00108-6"><img src="http://stdm.github.io/images/papers/AIEthics_2021.jpg" alt="AI Ethics 2021" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
@@ -210,7 +211,7 @@ A distinct thread examines the ethical and societal dimensions of AI. The [2021 
 
 <details markdown="1">
 <summary><b>Theoretical foundations of intelligence</b></summary>
-*~2022–ongoing: theoretical / foundational strand*
+*~2022-ongoing: theoretical / foundational strand*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em; justify-content:center;">
 <a href="https://arxiv.org/abs/2205.00002"><img src="http://stdm.github.io/images/papers/ArXiv_2022.jpg" alt="Theory Natural Intelligence" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
@@ -236,7 +237,7 @@ In collaboration with Christoph von der Malsburg (Frankfurt) and Benjamin Grewe 
 
 <details markdown="1">
 <summary><b>Graph neural networks for pattern recognition</b></summary>
-*~2022–2026: methodical deep dive*
+*~2022-2026: methodical deep dive*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em; justify-content:center;">
 <a href="https://doi.org/10.1145/3555776.3578600"><img src="http://stdm.github.io/images/papers/GMLR_2023.jpg" alt="GMLR 2023" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
@@ -260,9 +261,10 @@ A self-contained thread, developed in collaboration with Marcello Pelillo (Venic
 
 
 <details markdown="1">
+<a name="speakerrec"></a>
 <summary><b>Speaker recognition & audio representation learning</b></summary>
 
-*~2004–ongoing: formative line from PhD to continued breakthroughs with deep learning*
+*~2004-ongoing: formative line from PhD to continued breakthroughs with deep learning*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em; justify-content:center;">
 <a href="https://archiv.ub.uni-marburg.de/ubfind/Record/urn:nbn:de:hebis:04-z2010-0465"><img src="http://stdm.github.io/images/papers/PhdThesis_2010.jpg" alt="PhD Thesis 2010" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
@@ -288,8 +290,9 @@ The earliest sustained research thread centres on automatic speaker recognition.
 
 
 <details markdown="1">
+<a name="datascience"></a>
 <summary><b>Data Science as a scientific discipline</b></summary>
-*~2013–2022: conceptual / disciplinary foundation work*
+*~2013-2022: conceptual / disciplinary foundation work*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em; justify-content:center;">
 <a href="https://stdm.github.io/downloads/papers/ECSS_2013.pdf"><img src="http://stdm.github.io/images/papers/ECSS_2013.jpg" alt="ECSS 2013" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
@@ -356,7 +359,7 @@ The following three contributions represent the group's most coherent and strong
 
 <details markdown="1">
 <summary><b>Neural speaker recognition and diarization</b></summary>
-*~2004–ongoing: Temporal features as key, with ongoing relevance as a methodological platform*
+*~2004-ongoing: Temporal features as key, with ongoing relevance as a methodological platform*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em; justify-content:center;">
 <a href="https://stdm.github.io/downloads/papers/ICASSP_2006.pdf"><img src="http://stdm.github.io/images/papers/ICASSP_2006.jpg" alt="ICASSP 2006" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
@@ -373,7 +376,7 @@ The line was transformed by deep learning: [MLSP'16](https://doi.org/10.21256/zh
 
 <details markdown="1">
 <summary><b>Dense small-object detection: DeepScores and the Deep Watershed Detector</b></summary>
-*~2017–2025: OMR transformed, with DeepScores as an ongoing community resource*
+*~2017-2025: OMR transformed, with DeepScores as an ongoing community resource*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em; justify-content:center;">
 <a href="https://doi.org/10.21256/zhaw-1533"><img src="http://stdm.github.io/images/papers/ICDAR_2017.jpg" alt="ICDAR 2017" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
@@ -391,7 +394,7 @@ The [Deep Watershed Detector (ISMIR'18)](https://doi.org/10.21256/zhaw-3760) add
 
 <details markdown="1">
 <summary><b>Applied deep learning: from benchmarks to production</b></summary>
-*~2018–ongoing: systematic methodology for closing the benchmark-to-deployment gap*
+*~2018-ongoing: systematic methodology for closing the benchmark-to-deployment gap*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em; justify-content:center;">
 <a href="https://doi.org/10.1007/978-3-319-99978-4"><img src="http://stdm.github.io/images/papers/ANNPR_2018d.jpg" alt="DL in the Wild" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
@@ -408,7 +411,7 @@ The methodological arc culminates in two convergent results. The MDPI AI paper [
 
 <details markdown="1">
 <summary><b>Data science as a scientific discipline</b></summary>
-*~2013–2022: disciplinary foundations and the data-centrism argument*
+*~2013-2022: disciplinary foundations and the data-centrism argument*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em; justify-content:center;">
 <a href="https://stdm.github.io/downloads/papers/ECSS_2013.pdf"><img src="http://stdm.github.io/images/papers/ECSS_2013.jpg" alt="ECSS 2013" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
@@ -425,7 +428,7 @@ The theoretical culmination is the *Archives of Data Science* paper [*"Data Cent
 
 <details markdown="1">
 <summary><b>From algorithmic research to societal questions</b></summary>
-*~2018–ongoing: increasingly the group's primary intellectual orientation*
+*~2018-ongoing: increasingly the group's primary intellectual orientation*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em; justify-content:center;">
 <a href="https://doi.org/10.1007/978-3-319-99978-4"><img src="http://stdm.github.io/images/papers/ANNPR_2018d.jpg" alt="Deep Learning in the Wild" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>

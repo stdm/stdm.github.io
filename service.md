@@ -37,6 +37,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Keynote at **eCommerce Day 2026**, Cologne, Germany, June 11, 2026
   
+  * Talk at *IEEE Swiss Conference on Data Science and AI*, Zurich, Switzerland, May 06, 2026
+  
   * Keynote at **Orbis Customers Connect**, Munich, Germany, April 29, 2026
   
   * Invited talk at **Kirchen in Wetzikon ZH**, Wetzikon, Switzerland, April 15, 2026
@@ -800,6 +802,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * April 07, 2026 [Fundplat](https://fundplat.com/de/interview/kunstliche-intelligenz-erweitert-unsere-fahigkeiten/): "**Künstliche Intelligenz erweitert unsere Fähigkeiten**"
+  
   * April 01, 2026 [Forum Integriertes Christsein](https://www.insist-consulting.ch/forum-integriertes-christsein/26-4-5-informationstechnologie-ki-zeit-hoffnung-zu-verbreiten.html): "**Informationstechnologie: KI – Zeit, Hoffnung zu verbreiten**"
 
   * February 21, 2026 [Nau.ch](https://www.nau.ch/news/amerika/ki-bots-diskutieren-in-eigenem-forum-uber-menschen-eine-gefahr-67093428): "**KI-Bots diskutieren in eigenem Forum über Menschen - eine Gefahr?**"
