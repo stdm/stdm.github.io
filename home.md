@@ -541,9 +541,9 @@ Lukas Hollenstein, Lukas Lichtensteiger, Thilo Stadelmann, Mohammadreza Amirian,
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ADS_2019_DeepLearning.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://doi.org/10.1007/978-3-030-11821-1_12"><img alt="Paper thumbnail" width="175" src="http://stdm.github.io/images/papers/ADS_2019_DeepLearning.jpg"/></a></td>
 <td>
-Thilo Stadelmann, Vasily Tolkachev, Beate Sick, Jan Stampfli, and Oliver Dürr. <a href="https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf"><strong>Beyond ImageNet - Deep Learning in Industrial Practice</strong></a>. In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="https://stdm.github.io/data-science-book/">"Applied Data Science - Lessons Learned for the Data-Driven Business"</a>. <strong>Springer</strong>, 2019.
+Thilo Stadelmann, Vasily Tolkachev, Beate Sick, Jan Stampfli, and Oliver Dürr. <a href="https://stdm.github.io/downloads/papers/ADS_2019_DeepLearning.pdf"><strong>Beyond ImageNet - Deep Learning in Industrial Practice</strong></a>. In: Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="https://stdm.github.io/data-science-book/">"Applied Data Science - Lessons Learned for the Data-Driven Business"</a>. <strong>Springer</strong>, 2019. DOI <a href="https://doi.org/10.1007/978-3-030-11821-1_12">10.1007/978-3-030-11821-1_12</a>.
 </td>
 </tr>
 <tr>
