@@ -450,7 +450,7 @@ On the applied side, the [AI and Ethics (2021)](https://doi.org/10.1007/s43681-0
 
 Project opportunities abound, and we are involved in several activities in medical imaging, multimedia analysis, robotics / physical AI, speaker diarization (to name a few). However, the following 5 research directions that emerged from our work appear to us as "golden": ideas that have not yet reached full maturity, yet their potential impact can already now be assessed as huge. Hence, we are actively seeking ways to inquire more in these directions and seek respective collaborations, notwithstanding our general openness to interesting use cases and challenges. The order is from algorithmic to societal, the links point to previous publications giving more insight. If you are interested in those (and see an opportunity also for funding respective work), please get in touch.
 
-  * [Next-level, neuroscience-informed AI](https://arxiv.org/abs/2205.00002) based on **world models** for higher sample efficiency and robust understanding of cause and effect of actions
+  * [Next-level, neuroscience-informed AI](https://arxiv.org/abs/2205.00002) based on **world models** for higher sample efficiency and robust understanding of cause and effect of actions, e.g. for robot control
   
   * Towards **document foundation models** based on an understanding of [document recognition as image-to-record transcription](https://arxiv.org/abs/2507.08458)
   
