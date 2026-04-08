@@ -7,18 +7,18 @@ comments: false
 The [Machine Perception and Cognition group](https://stdm.github.io/home/#group) occupies a distinctive position at the intersection of applied and foundational AI research. It is firmly motivated by practical problems (ca. 80% of our research is joint work with practice partners), yet consistently engages fundamental questions about, e.g., what data science <em>is</em>, how natural intelligence works, and what ML's stochastic nature means for safety, publishing  at top venues regularly (ICML, Nature Scientific Reports, Pattern Recognition, AI and Ethics etc.). Below is a summary of some defining traits that emerge consistently across the [full publication record](https://stdm.github.io/homme/#publications) of >100 papers from >20 years (as of April 2026), serving as a key to our work. It is geared towards fellow researchers & engineers.
 
 ### TOC
-1. [The mindset behind our work](#mindset)
+1. [Characteristics our work](#characteristics)
 2. [Research lines](#research)
 3. [Examples of translation into practice](#practice)
 4. [Main scientific contributions](#contributions)
-5. [Ideas we'd love to work on in the future](#ideas)
+5. [Ideas we'd love to work on more in the future](#ideas)
 
 
 <img alt="Thilo Stadelmann and Yann LeCun discussing world models and cowbell blues at the Swiss AI Award 2023 ceremony in Davos, Switzerland" src="http://stdm.github.io/images/stdm-lecun.jpg"/>
 
 
-<a name="mindset"></a>
-## The mindset behind our work
+<a name="characteristics"></a>
+## Characteristics our work
 
 <div style="background:#f0f5fb; border:1px solid #bdd0e8; border-radius:6px; padding:20px 26px 14px; margin:1.2em 0 2em;">
 
@@ -446,9 +446,9 @@ On the applied side, the [AI and Ethics (2021)](https://doi.org/10.1007/s43681-0
 
 
 <a name="ideas"></a>
-## Ideas we'd love to work on in the future
+## Ideas we'd love to work on more in the future
 
-Project opportunities abound, and we are involved in several activities in medical imaging, multimedia analysis, robotics / physical AI, speaker diarization (to name a few). However, the following 5 research directions that emerged from our work appear to us as "golden": ideas that have not yet reached full maturity, yet their potential impact can already now be assessed as huge. Hence, we are actively seeking ways to inquire more in these directions and seek respective collaborations, notwithstanding our general openness to interesting use cases and challenges. The order is from algorithmic to societal, the links point to previous publications giving more insight. If you are interested in those (and see an opportunity also for funding respective work), please get in touch.
+Project opportunities abound, and we keep being involved in several activities in medical imaging, multimedia analysis, robotics / physical AI, speaker diarization (to name a few). However, the following 5 research directions that emerged from our work appear to us as "golden": ideas that have not yet reached full maturity, yet their potential impact can already now be assessed as huge. Hence, we are actively seeking ways to inquire more in these directions and seek respective collaborations, notwithstanding our general openness to interesting use cases and challenges. The order is from algorithmic to societal, the links point to previous publications giving more insight. If you are interested in those (and see an opportunity also for funding respective work), please get in touch.
 
   * [Next-level, neuroscience-informed AI](https://arxiv.org/abs/2205.00002) based on **world models** for higher sample efficiency and robust understanding of cause and effect of actions, e.g. for robot control
   
