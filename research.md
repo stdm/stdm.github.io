@@ -128,7 +128,7 @@ An ongoing programme addresses document recognition, i.e., the computational rea
 
 
 <details markdown="1">
-<summary><b>Applied deep learning: from benchmarks to production</b></summary>
+<summary><b>Applied deep learning & computer vision</b></summary>
 *~2016-ongoing: centrepiece applied-ML research programme*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em; justify-content:center;">
@@ -185,7 +185,7 @@ A growing body of work addresses clinical imaging, e.g.: (a) *cross-domain gener
 
 
 <details markdown="1">
-<summary><b>AI Ethics & societal implications</b></summary>
+<summary><b>AI ethics & societal implications</b></summary>
 *~2021-ongoing: normative and empirical strand*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em; justify-content:center;">
