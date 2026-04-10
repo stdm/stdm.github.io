@@ -99,6 +99,12 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/T&TC_2026.pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/T&TC_2026.png"/></a></td>
+<td>
+Jan Segessenmann and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/T&TC_2026.pdf"><strong>AI: Meaning, Scope, and Outlook</strong></a>. In: Ximian Xu & George Coghill (Eds.), **T&T Clark Handbook of Artificial Intelligence, Religion, and Ethics**, T&T Clark, 2026 (to appear).
+</td>
+</tr>
+<tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/TENuK_2026.pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/TENuK_2026.png"/></a></td>
 <td>
 Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/TENuK_2026.pdf"><strong>Lernen in komplexen Systemen: KI, Human Factors und die Zukunft der Gefahrenabwehr</strong></a>. In: Abstractband zum zweiten Symposium für Taktische Einsatz- Notfall- und Katastrophenmedizin (<strong>TENuK'26</strong>), Idstein, Germany, 30.03.-01.04.2026. Hrsg. Bildungszentrum für Gefahrenabwehr & Krisenmanagement an der Hochschule Fresenius gem. Trägergesellschaft mbH / Idstein, 2026.
