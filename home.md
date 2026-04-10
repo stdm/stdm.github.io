@@ -101,7 +101,7 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 <tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/T&TC_2026.pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/T&TC_2026.png"/></a></td>
 <td>
-Jan Segessenmann and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/T&TC_2026.pdf"><strong>AI: Meaning, Scope, and Outlook</strong></a>. In: Ximian Xu & George Coghill (Eds.), **T&T Clark Handbook of Artificial Intelligence, Religion, and Ethics**, T&T Clark, 2026 (to appear).
+Jan Segessenmann and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/T&TC_2026.pdf"><strong>AI: Meaning, Scope, and Outlook</strong></a>. In: Ximian Xu & George Coghill (Eds.), <strong>T&T Clark Handbook of Artificial Intelligence, Religion, and Ethics</strong>, T&T Clark, 2026 (to appear).
 </td>
 </tr>
 <tr>
