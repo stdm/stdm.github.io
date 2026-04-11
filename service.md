@@ -33,6 +33,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Invited talk at **Congreso Christiano**, Asunción, Paraguay, September 03-04, 2026
   
+  * Keynote at **SynGy Kunden- und Partnerevent**, FIFA-Auditorium, Zurich, Switzerland, June 18, 2026
+  
   * Keynote on "Zones of Encounter? Where and How Digital Theologies relate to the Tech World" at Chruch and AI workshop, **University of Zurich**, Zurich, Switzerland, June 17, 2025
   
   * Keynote at **eCommerce Day 2026**, Cologne, Germany, June 11, 2026
@@ -802,6 +804,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * April 10, 2026 [SRF 10 vor 10](https://www.srf.ch/play/tv/-/video/-?urn=urn:srf:video:7377d0e6-cd25-4aec-9fa4-e34d249a6c78): "**'Mythos': KI von Anthropic als mögliche Cyberwaffe**"
+
   * April 07, 2026 [Fundplat](https://fundplat.com/de/interview/kunstliche-intelligenz-erweitert-unsere-fahigkeiten/): "**Künstliche Intelligenz erweitert unsere Fähigkeiten**"
   
   * April 01, 2026 [Forum Integriertes Christsein](https://www.insist-consulting.ch/forum-integriertes-christsein/26-4-5-informationstechnologie-ki-zeit-hoffnung-zu-verbreiten.html): "**Informationstechnologie: KI – Zeit, Hoffnung zu verbreiten**"
