@@ -456,7 +456,7 @@ Project opportunities abound, and we keep being involved in several activities i
 
 While the current AI paradigm of deep learning has led to very useful practical applications, it is [fundamentally limited](https://arxiv.org/abs/2205.00002) in many important ways that prevent any "next level" of capabilites beyond incremental improvements of the (again: extremely useful) status quo: For example, hallucinations in LLMs and VLAs instead of a robust understanding of the effect of certain actions are a direct result of probabilstic machine learning; lack of continual learning and low sample efficiency are a result of training with backpropagation (which proceeds in tiny steps and spreads each learnt concept over the whole network). Instead, biological learning systems use local learning rules to implement the principle of self-organization, which we have prototypically implemented in the [Cooperative Network Architecture](https://doi.org/10.1162/NECO.a.1505) (CNA). 
 
-_We want to extend the CNA to become a competitive AI development paradigm for challenges like long-horizon robotic action planning in **world models**, and scale it to make efficient use of modern compute architectures._
+_We want to extend the **Cooperative Network Architecture** to become a competitive AI development paradigm for challenges like long-horizon robotic action planning in **world models**, and scale it to make efficient use of modern compute architectures for applications in **Physical AI**._
 </details>
 
 
@@ -465,7 +465,7 @@ _We want to extend the CNA to become a competitive AI development paradigm for c
 
 Many document types use intrinsic, convention-driven structures that serve to encode precise and structured information, such as the conventions governing engineering drawings. However, many state-of-the-art approaches treat document recognition as a mere computer vision problem, neglecting these underlying document-type-specific structural properties, making them dependent on sub-optimal heuristic post-processing and rendering many less frequent or more complicated document types inaccessible to modern document recognition. We have [suggested](https://arxiv.org/abs/2507.08458) a novel perspective that frames document recognition as a transcription task from a document to a record. This implies a natural grouping of documents based on the intrinsic structure inherent in their transcription, where related document types can be treated (and learned) similarly. 
 
-_We want to scale this approach to **build document foundation models** with a unified design for all dcoument types beyond OCR, OMR and other realtively simple, sequential document structures, useful as practical rubrics for end-to-end semantic document understanding._
+_We want to scale this approach to build **document foundation models** with a unified design for all dcoument types beyond OCR, OMR and other realtively simple, sequential document structures, useful as practical rubrics for **end-to-end semantic document understanding**._
 </details>
 
 
@@ -475,7 +475,7 @@ _We want to scale this approach to **build document foundation models** with a u
 Because of the probabilistic nature of machine learning systems and the high functional requirements in high-consequence application scenarios, the typical mode of operation is to build human-AI teams, with
 the final responsibility with the human. But [human oversight alone is not enough](https://doi.org/10.1007/s43681-026-01042-1): psychological research has shown that humans need to have meaningful agency in any collaboration, otherwise they cannot help but become bored, reverting to mere mechanical approval without exercising supervision. A remedy is offered by the concept of **co-learning** developed in our [AI4REALNET](https://ai4realnet.eu/) European research project for human-AI collaboration in the high-consequence scenario of operating critical network infrastructures. Co-learning maintains a setup in which with every interaction both the human and the machine learn from each other via bidirectional information flow: Not only do the humans provide training feedback to a continually learning ML system, but the AI system at the same time provides explainable insights to the human that help them understand and scrutinize decisions better. This happens within a long-term, iterative process of co-adaptation through interaction that leads to co-learning. 
 
-_We want to advance respective algorithms and establ what we call **co-learning labs**, specifically outfitted training facilities or "gyms" in which humans and their AI systems can learn to support and complement each others's strengths and weaknesses._
+_We want to advance **co-learning systems** and establish what we call **co-learning labs**, specifically outfitted training facilities or "gyms" in which humans and their AI systems can learn to support and complement each others's strengths and weaknesses._
 </details>
   
 
