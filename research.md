@@ -450,12 +450,52 @@ On the applied side, the [AI and Ethics (2021)](https://doi.org/10.1007/s43681-0
 
 Project opportunities abound, and we keep being involved in several activities in medical imaging, multimedia analysis, robotics / physical AI, speaker diarization (to name a few). However, the following 5 research directions that emerged from our work appear to us as "golden": ideas that have not yet reached full maturity, yet their potential impact can already now be assessed as huge. Hence, we are actively seeking ways to inquire more in these directions and seek respective collaborations, notwithstanding our general openness to interesting use cases and challenges. The order is from algorithmic to societal, the links point to previous publications giving more insight. If you are interested in those (and see an opportunity also for funding respective work), please get in touch.
 
-  * [Next-level, neuroscience-informed AI](https://arxiv.org/abs/2205.00002) based on **world models** for higher sample efficiency and robust understanding of cause and effect of actions, e.g. for robot control
+
+<details markdown="1">
+<summary><b>[Next-level, neuroscience-informed AI](https://arxiv.org/abs/2205.00002) based on _world models_ for higher sample efficiency and robust understanding of cause and effect of actions, e.g. for robot control</b></summary>
+
+While the current AI paradigm of deep learning has led to very useful practical applications, it is fundamentally limited in many important ways that prevent any "next level" of capabilites beyond incremental improvements of the (again: extremely useful) status quo: For example, hallucinations in LLMs are a direct result of probabilstic machine learning; lack of continual learning and low sample efficiency are a result of training with backpropagation (which proceeds in tiny steps and spreads each learnt concept over the whole network). Instead, biological learning systems use local learning rules to implement the principle of self-organization, which we have prototypically implemented in the [Cooperative Network Architecture](https://doi.org/10.1162/NECO.a.1505) (CNA). 
+
+_We want to extend the CNA to become a competitive AI development paradigm for challenges like long-horizon robotic action planning in world models, and scale it to make efficient use of modern compute architectures._
+</details>
+
+
+<details markdown="1">
+<summary><b>Towards _document foundation models_ based on an understanding of [document recognition as image-to-record transcription](https://arxiv.org/abs/2507.08458)</b></summary>
+
+Many document types use intrinsic, convention-driven structures that serve to encode precise and structured information, such as the conventions governing engineering drawings. However, many state-of-the-art approaches treat document recognition as a mere computer vision problem, neglecting these underlying document-type-specific structural properties, making them dependent on sub-optimal heuristic post-processing and rendering many less frequent or more complicated document types inaccessible to modern document recognition. We have suggested a novel perspective that frames document recognition as a transcription task from a document to a record. This implies a natural grouping of documents based on the intrinsic structure inherent in their transcription, where related document types can be treated (and learned) similarly. 
+
+_We want to scale this approach to build document foundation models with a unified design for all dcoument types beyond OCR, OMR and other realtively simple, sequential document structures, useful as practical rubrics for end-to-end semantic document understanding._
+</details>
+
+
+<details markdown="1">
+<summary><b>_Co-learning_ as a [framework for human-AI teaming](https://doi.org/10.1007/s43681-026-01042-1) in high-consequence environments</b></summary>  
+
+Because of the probabilistic nature of machine learning systems and the high functional requirements in high-consequence application scenarios, the typical mode of operation is to build human-AI teams, with
+the final responsibility with the human. But human oversight alone is not enough: psychological research has shown that humans need to have meaningful agency in any collaboration, otherwise they cannot help but become bored, reverting to mere mechanical approval without exercising supervision. A remedy is offered by the concept of co-learning developed in our [AI4REALNET](https://ai4realnet.eu/) European research project for
+human-AI collaboration in the high-consequence scenario of operating critical network infrastructures. Co-learning maintains a setup in which with every interaction both the human and the machine learn from
+each other via bidirectional information flow: Not only do the humans provide training feedback to a continually learning ML system, but the AI system at the same time provides explainable insights to the human that help them understand and scrutinize decisions better. This happens within a long-term, iterative process of co-adaptation through interaction that leads to co-learning. 
+
+_We want to advance respective algorithms and establ what we call "co-learning labs", specifically outfitted training facilities or "gyms" in which humans and their AI systems can learn to support and complement each others's strengths and weaknesses._
+</details>
   
-  * Towards **document foundation models** based on an understanding of [document recognition as image-to-record transcription](https://arxiv.org/abs/2507.08458)
+
+<details markdown="1">
+<summary><b>_Pro-human AI design_ as a [methodology to build AI systems](https://stdm.github.io/Pro-human-AI/) specifically with the individual human's flourishing in mind (instead of accidentally eroding the human's core)</b></summary>  
   
-  * **Co-learning** as a [framework for human-AI teaming](https://doi.org/10.1007/s43681-026-01042-1) in high-consequence environments
+Artificial Intelligence systems are reshaping how we work, communicate, decide, and relate to one another. While most AI design focuses on efficiency and capability, a critical question has gone largely unanswered: how can AI systems be built in ways that preserve (and ideally strengthen) the constitutive characteristics of being human? We call this challenge pro-human AI design, and we call the set of those characteristics the Human Core. We have worked on a three-step methodology for implementing pro-human AI design, and instantiate it protptypically based on a concrete anthropological stance and a practical use case: (1) Identify the constitutive characteristics of the Human Core; (2) examine how a given AI system in a given use case interacts with these characteristics; (3) develop targeted technical interventions to minimize negative effects and support human flourishing in that context. 
+
+_We want, in a next step is to thoroughly advance and empirically test this methodology, and develop a benchmark for evaluating the pro-human quality of AI systems at scale in interdisciplinary collaboration with empirical psychologosits and other disciplines._
+</details>  
+
   
-  * **Pro-human AI design** as a [methodology to build AI systems](https://stdm.github.io/Pro-human-AI/) specifically with the individual human's flourishing in mind (instead of accidentally eroding the human's core)
-  
-  * **Scenario development** for [positive visions](https://stdm.github.io/AI-in-2035/) for our societal future with AI
+<details markdown="1">
+<summary><b>_Scenario development_ for [positive visions](https://stdm.github.io/AI-in-2035/) for our societal future with AI</b></summary>  
+
+The dominant public narrative surrounding artificial intelligence is overwhelmingly negative: extinction risks, mass unemployment, surveillance, manipulation. This narrative is not merely an intellectual curiosity; it shapes policy, investment, education, career choice, mental health, and individual behaviour. Yet it rests on a narrow slice of technically plausible futures: Vastly more scenarios are thinkable, many of them viable, even probable, yet we can only create what we can imagine (Lucille Clifton). 
+
+_We want to addresses this gap directly with a constructivist approach by developing and publishing hopeful alternative scenarios, elaborated in co-creation processes with diverse experts and facilitatet by experienced media production teams._
+</details>
+
+<img src="http://stdm.github.io/images/hope.jpg" alt="Image source: tawanlubfah (c) 123RF.com, used with permission under the relevant license"/>
