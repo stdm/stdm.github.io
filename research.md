@@ -392,7 +392,7 @@ Running parallel to empirical research is a sustained effort to define and legit
 
 <details markdown="1">
 <summary><b>Multimedia analysis</b></summary>
-*~2004-2010: Work on video content analysis and retrieval*
+*~2004-2010: work on video content analysis and retrieval*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em; justify-content:center;">
 <a href="https://stdm.github.io/downloads/papers/TRECVID_2009.pdf"><img src="http://stdm.github.io/images/papers/TRECVID_2009.jpg" alt="TRECVid 2009" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
@@ -422,6 +422,31 @@ We started our research work with applications in *video content analysis* and *
 | [Mühling et al., CIVR'07](https://stdm.github.io/downloads/papers/CIVR_2007.pdf) | Automated semantic video analysis applied to game-violence psychology research enables reproducible, large-scale content coding at a scale impossible by manual annotation. |
 | [Ewerth et al., TRECVid'06](https://stdm.github.io/downloads/papers/TRECVID_2006.pdf) | Shot boundary detection with visual change metrics and rushes task processing; clean temporal segmentation is a prerequisite for all higher-level video analysis tasks. |
 | [Ewerth et al., TRECVid'05](https://stdm.github.io/downloads/papers/TRECVID_2005.pdf) | Baseline shot boundary detection and camera motion estimation on standardised benchmarks; foundational infrastructure for the group's subsequent video content analysis work. |
+
+</div>
+</details>
+
+<details markdown="1">
+<summary><b>Reinforcement learning & Physical AI</b></summary>
+*~2020-ongoing: sequential decision-making and real-world acting for robotics and other cyber-physical systems*
+
+<div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em; justify-content:center;">
+<a href="https://doi.org/10.3389/frobt.2026.1764248"><img src="http://stdm.github.io/images/papers/Frontiers_2026.png" alt="Frontiers Robotics 2026" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+<a href="https://doi.org/10.1007/978-3-031-71602-7_27"><img src="http://stdm.github.io/images/papers/ANNPR_2024.jpg" alt="ANNPR 2024" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+<a href="https://stdm.github.io/downloads/papers/SDS_2020.pdf"><img src="http://stdm.github.io/images/papers/SDS_2020.jpg" alt="SDS 2020" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+<a href="https://stdm.github.io/downloads/papers/AVHRC_2020.pdf"><img src="http://stdm.github.io/images/papers/AVHRC_2020.jpg" alt="AVHRC 2020" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
+</div>
+
+A thread running through several applied projects concerns reinforcement learning (RL) at the boundary between software and the physical world. [Roost et al. (SDS'20)](https://stdm.github.io/downloads/papers/SDS_2020.pdf) trains multi-agent RL to reschedule delayed trains in real time, exposing sample efficiency and inter-agent communication as the key bottlenecks for real rail deployment. [Roost et al. (AVHRC'20)](https://stdm.github.io/downloads/papers/AVHRC_2020.pdf) combines RL with active perception, coupling image acquisition and classification in a feedback loop to yield richer scene representations than passive episodic classification. [Bolt et al. (ANNPR'24)](https://doi.org/10.1007/978-3-031-71602-7_27) applies RL to building energy management, showing that a simulation-trained mixed-agent PPO controller substantially outperforms rule-based HVAC controllers and avoids the costly modelling assumptions required by Model Predictive Control. [Bolck et al. (Frontiers Robotics & AI'26)](https://doi.org/10.3389/frobt.2026.1764248) address the upstream problem: before RL-powered AI can be deployed in robotics like unmanned aerial vehicles, dedicated testing infrastructure is needed; the LINA infrastructure provides the systematic validation pipelines required for AI certification in safety-critical autonomous systems.
+
+<div markdown="1">
+
+| Paper | Key finding / message |
+|---|---|
+| [Bolck et al., Frontiers Robotics & AI'26](https://doi.org/10.3389/frobt.2026.1764248) | Safety certification of AI in UAVs demands dedicated testing infrastructure; the LINA infrastructure provides systematic validation pipelines that address AI-specific certification challenges absent from traditional avionics processes. |
+| [Bolt et al., ANNPR'24](https://doi.org/10.1007/978-3-031-71602-7_27) | Simulation-trained RL substantially outperforms rule-based HVAC controllers and avoids MPC modelling costs; a mixed-agent PPO approach accelerates convergence and transfers to real building operation. |
+| [Roost et al., SDS'20](https://stdm.github.io/downloads/papers/SDS_2020.pdf) | Multi-agent RL outperforms rule-based schedulers for real-time train rescheduling; sample efficiency and learned inter-agent communication are the dominant bottlenecks for deployment in live rail networks. |
+| [Roost et al., AVHRC'20](https://stdm.github.io/downloads/papers/AVHRC_2020.pdf) | Active-perception RL (i.e., coupling image acquisition and classification in a closed feedback loop) produces more informative scene representations than standard episodic classification, motivating joint optimisation of sensing and inference. |
 
 </div>
 </details>
