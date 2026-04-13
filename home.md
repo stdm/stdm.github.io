@@ -101,6 +101,12 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/uDay_2026.pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/uDay_2026.png"/></a></td>
+<td>
+Thilo Stadelmann, Christoph Heitz, Rebekka von Wartburg-Kottler, and Andrea Luca Schärer. <a href="https://stdm.github.io/downloads/papers/uDay_2026.pdf"><strong>Pro-Human AI Design: Concept, Methodology, and Preliminary Results</strong></a>. In Proceedings of uDay XXIV, Dornbirn, Austria, Mai 21, 2026.
+</td>
+</tr>
+<tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/T&TC_2026.pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/T&TC_2026.png"/></a><p style="color:green;text-align:center;font-weight:bold;">Invited Paper</p></td>
 <td>
 Jan Segessenmann and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/T&TC_2026.pdf"><strong>AI: Meaning, Scope, and Outlook</strong></a>. In: Ximian Xu & George Coghill (Eds.), <strong>T&T Clark Handbook of Artificial Intelligence, Religion, and Ethics</strong>, T&T Clark, 2026 (to appear).
