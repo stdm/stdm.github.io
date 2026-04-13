@@ -145,7 +145,7 @@ An ongoing programme addresses document recognition, i.e., the computational rea
 
 
 <details markdown="1">
-<summary><b>Applied deep learning, computer vision, and agentic AI</b></summary>
+<summary><b>Applied deep learning, computer vision, & agentic AI</b></summary>
 *~2016-ongoing: centrepiece applied-ML research programme*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em; justify-content:center;">
