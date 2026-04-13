@@ -97,12 +97,12 @@ A broad programme applies ML, including RL and representation learning, to indus
 | [Bolt et al., ANNPR'24](https://doi.org/10.1007/978-3-031-71602-7_27) | RL building-energy control avoids MPC modelling costs; a mixed-agent PPO approach accelerates learning and substantially reduces primary energy consumption. |
 | [Dashti et al., Geothermics'24](https://doi.org/10.1016/j.geothermics.2024.103012) | Small structural-model variations cause large geothermal output variation; ML ensemble uncertainty quantification handles this nonlinearity reliably from sparse borehole data. |
 | [Yan et al., IEEE Access'23](https://doi.org/10.1109/ACCESS.2023.3347818) | Survey of deep transfer learning for industrial anomaly detection: simple, tried-and-tested design patterns dominate; unsupervised/semi-supervised learning is unavoidable given scarce labels. |
-| [Luley et al., SDS'23](https://stdm.github.io/downloads/papers/SDS_2023a.pdf) | Data-centric AI (DCAI) — systematic engineering of training data — reliably overcomes AI-adoption obstacles for SMEs, consistently outperforming model-centric approaches on limited data. |
+| [Luley et al., SDS'23](https://stdm.github.io/downloads/papers/SDS_2023a.pdf) | Data-centric AI (DCAI) (i.e., systematic engineering of training data) can help overcome AI-adoption obstacles for SMEs; a process of how to do DCAI practically is introduced. |
 | [Battaglia et al., APL ML'23](https://doi.org/10.1063/5.0139707) | A deep-ensemble inverse model estimates physical solar-cell parameters from electroluminescence images; training on synthetic data transfers to real measurements, making uncertainty quantification essential. |
 | [Knapp et al., SDS'21b](https://stdm.github.io/downloads/papers/SDS_2021b.pdf) | XGBoost is a competitive, interpretable alternative to neural networks for estimating organic semiconductor device parameters from sparse measurement data. |
 | [Simmler et al., SDS'21a](https://stdm.github.io/downloads/papers/SDS_2021a.pdf) | Inaccurate or incomplete labels are a major but underappreciated bottleneck in industrial DL vision; label-quality mitigation techniques recover substantial performance. |
 | [Roost et al., SDS'20](https://stdm.github.io/downloads/papers/SDS_2020.pdf) | Multi-agent RL improves train rescheduling; sample efficiency and inter-agent communication are the key bottlenecks for real rail deployment. |
-| [Roost et al., AVHRC'20](https://stdm.github.io/downloads/papers/AVHRC_2020.pdf) | Active-perception RL — coupling image acquisition and classification — learns more informative scene representations than episodic classification paradigms. |
+
 
 </div>
 </details>
@@ -130,9 +130,9 @@ An ongoing programme addresses document recognition, i.e., the computational rea
 
 | Paper | Key finding / message |
 |---|---|
-| [Meyer et al., arXiv'25](https://arxiv.org/abs/2507.08458) | Treating document recognition as end-to-end structured-record transcription — not isolated detection — yields principled inductive-bias rules enabling document foundation models beyond OCR. |
+| [Meyer et al., arXiv'25](https://arxiv.org/abs/2507.08458) | Treating document recognition as end-to-end structured-record transcription, and not as isolated detection, yields principled inductive-bias rules enabling document foundation models beyond OCR. |
 | [Schmitt-Koopmann et al., IEEE Access'24](https://dx.doi.org/10.1109/ACCESS.2024.3404834) | A data-centric approach with the FormulaNet benchmark shows annotation consistency matters more than model architecture for printed mathematical formula recognition. |
-| [Tuggener et al., TISMIR'24](https://doi.org/10.5334/tismir.157) | Domain adaptation and confidence-rated outputs are the key enablers for deploying OMR on real historical scores; benchmark accuracy on rendered scores substantially over-predicts real-world performance. |
+| [Tuggener et al., TISMIR'24](https://doi.org/10.5334/tismir.157) | Domain adaptation and confidence-rated outputs are the key enablers for deploying OMR on real scanned scores; benchmark accuracy on rendered scores still over-predicts real-world performance. |
 | [Schmitt-Koopmann et al., IEEE Access'22](https://doi.org/10.1109/ACCESS.2022.3202639) | FormulaNet is the first large-scale benchmark for printed mathematical formula detection, exposing systematic weaknesses of off-the-shelf detectors on this task. |
 | [Tuggener et al., ICPR'20](https://stdm.github.io/downloads/papers/ICPR_2020.pdf) | DeepScoresV2 adds detailed annotations for 135 classes including non-fixed-size symbols, enabling more rigorous benchmarking of dense small-object detectors for OMR. |
 | [Elezi et al., WoRMS'18](https://stdm.github.io/downloads/papers/WoRMS_2018.pdf) | Combined DeepScores and Deep Watershed Detector provide a consistent benchmark+method platform; class-specific evaluation reveals residual challenges in polyphonic scores. |
@@ -145,7 +145,7 @@ An ongoing programme addresses document recognition, i.e., the computational rea
 
 
 <details markdown="1">
-<summary><b>Applied deep learning & computer vision</b></summary>
+<summary><b>Applied deep learning, computer vision, and agentic AI</b></summary>
 *~2016-ongoing: centrepiece applied-ML research programme*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em; justify-content:center;">
@@ -162,9 +162,10 @@ A distinctive contribution is the systematic study of the gap between benchmark-
 
 | Paper | Key finding / message |
 |---|---|
-| [Tuggener et al., Frontiers in Computer Science'25](https://doi.org/10.3389/fcomp.2025.1644044) | Approximate Multi-group Representation (AMR) achieves efficient rotation invariance without test-time augmentation, grounded in group theory. |
-| [Sager et al., CLEF'25](https://stdm.github.io/downloads/papers/CLEF_2025.pdf) | A hybrid retrieval pipeline combining lexical precision, semantic generalization, and deep retrieval consistently outperforms individual methods for scientific-claim verification. |
 | [Tuggener et al., SDS'26](https://stdm.github.io/downloads/papers/SDS_2026.pdf) | Production NLP requires engineering beyond model accuracy: class imbalance, domain terminology, and distribution drift must be addressed to bridge the POC-to-production gap. |
+| [Sager et al., JAIR'26](https://doi.org/10.1613/jair.1.19490) | A comprehensive survey of AI agent architectures maps perception, memory, planning, and action across LLM-based and classical agents, identifying open challenges for autonomous systems. |
+| [Tuggener et al., Frontiers in Computer Science'25](https://doi.org/10.3389/fcomp.2025.1644044) | Artifical mental roation achieves efficient rotation invariance as a simple add-on to established CNN and transformer-based computer vision architectures, reducing the computational cost of equivariant architectures significantly. |
+| [Sager et al., CLEF'25](https://stdm.github.io/downloads/papers/CLEF_2025.pdf) | A hybrid retrieval pipeline combining lexical precision, semantic generalization, and deep retrieval consistently outperforms individual methods for scientific-claim verification. |
 | [Tuggener et al., SDS'24b](https://doi.org/10.1109/SDS60720.2024.00036) | Local LLM deployment on commodity hardware is feasible; quantisation is the dominant cost-reduction lever with acceptable quality trade-offs. |
 | [Meyer et al., SDS'24a](https://doi.org/10.1109/SDS60720.2024.00040) | ScalaGrad provides statically typed automatic differentiation, catching shape and type errors at compile time rather than runtime, reducing DL debugging overhead. |
 | [Tuggener et al., Frontiers in Computer Science'22](https://doi.org/10.3389/fcomp.2022.1041703) | CNN architectures optimised on ImageNet do not reliably transfer across domains; architecture search must be domain-aware to achieve strong out-of-distribution performance. |
@@ -172,10 +173,10 @@ A distinctive contribution is the systematic study of the gap between benchmark-
 | [Glüge et al., ANNPR'20](https://stdm.github.io/downloads/papers/ANNPR_2020.pdf) | Empirically testing face recognition DL networks shows demographic accuracy disparity is uncorrelated with model awareness of sensitive attributes — blinding is ineffective as a de-biasing strategy. |
 | [Amirian et al., TAILOR'20](https://stdm.github.io/downloads/papers/TAILOR_2020.pdf) | Trustworthy DL deployment requires explicit documentation of model genesis and interpretability; these are engineering requirements, not optional extras. |
 | [Amirian et al., ECML-PKDD'19](https://stdm.github.io/downloads/papers/ECML_PKDD_2019.pdf) | Neural architectures transfer from image to video classification through temporal preprocessing and test-time ensembling; MobileNetV2 provides the best accuracy–efficiency trade-off. |
-| [Stadelmann et al., ADS ch. 'Beyond ImageNet' (2019)](https://doi.org/10.1007/978-3-030-11821-1_12) | Most industrial DL projects require domain-specific data curation, loss shaping, and calibration absent from canonical ImageNet training. |
+| [Stadelmann et al., ADS ch. 'Beyond ImageNet' (2019)](https://doi.org/10.1007/978-3-030-11821-1_12) | Most industrial DL projects require domain-specific data curation, loss shaping, and calibration absent from canonical ImageNet training; they also rarely are just straightforward classifiers. |
 | [Tuggener et al., SDS'19](https://stdm.github.io/downloads/papers/SDS_2019.pdf) | A systematic taxonomy of AutoML design choices bridges the gap between academic benchmarks and industry requirements, guiding practical AutoML system design. |
-| [Stadelmann et al., ANNPR'18](https://doi.org/10.1007/978-3-319-99978-4_2) | Real DL deployment requires wrapping core models in ensembles of auxiliary modules (quality assessment, anti-spoofing, calibration); benchmark accuracy is necessary but not sufficient. |
-| [Amirian et al., ANNPR'18](https://stdm.github.io/downloads/papers/ANNPR_2018c.pdf) | Backpropagation-based feature maps detect adversarial attacks on CNNs, providing a lightweight defence mechanism that does not require modifying the base classifier. |
+| [Stadelmann et al., ANNPR'18](https://doi.org/10.1007/978-3-319-99978-4_2) | Six different case studies of fielded, innovative DL applications reveal design patterns like real DL deployment requiring wrapping core models in ensembles of auxiliary modules (quality assessment, anti-spoofing, calibration); benchmark accuracy is necessary but not sufficient. |
+| [Amirian et al., ANNPR'18](https://stdm.github.io/downloads/papers/ANNPR_2018c.pdf) | Backpropagation-based feature maps detect adversarial attacks on CNNs, providing a lightweight defence mechanism against adversarial attacks. |
 
 </div>
 </details>
@@ -203,7 +204,7 @@ A growing body of work addresses clinical imaging, e.g.: (a) *cross-domain gener
 | Paper | Key finding / message |
 |---|---|
 | [Ali et al., ISBI'26](https://stdm.github.io/downloads/papers/ISBI_2026.pdf) | A vendor-agnostic DL pipeline for pulsed-wave tissue Doppler analysis decouples image acquisition from interpretation, enabling fleet-wide centralised cardiac diagnostics. |
-| [Meyer et al., SDS'25b](https://doi.org/10.1109/SDS66131.2025.00008) | Hounsfield unit value ranges — a standard radiological prior — enable data-efficient CT body-composition segmentation within a single clinic, achieving better accuracy with fewer than half the samples. |
+| [Meyer et al., SDS'25b](https://doi.org/10.1109/SDS66131.2025.00008) | Ingesting medical know-how as inductiv bias into the model architecture enables data-efficient CT body-composition segmentation within a single clinic, achieving better accuracy with fewer than half the samples. |
 | [Jermain et al., Scientific Reports'24](https://doi.org/10.1038/s41598-024-64855-2) | DL cell segmentation on rapid optical cytopathology images matches standard pathology accuracy for thyroid cancer, enabling real-time point-of-care diagnosis. |
 | [Jermain et al., BioMed'24](https://stdm.github.io/downloads/papers/BioMed_2024.pdf) | Fluorescence-based rapid optical cytology combined with DL segmentation provides a fast, stain-free alternative to conventional histopathology for thyroid lesion triage. |
 | [Amirian et al., MedPhys'23](https://doi.org/10.1002/mp.16405) | Deep CNNs reduce motion artefacts in 4D-CBCT to clinically acceptable levels, cutting processing time from hours to seconds for image-guided radiotherapy. |
@@ -234,8 +235,8 @@ A distinct thread examines the ethical and societal dimensions of AI. The [2021 
 
 | Paper | Key finding / message |
 |---|---|
-| [Stadelmann, T&TC'26](https://stdm.github.io/downloads/papers/T&TC_2026.pdf) | A practitioner-oriented introduction to LLMs traces technical foundations to societal implications, arguing accurate mental models of AI are a prerequisite for sound policy. |
-| [Stadelmann, TENuK'26](https://stdm.github.io/downloads/papers/TENuK_2026.pdf) | AI's stochastic nature and human factors in complex socio-technical systems jointly determine safety; future learning organisations must integrate both perspectives. |
+| [Stadelmann, T&TC'26](https://stdm.github.io/downloads/papers/T&TC_2026.pdf) | A introduction to LLMs for theologians and other humanties scholars traces technical foundations to societal implications, carfully laying out the mental models of AI and argueing for a modest definition of AI as simulating intelligent behaviour. |
+| [Stadelmann, TENuK'26](https://stdm.github.io/downloads/papers/TENuK_2026.pdf) | AI's stochastic nature and human factors in complex socio-technical systems jointly determine safety; future-faced organisations in high-consequence areas must integrate both perspectives though co-learning labs. |
 | [Stadelmann et al., AI & Ethics'26](https://link.springer.com/article/10.1007/s43681-026-01042-1) | ML's inherent stochasticity must be explicitly accounted for in safety engineering; co-learning provides a principled framework for meaningful human oversight of high-consequence systems. |
 | [Stadelmann, PMM'25](https://doi.org/10.1080/09540962.2025.2541304) | AI risk assessments in public policy are primarily driven by worldviews rather than evidence; an evidence-based technical framework tied to specific ML properties is needed. |
 | [Stadelmann, GRW'25](https://stdm.github.io/downloads/papers/GRW_2025.pdf) | Conflicting AI narratives reflect differing worldviews; a technically grounded guide helps decision-makers navigate them and form independent, evidence-based judgments. |
@@ -244,7 +245,7 @@ A distinct thread examines the ethical and societal dimensions of AI. The [2021 
 | [Stadelmann, Bürgenstock'23](https://stdm.github.io/downloads/papers/Buergenstock_2023.pdf) | AI is a strategic opportunity for universities of applied sciences; the applied mandate becomes a competitive advantage in the era of transformative technology. |
 | [Wehrli et al., AI & Ethics'21](https://doi.org/10.1007/s43681-021-00108-6) | Model awareness of sensitive features and demographic accuracy disparity are empirically uncorrelated; blinding face-recognition models to protected attributes is not a valid de-biasing technique. |
 | [Glüge et al., ANNPR'20](https://stdm.github.io/downloads/papers/ANNPR_2020.pdf) | Face recognition systems show persistent demographic accuracy disparities despite overall high performance; standard benchmarks mask these disparities and should not be used as fairness proxies. |
-| [Stadelmann, FCW'19](https://stdm.github.io/downloads/papers/FCW_2019.pdf) | ML-driven automation is restructuring labour markets; organisations treating ML as augmenting judgment rather than replacing it will benefit most from the transition. |
+| [Stadelmann, FCW'19](https://stdm.github.io/downloads/papers/FCW_2019.pdf) | ML-driven automation is restructuring how money is earned; organisations treating ML as augmenting judgment rather than replacing it will benefit most from the transition. |
 | [Dessimoz, Koehler, Stadelmann, AI Magazine'15](https://doi.org/10.21256/zhaw-3642) | A survey of Swiss AI research identifies distinctive strengths in applied and foundational areas; interdisciplinary industry-academia collaboration is the defining characteristic. |
 
 </div>
@@ -253,7 +254,7 @@ A distinct thread examines the ethical and societal dimensions of AI. The [2021 
 
 <details markdown="1">
 <summary><b>Theoretical foundations of intelligence</b></summary>
-*~2022-ongoing: theoretical / foundational strand*
+*~2018-ongoing: theoretical / foundational strand*
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; margin:0.8em 0 1em; justify-content:center;">
 <a href="https://arxiv.org/abs/2205.00002"><img src="http://stdm.github.io/images/papers/ArXiv_2022.jpg" alt="Theory Natural Intelligence" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
@@ -263,17 +264,19 @@ A distinct thread examines the ethical and societal dimensions of AI. The [2021 
 <a href="https://doi.org/10.3389/fcomp.2025.1644044"><img src="http://stdm.github.io/images/papers/Frontiers_2025.jpg" alt="Frontiers 2025" style="height:120px; width:auto; border:1px solid #c8d8ea; border-radius:3px;"/></a>
 </div>
 
-In collaboration with Christoph von der Malsburg (Frankfurt) and Benjamin Grewe (ETH Zurich), a theoretical programme investigates why natural intelligence is so data-efficient compared to current AI. The central argument in [*"A Theory of Natural Intelligence"*](https://arxiv.org/abs/2205.00002) (arXiv'22) is that both brain and natural environment are highly structured and that this mutual structural regularity acts as the key inductive bias enabling rapid, generalising learning via self-organised "net fragments." The [Neural Computation'26 paper](https://doi.org/10.1162/NECO.a.1505) instantiates the cooperative network architecture as a concrete instance of this theory, hinting at how a next level of AI could be build. At the same time, our [ICML'25](https://icml.cc/virtual/2025/poster/44452) paper showed that Transformer self-attention develops symmetry and directionality structures during training, informing deeper understanding of current mainstream ML methods. 
+In collaboration with Christoph von der Malsburg (Frankfurt) and Benjamin Grewe (ETH Zurich), a theoretical programme investigates why natural intelligence is so data-efficient compared to current AI. The central argument in [*"A Theory of Natural Intelligence"*](https://arxiv.org/abs/2205.00002) (arXiv'22) is that both brain and natural environment are highly structured and that this mutual structural regularity acts as the key inductive bias enabling rapid, generalising learning via self-organised "net fragments." The [Neural Computation'26 paper](https://doi.org/10.1162/NECO.a.1505) instantiates the cooperative network architecture as a concrete instance of this theory, hinting at how a next level of AI could be build. At the same time, our [ICML'25](https://icml.cc/virtual/2025/poster/44452) paper showed that Transformer self-attention develops symmetry and directionality structures during training, informing deeper understanding of current mainstream ML methods. Already in 2018, we developed a method to [learn clustering algorithm](https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf), and solved [in-plane rotation invariance](https://doi.org/10.3389/fcomp.2025.1644044) for practical purpuses in 2025.. 
 
 <div markdown="1">
 
 | Paper | Key finding / message |
 |---|---|
-| [Saponati, Sager et al., ICML'25](https://icml.cc/virtual/2025/poster/44452) | Self-attention in Transformers develops symmetry and directionality structures during training; this theoretical grounding explains why symmetry-based initialisation tricks accelerate learning. |
 | [Sager et al., Neural Computation'26](https://doi.org/10.1162/NECO.a.1505) | The cooperative network architecture instantiates net-fragment theory, learning structured compositional representations with strong few-shot generalisation from limited data. |
-| [Tuggener et al., Frontiers in Computer Science'25](https://doi.org/10.3389/fcomp.2025.1644044) | Approximate Multi-group Representation achieves efficient rotation invariance via group-theoretic inductive biases, reducing the computational cost of equivariant architectures. |
+| [Saponati, Sager et al., ICML'25](https://icml.cc/virtual/2025/poster/44452) | Self-attention in Transformers develops symmetry and directionality structures during training; this theoretical grounding explains why symmetry-based initialisation tricks accelerate learning. |
+| [Tuggener et al., Frontiers in Computer Science'25](https://doi.org/10.3389/fcomp.2025.1644044) | Artifical mental roation achieves efficient rotation invariance as a simple add-on to established CNN and transformer-based computer vision architectures, reducing the computational cost of equivariant architectures significantly. |
 | [von der Malsburg, Stadelmann, Grewe, KogWis'22](https://stdm.github.io/downloads/papers/KogWis_2022.pdf) | Cognition arises from structural regularity shared between brain and environment; perception is active hypothesis testing, not passive pattern matching. |
-| [von der Malsburg, Stadelmann, Grewe, arXiv'22](https://arxiv.org/abs/2205.00002) | Brain and natural environment are mutually highly structured; self-organised 'net fragments' serve as the structural inductive bias enabling data-efficient natural learning — a blueprint for next-generation AI. |
+| [von der Malsburg, Stadelmann, Grewe, arXiv'22](https://arxiv.org/abs/2205.00002) | Brain and natural environment are mutually highly structured; self-organised 'net fragments' serve as the structural inductive bias enabling data-efficient natural learning: a blueprint for next-generation AI. |
+| [Roost et al., AVHRC'20](https://stdm.github.io/downloads/papers/AVHRC_2020.pdf) | Active-perception RL (i.e., coupling image acquisition and classification in one model) learns more informative scene representations than episodic classification paradigms. |
+| [Meier et al., ANNPR'18](https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf) | An end-to-end neural architecture learns probabilistic clustering "algorithms" in a single forward pass that are able to jointly estimating cluster count and assignments. |
 
 </div>
 </details>
@@ -303,7 +306,7 @@ A self-contained thread, developed in collaboration with Marcello Pelillo (Venic
 | [Ali et al., Pattern Recognition Letters'24](https://doi.org/10.1016/j.patrec.2024.09.009) | Combining global topological structure with local neighbourhood attention in a hierarchical pooling scheme achieves state-of-the-art graph classification across standard benchmarks. |
 | [Ali et al., ACM SAC'23](https://doi.org/10.1145/3555776.3578600) | Quasi-CliquePool uses clique-relaxation clustering to form hierarchical graph summaries, matching or surpassing prior pooling methods with a transparent graph-theoretic foundation. |
 | [Hibraj et al., ICPR'18](https://doi.org/10.21256/zhaw-4254) | Dominant-Sets clustering applied to speaker-embedding graphs achieves competitive diarisation without prior knowledge of speaker count, bridging GNN and audio research. |
-| [Meier et al., ANNPR'18](https://stdm.github.io/downloads/papers/ANNPR_2018a.pdf) | An end-to-end neural architecture produces probabilistic clustering in a single forward pass, jointly estimating cluster count and assignments. |
+
 
 </div>
 </details>
@@ -329,21 +332,21 @@ The earliest sustained research thread centres on automatic speaker recognition.
 
 | Paper | Key finding / message |
 |---|---|
-| [Neururer et al., Pattern Recognition Letters'24](https://doi.org/10.1016/j.patrec.2024.03.016) | DNNs for automatic speaker recognition learn spectral but not supra-segmental temporal features, even on tasks that in principle require them — a fundamental open challenge for the field. |
+| [Neururer et al., Pattern Recognition Letters'24](https://doi.org/10.1016/j.patrec.2024.03.016) | DNNs for automatic speaker recognition learn spectral but not supra-segmental temporal features, even on tasks that in principle require them: a fundamental open challenge for the field. |
 | [Stadelmann et al., ANNPR'18](https://stdm.github.io/downloads/papers/ANNPR_2018b.pdf) | RNNs processing spectrograms across long speech segments appear to capture supra-segmental prosodic features, improving voice clustering over frame-level CNN approaches. |
 | [Hibraj et al., ICPR'18](https://doi.org/10.21256/zhaw-4254) | Dominant-Sets graph clustering of speaker embeddings achieves accurate diarisation without fixing the number of speakers in advance. |
 | [Lukic et al., MLSP'17](https://doi.org/10.21256/zhaw-3762) | Metric-learning objectives optimised directly for clustering quality produce speaker embeddings that outperform classification-trained embeddings for diarisation. |
 | [Lukic et al., MLSP'16](https://doi.org/10.21256/zhaw-3761) | CNNs trained on spectrograms achieve state-of-the-art speaker identification and clustering without hand-crafted features; one of the earliest such demonstrations, predating x-vectors. |
 | [Stadelmann et al., VDI-FASiS'12](https://stdm.github.io/downloads/papers/VDIFASIS_2012.pdf) | Real-time audio classification enables a meta-driver-assistance system to detect driver distraction acoustically, demonstrating a safety-relevant application of audio event recognition. |
-| [Beecks et al., ICME'10](https://stdm.github.io/downloads/papers/ICME_2010.pdf) | Visual speaker modelling from video features complements audio models, enabling richer multi-modal speaker representations for clustering and retrieval. |
-| [Stadelmann & Freisleben, ICPR'10a](https://stdm.github.io/downloads/papers/ICPR_2010a.pdf) | Dimension-decoupled GMMs decouple spectral from temporal modelling, yielding significantly improved speaker identification from very short utterances. |
-| [Stadelmann et al., ICPR'10b](https://stdm.github.io/downloads/papers/ICPR_2010b.pdf) | A critical review of speech processing algorithm design advocates for principled, reproducible evaluation and exposes hidden assumptions in standard benchmarks. |
-| [Stadelmann & Freisleben, TR'10](https://stdm.github.io/downloads/papers/TR_2010.pdf) | Cepstral features with the MixMax noise model yield robust speaker recognition under additive noise; a systematic feature comparison guides practical recognition system design. |
-| [Stadelmann, PhD thesis (2010)](https://archiv.ub.uni-marburg.de/ubfind/Record/urn:nbn:de:hebis:04-z2010-0465) | Supra-segmental temporal features are the key to unlocking an order of magnitude lower error rates in speaker recognition under adverse conditions. |
-| [Stadelmann & Freisleben, ACMMM'09](https://doi.org/10.1145/1631272.1631300) | A biomimetic approach combining MixMax modelling with temporal feature aggregation significantly unfolds speaker clustering potential over spectral-only baselines. |
+| [Beecks et al., ICME'10](https://stdm.github.io/downloads/papers/ICME_2010.pdf) | Exploring visualizations of speaker models graphically unlocks very helpful insights for the developer. |
+| [Stadelmann & Freisleben, ICPR'10a](https://stdm.github.io/downloads/papers/ICPR_2010a.pdf) | Dimension-decoupled GMMs safe most of the parameters normally used for voice modeling, yielding significantly improved speaker identification from very short utterances. |
+| [Stadelmann et al., ICPR'10b](https://stdm.github.io/downloads/papers/ICPR_2010b.pdf) | A critical review of speech processing algorithm design advocates for a principled approach that keeps the human in the loop by means of their intuitive perceptual capabilities. |
+| [Stadelmann & Freisleben, TR'10](https://stdm.github.io/downloads/papers/TR_2010.pdf) | Cepstral features are theoretically and practically incompatible with the MixMax speech/noise model; published results that report contrarian results are based on a bug in the code. |
+| [Stadelmann, PhD thesis (2010)](https://archiv.ub.uni-marburg.de/ubfind/Record/urn:nbn:de:hebis:04-z2010-0465) | The thesis combines our work on voice modeling methods under complex acoustic conditions as encountered in multimedia indexing. |
+| [Stadelmann & Freisleben, ACMMM'09](https://doi.org/10.1145/1631272.1631300) | Established that temporal features (as in human speaker recognition) are key to unlock an order of magnitude lower error rates in complex speaker recognition scenarios. |
 | [Stadelmann et al., CISP'09](https://stdm.github.io/downloads/papers/CISP_2009.pdf) | WebVoice provides an interactive web-based toolkit for visualising and probing speech processing algorithms from a perceptual perspective, supporting reproducible research. |
 | [Stadelmann & Freisleben, ICASSP'06](https://stdm.github.io/downloads/papers/ICASSP_2006.pdf) | Earth Mover's Distance with MixMax speaker models enables fast, robust speaker clustering on degraded real-world recordings without prior knowledge of the number of speakers. |
-| [Stadelmann, Diploma thesis (2004)](https://stdm.github.io/downloads/papers/DiplomaThesis_2004.pdf) | The first systematic study of speaker recognition in video established temporal voice features and noise-robust cepstral modelling as the central challenges of the field. |
+
 
 </div>
 </details>
@@ -368,19 +371,17 @@ Running parallel to empirical research is a sustained effort to define and legit
 
 | Paper | Key finding / message |
 |---|---|
-| [Sager et al., JAIR'26](https://doi.org/10.1613/jair.1.19490) | A comprehensive survey of AI agent architectures maps perception, memory, planning, and action across LLM-based and classical agents, identifying open challenges for autonomous systems. |
-| [Stadelmann et al., AoDSA'22](https://stdm.github.io/downloads/papers/AoDSA_2022a.pdf) | Data centrism — treating data as the central subject of study rather than a resource — is the unique disciplinary core distinguishing data science from statistics, ML, and data management. |
+| [Stadelmann et al., AoDSA'22](https://stdm.github.io/downloads/papers/AoDSA_2022a.pdf) | Data centrism (i.e., treating data as the central subject of study rather than a resource) is the unique disciplinary core distinguishing data science from statistics, ML, and data management. |
 | [Schilling et al., AoDSA'22](https://stdm.github.io/downloads/papers/AoDSA_2022b.pdf) | A symposium synthesis identifies four pillars of data science's scientific core: foundations, methods, systems, and applications, each requiring inquiry beyond contributing disciplines. |
 | [Stadelmann et al., EducSci'21](https://doi.org/10.3390/educsci11070318) | The AI-Atlas didactic framework structures AI/ML teaching for on-site, online, and hybrid delivery; modular design enables transfer across institutions with diverse resource levels. |
-| [Stadelmann & Würsch, TR'20](https://stdm.github.io/downloads/papers/TR_2020.pdf) | The ATLAS concept provides curriculum maps for teaching AI under uncertainty; maps function as navigation tools rather than fixed blueprints. |
 | [Stadelmann et al., ADS ch. 'Beyond ImageNet' (2019)](https://doi.org/10.1007/978-3-030-11821-1_12) | Industrial DL projects consistently require domain-specific data engineering steps absent from ImageNet training; 'necessity is the mother of invention' is the central lesson. |
 | [Braschler et al., ADS ch. 'Data Science' (2019)](https://stdm.github.io/downloads/papers/ADS_2019_DataScience.pdf) | Data science is defined as a unique blend of principles and methods from analytics, technology, and domain expertise; no single contributing discipline provides this combination. |
 | [Stadelmann et al., ADS ch. 'Data Scientists' (2019)](https://stdm.github.io/downloads/papers/ADS_2019_DataScientists.pdf) | The data scientist role requires a T-shaped profile spanning analytics, technology, communication, and domain knowledge; curricula must address all four components. |
 | [Stockinger et al., ADS ch. 'Lessons Learned' (2019)](https://stdm.github.io/downloads/papers/ADS_2019_LessonsLearned.pdf) | Applied data science is always data-driven, not method-driven; case studies show 'necessity is the mother of invention' consistently explains method choice. |
 | [Hollenstein et al., ADS ch. 'Complexity' (2019)](https://stdm.github.io/downloads/papers/ADS_2019_Complexity.pdf) | Synthetic simulation data provides a viable fallback when real data is unavailable mid-project; bridging simulation and real-data distributions is the key challenge. |
-| [Meierhofer et al., ADS ch. 'Data Products' (2019)](https://stdm.github.io/downloads/papers/ADS_2019_DataProducts.pdf) | Data products — reusable, deployable artefacts encapsulating data science results — provide a systematic route from analytical insight to repeatable business value. |
+| [Meierhofer et al., ADS ch. 'Data Products' (2019)](https://stdm.github.io/downloads/papers/ADS_2019_DataProducts.pdf) | Data products (i.e., reusable, deployable artefacts encapsulating data science results) provide a systematic route from analytical insight to repeatable business value. |
 | [Stockinger et al., HMD'16](https://doi.org/10.1007/978-3-658-11589-0_4) | The data scientist profession requires combined analytical, technical, and communication skills that no single prior discipline covers; educational programmes must be purpose-built. |
-| [Stadelmann et al., ERCIM News'15](https://stdm.github.io/downloads/papers/ERCIM_2015.pdf) | Automatic data curation for open data — detecting inconsistencies, inferring missing values, and enforcing schema constraints — is identified as a scalable alternative to purely manual cleaning. |
+| [Stadelmann et al., ERCIM News'15](https://stdm.github.io/downloads/papers/ERCIM_2015.pdf) | Automatic data curation for open data (i.e, detecting inconsistencies, inferring missing values, and enforcing schema constraints) is identified as a scalable alternative to purely manual cleaning. |
 | [Stockinger & Stadelmann, HMD'14](https://doi.org/10.21256/zhaw-3759) | Data science integrates computer science, statistics, and domain expertise; early institutional investment in dedicated labs and curricula is essential for establishing the field. |
 | [Stadelmann et al., ECSS'13](https://stdm.github.io/downloads/papers/ECSS_2013.pdf) | Data science was identified early as a rapidly emerging field combining analytics, technology, and communication; none of the contributing disciplines provides this combination alone. |
 
