@@ -585,7 +585,7 @@ Thilo Stadelmann, Martin Braschler, and Kurt Stockinger. <a href="https://stdm.g
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href=https://doi.org/10.1007/978-3-030-11821-1"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/ADS_2019.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">>123k accesses</p></td>
+<td style="width: 175px;"><a href="https://doi.org/10.1007/978-3-030-11821-1"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/ADS_2019.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">>123k accesses</p></td>
 <td>
 Martin Braschler, Thilo Stadelmann, and Kurt Stockinger (Editors). <a href="https://stdm.github.io/downloads/papers/ADS_2019_Preface.pdf"><strong>Applied Data Science - Lessons Learned for the Data-Driven Business</strong></a>. <strong>Springer</strong>, 2019. DOI <a href="https://doi.org/10.1007/978-3-030-11821-1">10.1007/978-3-030-11821-1</a>.
 </td>
