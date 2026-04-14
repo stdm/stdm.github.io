@@ -248,7 +248,6 @@ A distinct thread examines the ethical and societal dimensions of AI. The [2021 
 | [Wehrli et al., AI & Ethics'21](https://doi.org/10.1007/s43681-021-00108-6) | Model awareness of sensitive features and demographic accuracy disparity are empirically uncorrelated; blinding face-recognition models to protected attributes is not a valid de-biasing technique. |
 | [Glüge et al., ANNPR'20](https://stdm.github.io/downloads/papers/ANNPR_2020.pdf) | Face recognition systems show persistent demographic accuracy disparities despite overall high performance; standard benchmarks mask these disparities and should not be used as fairness proxies. |
 | [Stadelmann, FCW'19](https://stdm.github.io/downloads/papers/FCW_2019.pdf) | ML-driven automation is restructuring how money is earned; organisations treating ML as augmenting judgment rather than replacing it will benefit most from the transition. |
-| [Dessimoz, Koehler, Stadelmann, AI Magazine'15](https://doi.org/10.21256/zhaw-3642) | A survey of Swiss AI research identifies distinctive strengths in applied and foundational areas; interdisciplinary industry-academia collaboration is the defining characteristic. |
 
 </div>
 </details>
@@ -384,6 +383,7 @@ Running parallel to empirical research is a sustained effort to define and legit
 | [Meierhofer et al., ADS ch. 'Data Products' (2019)](https://stdm.github.io/downloads/papers/ADS_2019_DataProducts.pdf) | Data products (i.e., reusable, deployable artefacts encapsulating data science results) provide a systematic route from analytical insight to repeatable business value. |
 | [Stockinger et al., HMD'16](https://doi.org/10.1007/978-3-658-11589-0_4) | The data scientist profession requires combined analytical, technical, and communication skills that no single prior discipline covers; educational programmes must be purpose-built. |
 | [Stadelmann et al., ERCIM News'15](https://stdm.github.io/downloads/papers/ERCIM_2015.pdf) | Automatic data curation for open data (i.e, detecting inconsistencies, inferring missing values, and enforcing schema constraints) is identified as a scalable alternative to purely manual cleaning. |
+| [Dessimoz, Koehler, Stadelmann, AI Magazine'15](https://doi.org/10.21256/zhaw-3642) | A survey of Swiss AI research identifies distinctive strengths in applied and foundational areas; interdisciplinary industry-academia collaboration is the defining characteristic. |
 | [Stockinger & Stadelmann, HMD'14](https://doi.org/10.21256/zhaw-3759) | Data science integrates computer science, statistics, and domain expertise; early institutional investment in dedicated labs and curricula is essential for establishing the field. |
 | [Stadelmann et al., ECSS'13](https://stdm.github.io/downloads/papers/ECSS_2013.pdf) | Data science was identified early as a rapidly emerging field combining analytics, technology, and communication; none of the contributing disciplines provides this combination alone. |
 
