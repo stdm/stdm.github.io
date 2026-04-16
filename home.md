@@ -156,9 +156,9 @@ Waqar Ali, Shana Staempfli, Thilo Stadelmann, Schlomo Aschkenasy, and Ahmed Abdu
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/NNICE_2026.pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/NNICE_2026.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://doi.org/10.1109/NNICE68970.2026.11465527"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/NNICE_2026.jpg"/></a></td>
 <td>
-Waqar Ali, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. <a href="https://stdm.github.io/downloads/papers/NNICE_2026.pdf"><strong>Topology-Aware Node Dropping Augmentation for Graph Classification</strong></a>. In: Proceedings of the 6th IEEE International Conference on Neural Networks, Information and Communication Engineering (<strong>NNICE'26</strong>), Hefei, China, January 23-25, 2026.
+Waqar Ali, Sebastiano Vascon, Thilo Stadelmann, and Marcello Pelillo. <a href="https://stdm.github.io/downloads/papers/NNICE_2026.pdf"><strong>Topology-Aware Node Dropping Augmentation for Graph Classification</strong></a>. In: Proceedings of the 6th IEEE International Conference on Neural Networks, Information and Communication Engineering (<strong>NNICE'26</strong>), Hefei, China, January 23-25, 2026. DOI <a href="https://doi.org/10.1109/NNICE68970.2026.11465527">10.1109/NNICE68970.2026.11465527</a>.
 </td>
 </tr>
 <tr>
