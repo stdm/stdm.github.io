@@ -804,7 +804,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
-  * April 24, 2026 [NZZ jobs](https://jobs.nzz.ch/ratgeber/artikel/1243/ki-in-kritischen-bereichen-argumente-fuer-ml-kompetenz-gemeinsames-lernen-und-dezentrale-systeme): "**KI in kritischen Bereichen - Argumente für ML-Kompetenz, gemeinsames Lernen und dezentrale Systeme**"
+  * April 24, 2026 [NZZ Jobs](https://jobs.nzz.ch/ratgeber/artikel/1243/ki-in-kritischen-bereichen-argumente-fuer-ml-kompetenz-gemeinsames-lernen-und-dezentrale-systeme): "**KI in kritischen Bereichen - Argumente für ML-Kompetenz, gemeinsames Lernen und dezentrale Systeme**", interview with Prof. Thilo Stadelmann by Prof. Anne Rosken
   
   * April 10, 2026 [SRF 10 vor 10](https://www.srf.ch/play/tv/-/video/-?urn=urn:srf:video:7377d0e6-cd25-4aec-9fa4-e34d249a6c78): "**'Mythos': KI von Anthropic als mögliche Cyberwaffe**"
 
