@@ -132,9 +132,9 @@ implications for high-consequence AI</strong></a>. In: <strong>AI and Ethics</st
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/SDS_2026.pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/SDS_2026.png"/></a></td>
+<td style="width: 175px;"><a href="https://doi.org/10.1109/SDS70563.2026.00018"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/SDS_2026.png"/></a></td>
 <td>
-Lukas Tuggener, Simon Spalinger, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2026.pdf"><strong>From POC to production: How to build a support ticket triage system that survives contact with the real world</strong></a>. In: Proceedings of the 13th IEEE Swiss Conference on Data Science and AI (<strong>SDS'26</strong>), Zurich, Switzerland, Mai 06, 2026.
+Lukas Tuggener, Simon Spalinger, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/SDS_2026.pdf"><strong>From POC to production: How to build a support ticket triage system that survives contact with the real world</strong></a>. In: Proceedings of the 13th IEEE Swiss Conference on Data Science and AI (<strong>SDS'26</strong>), Zurich, Switzerland, Mai 06, 2026. DOI <a href="https://doi.org/10.1109/SDS70563.2026.00018">10.1109/SDS70563.2026.00018</a>.
 </td>
 </tr>
 <tr>
