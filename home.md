@@ -140,7 +140,7 @@ Lukas Tuggener, Simon Spalinger, and Thilo Stadelmann. <a href="https://stdm.git
 <tr>
 <td style="width: 175px;"><a href="https://doi.org/10.1162/NECO.a.1505"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/NeuralComput_2025.jpg"/></a></td>
 <td>
-Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christoph von der Malsburg. <a href="https://stdm.github.io/downloads/papers/NeuralComput_2025.pdf"><strong>The Cooperative Network Architecture: Learning Structured Networks as Representation of Sensory Patterns</strong></a>. In: <strong>Neural Computation</strong>, 1-35, The MIT Press, March 05, 2026. DOI <a href="https://doi.org/10.1162/NECO.a.1505">10.1162/NECO.a.1505</a>.
+Pascal J. Sager, Jan M. Deriu, Benjamin F. Grewe, Thilo Stadelmann, and Christoph von der Malsburg. <a href="https://stdm.github.io/downloads/papers/NeuralComput_2025.pdf"><strong>The Cooperative Network Architecture: Learning Structured Networks as Representation of Sensory Patterns</strong></a>. In: <strong>Neural Computation</strong>, 38 (4), p. 538-572, The MIT Press, March 17, 2026. DOI <a href="https://doi.org/10.1162/NECO.a.1505">10.1162/NECO.a.1505</a>.
 </td>
 </tr>
 <tr>
