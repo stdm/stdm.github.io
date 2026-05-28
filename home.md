@@ -89,9 +89,11 @@ The group has very diverse backgrounds, which lets us complement each other's sk
 <a name="publications"></a>
 ## Publications
 
-<img alt="Our work won the Most Cited Paper Award at SDS 2023" src="http://stdm.github.io/images/sds_award.jpeg"/>
+<img alt="Our paper on the Cooperative Network Architecture made it to the cover of Neural Computation Volume 38, Issue 4" src="http://stdm.github.io/images/neural-computation-cover.gif"/>
 
-Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?user=6U6ZXzUAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Thilo_Stadelmann2).
+Our [paper on the Cooperative Network Architecture](https://doi.org/10.1162/NECO.a.1505) made it to the cover of [Neural Computation Volume 38, Issue 4](https://direct.mit.edu/neco/issue/38/4).
+
+Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?user=6U6ZXzUAAAAJ&hl=en).
 
 
 <details open="open">
