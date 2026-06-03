@@ -104,15 +104,15 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><a href="https://openreview.net/attachment?id=qKGuqB5SAv&name=pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/uDay_2026.png"/></a></td>
+<td style="width: 175px;"><a href="https://openreview.net/attachment?id=qKGuqB5SAv&name=pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/CompLearn_2026.png"/></a></td>
 <td>
-Yassine Taoudi-Benchekroun, Klim Troyan, Pascal Josef Sager, Stefan Gerber, Lukas Tuggener, Thilo Stadelmann, and Benjamin F. Grewe. <a href="https://stdm.github.io/downloads/papers/uDay_2026.pdf"><strong>COGITAO: A Procedural and Object-Centric Framework to Evaluate Compositional and Systematic Generalization</strong></a>. In Proceedings of 2nd Workshop on Compositional Learning: Safety, Interpretability, and Agents (<strong>CompLearn 2026</strong>) @ ICML, Seoul, South Korea, July 11, 2026.
+Yassine Taoudi-Benchekroun, Klim Troyan, Pascal Josef Sager, Stefan Gerber, Lukas Tuggener, Thilo Stadelmann, and Benjamin F. Grewe. <a href="https://stdm.github.io/downloads/papers/CompLearn_2026.pdf"><strong>COGITAO: A Procedural and Object-Centric Framework to Evaluate Compositional and Systematic Generalization</strong></a>. In Proceedings of 2nd Workshop on Compositional Learning: Safety, Interpretability, and Agents (<strong>CompLearn 2026</strong>) @ ICML, Seoul, South Korea, July 11, 2026.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://doi.org/10.25924/opus-7363"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/CompLearn_2026.png"/></a></td>
+<td style="width: 175px;"><a href="https://doi.org/10.25924/opus-7363"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/uDay_2026.png"/></a></td>
 <td>
-Thilo Stadelmann, Christoph Heitz, Rebekka von Wartburg-Kottler, and Andrea Luca Schärer. <a href="https://stdm.github.io/downloads/papers/CompLearn_2026.pdf"><strong>Pro-Human AI Design: Concept, Methodology, and Preliminary Results</strong></a>. In Proceedings of uDay XXIV, Dornbirn, Austria, Mai 21, 2026. DOI <a href="https://doi.org/10.25924/opus-7363">10.25924/opus-7363</a>.
+Thilo Stadelmann, Christoph Heitz, Rebekka von Wartburg-Kottler, and Andrea Luca Schärer. <a href="https://stdm.github.io/downloads/papers/uDay_2026.pdf"><strong>Pro-Human AI Design: Concept, Methodology, and Preliminary Results</strong></a>. In Proceedings of uDay XXIV, Dornbirn, Austria, Mai 21, 2026. DOI <a href="https://doi.org/10.25924/opus-7363">10.25924/opus-7363</a>.
 </td>
 </tr>
 <tr>
