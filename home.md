@@ -41,7 +41,6 @@ The group has very diverse backgrounds, which lets us complement each other's sk
     <li><a href="https://de.wikipedia.org/wiki/Thilo_Stadelmann">Prof. Dr. Thilo Stadelmann</a>, head of group: Diplom (THM) & PhD (U. Marburg) in computer science</li>
     <li><a href="https://scholar.google.com/citations?user=XqaePW0AAAAJ">Dr. Ahmed Abdulkadir</a>, senior researcher, deputy head of group: B.Sc. systems engineering (NTB Buchs), BSc & MSc Life Sciences (EPFL), PhD computer engineering (University of Freiburg / Germany), PostDoc University Hospital Bern / University of Pennsylvania / Lausanne University Hospital</li>
     <li><a href="https://www.linkedin.com/in/hella-bolck-783a6526">Dr. Hella Bolck</a>, coordinator for complex projects: M.Sc. biochemistry and molecular biology (U Jena), PhD cancer biology (U Zurich), postdoc & senior scientist (USZ)</li>
-    <li><a href="https://www.linkedin.com/in/waqar-ali-92468910b/">Dr. Waqar Ali</a>, postdoc: M.Sc. (CU Islamabad) in computer science Ph.D. (University of Venice, co-supervised by Prof. Stadelmann at ZHAW in conjunction with <a href="https://www.dsi.unive.it/~pelillo/">Prof. Marcello Pelillo</a> at Ca'Foscari) </li>
     <li><a href="https://www.linkedin.com/in/peng520/">Peng Yan</a>, PhD student: B.Sc. measuring & control technology (Jianghan U.) & M.Sc. control engineering (Xiamen U.), M.Sc. data science (UZH), doctorate in conjunction with <a href="https://www.ini.uzh.ch/en/research/groups/grewe.html">Benjamin F. Grewe</a> of the University of Zurich / Switzerland</li>
     <li><a href="https://www.linkedin.com/in/pascal-sager-3b7403168">Pascal Sager</a>, PhD student: B.Sc. & M.Sc. computer science (ZHAW), doctorate in conjunction with <a href="https://www.ini.uzh.ch/en/research/groups/grewe.html">Benjamin F. Grewe</a> of the University of Zurich / Switzerland</li>
     <li><a href="https://www.linkedin.com/in/benjamin-meyer-b87077151">Benjamin Meyer</a>, PhD student: B.Sc. information technology (FHNW), M.Sc. computer science (U Basel), doctorate in conjunction with <a href="https://www.ini.uzh.ch/en/research/groups/grewe.html">Benjamin F. Grewe</a> of the University of Zurich / Switzerland</li>
@@ -53,12 +52,14 @@ The group has very diverse backgrounds, which lets us complement each other's sk
     <li><a href="https://www.linkedin.com/in/rebekka-von-wartburg-3b807b298/">Rebekka von Wartburg</a>, M.Sc. student: B.Sc. computer science (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/jose-pablo-mu%C3%B1oz/">Jose Pablo Muñoz Montero</a>, M.Sc. student: B.Sc. computer engineering (Tecnológico de Costa Rica)</li>
     <li><a href="https://www.linkedin.com/in/mouni-sattenapally-4b0276202">Mouni Sattenapally</a>, M.Sc. student: B.Sc. electronics and communications engineering (CVR College of Engineering, Hyderabad, India)</li>
+    <li><a href="https://www.linkedin.com/in/moritz-feuchter">Moritz Feuchter</a>, M.Sc. student: B.Sc. computer science (ZHAW)</li>
 </ul>
 </details>
 
 <details>
 <summary><b>Alumni</b></summary>
 <ul>
+  <li><a href="https://www.linkedin.com/in/waqar-ali-92468910b/">Dr. Waqar Ali</a>, PhD student 2022-2025, postdoc 2025-2026: M.Sc. (CU Islamabad) in computer science, Ph.D. (Ca'Foscari & ZHAW, March 2025) <br>&rarr; Senior Postdoctoral Fellow @ Aston University, Birmingham/UK</li>
   <li> <a href="https://www.linkedin.com/in/livia-l%C3%BCscher-72aaaa139/">Livia Luescher</a>, M.Sc. student 2023-2026, B.Sc. business administration with honors (HWZ Zurich) <br>&rarr; Data Scientist @ Zuercher Kantonalbank</li>
   <li> <a href="https://tuggeluk.github.io/">Dr. Lukas Tuggener</a>, PhD student 2016-2024, postdoc 2024-2025, B.Sc. industrial engineering (ZHAW), M.Sc. statistics (ETH), PhD (U Lugano & ZHAW) <br>&rarr; Co-Founder @ Real World Artificial Intelligence</li>
   <li> <a href="https://www.linkedin.com/in/raphael-emberger-206015bb">Raphael Emberger</a>, research assistant 2021-2024 & MSc student 2023-2024, M.Sc. and B.Sc. computer science (ZHAW) <br>&rarr; Deep Learning Engineer @ Rheinmetall Air Defence</li>
@@ -103,9 +104,15 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><a href="https://doi.org/10.25924/opus-7363"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/uDay_2026.png"/></a></td>
+<td style="width: 175px;"><a href="https://openreview.net/attachment?id=qKGuqB5SAv&name=pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/uDay_2026.png"/></a></td>
 <td>
-Thilo Stadelmann, Christoph Heitz, Rebekka von Wartburg-Kottler, and Andrea Luca Schärer. <a href="https://stdm.github.io/downloads/papers/uDay_2026.pdf"><strong>Pro-Human AI Design: Concept, Methodology, and Preliminary Results</strong></a>. In Proceedings of uDay XXIV, Dornbirn, Austria, Mai 21, 2026. DOI <a href="https://doi.org/10.25924/opus-7363">10.25924/opus-7363</a>.
+Yassine Taoudi-Benchekroun, Klim Troyan, Pascal Josef Sager, Stefan Gerber, Lukas Tuggener, Thilo Stadelmann, and Benjamin F. Grewe. <a href="https://stdm.github.io/downloads/papers/uDay_2026.pdf"><strong>COGITAO: A Procedural and Object-Centric Framework to Evaluate Compositional and Systematic Generalization</strong></a>. In Proceedings of 2nd Workshop on Compositional Learning: Safety, Interpretability, and Agents (<strong>CompLearn 2026</strong>) @ ICML, Seoul, South Korea, July 11, 2026.
+</td>
+</tr>
+<tr>
+<td style="width: 175px;"><a href="https://doi.org/10.25924/opus-7363"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/CompLearn_2026.png"/></a></td>
+<td>
+Thilo Stadelmann, Christoph Heitz, Rebekka von Wartburg-Kottler, and Andrea Luca Schärer. <a href="https://stdm.github.io/downloads/papers/CompLearn_2026.pdf"><strong>Pro-Human AI Design: Concept, Methodology, and Preliminary Results</strong></a>. In Proceedings of uDay XXIV, Dornbirn, Austria, Mai 21, 2026. DOI <a href="https://doi.org/10.25924/opus-7363">10.25924/opus-7363</a>.
 </td>
 </tr>
 <tr>
