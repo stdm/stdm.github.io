@@ -106,7 +106,7 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 <tr>
 <td style="width: 175px;"><a href="https://arxiv.org/abs/2507.08458"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/IJDAR_2026.png"/></a></td>
 <td>
-Benjamin Meyer, Lukas Tuggener, Sascha Hänzi, Daniel Schmid, Erdal Ayfer, Benjamin F. Grewe, Ahmed Abdulkadir, Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025c.pdf"><strong>A document is worth a structured record: Principled inductive bias design for document recognition</strong></a>. In: accepted to International Journal on Document Analysis and Recognition (<strong>IJDAR</strong>), <a href="https://arxiv.org/abs/2507.08458">arXiv:2507.08458</a>, June 04, 2026.
+Benjamin Meyer, Lukas Tuggener, Sascha Hänzi, Daniel Schmid, Erdal Ayfer, Benjamin F. Grewe, Ahmed Abdulkadir, Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025c.pdf"><strong>A document is worth a structured record: Principled inductive bias design for document recognition</strong></a>. In: accepted to International Journal on Document Analysis and Recognition (<strong>IJDAR</strong>), June 04, 2026. Preprint <a href="https://arxiv.org/abs/2507.08458">arXiv:2507.08458</a>.
 </td>
 </tr>
 <tr>
