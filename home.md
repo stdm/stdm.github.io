@@ -295,9 +295,9 @@ Ali Dashti, Thilo Stadelmann, and Thomas Kohl. <a href="https://stdm.github.io/d
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ArXiv_2023b.pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/PRL_2024a.jpg"/></a></td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/PRL_2024a.pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/PRL_2024a.jpg"/></a></td>
 <td>
-Daniel Neururer, Volker Dellwo, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ArXiv_2023b.pdf"><strong>Deep Neural Networks for Automatic Speaker Recognition Do Not Learn Supra-Segmental Temporal Features</strong></a>. In: <strong>Pattern Recognition Letters</strong> 181, pp. 64-49, Elsevier, May 2024, DOI <a href="https://doi.org/10.1016/j.patrec.2024.03.016">10.1016/j.patrec.2024.03.016</a>.
+Daniel Neururer, Volker Dellwo, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/PRL_2024a.pdf"><strong>Deep Neural Networks for Automatic Speaker Recognition Do Not Learn Supra-Segmental Temporal Features</strong></a>. In: <strong>Pattern Recognition Letters</strong> 181, pp. 64-49, Elsevier, May 2024, DOI <a href="https://doi.org/10.1016/j.patrec.2024.03.016">10.1016/j.patrec.2024.03.016</a>.
 </td>
 </tr>
 <tr>
