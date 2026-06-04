@@ -104,6 +104,12 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
+<td style="width: 175px;"><a href="https://arxiv.org/abs/2507.08458"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/IJDAR_2026.png"/></a></td>
+<td>
+Benjamin Meyer, Lukas Tuggener, Sascha Hänzi, Daniel Schmid, Erdal Ayfer, Benjamin F. Grewe, Ahmed Abdulkadir, Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025c.pdf"><strong>A document is worth a structured record: Principled inductive bias design for document recognition</strong></a>. In: accepted to International Journal on Document Analysis and Recognition (<strong>IJDAR</strong>), <a href="https://arxiv.org/abs/2507.08458">arXiv:2507.08458</a>, June 04, 2026.
+</td>
+</tr>
+<tr>
 <td style="width: 175px;"><a href="https://openreview.net/attachment?id=qKGuqB5SAv&name=pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/CompLearn_2026.png"/></a></td>
 <td>
 Yassine Taoudi-Benchekroun, Klim Troyan, Pascal Josef Sager, Stefan Gerber, Lukas Tuggener, Thilo Stadelmann, and Benjamin F. Grewe. <a href="https://stdm.github.io/downloads/papers/CompLearn_2026.pdf"><strong>COGITAO: A Procedural and Object-Centric Framework to Evaluate Compositional and Systematic Generalization</strong></a>. In Proceedings of 2nd Workshop on Compositional Learning: Safety, Interpretability, and Agents (<strong>CompLearn 2026</strong>) <strong>@ ICML</strong>, Seoul, South Korea, July 11, 2026.
@@ -130,7 +136,7 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/TENuK_2026.pd
 <tr>
 <td style="width: 175px;"><a href="https://jair.org/index.php/jair/article/view/19490"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/JAIR_2026.jpg"/></a></td>
 <td>
-Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan Etaiwi, Aref Enayati, Gabriel Nobel, Ahmed Abdulkadir, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/JAIR_2026.pdf"><strong>A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions</strong></a>. In: <strong>JAIR</strong> 85(34), March 2026. DOI <a href="https://doi.org/10.1613/jair.1.19490">10.1613/jair.1.19490</a>.
+Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan Etaiwi, Aref Enayati, Gabriel Nobel, Ahmed Abdulkadir, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/JAIR_2026.pdf"><strong>A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions</strong></a>. In: Journal of Artificial Intelligence Research (<strong>JAIR</strong>) 85(34), March 2026. DOI <a href="https://doi.org/10.1613/jair.1.19490">10.1613/jair.1.19490</a>.
 </td>
 </tr>
 <tr>
@@ -199,12 +205,6 @@ Marco Mussi, Alberto M. Metelli, Marcello Restelli, Gianvito Losapio, Ricardo J.
 <td style="width: 175px;"><a href="https://doi.org/10.3389/fcomp.2025.1644044"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/Frontiers_2025.jpg"/></a></td>
 <td>
 Lukas Tuggener, Thilo Stadelmann, and Jürgen Schmidhuber. <a href="https://stdm.github.io/downloads/papers/Frontiers_2025.pdf"><strong>Efficient Rotation Invariance in Deep Neural Networks through Artificial Mental Rotation</strong></a>. In: Computer Vision - <strong>Frontiers in Computer Science</strong> 7:1644044, August 2025. DOI <a href="https://doi.org/10.3389/fcomp.2025.1644044">10.3389/fcomp.2025.1644044</a>.
-</td>
-</tr>
-<tr>
-<td style="width: 175px;"><a href="https://arxiv.org/abs/2507.08458"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/ArXiv_2025c.jpg"/></a></td>
-<td>
-Benjamin Meyer, Lukas Tuggener, Sascha Hänzi, Daniel Schmid, Erdal Ayfer, Benjamin F. Grewe, Ahmed Abdulkadir, Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025c.pdf"><strong>A document is worth a structured record: Principled inductive bias design for document recognition</strong></a>. In: <strong>arXiv preprint</strong>, <a href="https://arxiv.org/abs/2507.08458">arXiv:2507.08458</a>, July 2025.
 </td>
 </tr>
 <tr>
