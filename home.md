@@ -136,7 +136,7 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/TENuK_2026.pd
 <tr>
 <td style="width: 175px;"><a href="https://jair.org/index.php/jair/article/view/19490"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/JAIR_2026.jpg"/></a></td>
 <td>
-Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan Etaiwi, Aref Enayati, Gabriel Nobel, Ahmed Abdulkadir, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/JAIR_2026.pdf"><strong>A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions</strong></a>. In: Journal of Artificial Intelligence Research (<strong>JAIR</strong>) 85(34), March 2026. DOI <a href="https://doi.org/10.1613/jair.1.19490">10.1613/jair.1.19490</a>.
+Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan Etaiwi, Aref Enayati, Gabriel Nobel, Ahmed Abdulkadir, Benjamin F. Grewe, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/JAIR_2026.pdf"><strong>A Comprehensive Survey of Agents for Computer Use: Foundations, Challenges, and Future Directions</strong></a>. In: Journal of Artificial Intelligence Research (<strong>JAIR</strong>) 85 (34), March 2026. DOI <a href="https://doi.org/10.1613/jair.1.19490">10.1613/jair.1.19490</a>.
 </td>
 </tr>
 <tr>
