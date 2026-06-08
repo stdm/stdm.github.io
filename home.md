@@ -143,7 +143,7 @@ Pascal J. Sager, Benjamin Meyer, Peng Yan, Rebekka von Wartburg-Kottler, Layan E
 <td style="width: 175px;"><a href="https://link.springer.com/article/10.1007/s43681-026-01042-1"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/AIEthics_2026.jpg"/></a></td>
 <td>
 Thilo Stadelmann, Philipp H. Merkt, and Kasey Barr. <a href="https://stdm.github.io/downloads/papers/AIEthics_2026.pdf"><strong>The stochastic nature of machine learning and its
-implications for high-consequence AI</strong></a>. In: <strong>AI and Ethics</strong>, 6, 195, Springer, March 15, 2026. DOI <a href="https://doi.org/10.1007/s43681-026-01042-1">10.1007/s43681-026-01042-1</a>.
+implications for high-consequence AI</strong></a>. In: <strong>AI and Ethics</strong> 6, article 195, Springer, March 15, 2026. DOI <a href="https://doi.org/10.1007/s43681-026-01042-1">10.1007/s43681-026-01042-1</a>.
 </td>
 </tr>
 <tr>
@@ -249,6 +249,13 @@ Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/GRW_2025.pdf"
 Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/KIW_2025.pdf"><strong>Wegweiser Künstliche Intelligenz: Verstehen, anwenden und zuversichtlich Zukunft gestalten</strong></a>. In: Sebastian Hersberger and Christian Hugo Hoffmann (Editors). "Wie die Künstliche Intelligenz die Wirtschaft verändert - Überblick über die theoretischen Grundlagen und Praxisbeispiele entlang von Ökosystemen", 2025. <strong>Springer</strong>, DOI <a href = "https://link.springer.com/chapter/10.1007/978-3-658-46839-2_1">10.1007/978-3-658-46839-2_1</a>.
 </td>
 </tr>
+<tr>
+<td style="width: 175px;"><a href="https://link.springer.com/article/10.1007/s43681-023-00408-z"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/AIEthics_2023.jpg"/></a></td>
+<td>
+Jan Segessenmann, Thilo Stadelmann, Andrew Davison, and Oliver Dürr. <a href="https://link.springer.com/article/10.1007/s43681-023-00408-z"><strong>Assessing Deep Learning: A Work Program for the Humanities in the Age of Artificial Intelligence</strong></a>. In: <strong>AI and Ethics</strong> 5, pp. 1-32, Springer, 2025 (online since December 21, 2023). DOI <a href="https://link.springer.com/article/10.1007/s43681-023-00408-z">10.1007/s43681-023-00408-z</a> (see also extended <strong>SSRN preprint</strong>, <a href="https://ssrn.com/abstract=4554234">ssrn.4554234</a>, August 28, 2023. DOI <a href="http://dx.doi.org/10.2139/ssrn.4554234">10.2139/ssrn.4554234</a>).
+</td>
+</tr>
+
 </table>
 </details>
 
@@ -341,12 +348,6 @@ Peng Yan, Ahmed Abdulkadir, Paul-Philipp Luley, Matthias Rosenthal, Gerrit A. Sc
 <b>2023</b>
 
 <table class="publist">
-<tr>
-<td style="width: 175px;"><a href="https://link.springer.com/article/10.1007/s43681-023-00408-z"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/AIEthics_2023.jpg"/></a></td>
-<td>
-Jan Segessenmann, Thilo Stadelmann, Andrew Davison, and Oliver Dürr. <a href="https://link.springer.com/article/10.1007/s43681-023-00408-z"><strong>Assessing Deep Learning: A Work Program for the Humanities in the Age of Artificial Intelligence</strong></a>. In: <strong>AI and Ethics</strong>, Springer, November 30, 2023, DOI <a href="https://link.springer.com/article/10.1007/s43681-023-00408-z">10.1007/s43681-023-00408-z</a> (see also extended <strong>SSRN preprint</strong>, <a href="https://ssrn.com/abstract=4554234">ssrn.4554234</a>, August 28, 2023. DOI <a href="http://dx.doi.org/10.2139/ssrn.4554234">10.2139/ssrn.4554234</a>).
-</td>
-</tr>
 <tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/APLML_2023.pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/APLML_2023.jpg"/></a></td>
 <td>
