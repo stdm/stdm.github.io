@@ -53,6 +53,7 @@ The group has very diverse backgrounds, which lets us complement each other's sk
     <li><a href="https://www.linkedin.com/in/jose-pablo-mu%C3%B1oz/">Jose Pablo Muñoz Montero</a>, M.Sc. student: B.Sc. computer engineering (Tecnológico de Costa Rica)</li>
     <li><a href="https://www.linkedin.com/in/mouni-sattenapally-4b0276202">Mouni Sattenapally</a>, M.Sc. student: B.Sc. electronics and communications engineering (CVR College of Engineering, Hyderabad, India)</li>
     <li><a href="https://www.linkedin.com/in/moritz-feuchter">Moritz Feuchter</a>, M.Sc. student: B.Sc. computer science (ZHAW)</li>
+    <li><a href="https://www.linkedin.com/in/aaronschm1d/">Aaron Schmid</a>, M.Sc. student: B.Sc. data science (ZHAW)</li>
 </ul>
 </details>
 
