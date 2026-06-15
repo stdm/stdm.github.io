@@ -2,12 +2,15 @@
 title: 'Some places to start learning AI & ML'
 layout: post
 date: 2016-06-22
-modified: 2023-01-30
+modified: 2026-06-15
 category: education, research, mentoring, MOOCs, ML, RL, CNNs, RNNs
 comments: true
 ---
 
 Here's a (irregularly updated) collection of links to my favourite [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course)s and other ressources on learning or deepen Artificial Intelligence and in particular Machine Learning / Deep Learning skills:
+
+![FAQ @ FFV uDay XXIV, Copyright (c) Walter Ritter https://www.fhv.at/forschung/human-centred-technologies](http://stdm.github.io/images/ritter-uday.jpg)
+Image: Copyright (c) [Walter Ritter](https://www.fhv.at/forschung/human-centred-technologie)
 
 <!-- more -->
 
@@ -51,7 +54,7 @@ These reading resources might also be of interest (use cases, deep dives into sp
       * [Learning to learn](http://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/) by Chelsea Finn
       * [From zero to research — An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a) by Thomas Wolf
   * other
-      * [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497) by Michael A. Lones
+	  * [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497) by Michael A. Lones
       * [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook) by staff @Google
       * [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html) by Horace He of PyTorch on how to optimize DL code on GPUs
       * [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/) by Andrej Karpathy
@@ -60,6 +63,7 @@ These reading resources might also be of interest (use cases, deep dives into sp
 
 Generally: If you want to make AI/ML (or more broadly, data science) a career, check out the following guides:
 
+  * [ML Job Interviews: The Ultimate Guide](https://silviasapora.github.io/blog/ml-interviews.html#prep-technical) by Silvia Sapora
   * [Just know stuff (Or, how to achieve success in a machine learning PhD)](https://kidger.site/thoughts/just-know-stuff/) by Patrick Kidger
   * [Spinning Up as a Deep RL Researcher](http://spinningup.openai.com/en/latest/spinningup/spinningup.html) by Joshua Achiam
   * [How to Become a Data Scientist](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-1-3) by Alex Smith (also [part 2](https://www.experfy.com/blog/how-to-become-a-data-scientist-part-2-3))
@@ -67,4 +71,4 @@ Generally: If you want to make AI/ML (or more broadly, data science) a career, c
   * [Data Scientists](https://stdm.github.io/downloads/papers/ADS_2019_DataScientists.pdf) from our own upcoming [book](https://stdm.github.io/data-science-book/)
   * [A survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/) by Andrej Karpathy
 
-Additionally, try attending events of the [Reinforcement Learning Zurich Meetup](https://www.meetup.com/de-DE/Reinforcement-Learning-Zurich/) and the [Swiss Alliance for Data-Intensive Services](http://www.data-service-alliance.ch), think about joining [SGAICO](http://www.s-i.ch/sgaico/), and subscribe to the [Data Machina newsletter](https://www.getrevue.co/profile/datamachina).
+Additionally, try attending events of the [Swiss Alliance for Data-Intensive Services](http://www.data-service-alliance.ch), think about joining [SGAICO](http://www.s-i.ch/sgaico/), and subscribe to the [The Batch](https://www.deeplearning.ai/the-batch).
