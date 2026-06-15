@@ -2,7 +2,7 @@
 title: Pro-human AI design - A primer
 layout: post
 date: 2025-12-04
-modified: 2025-12-21
+modified: 2026-06-15
 category: AI, society, hope, pro-human AI
 comments: true
 ---
@@ -10,6 +10,7 @@ comments: true
 How can AI systems be designed to help us living up to our full human potential, rather than undermining core aspects like relationality, responsibility and autonomy? "Pro-human AI tech design", or "pro-human AI" in short, is the field of study concerned with these questions. But why is it necessary in the first place?
 
 ![AI in 2035](http://stdm.github.io/images/pro-human-ai.jpg)
+Update: see our first scientific publicatoin on this matter [here](https://stdm.github.io/downloads/papers/uDay_2026.pdf).
 
 <!-- more -->
 
