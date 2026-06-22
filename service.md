@@ -804,6 +804,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * June 19, 2026 [Radio Live Channel](https://erf-medien.ch/gesellschaft/wissen/wenn-technologie-zur-religion-wird/): "**Wenn Technologie zur Religion wird**"
+  
   * May 07, 2026 [Livenet](https://www.livenet.ch/gesellschaft_und_ethik/81937_informationstechnologie_ki_zeit_hoffnung_zu_verbreiten): "**KI - Zeit, um Hoffnung zu verbreiten**"
   
   * April 24, 2026 [NZZ Jobs](https://jobs.nzz.ch/ratgeber/artikel/1243/ki-in-kritischen-bereichen-argumente-fuer-ml-kompetenz-gemeinsames-lernen-und-dezentrale-systeme): "**KI in kritischen Bereichen - Argumente für ML-Kompetenz, gemeinsames Lernen und dezentrale Systeme**", interview with Prof. Thilo Stadelmann by Prof. Anne Rosken
