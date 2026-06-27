@@ -31,19 +31,25 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
   * Invited talk on "Prohuman Tech Design" at **Digital Winterthur**, Winterthur, Switzerland, September 10, 2026
   
-  * Invited talk at **Congreso Christiano**, Asunción, Paraguay, September 03-04, 2026
+  * Invited talk series at **Congreso Christiano**, Asunción, Paraguay, September 03-04, 2026
+  
+  * Keynote "Towards reliable physical AI: From world models to human-AI co-learning spaces" at [**Davos Tech Summit**](https://davostechsummit.com/program), Davos, Switzerland, July 02, 2026
   
   * Keynote at **SynGy Kunden- und Partnerevent**, FIFA-Auditorium, Zurich, Switzerland, June 18, 2026
   
-  * Keynote on "Zones of Encounter? Where and How Digital Theologies relate to the Tech World" at Chruch and AI workshop, **University of Zurich**, Zurich, Switzerland, June 17, 2025
+  * Keynote on "Zones of Encounter? Where and How Digital Theologies relate to the Tech World" at "Church and AI workshop", **University of Zurich**, Zurich, Switzerland, June 17, 2025
   
   * Keynote at **eCommerce Day 2026**, Cologne, Germany, June 11, 2026
   
-  * Talk at *IEEE Swiss Conference on Data Science and AI*, Zurich, Switzerland, May 06, 2026
+  * Talk "Pro-human AI Design - A Call" at **uDay XXIV**, Dornbirn, Austria, May 21, 2026
   
-  * Keynote at **Orbis Customers Connect**, Munich, Germany, April 29, 2026
+  * Invited talk "Responsible AI, warfare, and human-AI co-learning" at "Scholar-Practitioner Workshop on the Oxford Oath for Practitioners", **University of Zurich URPP Digital Religion(s)**, Zurich, Switzerland, May 20, 2026
   
-  * Invited talk at **Kirchen in Wetzikon ZH**, Wetzikon, Switzerland, April 15, 2026
+  * Talk at **IEEE Swiss Conference on Data Science and AI**, Zurich, Switzerland, May 06, 2026
+  
+  * Keynote "Designing AI Solutions that your Business can Trust" at **Orbis Customers Connect**, Munich, Germany, April 29, 2026
+  
+  * Invited talk "Wie man sich nicht vor KI fürchtet" at **Kirchen in Wetzikon ZH**, Wetzikon, Switzerland, April 15, 2026
   
   * Keynote "Lernen in komplexen Systemen - KI, Human Factors und die Zukunft der Gefahrenabwehr" at the **TENuK Symposium Taktischen Einsatz-, Notfall- und Katastrophenmedizin**, Idstein, Germany, April 01, 2026
   
