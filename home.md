@@ -107,7 +107,7 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 <tr>
 <td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ANNPR_2026.pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/ANNPR_2026.png"/></a></td>
 <td>
-Waqar Ali1, Benjamin Meyer, Linus Stuhlmann, Schlomo Aschkenasy, Paola Daniore, Thilo Stadelmann, and Ahmed Abdulkadir. <a href="https://stdm.github.io/downloads/papers/ANNPR_2026.pdf"><strong>Automated component testing for agentic AI in
+Waqar Ali, Benjamin Meyer, Linus Stuhlmann, Schlomo Aschkenasy, Paola Daniore, Thilo Stadelmann, and Ahmed Abdulkadir. <a href="https://stdm.github.io/downloads/papers/ANNPR_2026.pdf"><strong>Automated component testing for agentic AI in
 medical decision support systems</strong></a>. In: Proceedings of the 12th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR'26</strong>), Springer, Milan, Italy, October 07-09, 2026.
 </td>
 </tr>
