@@ -19,6 +19,14 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 <a name="talks"></a>
 ## Talks 
 
+#### 2027
+
+  * Keynote "Wie man Menschen trotz & mit KI zum Blühen bringt" at Alumni ZHAW SML and EAM Alumni Event, Winterthur, Switzerland, March 23, 2027
+  
+  * Ivited talk at "Gottesdienst für Ausgeschlafene", **Evangelische Kirche Altnau**, Altnau, Switzerland, March 14, 2027
+
+  * Panelist at CAS Integral Economics, Univeersity of Fribourg, Biel, Switzerland, February 19, 2027
+
 #### 2026
 
   * Invited talk at **IST InfraStrukturTreff**, Rapperswil, Switzerland, November 05, 2026
@@ -26,6 +34,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   * Invited talk at **Schweizerische Technische Fachschule Winterthur**, Steckborn, Switzerland, October 23, 2026
   
   * Keynote at Fachtagung der Schweizerischen Kirchen on **10 rules for the digital world**, Paulusakademie Zurich, Switzerland, October 20, 2026
+  
+  * Invited talk "What to make of AI: On technology, worldview, and who we are becoming" at **ICF Business Small Group**, Winterthur, Switzerland, October 15, 2026
   
   * Invited talk at "Sternstunde", **Christen bei Daimler & Benz**, online, October 07, 2026
 
@@ -35,9 +45,9 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Keynote "Towards reliable physical AI: From world models to human-AI co-learning spaces" at [**Davos Tech Summit**](https://davostechsummit.com/program), Davos, Switzerland, July 02, 2026
   
-  * Keynote at **SynGy Kunden- und Partnerevent**, FIFA-Auditorium, Zurich, Switzerland, June 18, 2026
+  * Keynote at **SynaGy Kunden- und Partnerevent**, FIFA-Auditorium, Zurich, Switzerland, June 18, 2026
   
-  * Keynote on "Zones of Encounter? Where and How Digital Theologies relate to the Tech World" at "Church and AI workshop", **University of Zurich**, Zurich, Switzerland, June 17, 2025
+  * Keynote "Zones of Encounter? Where and How Digital Theologies relate to the Tech World" at "Church and AI workshop", **University of Zurich**, Zurich, Switzerland, June 17, 2025
   
   * Keynote at **eCommerce Day 2026**, Cologne, Germany, June 11, 2026
   
