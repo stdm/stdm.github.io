@@ -30,7 +30,7 @@ The [Machine Perception and Cognition group](https://stdm.github.io/home/#group)
 </div>
 
 <div style="background:white; border-left:4px solid #2c5f8a; border-radius:3px; padding:10px 14px; box-shadow:0 1px 3px rgba(0,0,0,0.07);">
-<strong>Translator instinct.</strong> A substantial share of the output (e.g., the <a href="https://stdm.github.io/data-science-book/">Applied Data Science book</a> (with &gt;123 k readers), <a href="https://doi.org/10.1007/978-3-319-99978-4">"Deep Learning in the Wild"</a>, or <a href="https://doi.org/10.1080/09540962.2025.2541304">white papers for policymakers</a> explicitly closes the gap between what researchers know and what practitioners and regulators can act on.
+<strong>Translator instinct.</strong> A substantial share of the output (e.g., the <a href="https://stdm.github.io/data-science-book/">Applied Data Science book</a> (with &gt;123 k readers), <a href="https://doi.org/10.1007/978-3-319-99978-4">"Deep Learning in the Wild"</a>, or <a href="https://doi.org/10.1080/09540962.2025.2541304">white papers for policymakers</a>) explicitly closes the gap between what researchers know and what practitioners and regulators can act on.
 </div>
 
 <div style="background:white; border-left:4px solid #2c5f8a; border-radius:3px; padding:10px 14px; box-shadow:0 1px 3px rgba(0,0,0,0.07);">
@@ -64,7 +64,7 @@ The [Machine Perception and Cognition group](https://stdm.github.io/home/#group)
 <a name="research"></a>
 ## Research lines
 
-Being motivated by real-world pattern recognition problems (how perceptions are formed from sensory input and cognitively translated into reasonable actions) leads to a suprinsingly broad field of use cases and industries amidst a stable core of methodological focal points. Here's an overview of sub-disciplines our inquiry contributes to.
+Being motivated by real-world pattern recognition problems (how perceptions are formed from sensory input and cognitively translated into reasonable actions) leads to a suprinsingly broad field of use cases and industries amidst a stable core of methodological focal points. Here's an overview of sub-disciplines our inquiry contributes to (as of spring 2026; for more recent work see <a href="https://stdm.github.io/home/#publications">publications</a>).
 
 
 <details markdown="1">
