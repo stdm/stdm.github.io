@@ -820,6 +820,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * July 04, 2026 [SRF News](https://www.srf.ch/news/davos-tech-summit-warum-roboter-auch-in-20-jahren-nicht-fuer-uns-einkaufen-gehen): **Warum Roboter auch in 20 Jahren nicht für uns einkaufen gehen**: "Doch mithilfe von künstlicher Intelligenz könnten die Maschinen bald ein echtes Verständnis unserer Welt erlangen. Das Stichwort heisst: Weltmodelle. 'Mit so einem Modell kann der Roboter Konsequenzen von Handlungen vorhersehen'', erklärt Thilo Stadelmann"
+
   * June 19, 2026 [Radio Live Channel](https://erf-medien.ch/gesellschaft/wissen/wenn-technologie-zur-religion-wird/): "**Wenn Technologie zur Religion wird**"
   
   * May 07, 2026 [Livenet](https://www.livenet.ch/gesellschaft_und_ethik/81937_informationstechnologie_ki_zeit_hoffnung_zu_verbreiten): "**KI - Zeit, um Hoffnung zu verbreiten**"
