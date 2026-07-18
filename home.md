@@ -47,12 +47,11 @@ The group has very diverse backgrounds, which lets us complement each other's sk
     <li><a href="https://www.linkedin.com/in/adrian-th%C3%BCr-01976b160/">Adrian Thuer</a>, research assistent and M.Sc. student: B.Sc. computer science (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/linus-stuhlmann-29b3831ba/">Linus Carl Stuhlmann</a>, research assistent: B.Sc. data science (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/marco-betschart-26baa2133/">Marco Betschart</a>, research assistant and M.Sc. student: B.Sc. computer science (ZHAW)</li>
+    <li><a href="https://www.linkedin.com/in/moritz-feuchter">Moritz Feuchter</a>, research assistant and M.Sc. student: B.Sc. computer science (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/elia-untern%C3%A4hrer-201593255/">Elia Unternährer</a>, M.Sc. student: B.Sc. business information technology (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/jakub-hanush/">Jakub Hanuska</a>, M.Sc. student: B.Sc. open informatics (Mendel University of Brno)</li>
     <li><a href="https://www.linkedin.com/in/rebekka-von-wartburg-3b807b298/">Rebekka von Wartburg</a>, M.Sc. student: B.Sc. computer science (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/jose-pablo-mu%C3%B1oz/">Jose Pablo Muñoz Montero</a>, M.Sc. student: B.Sc. computer engineering (Tecnológico de Costa Rica)</li>
-    <li><a href="https://www.linkedin.com/in/mouni-sattenapally-4b0276202">Mouni Sattenapally</a>, M.Sc. student: B.Sc. electronics and communications engineering (CVR College of Engineering, Hyderabad, India)</li>
-    <li><a href="https://www.linkedin.com/in/moritz-feuchter">Moritz Feuchter</a>, M.Sc. student: B.Sc. computer science (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/aaronschm1d/">Aaron Schmid</a>, M.Sc. student: B.Sc. data science (ZHAW)</li>
 </ul>
 </details>
@@ -60,7 +59,8 @@ The group has very diverse backgrounds, which lets us complement each other's sk
 <details>
 <summary><b>Alumni</b></summary>
 <ul>
-  <li><a href="https://www.linkedin.com/in/waqar-ali-92468910b/">Dr. Waqar Ali</a>, PhD student 2022-2025, postdoc 2025-2026: M.Sc. (CU Islamabad) in computer science, Ph.D. (Ca'Foscari & ZHAW, March 2025) <br>&rarr; Senior Postdoctoral Fellow @ Aston University, Birmingham/UK</li>
+  <li> <a href="https://www.linkedin.com/in/mouni-sattenapally-4b0276202">Mouni Sattenapally</a>, M.Sc. student 2026: B.Sc. electronics and communications engineering (CVR College of Engineering, Hyderabad, India) <br>&rarr; Analyst @ Tata Consultancy Services</li>
+  <li> <a href="https://www.linkedin.com/in/waqar-ali-92468910b/">Dr. Waqar Ali</a>, PhD student 2022-2025, postdoc 2025-2026: M.Sc. (CU Islamabad) in computer science, Ph.D. (Ca'Foscari & ZHAW, March 2025) <br>&rarr; Senior Postdoctoral Fellow @ Aston University, Birmingham/UK</li>
   <li> <a href="https://www.linkedin.com/in/livia-l%C3%BCscher-72aaaa139/">Livia Luescher</a>, M.Sc. student 2023-2026, B.Sc. business administration with honors (HWZ Zurich) <br>&rarr; Data Scientist @ Zuercher Kantonalbank</li>
   <li> <a href="https://tuggeluk.github.io/">Dr. Lukas Tuggener</a>, PhD student 2016-2024, postdoc 2024-2025, B.Sc. industrial engineering (ZHAW), M.Sc. statistics (ETH), PhD (U Lugano & ZHAW) <br>&rarr; Co-Founder @ Real World Artificial Intelligence</li>
   <li> <a href="https://www.linkedin.com/in/raphael-emberger-206015bb">Raphael Emberger</a>, research assistant 2021-2024 & MSc student 2023-2024, M.Sc. and B.Sc. computer science (ZHAW) <br>&rarr; Deep Learning Engineer @ Rheinmetall Air Defence</li>
