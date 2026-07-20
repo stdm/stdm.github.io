@@ -120,7 +120,7 @@ Benjamin Meyer, Lukas Tuggener, Sascha Hänzi, Daniel Schmid, Erdal Ayfer, Benja
 <tr>
 <td style="width: 175px;"><a href="https://openreview.net/attachment?id=qKGuqB5SAv&name=pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/CompLearn_2026.png"/></a></td>
 <td>
-Yassine Taoudi-Benchekroun, Klim Troyan, Pascal Josef Sager, Stefan Gerber, Lukas Tuggener, Thilo Stadelmann, and Benjamin F. Grewe. <a href="https://stdm.github.io/downloads/papers/CompLearn_2026.pdf"><strong>COGITAO: A Procedural and Object-Centric Framework to Evaluate Compositional and Systematic Generalization</strong></a>. In Proceedings of 2nd Workshop on Compositional Learning: Safety, Interpretability, and Agents (<strong>CompLearn 2026</strong>) <strong>@ ICML</strong>, Seoul, South Korea, July 11, 2026.
+Yassine Taoudi-Benchekroun, Klim Troyan, Pascal Josef Sager, Stefan Gerber, Lukas Tuggener, Thilo Stadelmann, and Benjamin F. Grewe. <a href="https://stdm.github.io/downloads/papers/CompLearn_2026.pdf"><strong>COGITAO: A Procedural and Object-Centric Framework to Evaluate Compositional and Systematic Generalization</strong></a>. In Proceedings of 2nd Workshop on Compositional Learning: Safety, Interpretability, and Agents (<strong>CompLearn 2026</strong>) <strong>@ ICML'26</strong>, Seoul, South Korea, July 11, 2026.
 </td>
 </tr>
 <tr>
