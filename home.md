@@ -112,9 +112,9 @@ medical decision support systems</strong></a>. In: Proceedings of the 12th IAPR 
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://arxiv.org/abs/2507.08458"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/IJDAR_2026.png"/></a></td>
+<td style="width: 175px;"><a href="https://link.springer.com/article/10.1007/s10032-026-00602-9"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/IJDAR_2026.png"/></a></td>
 <td>
-Benjamin Meyer, Lukas Tuggener, Sascha Hänzi, Daniel Schmid, Erdal Ayfer, Benjamin F. Grewe, Ahmed Abdulkadir, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ArXiv_2025c.pdf"><strong>A document is worth a structured record: Principled inductive bias design for document recognition</strong></a>. In: accepted to International Journal on Document Analysis and Recognition (<strong>IJDAR</strong>), June 04, 2026. Preprint <a href="https://arxiv.org/abs/2507.08458">arXiv:2507.08458</a>.
+Benjamin Meyer, Lukas Tuggener, Sascha Hänzi, Daniel Schmid, Erdal Ayfer, Benjamin F. Grewe, Ahmed Abdulkadir, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/IJDAR_2026.pdf"><strong>A document is worth a structured record: Principled inductive bias design for document recognition</strong></a>. In: International Journal on Document Analysis and Recognition (<strong>IJDAR</strong>), July 23, 2026. DOI <a href="https://doi.org/10.1007/s10032-026-00602-9">10.1007/s10032-026-00602-9</a>.
 </td>
 </tr>
 <tr>
