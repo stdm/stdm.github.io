@@ -113,7 +113,7 @@ Waqar Ali, Benjamin Meyer, Linus Stuhlmann, Schlomo Aschkenasy, Paola Daniore, T
 <tr>
 <td style="width: 175px;"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/PLM_2026.png"/></td>
 <td>
-Silvan Lack, Briac Lanfant, Sascha Hänzi, René Klopfer, Benjamin Meyer, Ahmed Abdulkadir, Thilo Stadelmann, and Daniel Schmid. <strong>A Unified Cost Estimation Framework Combining Milling, Turning, AM, and Sheet Metal Processing</strong></a>. In: Proceedings of the IFIP 23rd International Conference on Product Lifecycle Management (<strong>PLM'26</strong>), Springer, Lecce, Italy, July 06-08, 2026.
+Silvan Lack, Briac Lanfant, Sascha Hänzi, René Klopfer, Benjamin Meyer, Ahmed Abdulkadir, Thilo Stadelmann, and Daniel Schmid. <strong>A Unified Cost Estimation Framework Combining Milling, Turning, AM, and Sheet Metal Processing</strong>. In: Proceedings of the IFIP 23rd International Conference on Product Lifecycle Management (<strong>PLM'26</strong>), Springer, Lecce, Italy, July 06-08, 2026.
 </td>
 </tr>
 <tr>
