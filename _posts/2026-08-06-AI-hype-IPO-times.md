@@ -9,7 +9,7 @@ comments: true
 
 Worried about AI given the latest headlines on AI hacks, "breakouts" from supposedly secure environments, and alleged machine consciousness? Let's take this apart.
 
-![Q&A](http://stdm.github.io/images/hype-IPO.jpg)
+![lecture](http://stdm.github.io/images/hype-IPO.jpg)
 
 <!-- more -->
 
