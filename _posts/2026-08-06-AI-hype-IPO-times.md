@@ -1,5 +1,5 @@
 ---
-title: AI hacks, breakouts, alleged machine consciousness, and the sound of hype at IPO times
+title: AI hacks, breakouts, consciousness, and the sound of hype at IPO times
 layout: post
 date: 2026-08-06
 modified: 2026-08-06
