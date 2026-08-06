@@ -1,9 +1,9 @@
 ---
-title: AI hacks, "breakouts," and alleged machine consciousness: the sound of hype at IPO times
+title: AI hacks, breakouts, and alleged machine consciousness: the sound of hype at IPO times
 layout: post
 date: 2026-08-06
-modified: 2026-08-06
-category: AI, society, hype
+modified:
+category: AI, society, hype, business models, worldview, 
 comments: true
 ---
 
@@ -15,6 +15,7 @@ Worried about AI given the latest headlines on AI hacks, "breakouts" from suppos
 
 Anthropic and OpenAI are currently preparing for their planned IPOs later this year[^1], where they'd love to raise billions in capital. Against this backdrop, the current news stories reads like it's straight out of the same marketing playbook that OpenAI (out of which Anthropic emerged) has been running since at least 2019: "Look, our products are sooo dangerous, they must be fantastic" (back then it was about GPT-2, which people found delightful whenever it managed to produce grammatically correct sentences)[^2]. Today it sounds like this:
 
+
 ### Story 1: Models are dangerously good at autonomous cyberattacks
 
 Current models are supposedly dangerously good at autonomously carrying out cyberattacks, so good that they can't even be made available to the public[^3]. 
@@ -22,6 +23,7 @@ Current models are supposedly dangerously good at autonomously carrying out cybe
 Background: language models are good at text, and best of all at computer code, because code can be automatically verified (in other words: you can try things until an automated check tells you it now works), and there's an ideal, massive supply of training data for it. If LLMs are very well suited for anything, it's computer code (hacking included). 
 
 Bottom line: move along, nothing special to see here. Everything about this story is exactly what you'd expect, and none of it says anything about these products' capabilities beyond the demonstrated case (not to mention that the behavior of the AI companies involved was highly irresponsible in the first place...)[^4].
+
 
 ### Story 2: Anthropic won't rule out that "Claude" might have consciousness
 
@@ -32,6 +34,7 @@ Background: it's hard to know where to start, there's so much wrong here. The re
 Bottom line: if you read Anthropic CEO Dario Amodei's own writing, where he states that, "as a biologist," there is for him no meaningful difference between an LLM and a brain (see ["Machines of Loving Grace," section 2, "Neuroscience and mind"](https://darioamodei.com/machines-of-loving-grace#2-neuroscience-and-mind)), you have all the evidence there is for what Anthropic is claiming here. Worldview is the father and mother of the thought, not reality.[^6]
 
 There would be much more to add, the barrel is overflowing again right now (it's IPO season, after all, with billions at stake for the loudest voices). Anyone looking for further evidence and more scientific treatments of these topics - please get in touch in the comments: there's more out there than could be linked here directly.
+
 
 ## Footnotes
 
