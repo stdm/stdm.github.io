@@ -2,7 +2,7 @@
 title: AI hacks, breakouts, consciousness, and the sound of hype at IPO times
 layout: post
 date: 2026-08-06
-modified: 2026-08-07
+modified: 2026-08-09
 category: AI, society, hype, business models, worldview, narrative
 comments: true
 ---
