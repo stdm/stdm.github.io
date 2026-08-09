@@ -1,5 +1,5 @@
 ---
-title: "Challenging assumptions that drive current AI narratives"
+title: Challenging assumptions that drive current AI narratives
 layout: post
 date: 2026-08-09
 modified: 2026-08-10
@@ -14,17 +14,20 @@ The public discourse on the future of AI (and our societies' future with it) is 
 
 <!-- more -->
 
+*By Thilo Stadelmann and Renate Stadelmann[^1].*
+
+
 
 ## How to use this material
 
-Our[^1] 8 assumptions are[^2]:
+The 8 assumptions are[^2]:
 
 - [Fundamental sameness of human and machine](#fundamental-sameness-of-human-and-machine)
 - [Imminence of artificial general intelligence (AGI)](#artificial-general-intelligence-agi)
 - [Existential threats](#existential-threats)
-- [Grave danger of misuse](#grave-danger-misuse)
+- [Grave danger of misuse](#grave-danger-of-misuse)
 - [Accelerated hypercapitalism](#accelerated-hypercapitalism)
-- [Prohibitive energy consumption](#prohibitive-energy-consumptio)
+- [Prohibitive energy consumption](#prohibitive-energy-consumption)
 - [Massive job loss](#massive-job-loss)
 - [De-skilling and loss of agency](#de-skilling-and-loss-of-agency)
 
@@ -338,6 +341,6 @@ Possibilities:
 
 ## Footnotes
 
-[^1]: Prepared by Thilo & Renate Stadelmann within the [COMPASS](https://www.zhaw.ch/en/research/project/80661) project on "Co-creating Meaningful, Positive Scenarios for Swiss Society with AI".
+[^1]: Prepared by Thilo & Renate Stadelmann within the [COMPASS](https://www.zhaw.ch/en/research/project/80661) project on "Co-creating Meaningful, Positive Scenarios for Swiss Society with AI", supported by the [Hasler Stiftung](https://haslerstiftung.ch/). Cite this as *Thilo Stadelmann and Renate Stadelmann. "Challenging assumptions that drive current AI narratives"". In: AIssays blog, August 2026. Available online: [https://stdm.github.io/Challenging-assumptions/](https://stdm.github.io/Challenging-assumptions/).*
 [^2]: Scenarios that have profoundly shaped the public discourse on AI in recent years are, for example, [Machines of Loving Grace](https://darioamodei.com/essay/machines-of-loving-grace), [Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/), [AI 2027](https://ai-2027.com/), [The AI Index report 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report), [Europe 2031](https://europe2031.ai/), and [AI 2040](https://ai-2040.com/). Analysing them surfaces a number of assumptions that underly much of the arguments leading to the described futures, many of which holding negative consequences for much of humanity. Conducting this analysis, we experimented with up to 30 fine-grained technological, philosophical, economical, and political assumptions and ultimately aggregated them to the 8 concise assumptions treated in the remainder of this post.
 [^3]: The term "AGI" is often used interchangeably with "superintelligence", "powerful AI", or "strong AI" in the public discourse.
