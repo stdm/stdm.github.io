@@ -341,9 +341,10 @@ Possibilities:
 
 ## Footnotes
 
-[^1]: Prepared by Thilo & Renate Stadelmann within the [COMPASS](https://www.zhaw.ch/en/research/project/80661) project on "Co-creating Meaningful, Positive Scenarios for Swiss Society with AI", supported by [Hasler Stiftung](https://haslerstiftung.ch/). Cite this as: 
+Cite as:
 
-> Thilo Stadelmann and Renate Stadelmann. "*Challenging assumptions that drive current AI narratives*". In: **AIssays blog**, August 2026. Available online: [https://stdm.github.io/Challenging-assumptions/](https://stdm.github.io/Challenging-assumptions/).
+> Thilo Stadelmann and Renate Stadelmann. "Challenging assumptions that drive current AI narratives". In: AIssays blog, August 2026. Available online: [https://stdm.github.io/Challenging-assumptions/](https://stdm.github.io/Challenging-assumptions/).
 
+[^1]: Prepared by Thilo & Renate Stadelmann within the [COMPASS](https://www.zhaw.ch/en/research/project/80661) project on "Co-creating Meaningful, Positive Scenarios for Swiss Society with AI", supported by [Hasler Stiftung](https://haslerstiftung.ch/).
 [^2]: Scenarios that have profoundly shaped the public discourse on AI in recent years are, for example, [Machines of Loving Grace](https://darioamodei.com/essay/machines-of-loving-grace), [Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/), [AI 2027](https://ai-2027.com/), [The AI Index report 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report), [Europe 2031](https://europe2031.ai/), and [AI 2040](https://ai-2040.com/). Analysing them surfaces a number of assumptions that underly much of the arguments leading to the described futures, many of which holding negative consequences for much of humanity. Conducting this analysis, we experimented with up to 30 fine-grained technological, philosophical, economical, and political assumptions and ultimately aggregated them to the 8 concise assumptions treated in the remainder of this post.
 [^3]: The term "AGI" is often used interchangeably with "superintelligence", "powerful AI", or "strong AI" in the public discourse.
