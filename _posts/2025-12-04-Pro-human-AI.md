@@ -2,7 +2,7 @@
 title: Pro-human AI design - A primer
 layout: post
 date: 2025-12-04
-modified: 2026-06-15
+modified: 2026-08-08
 category: AI, society, hope, pro-human AI
 comments: true
 ---
