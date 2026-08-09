@@ -51,7 +51,7 @@ The most fundamental assumptions that influence many others are on "[sameness of
 ## Fundamental sameness of human and machine
 ### Assumption \#1
 
-*"There's no fundamental difference between a human mind and a machine. Anything a person can do or be, a sufficiently advanced AI system could do or be too."*
+> "There's no fundamental difference between a human mind and a machine. Anything a person can do or be, a sufficiently advanced AI system could do or be too."
 
 #### Implications:
 
@@ -79,7 +79,7 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 -   In the absence of any clear scientific evidence in support or falsification of the hypothesis, any stance on this issue is a deliberate choice in worldview, not a technical or scientific matter.
 
-#### #### Possibilities:
+#### Possibilities:
 
 -   AI systems do not need to be conceptualized as necessarily becoming human. The field of AI's goal is to simulate functions of intelligence in increasing quality and generality, but simulating "a human" is just one way to think about this. Many of today's narratives hinge at the imagination that AI necessarily will be a kind of computer "being" (including intentions, goals, etc.). What if not?
 
@@ -90,7 +90,7 @@ The most fundamental assumptions that influence many others are on "[sameness of
 ## Artificial general intelligence (AGI)[^3]
 ### Assumption \#2
 
-*"AI will soon become as good as, or better than, the single best human at every task that matters economically."*
+> "AI will soon become as good as, or better than, the single best human at every task that matters economically."
 
 #### Implications:
 
@@ -102,7 +102,7 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 ### Challenging the assumption
 
-Evidence:
+#### Evidence:
 
 -   AGI played a minor role until the founding of Google DeepMind and OpenAI in the mid-2010s, who adopted the narrative while seeking previously unheard-of investments to fund their research and development; that it is taken seriously has been called "the most consequential conspiracy theory of our time" \[[MIT Technology Review](https://www.technologyreview.com/2025/10/30/1127057/agi-conspiracy-theory-artifcial-general-intelligence/), 2025\].
 
@@ -129,7 +129,7 @@ Evidence:
 ## Existential threats
 ### Assumption \#3
 
-*"A powerful AI that isn't properly aligned with human values could, by accident or on purpose, cause the extinction of humanity."*
+> "A powerful AI that isn't properly aligned with human values could, by accident or on purpose, cause the extinction of humanity."
 
 #### Implications:
 
@@ -162,7 +162,7 @@ Evidence:
 ## Grave danger of misuse
 ### Assumption \#4
 
-*"Already the AI systems we have right now are so capable --- for example at hacking computers or helping design bioweapons --- that they are a threat on the level of nuclear weapons"*
+> "Already the AI systems we have right now are so capable --- for example at hacking computers or helping design bioweapons --- that they are a threat on the level of nuclear weapons"
 
 #### Implications:
 
@@ -197,7 +197,7 @@ Evidence:
 ## Accelerated hypercapitalism
 ### Assumption \#5
 
-*"Powerful AI marks the final stage of the economy. Whichever company or country gets there first will end up owning everything."*
+> "Powerful AI marks the final stage of the economy. Whichever company or country gets there first will end up owning everything."
 
 #### Implications:
 
@@ -236,7 +236,7 @@ Evidence:
 ## Prohibitive energy consumption
 ### Assumption \#6
 
-*"AI consumes enormous amounts of data, energy and water --- it's fundamentally unsustainable and bad for the planet and every species living on it."*
+> "AI consumes enormous amounts of data, energy and water --- it's fundamentally unsustainable and bad for the planet and every species living on it."
 
 #### Implications:
 
@@ -273,10 +273,9 @@ Evidence:
 
 
 ## Massive job loss
-
 ### Assumption \#7
 
-*"AI is already destroying thousands of jobs and will cause massive unemployment very soon."*
+> "AI is already destroying thousands of jobs and will cause massive unemployment very soon."
 
 #### Implications:
 
@@ -313,7 +312,7 @@ Evidence:
 ## De-skilling and loss of agency
 ### Assumption \#8
 
-*"Using AI regularly weakens people's own mental skills (e.g., reading, writing, judgment, agency), leaving them less capable, lonelier, and less prepared for life."*
+> "Using AI regularly weakens people's own mental skills (e.g., reading, writing, judgment, agency), leaving them less capable, lonelier, and less prepared for life."
 
 #### Implications:
 
