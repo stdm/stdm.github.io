@@ -17,7 +17,7 @@ The public discourse on the future of AI (and our societies' future with it) is 
 
 ## How to use this material
 
-Our[^1] 8[^2] assumptions are:
+Our[^1] 8 assumptions are[^2]:
 
 - [Fundamental sameness of human and machine](#fundamental-sameness-of-human-and-machine)
 - [Imminence of artificial general intelligence (AGI)](#artificial-general-intelligence-agi)
@@ -28,7 +28,7 @@ Our[^1] 8[^2] assumptions are:
 - [Massive job loss](#massive-job-loss)
 - [De-skilling and loss of agency](#de-skilling-and-loss-of-agency)
 
-A few remarks to use these 8 one-pagers well: Each one-pager consists of (a) the assumption in its popular (not scholarly) form and (b) arguments to see it in a new light (not necessarily arguments to claim the opposite). Part (a) is deliberately kept short, with a descriptive title (phrased to help classify quickly each one-pager's main topic), a catchy phrase that formulates the assumption (deliberately hold on a popular level as it might appear in popular news, without scholarly nuance), and a list of few implications for the future of AI and society that hinge on that assumption.
+Each one-pager consists of (a) the assumption in its popular (not scholarly) form and (b) arguments to see it in a new light (not necessarily arguments to claim the opposite). Part (a) is deliberately kept short, with a descriptive title (phrased to help classify quickly each one-pager's main topic), a catchy phrase that formulates the assumption (deliberately hold on a popular level as it might appear in popular news, without scholarly nuance), and a list of few implications for the future of AI and society that hinge on that assumption.
 
 Part (b) contains 3 subsections:
 
@@ -339,5 +339,5 @@ Possibilities:
 ## Footnotes
 
 [^1]: Prepared by Thilo & Renate Stadelmann within the [COMPASS](https://www.zhaw.ch/en/research/project/80661) project on "Co-creating Meaningful, Positive Scenarios for Swiss Society with AI".
-[^2]: Scenarios that have profoundly shaped the public discourse on AI in recent years are, for example, [Machines of Loving Grace](https://darioamodei.com/essay/machines-of-loving-grace), [Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/), [AI 2027](https://ai-2027.com/), [The AI Index report 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report), [Europe 2031](https://europe2031.ai/), and [AI 2040](https://ai-2040.com/). Analysing them surfaces a number of assumptions that underly much of the arguments leading to the described futures, many of which holding negative consequences for much of humanity. Conducting this analysis, we experimented with up to 30 fine-grained technological, philosophical, economical. and political assumptions and ultimately aggregated them to the 8 still concise assumptions treated in remainder of this post.
+[^2]: Scenarios that have profoundly shaped the public discourse on AI in recent years are, for example, [Machines of Loving Grace](https://darioamodei.com/essay/machines-of-loving-grace), [Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/), [AI 2027](https://ai-2027.com/), [The AI Index report 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report), [Europe 2031](https://europe2031.ai/), and [AI 2040](https://ai-2040.com/). Analysing them surfaces a number of assumptions that underly much of the arguments leading to the described futures, many of which holding negative consequences for much of humanity. Conducting this analysis, we experimented with up to 30 fine-grained technological, philosophical, economical, and political assumptions and ultimately aggregated them to the 8 concise assumptions treated in the remainder of this post.
 [^3]: The term "AGI" is often used interchangeably with "superintelligence", "powerful AI", or "strong AI" in the public discourse.
