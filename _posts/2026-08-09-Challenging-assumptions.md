@@ -15,10 +15,20 @@ The public discourse on the future of AI (and our societies' future with it) is 
 <!-- more -->
 
 
-
 ## How to use this material
 
-A few remarks to use these 8 one-pagers well[^1]: Each one-pager consists of (a) the assumption in its popular (not scholarly) form and (b) arguments to see it in a new light (not necessarily arguments to claim the opposite). Part (a) is deliberately kept short, with a descriptive title (phrased to help classify quickly each one-pager's main topic), a catchy phrase that formulates the assumption (deliberately hold on a popular level as it might appear in popular news, without scholarly nuance), and a list of few implications for the future of AI and society that hinge on that assumption.
+Our[^1] 8[^2] assumptions are:
+
+- [Fundamental sameness of human and machine](#fundamental-sameness-of-human-and-machine)
+- [Imminence of artificial general intelligence (AGI)](#artificial-general-intelligence-agi)
+- [Existential threats](#existential-threats)
+- [Grave danger of misuse](#grave-danger-misuse)
+- [Accelerated hypercapitalism](#accelerated-hypercapitalism)
+- [Prohibitive energy consumption](#prohibitive-energy-consumptio)
+- [Massive job loss](#massive-job-loss)
+- [De-skilling and loss of agency](#de-skilling-and-loss-of-agency)
+
+A few remarks to use these 8 one-pagers well: Each one-pager consists of (a) the assumption in its popular (not scholarly) form and (b) arguments to see it in a new light (not necessarily arguments to claim the opposite). Part (a) is deliberately kept short, with a descriptive title (phrased to help classify quickly each one-pager's main topic), a catchy phrase that formulates the assumption (deliberately hold on a popular level as it might appear in popular news, without scholarly nuance), and a list of few implications for the future of AI and society that hinge on that assumption.
 
 Part (b) contains 3 subsections:
 
@@ -32,7 +42,7 @@ Each one-pager is kept intentionally brief to serve as a discussion starter. It 
 
 Many assumptions hinge to a certain degree on opinion, hence the evidence often points to a diverging opinion and its foundations, not proof of the opposite assumption. By design, the assumptions represent a certain mainstream view while the challenges appear less mainstream. This is true with respect to the mainstream reporting in popular news and corresponding debate. Agreement to the challenge arguments presented here naturally varies from case to case, but to the best of our knowledge, none represents a niche view, so that both the assumptions and challenges are each represented by (varying) sizeable parts of the experts community.
 
-The most fundamental assumptions that influence many others are on "[sameness of human and machine](#fundamental-sameness-of-human-and-machine)" as well as "[imminence of artificial general intelligence](#artificial-general-intelligence-agi)" and hence put first. The most direct, practical ones might be "[massive job loss](#massive-job-loss)" and "[de-skilling and loss of agency](#de-skilling-and-loss-of-agency)", which are presented last for a natural flow from fundamental to tangible. As all 8 one-pagers have cross-references where appropriate or necessary, you can pick your own reading[^2].
+The most fundamental assumptions that influence many others are on "[sameness of human and machine](#fundamental-sameness-of-human-and-machine)" as well as "[imminence of artificial general intelligence](#artificial-general-intelligence-agi)" and hence put first. The most direct, practical ones might be "[massive job loss](#massive-job-loss)" and "[de-skilling and loss of agency](#de-skilling-and-loss-of-agency)", which are presented last for a natural flow from fundamental to tangible. As all 8 one-pagers have cross-references where appropriate or necessary, you can pick your own reading.
 
 
 
@@ -324,6 +334,6 @@ Possibilities:
 
 -   A trust economy could replace, in part, the attention economy (and its incumbents) were the service is not just about entertainment (as with social media), but one's most inner thoughts and deliberations (as with an agentic AI tool).
 
-[^1]: Scenarios that have profoundly shaped the public discourse on AI in recent years are, for example, [Machines of Loving Grace](https://darioamodei.com/essay/machines-of-loving-grace), [Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/), [AI 2027](https://ai-2027.com/), [The AI Index report 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report), [Europe 2031](https://europe2031.ai/), and [AI 2040](https://ai-2040.com/). Analysing them surfaces a number of assumptions that underly much of the arguments leading to the described futures, many of which holding negative consequences for much of humanity. Conducting this analysis, we experimented with up to 30 fine-grained technological, philosophical, economical. and political assumptions and ultimately aggregated them to the 8 still concise assumptions treated in remainder of this post.
-[^2]: Prepared by Thilo & Renate Stadelmann within the [COMPASS](https://www.zhaw.ch/en/research/project/80661) project on "Co-creating Meaningful, Positive Scenarios for Swiss Society with AI".
+[^1]: Prepared by Thilo & Renate Stadelmann within the [COMPASS](https://www.zhaw.ch/en/research/project/80661) project on "Co-creating Meaningful, Positive Scenarios for Swiss Society with AI".
+[^2]: Scenarios that have profoundly shaped the public discourse on AI in recent years are, for example, [Machines of Loving Grace](https://darioamodei.com/essay/machines-of-loving-grace), [Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/), [AI 2027](https://ai-2027.com/), [The AI Index report 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report), [Europe 2031](https://europe2031.ai/), and [AI 2040](https://ai-2040.com/). Analysing them surfaces a number of assumptions that underly much of the arguments leading to the described futures, many of which holding negative consequences for much of humanity. Conducting this analysis, we experimented with up to 30 fine-grained technological, philosophical, economical. and political assumptions and ultimately aggregated them to the 8 still concise assumptions treated in remainder of this post.
 [^3]: The term "AGI" is often used interchangeably with "superintelligence", "powerful AI", or "strong AI" in the public discourse.
