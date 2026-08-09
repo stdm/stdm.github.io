@@ -3,7 +3,7 @@ title: "Challenging assumptions that drive current AI narratives"
 layout: post
 date: 2026-08-09
 modified: 2026-08-10
-category: AI, society, philosophy, worldview, policy, futures
+category: AI, society, philosophy, worldview, policy, futures, narrative, public discourse
 comments: true
 ---
 
@@ -333,6 +333,10 @@ Possibilities:
 -   Pro-human AI systems are systems designed for being (mentally, psychologically, emotionally) safe for people, and hence more trustworthy with respect to individual safety. Trust can be a decisive economic factor, especially when users get dissatisfied with the current tools.
 
 -   A trust economy could replace, in part, the attention economy (and its incumbents) were the service is not just about entertainment (as with social media), but one's most inner thoughts and deliberations (as with an agentic AI tool).
+
+
+
+## Footnotes
 
 [^1]: Prepared by Thilo & Renate Stadelmann within the [COMPASS](https://www.zhaw.ch/en/research/project/80661) project on "Co-creating Meaningful, Positive Scenarios for Swiss Society with AI".
 [^2]: Scenarios that have profoundly shaped the public discourse on AI in recent years are, for example, [Machines of Loving Grace](https://darioamodei.com/essay/machines-of-loving-grace), [Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/), [AI 2027](https://ai-2027.com/), [The AI Index report 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report), [Europe 2031](https://europe2031.ai/), and [AI 2040](https://ai-2040.com/). Analysing them surfaces a number of assumptions that underly much of the arguments leading to the described futures, many of which holding negative consequences for much of humanity. Conducting this analysis, we experimented with up to 30 fine-grained technological, philosophical, economical. and political assumptions and ultimately aggregated them to the 8 still concise assumptions treated in remainder of this post.
