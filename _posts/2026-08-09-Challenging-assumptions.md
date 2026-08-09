@@ -8,9 +8,9 @@ comments: true
 ---
 
 
-The public discourse on the future of AI (and our societies' future with it) is based on 8 assumptions[^1] that are not always clear to the casual reader, yet they strongly shape the narratives and their perceived likelihood. In what follows, we[^2] treat each of these assmuptions in one section (~a one-pager) with the goal of opening up the space of possible futures by drawing firmly held assumptions a little further back into the realm of unknown (where assumptions belong).
+The public discourse on the future of AI (and our societies' future with it) is based on 8 assumptions that are not always clear to the casual reader, yet they strongly shape the narratives and their perceived likelihood. In what follows, we treat each of these assmuptions in one section (~a one-pager) with the goal of opening up the space of possible futures by drawing firmly held assumptions a little further back into the realm of unknown (where assumptions belong).
 
-![Illustration of a calm path leading away from current hype](http://stdm.github.io/images/AI-hype-IPO.png)
+![Illustration of a calm path leading away from current hype](http://stdm.github.io/images/challenging-assumptions.png)
 
 <!-- more -->
 
@@ -18,9 +18,9 @@ The public discourse on the future of AI (and our societies' future with it) is 
 
 ## How to use this material
 
-A few remarks to use these one-pagers well: Each one-pager consists of (a) the assumption in its popular (not scholarly) form and (b) arguments to see it in a new light (not necessarily arguments to claim the opposite). Part (a) is deliberately kept short, with a descriptive title (phrased to help classify quickly each one-pager's main topic), a catchy phrase that formulates the assumption (deliberately hold on a popular level as it might appear in popular news, without scholarly nuance), and a list of few implications for the future of AI and society that hinge on that assumption.
+A few remarks to use these 8 one-pagers well[^1]: Each one-pager consists of (a) the assumption in its popular (not scholarly) form and (b) arguments to see it in a new light (not necessarily arguments to claim the opposite). Part (a) is deliberately kept short, with a descriptive title (phrased to help classify quickly each one-pager's main topic), a catchy phrase that formulates the assumption (deliberately hold on a popular level as it might appear in popular news, without scholarly nuance), and a list of few implications for the future of AI and society that hinge on that assumption.
 
-Patr (b) contains 3 subsection:
+Part (b) contains 3 subsections:
 
 - Evidence: Arguments and publicly underrepresented background information that challenge the assumption or its status based e.g. on empirical facts, scientific claims, or journalistic arguments.
 
@@ -32,7 +32,7 @@ Each one-pager is kept intentionally brief to serve as a discussion starter. It 
 
 Many assumptions hinge to a certain degree on opinion, hence the evidence often points to a diverging opinion and its foundations, not proof of the opposite assumption. By design, the assumptions represent a certain mainstream view while the challenges appear less mainstream. This is true with respect to the mainstream reporting in popular news and corresponding debate. Agreement to the challenge arguments presented here naturally varies from case to case, but to the best of our knowledge, none represents a niche view, so that both the assumptions and challenges are each represented by (varying) sizeable parts of the experts community.
 
-The most fundamental assumptions that influence many others are on "[sameness of human and machine](#fundamental-sameness-of-human-and-machine)" as well as "[imminence of artificial general intelligence](#artificial-general-intelligence-agi)" and hence put first. The most direct, practical ones might be "[massive job loss](#massive-job-loss)" and "[de-skilling and loss of agency](#de-skilling-and-loss-of-agency)", which are presented last for a natural flow from fundamental to tangible. As all 8 one-pagers have cross-references where appropriate or necessary, you can pick your own reading.
+The most fundamental assumptions that influence many others are on "[sameness of human and machine](#fundamental-sameness-of-human-and-machine)" as well as "[imminence of artificial general intelligence](#artificial-general-intelligence-agi)" and hence put first. The most direct, practical ones might be "[massive job loss](#massive-job-loss)" and "[de-skilling and loss of agency](#de-skilling-and-loss-of-agency)", which are presented last for a natural flow from fundamental to tangible. As all 8 one-pagers have cross-references where appropriate or necessary, you can pick your own reading[^2].
 
 
 
