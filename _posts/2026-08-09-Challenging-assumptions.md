@@ -2,7 +2,7 @@
 title: Challenging assumptions that drive current AI narratives
 layout: post
 date: 2026-08-09
-modified: 2026-08-10
+modified: 2026-08-09
 category: AI, society, philosophy, worldview, policy, futures, narrative, public discourse
 comments: true
 ---
@@ -20,7 +20,7 @@ The public discourse on the future of AI (and our societies' future with it) is 
 
 ## How to use this material
 
-The 8 assumptions are[^2]:
+The 8[^2] assumptions are:
 
 - [Fundamental sameness of human and machine](#fundamental-sameness-of-human-and-machine)
 - [Imminence of artificial general intelligence (AGI)](#artificial-general-intelligence-agi)
@@ -53,7 +53,7 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 > "There's no fundamental difference between a human mind and a machine. Anything a person can do or be, a sufficiently advanced AI system could do or be too."
 
-#### Implications:
+#### Implications
 
 -   AI systems could be conscious, which means that we should not deny them similar legal status as persons (at the same time, human rights on the basis of human specialness become questioned as it surveillance enables the quantification of the extent to which an individual complies with societal norms and hence might deserve such rights)
 
@@ -63,7 +63,7 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 ### Challenging the assumption
 
-#### Evidence:
+#### Evidence
 
 -   Today's AI systems are based on machine learning methods, which manipulate symbols (such as tokens/words) by their statistical shape, not their meaning. Such a system can produce fluent answers about a topic without understanding a word of it (the "Chinese room argument") \[[Behavioral and Brain Sciences](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/minds-brains-and-programs/DC644B47A4299C637C89772FACC2706A), 1980\].
 
@@ -75,11 +75,11 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 -   "Neural networks" in AI and computer science (and many of the other terms originally used for humans in this context) are very loose metaphors of things in biology: never meant to be understood as "computer brains"; AI is not so much about intelligence per se but the *simulation* of intelligent *behavior* \[[Science](https://www.science.org/doi/10.1126/science.adt6140), 2024; [AI Magazine](https://dl.acm.org/doi/10.1609/aimag.v27i4.1904), 2006\].
 
-#### Outlook:
+#### Outlook
 
 -   In the absence of any clear scientific evidence in support or falsification of the hypothesis, any stance on this issue is a deliberate choice in worldview, not a technical or scientific matter.
 
-#### Possibilities:
+#### Possibilities
 
 -   AI systems do not need to be conceptualized as necessarily becoming human. The field of AI's goal is to simulate functions of intelligence in increasing quality and generality, but simulating "a human" is just one way to think about this. Many of today's narratives hinge at the imagination that AI necessarily will be a kind of computer "being" (including intentions, goals, etc.). What if not?
 
@@ -92,7 +92,7 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 > "AI will soon become as good as, or better than, the single best human at every task that matters economically."
 
-#### Implications:
+#### Implications
 
 -   AI regulation today must be made with imminent AGI and respective "AI safety" (i.e., an interdisciplinary field focused on preventing accidents, misuse, or other harmful consequences arising from AI systems") in mind
 
@@ -102,7 +102,7 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 ### Challenging the assumption
 
-#### Evidence:
+#### Evidence
 
 -   AGI played a minor role until the founding of Google DeepMind and OpenAI in the mid-2010s, who adopted the narrative while seeking previously unheard-of investments to fund their research and development; that it is taken seriously has been called "the most consequential conspiracy theory of our time" \[[MIT Technology Review](https://www.technologyreview.com/2025/10/30/1127057/agi-conspiracy-theory-artifcial-general-intelligence/), 2025\].
 
@@ -114,13 +114,13 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 -   Even though many AI experts today can imagine AGI-like systems in a more distant future based on their worldview, its imminence gets rejected by the vast majority \[[Forecasting Research Institute](https://forecastingresearch.substack.com/p/leap-wave-8-ai-timelines), 2026\].
 
-#### Outlook:
+#### Outlook
 
 -   Much of today's popular narratives about our future under the influence of AI are fueled by the assumption of incomprehensively higher capabilities of such systems than we currently have (see links above).
 
 -   There is a growing conviction also amongst earlier supporters of this assumption that AGI will not be achieved by following the current paradigm of "scaling" LLM-like systems (scaling refers to the simultaneous enlarging of the training data set, the model's size or capacity to learn, and the compute used to train the model) \[[Reuters](https://www.reuters.com/technology/artificial-intelligence/openai-rivals-seek-new-path-smarter-ai-current-methods-hit-limitations-2024-11-11/), 2024\].
 
-#### Possibilities:
+#### Possibilities
 
 -   How does a future look like in which AI is a very capable tool, but more a consequential further development of what we have today rather than a disruption?
 
@@ -131,7 +131,7 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 > "A powerful AI that isn't properly aligned with human values could, by accident or on purpose, cause the extinction of humanity."
 
-#### Implications:
+#### Implications
 
 -   AI regulation must predominantly serve to mitigate such risks, because the likelihood of extinction might be small, but the impact would be disastrous
 
@@ -141,19 +141,19 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 ### Challenging the assumption
 
-#### Evidence:
+#### Evidence
 
 -   Existential risks have been named (even ridiculed) hypothetical/speculative risks by prominent members of the AI community, arguing that the likelihood is so small or even inexistent that the focus should be on the mitigation of real risks (currently existing ones, based on the technology we actually have) \[[ACM Conference on Fairness, Accountability, and Transparency](https://dl.acm.org/doi/10.1145/3442188.3445922), 2021; [TechCrunch](https://techcrunch.com/2024/10/12/metas-yann-lecun-says-worries-about-a-i-s-existential-threat-are-complete-b-s/), 2024; [Columbia University](https://knightcolumbia.org/content/ai-as-normal-technology), 2025\]. See the arguments made against the [**Artificial general intelligence (AGI)**](#artificial-general-intelligence-agi) assumption regarding the hypothetical nature of AGI.
 
 -   See the arguments made against the [**Grave danger of misuse**](#grave-danger-of-misuse) assumption on convenient narratives and attempts of regulatory capture.
 
-#### Outlook:
+#### Outlook
 
 -   See [**Grave danger of misuse**](#grave-danger-of-misuse) assumption for an outlook on the mitigation of *current* risks.
 
 -   Indicators suggest that even AI companies otherwise keen to keep fears of existential threats an issue of discussion are gearing their actual risk mitigation efforts into these more tangible directions: OpenAI dissolved their "superalignment" team responsible for long-term risks \[[CNBC](https://www.cnbc.com/2024/05/17/openai-superalignment-sutskever-leike.html), 2024\], and authors from DeepMind, Anthropic, and OpenAI together with academics recently argued for "positive alignment" that should not just focus on safety, but take human flourishing into account \[[R. Laukkonen et al.](https://arxiv.org/abs/2605.10310), 2026\].
 
-#### Possibilities:
+#### Possibilities
 
 -   Taking fear for one's life out of the options coming from having AI opens up new ways of thinking clearly about the technology we actually have and what it could lead to (positively: how does it enable a future worth living in; negatively: how to mitigate actual dangers) and frees resources to do so.
 
@@ -164,7 +164,7 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 > "Already the AI systems we have right now are so capable --- for example at hacking computers or helping design bioweapons --- that they are a threat on the level of nuclear weapons"
 
-#### Implications:
+#### Implications
 
 -   AI must be tightly controlled by governments and never fall into the wrong hands
 
@@ -174,7 +174,7 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 ### Challenging the assumption
 
-#### Evidence:
+#### Evidence
 
 -   There is a substantial reality gap between what is shown in isolated benchmarks by researchers and companies (showing huge increases in specific capabilities) and matched reliability benchmarks (testing for consistency, robustness, etc.), where the improvement over the last 2 years was merely ~5-10%; so far, nothing about current systems' actual real-world behaviour has been unexpected in a specifically catastrophic way the assumption implies \[[International Conference on Machine Learning](https://www.normaltech.ai/p/what-will-be-left-for-us-to-work), 2026\].
 
@@ -182,11 +182,11 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 -   The ones mostly profiting from a "dangers of misuse" debate are the currently leading AI companies: Their financial interests would directly profit from any governmental action that makes market entry harder for (future) competitors, e.g., in other regions of the world and through open source. Coincidentally, these companies pay corresponding big lobbying efforts, drive respective mainstream narratives with staged press releases, and support or initiate calls for bans on open source as well as prohibitive regulation in an attempt of "regulatory capture" \[[Forbes](https://www.forbes.com/sites/phoebeliu/2026/02/20/ais-biggest-builders-openai-anthropic-among-biggest-government-lobbyists/), 2026; [Washington Examiner](https://www.washingtonexaminer.com/op-eds/4660376/anthropic-armageddon-amodei-ai-competition-regulatory-capture/), 2026; [The Wall Street Journal](https://www.wsj.com/opinion/ai-talks-leave-little-tech-out-homeland-security-adversaries-open-source-board-46e3232d), 2024; [Benzinga](https://www.benzinga.com/markets/tech/26/07/60716258/andrew-ng-backs-jensen-huangs-open-ai-push-says-closed-models-are-safer-pr-is-regulatory-capture), 2026\].
 
-#### Outlook:
+#### Outlook
 
 -   Looking at real dangers of misuse of today's AI systems, realistic ways of mitigating these risks have been suggested and partially implemented (e.g., for bioweapons \[[K. Esvelt](https://www.hsgac.senate.gov/wp-content/uploads/imo/media/doc/Esvelt%20Testimony.pdf), 2022; [A. Ng](https://www.schumer.senate.gov/imo/media/doc/Andrew%20Ng%20-%20Statement.pdf), 2023\], cybersecurity \[[Palo Alto Networks](https://www.paloaltonetworks.com/blog/2026/05/defenders-guide-frontier-ai-impact-cybersecurity-may-2026-update/), 2026\], misinformation \[[Internet Pros](https://internet-pros.com/blog/ai-content-provenance-watermarking-c2pa-2026/), 2026\], and in general \[[NIST](https://www.nist.gov/itl/ai-risk-management-framework), 2026\]). These frameworks and proposals do not suggest treating AI as a weapon of mass destruction.
 
-#### Possibilities:
+#### Possibilities
 
 -   Separating legitimate safety engineering from policy agendas that conveniently justify market concentration enables open, competitive markets.
 
@@ -199,7 +199,7 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 > "Powerful AI marks the final stage of the economy. Whichever company or country gets there first will end up owning everything."
 
-#### Implications:
+#### Implications
 
 -   Tech feudalism, in which a few companies become more powerful than even large states, seems inevitable given that digital markets exhibit winner-take-all properties
 
@@ -209,7 +209,7 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 ### Challenging the assumption
 
-#### Evidence:
+#### Evidence
 
 -   The notion of a "race" makes most sense based on the assumption that AI is "humanity's last invention", i.e., that an imminent powerful AI will overtake the economy, making the one reaching AGI first winner in a winner-takes-it-all game; see [**Artificial general intelligence (AGI)**](#artificial-general-intelligence-agi) assumption on the hypothetical nature of this thinking. It is increasingly seen as unrealistic, especially short-term \[[G. Marcus](https://garymarcus.substack.com/p/no-virginia-agi-is-not-imminent), 2023; [Taipei Times](https://www.taipeitimes.com/News/editorials/archives/2026/03/24/2003854349), 2026; [Bloomberg](https://www.bloomberg.com/news/articles/2026-07-07/ai-won-t-bring-back-era-of-rapid-growth-says-nobel-prize-winner), 2026\].
 
@@ -219,13 +219,13 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 -   As underlying foundation models thus get commoditized quickly, the application layer in designing AI systems becomes decisive \[[Andreesen Horowitz](https://a16z.com/who-owns-the-generative-ai-platform/), 2023\], which is good news for companies also outside the U.S. and China: Advantage comes from capital, proprietary interaction data and talent rather than a unique model architecture.
 
-#### Outlook:
+#### Outlook
 
 -   An open market with free choice of vendor of agentic AI systems should be one of the most important strategic concerns of every economy: When the application is where the value creation happens, this opens up possibilities for a globally distributed AI industry that caters to local communities and specific sectors, rather than giant generalists.
 
 -   Openness can be assured by public procurement decisions (e.g., favoring more local suppliers to contribute to tech sovereignty) and permissive open-source policy; also enforcing antitrust laws can keep the market from consolidating around a single provider.
 
-#### Possibilities:
+#### Possibilities
 
 -   If legitimate security concerns can be disentangled from regulatory capture attempts by policymakers, markets could safely be considerably more open than today.
 
@@ -238,7 +238,7 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 > "AI consumes enormous amounts of data, energy and water --- it's fundamentally unsustainable and bad for the planet and every species living on it."
 
-#### Implications:
+#### Implications
 
 -   AI development in principle is morally questionable
 
@@ -246,7 +246,7 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 ### Challenging the assumption
 
-#### Evidence:
+#### Evidence
 
 -   The current AI paradigm is inherently wasteful with respect to data ("sample efficiency") and compute \[[MIT Initiative on the Digital Economy](https://ide.mit.edu/wp-content/uploads/2020/09/RBN.Thompson.pdf), 2020; [Association for Computational Linguistics](https://aclanthology.org/P19-1355/), 2019\].
 
@@ -254,13 +254,13 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 -   The human brain draws ca. 20 watt of continuous power \[[Journal of cerebral blood flow and metabolism](https://pubmed.ncbi.nlm.nih.gov/11598490/), 2001\] and heard in the order of tens of millions of words in total until age 13 \[[Trends in cognitive science](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(23)00203-6), 2023\]. In comparison, GPT-3 (the model on which's successor the original ChatGPT was built) used 1.287 GWh of power for training \[[D. Patterson et al.](https://arxiv.org/abs/2104.10350), 2021\] and was trained on ca. 300 billion "tokens" (sub-word units). According to these numbers, a human brain uses ca. 2.28 MWh up to age 13, which is ca. 320-430 times less energy than GPT-3 until end of training (taking into account that a child's brain uses more energy, not taking into account that the human brain does more than language acquisition in this time); and estimating a word at 1.3 tokens on average, the human brain also listened to 1500-2250 times less words until age 13 than GPT-3 during training. From this comparison, the current AI paradigm appears \>2 orders of magnitude more energy efficient and 3-4 orders of magnitude more sample efficient.
 
-#### Outlook:
+#### Outlook
 
 -   A next level of AI, not necessarily in capability, but in orders of magnitude higher efficiency, could hence come from more local, neuroscience-inspired training algorithms (and a respective, emerging ecosystem of tools, software frameworks, network architectures, and specialized chips) \[[Science](https://www.science.org/doi/10.1126/science.1254642), 2014; [Neural Computation](https://doi.org/10.1162/NECO.a.1505), 2026\].
 
 -   Many universities have ramped up activities at the intersection of neuroscience and AI as they see this opportunity \[[Nature reviews neuroscience](https://www.nature.com/articles/s41583-025-00954-x), 2025\], with researchers naming a 5-year horizon for its realization \[[NSF workshop report](https://arxiv.org/abs/2604.18637), 2026\].
 
-#### Possibilities:
+#### Possibilities
 
 -   AI systems based on a such a "next level" paradigm could easily run locally on one's smart personal devices, overcoming the energy concern.
 
@@ -277,7 +277,7 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 > "AI is already destroying thousands of jobs and will cause massive unemployment very soon."
 
-#### Implications:
+#### Implications
 
 -   Now: no way from junior to senior
 
@@ -285,7 +285,7 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 ### Challenging the assumption
 
-#### Evidence:
+#### Evidence
 
 -   Junior roles: US data shows no correlation between an occupation's exposure to AI and a reduction of junior roles between 2022-2024 \[[Financial Times](https://www.ft.com/content/99b6acb7-a079-4f57-a7bd-8317c1fbb728), 2025\]. Currently, a tougher situation for new graduates might be partly due to AI \[[Stanford Institute for Economic Policy Research](https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality), 2026\], though the overall decline in entry-level jobs started before ChatGPT and may likely be induced by raised interest rates of federal banks \[[Economic Innovation Group](https://eig.org/wp-content/uploads/2026/01/TAWP-Iscenko-Millet.pdf), 2026\].
 
@@ -295,13 +295,13 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 -   Higher volatility is expected since late 2025 (when agentic systems emerged that can work on long-running tasks than the previous directly responding chatbots). This is might likely influence many roles, inducing changes towards a "Co-Pilot Economy" of human augmentation (rather than replacement) in one scenario \[[World Economic Forum](https://reports.weforum.org/docs/WEF_Four_Futures_for_Jobs_in_the_New_Economy_AI_and_Talent_in_2030_2025.pdf), 2026\].
 
-#### Outlook:
+#### Outlook
 
 -   Future more extreme labor market breakdown scenarios hinge at the assumption of exponential increases in AI capabilities (towards artificial general intelligence/AGI or superintelligence) \[[World Economic Forum](https://reports.weforum.org/docs/WEF_Four_Futures_for_Jobs_in_the_New_Economy_AI_and_Talent_in_2030_2025.pdf), 2026\]; see [**Artificial general intelligence (AGI)**](#artificial-general-intelligence-agi) assumption.
 
 -   Apart from unpredictable breakthroughs, AI's economic impact lags its capability by decades \[[Columbia University](https://knightcolumbia.org/content/ai-as-normal-technology), 2025\]. As AI gives humans more power to change their environment, their work shifts from doing to controlling, from building to deciding what to build in the first place and then evaluating the results \[[International Conference on Machine Learning](https://www.normaltech.ai/p/what-will-be-left-for-us-to-work), July 2026\]. As AI makes predictions cheaper, the price (value) of human judgment rises \[[International Security](https://direct.mit.edu/isec/article/46/3/7/109668/Prediction-and-Judgment-Why-Artificial), 2022\].
 
-#### Possibilities:
+#### Possibilities
 
 -   After 2-4 years of higher volatility, settling could take place: workers adapt workflows and tasks; companies adapt hiring practices (e.g., with respect to longer/new education cycles from junior to senior, in sync with the education system).
 
@@ -314,7 +314,7 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 > "Using AI regularly weakens people's own mental skills (e.g., reading, writing, judgment, agency), leaving them less capable, lonelier, and less prepared for life."
 
-#### Implications:
+#### Implications
 
 -   "AI slop" eats up efficiency gains, leaving every user and every organization relying on it worse off
 
@@ -326,19 +326,19 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 ### Challenging the assumption
 
-#### Evidence:
+#### Evidence
 
 -   The risk appears real also to those typically downplaying exaggerated AI fears \[[Public Money & Management](https://www.tandfonline.com/doi/full/10.1080/09540962.2025.2541304), 2026\]. However, mitigation strategies are emerging: For example, "pro-human AI design" and "positive alignment" approaches particularly optimize not just for efficiency, user retention or stickiness, but the user's long-term flourishing including autonomy, growing competence, or healthy relationships \[[uDay XXIV](https://stdm.github.io/downloads/papers/uDay_2026.pdf), 2026; [R. Laukkonen et al.](https://arxiv.org/abs/2605.10310), 2026\].
 
 -   The task of deliberately building the human capacity to use this new level of automation well is multifaceted: Besides AI design efforts from the technical side \[[Oxford University Press](https://global.oup.com/academic/product/human-centered-ai-9780192845290), 2022\], moral formation and the furthering of judgment capabilities are tasks for the education sector and parts of civil society that already played this role during earlier transformations (e.g., faith-based communities, associations, neighborhoods) \[[The Holy See](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html), 2026\].
 
-#### Outlook:
+#### Outlook
 
 -   Naming de-skilling as a specific design target instead of just a worry allows tools, workflows and habits to be built that actively strengthen human competence and connection alongside AI use.
 
 -   AI development is mainly driven by chasing high scores on accepted benchmarks like the LLM Arena. By measuring the pro-humanness of AI systems publicly, the entirety of the field could be steered into to direction of more holistic and pro-human design.
 
-#### Possibilities:
+#### Possibilities
 
 -   Pro-human AI systems are systems designed for being (mentally, psychologically, emotionally) safe for people, and hence more trustworthy with respect to individual safety. Trust can be a decisive economic factor, especially when users get dissatisfied with the current tools.
 
