@@ -10,7 +10,7 @@ comments: true
 How can AI systems be designed to help us living up to our full human potential, rather than undermining core aspects like relationality, responsibility and autonomy? "Pro-human AI tech design", or "pro-human AI" in short, is the field of study concerned with these questions. But why is it necessary in the first place?
 
 ![AI in 2035](http://stdm.github.io/images/pro-human-ai.jpg)
-Update: see our first scientific publicatoin on this matter [here](https://stdm.github.io/downloads/papers/uDay_2026.pdf).
+Update: compare the elaborated treatise of this matter in our first scientific publication on this topic[here](https://stdm.github.io/downloads/papers/uDay_2026.pdf).
 
 <!-- more -->
 
@@ -66,7 +66,7 @@ Please reach out if you want to collaborate with us on this.
 
 #### Acknowledgements
 
-I am grateful for the thoughful comments on earlier drafts by Rebekka von Wartburg and Christoph Heitz, and for the joint project with them an Andrea Luca Schaerer which provides the opportunity to think more thoroughly on these things!
+I am grateful for the thoughful comments on earlier drafts by Rebekka von Wartburg and Christoph Heitz, and for the joint project with them and Andrea Luca Schaerer which provides the opportunity to think more thoroughly on these things!
 
 
 ## Footnotes
