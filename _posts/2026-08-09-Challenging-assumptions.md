@@ -1,8 +1,9 @@
+
 ---
-title: Challenging assumptions that drive current AI narratives
+title: Challenging the assumptions that drive current AI narratives
 layout: post
 date: 2026-08-09
-modified: 2026-08-09
+modified: 2026-08-10
 category: AI, society, philosophy, worldview, policy, futures, narrative, public discourse
 comments: true
 ---
