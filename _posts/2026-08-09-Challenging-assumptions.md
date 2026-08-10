@@ -1,4 +1,3 @@
-
 ---
 title: Challenging the assumptions that drive current AI narratives
 layout: post
