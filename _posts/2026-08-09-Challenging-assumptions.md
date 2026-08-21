@@ -2,7 +2,7 @@
 title: Challenging the assumptions that drive current AI narratives
 layout: post
 date: 2026-08-09
-modified: 2026-08-10
+modified: 2026-08-21
 category: AI, society, philosophy, worldview, policy, futures, narrative, public discourse
 comments: true
 ---
@@ -71,7 +71,7 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 -   "Computer anthropologies" tend to be intertwined with other philosophical commitments that in turn shape the thinking of people in the tech industry, specifically in Silicon Valley, to a much higher degree than in the total population \[[Empire of AI](https://karendhao.com/), 2025\]. These views underly much of the public discourse through institutional media releases, supported think tanks, high-reach social media influencers, and a network of like-minded researchers \[[First Monday](https://firstmonday.org/ojs/index.php/fm/article/view/13626), 2024a\]; and lean into a direction that can appear quite anti-human \[[First Monday](https://firstmonday.org/ojs/index.php/fm/article/view/13636), 2024b\].
 
--   Reports about machine consciousness \[[Anthropic](https://www.anthropic.com/research/global-workspace), July 2026\] are labeled misleading and unfounded by peers \[[G. Seiberth](https://www.linkedin.com/pulse/what-like-llm-dr-gabriel-seiberth-rmolf/), 2026; [Financial Times](https://www.ft.com/content/bdb3b820-905b-431e-82c0-386535755af1), 2026\]
+-   Reports about machine consciousness \[[Anthropic](https://www.anthropic.com/research/global-workspace), July 2026\] are labeled misleading and unfounded by peers \[[G. Seiberth](https://www.linkedin.com/pulse/what-like-llm-dr-gabriel-seiberth-rmolf/), 2026; [Financial Times](https://www.ft.com/content/bdb3b820-905b-431e-82c0-386535755af1), 2026; [M. Suleyman](https://mustafa-suleyman.ai/seemingly-conscious-ai-is-coming), 2026\]
 
 -   "Neural networks" in AI and computer science (and many of the other terms originally used for humans in this context) are very loose metaphors of things in biology: never meant to be understood as "computer brains"; AI is not so much about intelligence per se but the *simulation* of intelligent *behavior* \[[Science](https://www.science.org/doi/10.1126/science.adt6140), 2024; [AI Magazine](https://dl.acm.org/doi/10.1609/aimag.v27i4.1904), 2006\].
 
