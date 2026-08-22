@@ -8,7 +8,7 @@ comments: true
 ---
 
 
-The public discourse on the future of AI (and our societies' future with it) is based on 8 assumptions that are not always clear to the casual reader, yet they strongly shape the narratives and their perceived likelihood. In what follows, we treat each of these assmuptions in one section (~a one-pager) with the goal of opening up the space of possible futures by drawing firmly held assumptions a little further back into the realm of unknown (where assumptions belong).
+The public discourse on the future of AI (and our societies' future with it) is based on assumptions that are not always clear to the casual reader, yet they strongly shape the narratives and their perceived likelihood. In what follows, we treat eight of these assumptions in one section (~a one-pager) with the goal of opening up the space of possible futures by drawing firmly held assumptions a little further back into the realm of the unknown (where assumptions belong).
 
 ![Illustration of a calm path leading away from current hype](http://stdm.github.io/images/challenging-assumptions.png)
 
@@ -20,7 +20,7 @@ The public discourse on the future of AI (and our societies' future with it) is 
 
 ## How to use this material
 
-The 8[^2] assumptions are:
+The eight[^2] assumptions are:
 
 - [Fundamental sameness of human and machine](#fundamental-sameness-of-human-and-machine)
 - [Imminence of artificial general intelligence (AGI)](#artificial-general-intelligence-agi)
@@ -353,5 +353,5 @@ Cite as:
 > Thilo Stadelmann and Renate Stadelmann. "Challenging assumptions that drive current AI narratives". In: AIssays blog, August 2026. Available online: [https://stdm.github.io/Challenging-assumptions/](https://stdm.github.io/Challenging-assumptions/).
 
 [^1]: Prepared by Thilo & Renate Stadelmann within the [COMPASS](https://www.zhaw.ch/en/research/project/80661) project on "Co-creating Meaningful, Positive Scenarios for Swiss Society with AI", supported by [Hasler Stiftung](https://haslerstiftung.ch/).
-[^2]: Scenarios that have profoundly shaped the public discourse on AI in recent years are, for example, [Machines of Loving Grace](https://darioamodei.com/essay/machines-of-loving-grace), [Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/), [AI 2027](https://ai-2027.com/), [The AI Index report 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report), [Europe 2031](https://europe2031.ai/), and [AI 2040](https://ai-2040.com/). Analysing them surfaces a number of assumptions that underly much of the arguments leading to the described futures, many of which holding negative consequences for much of humanity. Conducting this analysis, we experimented with up to 30 fine-grained technological, philosophical, economical, and political assumptions and ultimately aggregated them to the 8 concise assumptions treated in the remainder of this post.
+[^2]: Scenarios that have profoundly shaped the public discourse on AI in recent years are, for example, [Machines of Loving Grace](https://darioamodei.com/essay/machines-of-loving-grace), [Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/), [AI 2027](https://ai-2027.com/), [The AI Index report 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report), [Europe 2031](https://europe2031.ai/), [AI 2040](https://ai-2040.com/), [The Future is for Everyone](https://www.meta.com/thefutureisforeveryone/), and [We must build AI for people; not to be a person](https://mustafa-suleyman.ai/seemingly-conscious-ai-is-coming). Analysing them surfaces a number of assumptions that underly much of the arguments leading to the described futures, many of which holding negative consequences for much of humanity. Conducting this analysis, we experimented with up to 30 fine-grained technological, philosophical, economical, and political assumptions and ultimately aggregated them to the 8 concise assumptions treated in the remainder of this post.
 [^3]: The term "AGI" is often used interchangeably with "superintelligence", "powerful AI", or "strong AI" in the public discourse.
