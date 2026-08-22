@@ -2,7 +2,7 @@
 title: Challenging the assumptions that drive current AI narratives
 layout: post
 date: 2026-08-09
-modified: 2026-08-21
+modified: 2026-08-22
 category: AI, society, philosophy, worldview, policy, futures, narrative, public discourse
 comments: true
 ---
@@ -162,7 +162,7 @@ The most fundamental assumptions that influence many others are on "[sameness of
 ## Grave danger of misuse
 ### Assumption \#4
 
-> "Already the AI systems we have right now are so capable --- for example at hacking computers or helping design bioweapons --- that they are a threat on the level of nuclear weapons"
+> "Already the AI systems we have right now are so capable --- for example at hacking computers or helping design bioweapons --- that they are a threat on the level of nuclear weapons."
 
 #### Implications
 
