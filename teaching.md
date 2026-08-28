@@ -29,13 +29,13 @@ Original versions of my main courses are available as free online ressources as 
 
 | **When** | **Level** | **Type** | **Title** |
 | --- | --- | --- | --- |
-| Spring 2026 | MSc | VT2 | Implementing pro-human AI design |
-| Spring 2026 | MSc | VT2 | Scaling transformer-based graph prediction models towards document foundation models |
-| Spring 2026 | MSc | VT1 | AI for Drug Development: Automated Binding Detection in 19F NMR Spectra |
-| Spring 2026 | BSc | BA | Neural world models for next-generation AI: Longterm planning for robot navigation |
-| Spring 2026 | BSc | BA | Structured planning in a world model's latent space |
+| Spring 2026 | MSc | VT2 | Towards Pro-human AI: Theory-Informed System Design for Production Deployment |
+| Spring 2026 | MSc | VT2 | Scaling Transformers Towards Document Foundation Models |
+| Spring 2026 | MSc | VT1 | Spectral Deconvolution for Binding Detection in 19F NMR Spectra with Magnetstein |
+| Spring 2026 | BSc | BA | World Models for Long-Horizon Planning: Discrete Subgoal Generation for Maze Navigation |
+| Spring 2026 | BSc | BA | **Shaping Latent Space by Architecture for Improved World Model Planning** <br> _top grade_ <br> Students: Daniel Bucher, Björn Wagner  |
 | Spring 2026 | BSc | BA | SketchAI: AI-based interpretation of engineering drawings |
-| Spring 2026 | BSc | BA | Enhanced Sample Efficiency for Deep-Learning-Based Medical Image Analysis |
+| Spring 2026 | BSc | BA | Region-of-Non-Interest Masking (RONI) for Label-Efficient Detection of Extracranial Blood Vessels in T1-Weighted MRI |
 | Fall 2025 | MSc | MT | Learning Generalizable Representations for Injection Molding Process Monitoring Using a World Model |
 | Fall 2025 | MSc | VT1| **Pro-human AI System Design: Preserving Human Characteristics in Practice** <br> _top grade_ <br> Student: Rebekka von Wartburg |
 | Fall 2025 | BSc | PA | Deep Learning for MRI Analysis |
@@ -45,7 +45,7 @@ Original versions of my main courses are available as free online ressources as 
 | Fall 2024 | BSc | PA | AI-based interpretation of engineering drawings |
 | Fall 2024 | BSc | PA | Enhancing SwissGPT with Agentic RAG |
 | Spring 2024 | MSc | VT1 | Overcoming Sample Scarcity and Label Ambiguity in Cell Segmentation and Classification of Thyroid Cancer: A Kernel-Based Approach on Top of CellSAM |
-| Spring 2024 | BSc | BA | Prosodic Feature Modelling in Transformers for Speaker Verification <br> _follow-up research internship_ <br> Students: Fabian Bosshard, Andrin Fassbind |
+| Spring 2024 | BSc | BA | Prosodic Feature ModelShaping Latent Space by Architecture for Improved World Model Planningling in Transformers for Speaker Verification <br> _follow-up research internship_ <br> Students: Fabian Bosshard, Andrin Fassbind |
 | Spring 2024 | BSc | BA | **[A2C2 - Natural Language-Instructed Autonomous Agent for Computer Control](https://arxiv.org/abs/2501.16150)** <br> paper <br> Students: Rebekka von Wartburg-Kottler, Gabriel Nobel |
 | Spring 2024 | MAS | Thesis | Beaker detection using realtime image analysis and artificial neural networks |
 | Fall 2023 | PhD | Thesis | [Deep Learning for Robust and Explainable Models in Computer Vision](https://arxiv.org/abs/2403.18674) |
