@@ -2,7 +2,7 @@
 title: Challenging the assumptions that drive current AI narratives
 layout: post
 date: 2026-08-09
-modified: 2026-08-29
+modified: 2026-09-07
 category: AI, society, philosophy, worldview, policy, futures, narrative, public discourse
 comments: true
 ---
@@ -342,7 +342,7 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 -   Pro-human AI systems are systems designed for being (mentally, psychologically, emotionally) safe for people, and hence more trustworthy with respect to individual safety. Trust can be a decisive economic factor, especially when users get dissatisfied with the current tools.
 
--   A trust economy could replace, in part, the attention economy (and its incumbents) were the service is not just about entertainment (as with social media), but one's most inner thoughts and deliberations (as with an agentic AI tool).
+-   A trust economy could replace, in part, the attention economy (and its incumbents) where the service is not just about entertainment (as with social media), but one's most inner thoughts and deliberations (as with an agentic AI tool).
 
 
 
