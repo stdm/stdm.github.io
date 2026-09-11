@@ -2,7 +2,7 @@
 title: Challenging the assumptions that drive current AI narratives
 layout: post
 date: 2026-08-09
-modified: 2026-09-07
+modified: 2026-09-11
 category: AI, society, philosophy, worldview, policy, futures, narrative, public discourse
 comments: true
 ---
@@ -55,11 +55,11 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 #### Implications
 
--   AI systems could be conscious, which means that we should not deny them similar legal status as persons (at the same time, human rights on the basis of human specialness become questioned as it surveillance enables the quantification of the extent to which an individual complies with societal norms and hence might deserve such rights)
+-   AI systems could be conscious, which means that we should not deny them similar legal status as persons (at the same time, human rights on the basis of human specialness become questioned as it surveillance enables the quantification of the extent to which an individual complies with societal norms and hence might deserve such rights).
 
--   As humans exhibit "general intelligence" (the capability to solve previously unknown problems and deal with completely novel situations with an extremely wide scope), we must assume that machines will have the same powers eventually by virtue of sameness, irrespective of no evidence whatsoever
+-   As humans exhibit "general intelligence" (the capability to solve previously unknown problems and deal with completely novel situations with an extremely wide scope), we must assume that machines will have the same powers eventually by virtue of sameness, irrespective of no evidence whatsoever.
 
--   Leads to [**Artificial general intelligence (AGI)**](#artificial-general-intelligence-agi) assumption without further technical evidence or known path to implementation
+-   Leads to [**Artificial general intelligence (AGI)**](#artificial-general-intelligence-agi) assumption without further technical evidence or known path to implementation.
 
 ### Challenging the assumption
 
@@ -94,11 +94,11 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 #### Implications
 
--   AI regulation today must be made with imminent AGI and respective "AI safety" (i.e., an interdisciplinary field focused on preventing accidents, misuse, or other harmful consequences arising from AI systems") in mind
+-   AI regulation today must be made with imminent AGI and respective "AI safety" (i.e., an interdisciplinary field focused on preventing accidents, misuse, or other harmful consequences arising from AI systems") in mind.
 
--   AI safety needs strong "alignment" (i.e., methods in the field of AI to steer AI systems toward a person's or group's intended goals, preferences, or ethical principles) or otherwise superhuman capabilities will not be controllable
+-   AI safety needs strong "alignment" (i.e., methods in the field of AI to steer AI systems toward a person's or group's intended goals, preferences, or ethical principles) or otherwise superhuman capabilities will not be controllable.
 
--   Superhuman capabilities will lead to large-scale societal disruptions with potential utopian ("AI accelerationist" view, serving as justification for massive private investments by invoking "humanity's last invention" and "AI race" narratives; see [**Accelerated hypercapitalism**](#accelerated-hypercapitalism) assumption) or dystopian outcomes ("AI doomer" view, specifically as source of fear behind [**Massive job loss**](#massive-job-loss) and [**Existential threats**](#existential-threats) assumptions)
+-   Superhuman capabilities will lead to large-scale societal disruptions with potential utopian ("AI accelerationist" view, serving as justification for massive private investments by invoking "humanity's last invention" and "AI race" narratives; see [**Accelerated hypercapitalism**](#accelerated-hypercapitalism) assumption) or dystopian outcomes ("AI doomer" view, specifically as source of fear behind [**Massive job loss**](#massive-job-loss) and [**Existential threats**](#existential-threats) assumptions).
 
 ### Challenging the assumption
 
@@ -133,11 +133,11 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 #### Implications
 
--   AI regulation must predominantly serve to mitigate such risks, because the likelihood of extinction might be small, but the impact would be disastrous
+-   AI regulation must predominantly serve to mitigate such risks, because the likelihood of extinction might be small, but the impact would be disastrous.
 
--   Threats could arise from deliberate misuse (e.g., for bioweapon creation), by accident (e.g., following from a powerful AI system maximizing a trivial objective, thereby destroying everything else in pursuit of a narrow goal: the "paperclip maximizer" thought experiment), or by an artificial general intelligence (AGI) system gone rouge (e.g., the system developing the thought that earth would be better off without humans; see also [**Artificial general intelligence (AGI)**](#artificial-general-intelligence-agi) assumption)
+-   Threats could arise from deliberate misuse (e.g., for bioweapon creation), by accident (e.g., following from a powerful AI system maximizing a trivial objective, thereby destroying everything else in pursuit of a narrow goal: the "paperclip maximizer" thought experiment), or by an artificial general intelligence (AGI) system gone rouge (e.g., the system developing the thought that earth would be better off without humans; see also [**Artificial general intelligence (AGI)**](#artificial-general-intelligence-agi) assumption).
 
--   Competition and open dissemination (e.g., open-source AI) are met with suspicion and massively lobbied against (see also [**Grave danger of misuse**](#grave-danger-of-misuse) assumption)
+-   Competition and open dissemination (e.g., open-source AI) are met with suspicion and massively lobbied against (see also [**Grave danger of misuse**](#grave-danger-of-misuse) assumption).
 
 ### Challenging the assumption
 
@@ -166,11 +166,11 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 #### Implications
 
--   AI must be tightly controlled by governments and never fall into the wrong hands
+-   AI must be tightly controlled by governments and never fall into the wrong hands.
 
--   Only a few companies and institutions should be allowed to build and provide AI
+-   Only a few companies and institutions should be allowed to build and provide AI.
 
--   Open diffusion (e.g., by open source) must be banned
+-   Open diffusion (e.g., by open source) must be banned.
 
 ### Challenging the assumption
 
@@ -178,7 +178,7 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 -   There is a substantial reality gap between what is shown in isolated benchmarks by researchers and companies (showing huge increases in specific capabilities) and matched reliability benchmarks (testing for consistency, robustness, etc.), where the improvement over the last 2 years was merely ~5-10%; so far, nothing about current systems' actual real-world behaviour has been unexpected in a specifically catastrophic way the assumption implies \[[International Conference on Machine Learning](https://www.normaltech.ai/p/what-will-be-left-for-us-to-work), 2026\].
 
--   Large AI companies have a track record of publishing warnings about the capabilities of their models also as a marketing means at least since 2019 \[[MIT Technology Review](https://www.technologyreview.com/2019/08/29/133218/openai-released-its-fake-news-ai-gpt-2/), 2019; [The Decoder](https://the-decoder.com/from-gpt-2-to-claude-mythos-the-return-of-ai-models-deemed-too-dangerous-to-release/), 2016\]. Recent warning of misuse potential mix elements of concern for security experts \[[S. Willison](https://simonwillison.net/2026/Apr/7/project-glasswing/), 2026\] with a staging by the companies that makes the results unsurprising to experts but that is usually left out of the public discourse ("AI escaped the safe environment" and "the model pursues own goals" narratives) \[[Die Zeit](https://www.zeit.de/digital/datenschutz/2026-07/openai-huggingface-ki-hackerangriff-sicherheitsvorfall), 2026\]; at the same time, they coincide with respective companies' plans to raise massive capital via IPOs (initial public offering to be listed at a stock market exchange) \[[TechCrunch](https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/), 2026; [Forbes](https://www.forbes.com/sites/investor-hub/article/openai-ipo-things-to-know/), 2026\]. See also [**Artificial general intelligence (AGI)**](#artificial-general-intelligence-agi) assumption for the spinning of convenient narratives and [**Existential threats**](#existential-threats) assumption for dangers extending towards extinction risks.
+-   Large AI companies have a track record of publishing warnings about the capabilities of their models also as a marketing means at least since 2019 \[[MIT Technology Review](https://www.technologyreview.com/2019/08/29/133218/openai-released-its-fake-news-ai-gpt-2/), 2019; [The Decoder](https://the-decoder.com/from-gpt-2-to-claude-mythos-the-return-of-ai-models-deemed-too-dangerous-to-release/), 2026\]. Recent warning of misuse potential mix elements of concern for security experts \[[S. Willison](https://simonwillison.net/2026/Apr/7/project-glasswing/), 2026\] with a staging by the companies that makes the results unsurprising to experts but that is usually left out of the public discourse ("AI escaped the safe environment" and "the model pursues own goals" narratives) \[[Die Zeit](https://www.zeit.de/digital/datenschutz/2026-07/openai-huggingface-ki-hackerangriff-sicherheitsvorfall), 2026\]; at the same time, they coincide with respective companies' plans to raise massive capital via IPOs (initial public offering to be listed at a stock market exchange) \[[TechCrunch](https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/), 2026; [Forbes](https://www.forbes.com/sites/investor-hub/article/openai-ipo-things-to-know/), 2026\]. See also [**Artificial general intelligence (AGI)**](#artificial-general-intelligence-agi) assumption for the spinning of convenient narratives and [**Existential threats**](#existential-threats) assumption for dangers extending towards extinction risks.
 
 -   The ones mostly profiting from a "dangers of misuse" debate are the currently leading AI companies: Their financial interests would directly profit from any governmental action that makes market entry harder for (future) competitors, e.g., in other regions of the world and through open source. Coincidentally, these companies pay corresponding big lobbying efforts, drive respective mainstream narratives with staged press releases, and support or initiate calls for bans on open source as well as prohibitive regulation in an attempt of "regulatory capture" \[[Forbes](https://www.forbes.com/sites/phoebeliu/2026/02/20/ais-biggest-builders-openai-anthropic-among-biggest-government-lobbyists/), 2026; [Washington Examiner](https://www.washingtonexaminer.com/op-eds/4660376/anthropic-armageddon-amodei-ai-competition-regulatory-capture/), 2026; [The Wall Street Journal](https://www.wsj.com/opinion/ai-talks-leave-little-tech-out-homeland-security-adversaries-open-source-board-46e3232d), 2024; [Benzinga](https://www.benzinga.com/markets/tech/26/07/60716258/andrew-ng-backs-jensen-huangs-open-ai-push-says-closed-models-are-safer-pr-is-regulatory-capture), 2026\].
 
@@ -201,11 +201,11 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 #### Implications
 
--   Tech feudalism, in which a few companies become more powerful than even large states, seems inevitable given that digital markets exhibit winner-take-all properties
+-   Tech feudalism, in which a few companies become more powerful than even large states, seems inevitable given that digital markets exhibit winner-take-all properties.
 
--   There will be an "AI race", predominantly between the U.S. and China, with no second thoughts regarding side effects and all other regions of the world becoming mere rule-takers
+-   There will be an "AI race", predominantly between the U.S. and China, with no second thoughts regarding side effects and all other regions of the world becoming mere rule-takers.
 
--   There will be a continued building frenzy for data centers as compute capability is currently the main driver of development and the end here justifies the means
+-   There will be a continued building frenzy for data centers as compute capability is currently the main driver of development and the end here justifies the means.
 
 ### Challenging the assumption
 
@@ -240,11 +240,11 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 #### Implications
 
--   AI development in principle is morally questionable
+-   AI development in principle is morally questionable.
 
--   Its deployment should be phased out similar to nuclear energy for environmental considerations
+-   Its deployment should be phased out similar to nuclear energy for environmental considerations.
 
-### Challenging the assumption
+### Challenging the assumption.
 
 #### Evidence
 
@@ -279,11 +279,11 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 #### Implications
 
--   Now: no way from junior to senior
+-   Now: no way from junior to senior.
 
--   Future: a permanent "useless class", no dignified occupation for humans
+-   Future: a permanent "useless class", no dignified occupation for humans.
 
-### Challenging the assumption
+### Challenging the assumption.
 
 #### Evidence
 
@@ -316,13 +316,13 @@ The most fundamental assumptions that influence many others are on "[sameness of
 
 #### Implications
 
--   "AI slop" eats up efficiency gains, leaving every user and every organization relying on it worse off
+-   "AI slop" eats up efficiency gains, leaving every user and every organization relying on it worse off.
 
--   Individuals flee to frictionless artificial relationships, eroding societal cohesion on the micro level (partnership, family, community) further
+-   Individuals flee to frictionless artificial relationships, eroding societal cohesion on the micro level (partnership, family, community) further.
 
--   De-learning of unused (hence atrophying) skills is inevitable, and the temptation to use AI tools as a replacement rather than an augmentation of own thinking and judgment becomes irresistible
+-   De-learning of unused (hence atrophying) skills is inevitable, and the temptation to use AI tools as a replacement rather than an augmentation of own thinking and judgment becomes irresistible.
 
--   The gap between those augmenting their own skills through proper use of AI and those using it for their own detriment will widen dramatically
+-   The gap between those augmenting their own skills through proper use of AI and those using it for their own detriment will widen dramatically.
 
 ### Challenging the assumption
 
