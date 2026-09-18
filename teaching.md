@@ -29,6 +29,11 @@ Original versions of my main courses are available as free online ressources as 
 
 | **When** | **Level** | **Type** | **Title** |
 | --- | --- | --- | --- |
+| Fall 2026 | MSc | MT | Evaluating pro-human AI design |
+| Fall 2026 | MSc | MT | Computer vision for earth observation |
+| Fall 2026 | MSc | VT2 | Towards Document Foundation Models: Extending Document-to-Record Transcription to More Complex Graph-Structured Records |
+| Fall 2026 | MSc | VT1 |Planning in a worldmodel based on the cooperative network architecture |
+| Fall 2026 | BSc | PA | Implementing human-AI co-learning |
 | Spring 2026 | MSc | VT2 | Towards Pro-human AI: Theory-Informed System Design for Production Deployment |
 | Spring 2026 | MSc | VT2 | Scaling Transformers Towards Document Foundation Models |
 | Spring 2026 | MSc | VT1 | Spectral Deconvolution for Binding Detection in 19F NMR Spectra with Magnetstein |
@@ -147,7 +152,7 @@ Original versions of my main courses are available as free online ressources as 
 | --- | --- | --- | --- | --- | --- | --- |
 | [AI1](http://stdm.github.io/ai-course) | **Artificial Intelligence 1** | lecture & lab | final year BSc computer science elective course; won [best teaching award (3rd place)](https://stdm.github.io/ATLAS/) in 2019 | foundational AI course focusing on deep learning, based on Prince's UDL book | responsible, initiate, create, teach | Spring 2017, fall 2017-2023, 2025-2027 |
 | AI2 | **Artificial Intelligence 2** | lecture & lab | finale year BSc computer science / data science elective course | AI agent design based on symbolic methods (based on Russell&Norvig's book) and advanced neural models like foundation models | responsible, co-initiate, create, teach | Fall 2017, spring 2023-2027 |
-| CAS KIVA | **Introduction to AI and Machine Learning** | half day | introducory half day in no-code continuing eductation certificate on understanding and using AI | AI and ML basic understanding | responsible, initiate, create, teach | Fall  2025, Spring 2026 |
+| CAS KIVA | **Introduction to AI and Machine Learning** | half day | introducory half day in no-code continuing eductation certificate on understanding and using AI | AI and ML basic understanding | responsible, initiate, create, teach | Fall  2025-2026, spring 2026 |
 
 
 
