@@ -92,7 +92,7 @@ The group has very diverse backgrounds, which lets us complement each other's sk
 I daily receive job applications and requests for supervision, more than I can answer. Hence, I give some general ideas here under which conditions such an application might be successful:
 <ul>
   <li> Our work is project-based in the sense that we need to secure funding im advance for all the work that we do, which is first used to pay the existing team. </li>
-  <li> If I need to grow the team or fill a vacancy (incl. for PhD students), the job is usually advertised at the respective institutional websites (<a href="https://www.zhaw.ch/en/engineering/institutes-centres/cai/people-at-the-cai/job-offers">here</a>) or <a href="https://www.zhaw.ch/de/jobs/offene-stellen">here</a>) as well as in my LinkedIn posts. </li>
+  <li> If I need to grow the team or fill a vacancy (incl. for PhD students), the job is usually advertised at the respective institutional websites (<a href="https://www.zhaw.ch/en/engineering/institutes-centres/cai/people-at-the-cai/job-offers">here</a> or <a href="https://www.zhaw.ch/de/jobs/offene-stellen">here</a>) as well as in my LinkedIn posts. </li>
   <li> Generally, I like to focus in my future work on themes that align well with the handful of big <a href="https://stdm.github.io/research/#ideas">ideas</a> we are following strategically. </li>
   <li> Additoinally, time resources are too scarce in the foreseable future to supervise additional students / staff members even when they are funded by an existing scholarship. </li>
   <li> Unsolicited applications may occasionally be answered, and I look at every one briefly; but usually they aren't because they don't align with our constraints mentioned above and our current focus of work. </li>
