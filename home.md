@@ -88,7 +88,7 @@ The group has very diverse backgrounds, which lets us complement each other's sk
 </details>
 
 <details>
-<summary><b>Hiring & internships and PhD supervision</b></summary>
+<summary><b>Hiring, internships and PhD supervision</b></summary>
 I daily receive job applications and requests for supervision, more than I can answer. Hence, I give some general ideas here under which conditions such an application might be successful:
 <ul>
   <li> Our work is project-based in the sense that we need to secure funding im advance for all the work that we do, which is first used to pay the existing team. </li>
