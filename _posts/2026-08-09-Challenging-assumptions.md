@@ -2,7 +2,7 @@
 title: Challenging the assumptions that drive current AI narratives
 layout: post
 date: 2026-08-09
-modified: 2026-09-11
+modified: 2026-09-21
 category: AI, society, philosophy, worldview, policy, futures, narrative, public discourse
 comments: true
 ---
@@ -45,7 +45,7 @@ Each one-pager is kept intentionally brief to serve as a discussion starter. It 
 
 Many assumptions hinge to a certain degree on opinion, hence the evidence often points to a diverging opinion and its foundations, not proof of the opposite assumption. By design, the assumptions represent a certain mainstream view while the challenges appear less mainstream. This is true with respect to the mainstream reporting in popular news and corresponding debate. Agreement to the challenge arguments presented here naturally varies from case to case, but to the best of our knowledge, none represents a niche view, so that both the assumptions and challenges are each represented by (varying) sizeable parts of the experts community.
 
-The most fundamental assumptions that influence many others are on "[sameness of human and machine](#fundamental-sameness-of-human-and-machine)" as well as "[imminence of artificial general intelligence](#artificial-general-intelligence-agi)" and hence put first. The most direct, practical ones might be "[massive job loss](#massive-job-loss)" and "[de-skilling and loss of agency](#de-skilling-and-loss-of-agency)", which are presented last for a natural flow from fundamental to tangible. As all 8 one-pagers have cross-references where appropriate or necessary, you can pick your own reading.
+The most fundamental assumptions that influence many others are on "[sameness of human and machine](#fundamental-sameness-of-human-and-machine)" as well as "[imminence of artificial general intelligence](#artificial-general-intelligence-agi)" and hence put first. The most direct, practical ones might be "[massive job loss](#massive-job-loss)" and "[de-skilling and loss of agency](#de-skilling-and-loss-of-agency)", which are presented last for a natural flow from fundamental to tangible. As all 8 one-pagers have cross-references where appropriate or necessary, you can pick your own reading order.
 
 
 ## Fundamental sameness of human and machine
