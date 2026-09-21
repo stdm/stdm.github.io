@@ -10,6 +10,7 @@ This is the academic website of [Thilo Stadelmann](https://www.zhaw.ch/en/about-
 1. [People](#people)
 2. [Publications](#publications)
 3. [Collaborations](#collaborations)
+4. [Hiring, internships, and PhD supervision](#hiring)
 
 
 ## People
@@ -84,18 +85,6 @@ The group has very diverse backgrounds, which lets us complement each other's sk
   <li> <a href="https://www.linkedin.com/in/gabriel-eyyi/">Gabriel Eyyi</a>, M.Sc. (ZHAW) <br>&rarr; Software Engineer / Machine Learning Engineer @ dizmo AG</li>
   <li> <a href="https://www.linkedin.com/in/thierrymusy/">Thierry Musy</a>, B.Sc. (ZHAW) <br>&rarr; Partner / Senior Data Scientist @ Foursight Digital AG</li>
   <li> <a href="https://www.linkedin.com/in/janstampfli/">Jan Stampfli</a>, B.Sc. (ZHAW) <br>&rarr; Big Data Engineer @ Migros-Genossenschafts-Bund</li>
-</ul>
-</details>
-
-<details>
-<summary><b>Hiring, internships, and PhD supervision</b></summary>
-I daily receive job applications and requests for supervision, unfortunately more than I can answer. Hence, I give some general ideas here under which conditions such an application might be successful:
-<ul>
-  <li> Our work is project-based in the sense that we need to secure funding in advance for all the work that we do, which is first used to pay the existing team. </li>
-  <li> If I want to grow the team or fill a vacancy (incl. for PhD students), the job is usually advertised at the respective institutional websites (<a href="https://www.zhaw.ch/en/engineering/institutes-centres/cai/people-at-the-cai/job-offers">here</a> and <a href="https://www.zhaw.ch/de/jobs/offene-stellen">here</a>) as well as in my LinkedIn posts. </li>
-  <li> Generally, I like to focus in my future work on themes that align well with the handful of big <a href="https://stdm.github.io/research/#ideas">ideas</a> we are following strategically. </li>
-  <li> For anything in addition, time resources are unfortunately too scarce in the foreseeable future and  supervision of additional students / staff members is not possible even when they are funded by their own scholarships. </li>
-  <li> Unsolicited applications may occasionally be answered, and I look at every one briefly; but usually they aren't because they don't align well with our constraints mentioned above and our current focus of work. </li>
 </ul>
 </details>
 
@@ -983,3 +972,15 @@ We collaborate a lot with different universities and research institutions world
 
 If you are interested in a collaboration, please [contact](http://www.zhaw.ch/=stdm) me.
 
+
+<a name="hiring"></a>
+## Hiring, internships, and PhD supervision
+
+I daily receive job applications and requests for supervision, unfortunately more than I can answer. Hence, I give some general ideas here under which conditions such an application might be successful:
+<ul>
+  <li> Our work is project-based in the sense that we need to secure funding in advance for all the work that we do, which is first used to pay the existing team. </li>
+  <li> If I want to grow the team or fill a vacancy (incl. for PhD students), the job is usually advertised at the respective institutional websites (<a href="https://www.zhaw.ch/en/engineering/institutes-centres/cai/people-at-the-cai/job-offers">here</a> and <a href="https://www.zhaw.ch/de/jobs/offene-stellen">here</a>) as well as in my LinkedIn posts. </li>
+  <li> Generally, I like to focus in my future work on themes that align well with the handful of big <a href="https://stdm.github.io/research/#ideas">ideas</a> we are following strategically. </li>
+  <li> For anything in addition, time resources are unfortunately too scarce in the foreseeable future and  supervision of additional students / staff members is not possible even when they are funded by their own scholarships. </li>
+  <li> Unsolicited applications may occasionally be answered, and I look at every one briefly; but usually they aren't because they don't align well with our constraints mentioned above and our current focus of work. </li>
+</ul>
