@@ -822,7 +822,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
-  * September 19, 2026 [Schweiz heute, Arrgauer Zeitung, etc.](https://www.schweizheute.ch/schweiz/ki-bedroht-die-menschheit-12-schweizer-experten-ordnen-ein-ld.4233851): "Löscht KI uns alle aus? Wir haben 12 Persönlichkeiten befragt, die es wissen sollten. Thilo Stadelmann, Professor für künstliche Intelligenz an der ZHAW: '**Die Superintelligenz ist rein hypothetisch**'."
+  * September 19, 2026 [Schweiz heute, Aargauer Zeitung, etc.](https://www.schweizheute.ch/schweiz/ki-bedroht-die-menschheit-12-schweizer-experten-ordnen-ein-ld.4233851): "Löscht KI uns alle aus? Wir haben 12 Persönlichkeiten befragt, die es wissen sollten. Thilo Stadelmann, Professor für künstliche Intelligenz an der ZHAW: '**Die Superintelligenz ist rein hypothetisch**'."
   
   * September 14, 2026 [SRF 10 vor 10](https://www.srf.ch/play/tv/10-vor-10/video/studiogast-thilo-stadelmann?urn=urn:srf:video:f7905ade-dfe9-4c44-99dc-0c2845c72147): "KI zwischen Innovation und Risiko: Wo braucht es Grenzen? Antworten dazu im **Studiogespräch mit Thilo Stadelmann**, Professor für künstliche Intelligenz, ZHAW."
   
