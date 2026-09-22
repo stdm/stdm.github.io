@@ -824,7 +824,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 ## In the press 
   * September 19, 2026 [Schweiz heute, Aargauer Zeitung, etc.](https://www.schweizheute.ch/schweiz/ki-bedroht-die-menschheit-12-schweizer-experten-ordnen-ein-ld.4233851): "Löscht KI uns alle aus? Wir haben 12 Persönlichkeiten befragt, die es wissen sollten. Thilo Stadelmann, Professor für künstliche Intelligenz an der ZHAW: '**Die Superintelligenz ist rein hypothetisch**'."
   
-  * September 14, 2026 [SRF 10 vor 10](https://www.srf.ch/play/tv/10-vor-10/video/studiogast-thilo-stadelmann?urn=urn:srf:video:f7905ade-dfe9-4c44-99dc-0c2845c72147): "KI zwischen Innovation und Risiko: Wo braucht es Grenzen? Antworten dazu im **Studiogespräch mit Thilo Stadelmann**, Professor für künstliche Intelligenz, ZHAW."
+  * September 14, 2026 [SRF 10 vor 10](https://www.srf.ch/play/tv/10-vor-10/video/studiogast-thilo-stadelmann?urn=urn:srf:video:f7905ade-dfe9-4c44-99dc-0c2845c72147): "KI zwischen Innovation und Risiko: Wo braucht es Grenzen? Antworten dazu im **Studiogespräch mit Thilo Stadelmann**, Professor für künstliche Intelligenz, ZHAW." See also the mashup in [Late Night Switzerland](https://www.srf.ch/play/tv/redirect/detail/6c9a164e-6ec8-47be-9882-59226b1a0550) (min. 20:08-20:44).
   
   * August 26, 2026 [Die Tagespost](https://www.die-tagespost.de/leben/wirtschaft/superintelligenz-nicht-mit-der-technologie-von-heute-art-278138): "**Superintelligenz? Nicht mit der Technologie von heute.** Kommt die 'Singularität'? Der KI-Professor Thilo Stadelmann zweifelt an den KI-Fortschrittsversprechen der großen Techkonzerne – und an der 'Job-Apokalypse'."
   
