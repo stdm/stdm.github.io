@@ -15,18 +15,20 @@ This is the academic website of [Thilo Stadelmann](https://www.zhaw.ch/en/about-
 
 ## People
 
-<a name="bio"></a>
-### Thilo Stadelmann's biography
-
 <a href="https://youtu.be/deVbP-hViMQ" target="_blank"><img src="http://stdm.github.io/images/thumbnail-tedx.jpg"/></a>
+
+<a name="bio"></a>
+<details>
+<summary><b>Thilo Stadelmann's biography</b></summary>
 
 Thilo studied computer science in Giessen and Marburg and received the Doctor of Science degree from [Marburg University](https://www.informatik.uni-marburg.de/~stadelmann/), Germany, in 2010, where he worked on multimedia analysis and voice recognition. Thilo held engineering and leadership roles in the automotive industry for several years prior to the appointment at the ZHAW. His current research interests revolve around robust representation learning in deep neural networks for pattern recognition problems; how to learn structured and actionable representations for world models; and societal effects of AI. The group and research is introduced in more detail [below](#group).
 
 A personal note: I like kitesurfing, enjoy playing music on stringed instruments (guitars, bass), and am a follower of <a href="https://jesus.net">Jesus Christ</a>. If this makes you curious, send me an email with a meeting request (subject "30 minutes on faith"), I am happy to explain. I try living by the following values (my closer colleagues know I am not there yet): excellence; wisdom; honor all people; mercy for failure; and courage.
-
+</details>
 
 <a name="group"></a>
-### The Machine Perception and Cognition group
+<details>
+<summary><b>The Machine Perception and Cognition group</b></summary>
 
 <img alt="The ZHAW Centre for AI members as of March 2024" src="http://stdm.github.io/images/CAI-2024.jpg"/>
 
@@ -35,6 +37,7 @@ Real-world AI tasks often start with the detection of patterns in sensory data (
 We use this experience to create increasingly general real-world AI systems built on neural architectures. Fundamental challenges thereby lie in the systems’ **robustness** as well as their **sample and label efficiency**, and are often approached with **transfer learning** and **domain adaptation**. Beyond this, we take inspiration from **biological learning** to work on next-level AI methodology with **world models**, and are actively engaged at the interface of **technology and society** to contribute to a future worth living in with **pro-human AI**.
 
 The group has very diverse backgrounds, which lets us complement each other's skills and work on diverse problems with focused methodology.
+</details>
 
 <details>
 <summary><b>Staff and students</b></summary>  
@@ -46,10 +49,8 @@ The group has very diverse backgrounds, which lets us complement each other's sk
     <li><a href="https://www.linkedin.com/in/pascal-sager-3b7403168">Pascal Sager</a>, PhD student: B.Sc. & M.Sc. computer science (ZHAW), doctorate in conjunction with <a href="https://www.ini.uzh.ch/en/research/groups/grewe.html">Benjamin F. Grewe</a> of the University of Zurich / Switzerland</li>
     <li><a href="https://www.linkedin.com/in/benjamin-meyer-b87077151">Benjamin Meyer</a>, PhD student: B.Sc. information technology (FHNW), M.Sc. computer science (U Basel), doctorate in conjunction with <a href="https://www.ini.uzh.ch/en/research/groups/grewe.html">Benjamin F. Grewe</a> of the University of Zurich / Switzerland</li>
     <li><a href="https://www.linkedin.com/in/adrian-th%C3%BCr-01976b160/">Adrian Thuer</a>, research assistent and M.Sc. student: B.Sc. computer science (ZHAW)</li>
-    <li><a href="https://www.linkedin.com/in/linus-stuhlmann-29b3831ba/">Linus Carl Stuhlmann</a>, research assistent: B.Sc. data science (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/marco-betschart-26baa2133/">Marco Betschart</a>, research assistant and M.Sc. student: B.Sc. computer science (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/moritz-feuchter">Moritz Feuchter</a>, research assistant and M.Sc. student: B.Sc. computer science (ZHAW)</li>
-    <li><a href="https://www.linkedin.com/in/elia-untern%C3%A4hrer-201593255/">Elia Unternährer</a>, M.Sc. student: B.Sc. business information technology (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/jakub-hanush/">Jakub Hanuska</a>, M.Sc. student: B.Sc. open informatics (Mendel University of Brno)</li>
     <li><a href="https://www.linkedin.com/in/rebekka-von-wartburg-3b807b298/">Rebekka von Wartburg</a>, M.Sc. student: B.Sc. computer science (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/jose-pablo-mu%C3%B1oz/">Jose Pablo Muñoz Montero</a>, M.Sc. student: B.Sc. computer engineering (Tecnológico de Costa Rica)</li>
@@ -60,6 +61,8 @@ The group has very diverse backgrounds, which lets us complement each other's sk
 <details>
 <summary><b>Alumni</b></summary>
 <ul>
+  <li> <a href="https://www.linkedin.com/in/elia-untern%C3%A4hrer-201593255/">Elia Unternährer</a>, M.Sc. student 2024-2026: B.Sc. business information technology (ZHAW) <br>&rarr; DPLR</li>
+  <li> <a href="https://www.linkedin.com/in/linus-stuhlmann-29b3831ba/">Linus Carl Stuhlmann</a>, research assistent 2025-2026: B.Sc. data science (ZHAW) <br>&rarr; M.Sc. student @ Institute of Science Tokyo</li>
   <li> <a href="https://www.linkedin.com/in/mouni-sattenapally-4b0276202">Mouni Sattenapally</a>, M.Sc. student 2026: B.Sc. electronics and communications engineering (CVR College of Engineering, Hyderabad, India) <br>&rarr; Analyst @ Tata Consultancy Services</li>
   <li> <a href="https://www.linkedin.com/in/waqar-ali-92468910b/">Dr. Waqar Ali</a>, PhD student 2022-2025, postdoc 2025-2026: M.Sc. (CU Islamabad) in computer science, Ph.D. (Ca'Foscari & ZHAW, March 2025) <br>&rarr; Senior Postdoctoral Fellow @ Aston University, Birmingham/UK</li>
   <li> <a href="https://www.linkedin.com/in/livia-l%C3%BCscher-72aaaa139/">Livia Luescher</a>, M.Sc. student 2023-2026, B.Sc. business administration with honors (HWZ Zurich) <br>&rarr; Data Scientist @ Zuercher Kantonalbank</li>
