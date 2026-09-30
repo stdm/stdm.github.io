@@ -985,3 +985,4 @@ I daily receive job applications and requests for supervision, unfortunately mor
   <li> For anything in addition, time resources are unfortunately too scarce in the foreseeable future and  supervision of additional students / staff members is not possible even when they are funded by their own scholarships. </li>
   <li> Unsolicited applications may occasionally be answered, and I look at every one briefly; but usually they aren't because they don't align well with our constraints mentioned above and our current focus of work. </li>
 </ul>
+If after careful consideration you come to the conclusion that your case warrants an exception, please _refer in your application to this paragraph_ and state your reasons why you think we could work together under the conditions above.
