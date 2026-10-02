@@ -685,9 +685,6 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 #### Pre-2012
   * See my [Marburgian page](http://www.informatik.uni-marburg.de/~stadelmann/research.html#talks) for some of the previous talks I gave (mostly on audio and speech processing topics).
 
-&nbsp;
-
-&nbsp;
 
 <a name="offices"></a>
 ## Community offices
@@ -719,7 +716,6 @@ I enjoy active networking (matching people, organizations and ideas), public spe
     
   * 05/2013-03/2019: head of the board of the [ZHAW Datalab](http://www.zhaw.ch/datalab), the ZHAW Data Science Laboratory
 
-&nbsp;
 
 #### Journals, conferences & events
   * Topic editor for the [Journal of Imaging](http://www.mdpi.com/journal/jimaging), an international multi/interdisciplinary peer-reviewed open access journal of imaging techniques published online monthly by MDPI (postponed until special issue for sister journal "Computers" is completed)
@@ -816,9 +812,6 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Scientific partner, <a title="Big Data Roadshow " href="http://www.bigdata.ch/" target="_blank">Big data roadshow</a>, 06/2013-06/2014
 
-&nbsp;
-
-&nbsp;
 
 <a name="press"></a>
 ## In the press 
