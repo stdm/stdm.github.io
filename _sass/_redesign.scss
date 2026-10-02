@@ -1,22 +1,20 @@
 
 /*************************************************************/
-/* REDESIGN 2026-10 (look & feel, "ZHAW kinship" variant)     */
-/* Overrides the Jekyll Now rules above. Fonts are loaded in  */
-/* _layouts/default.html (Newsreader, Inter, IBM Plex Mono).  */
+/* REDESIGN 2026-10 (look & feel, "ZHAW kinship")             */
+/* Overrides the Jekyll Now rules in style.scss. Fonts are    */
+/* loaded in _layouts/default.html (Inter, Newsreader,        */
+/* IBM Plex Mono). Remove the @import in style.scss to revert.*/
 /*************************************************************/
 
-
 :root {
-  --ink:      #18202C;   /* text, headings */
-  --slate:    #586174;   /* secondary text, meta */
-  --rule:     #E2E5EA;   /* hairlines */
-  --wash:     #F4F6F9;   /* quiet surfaces */
-  --accent:   #1B5E9A;   /* links – Zurich lake blue */
-  --accent-d: #0E3F6E;   /* link hover */
+  --ink:      #333333;   /* text & headings (same grey as zhaw.ch) */
+  --slate:    #5C5C5C;   /* secondary text, meta */
+  --rule:     #DADADA;   /* hairlines */
+  --wash:     #F5F5F5;   /* quiet surfaces */
   --award:    #7A5A00;   /* badge text */
   --award-bg: #FBF3DC;   /* badge fill */
   --serif: "Newsreader", Georgia, serif;
-  --sans:  "Helvetica Neue", Arial, sans-serif;
+  --sans:  "Inter", "Helvetica Neue", Arial, sans-serif;
   --mono:  "IBM Plex Mono", ui-monospace, monospace;
 }
 
@@ -33,11 +31,11 @@ body {
 .wrapper-masthead { margin-bottom: 56px; }
 .masthead {
   display: flex; align-items: center; flex-wrap: wrap; gap: 6px 18px;
-  padding: 36px 0 22px; border-bottom: 1px solid var(--rule);
+  padding: 36px 0 22px; border-bottom: 1px solid var(--ink);   /* dark rule as on zhaw.ch */
 }
 .site-avatar { float: none; width: 72px; height: 72px; margin: 0; }
 .site-avatar img { width: 72px; height: 72px; border-radius: 50%; object-fit: cover;
-  background: #E6ECF3; }  /* cut-out portrait sits on a soft disc */
+  background: #EDEDED; }  /* cut-out portrait sits on a soft disc */
 .site-info { float: none; flex: 1 1 0; min-width: 0; }
 .site-name { font: 500 30px/1.1 var(--mono); letter-spacing: -0.02em; color: var(--ink); }
 .site-name a { color: inherit; text-decoration: none; }
@@ -47,33 +45,31 @@ nav {
   display: flex; flex-wrap: wrap; gap: 4px 26px;
   font: 500 15px/1 var(--sans);
 }
-nav a { text-decoration: none; margin: 0; padding: 6px 0; color: var(--slate); letter-spacing: 0; font-weight: 500;
-  border-bottom: 2px solid transparent; }
+nav a { text-decoration: none; margin: 0; padding: 6px 0; color: var(--slate); letter-spacing: 0;
+  font-weight: 500; border-bottom: 2px solid transparent; }
 nav a:hover { color: var(--ink); border-bottom-color: var(--rule); }
-nav a.active { color: var(--ink); border-bottom-color: var(--accent); }
+nav a.active { color: var(--ink); border-bottom-color: var(--ink); }
 
-/* ---------- headings ---------- */
-h1, h2, h3, h4, h5, h6 { font-family: var(--serif); color: var(--ink); font-weight: 600;
-  line-height: 1.2; letter-spacing: -0.01em; margin: 1.8em 0 .6em; }
-h1 { font-size: 40px; margin-top: 0; }
+/* ---------- headings: Inter, scaled like zhaw.ch (72/48/32 -> 54/36/24) ---------- */
+h1, h2, h3, h4, h5, h6 { font-family: var(--sans); color: var(--ink); letter-spacing: normal;
+  font-optical-sizing: auto; margin: 1.6em 0 .55em; }
+h1 { font-size: 54px; font-weight: 700; line-height: 1.15; margin-top: 0; }
+h2 { font-size: 36px; font-weight: 700; line-height: 1.2; margin-top: 1.9em; }
+h3 { font-size: 24px; font-weight: 500; line-height: 1.3; }
+h4 { font-size: 19px; font-weight: 600; line-height: 1.35; }
+.post h1 { font-size: 44px; }               /* long blog titles */
 h1 a, h2 a { color: inherit; text-decoration: none; }
-h1 a:hover, h2 a:hover { color: var(--accent); }
-h2 { font-size: 30px; padding-top: .6em; border-top: 1px solid var(--rule); }
-h3 { font-size: 23px; }
-h4 { font-size: 19px; color: var(--slate); }
+h1 a:hover, h2 a:hover { text-decoration: underline; }
 
-/* ---------- text & links ---------- */
+/* ---------- text & links: monochrome, underlined (zhaw.ch convention) ---------- */
 p { margin: 0 0 1.05em; }
-a { color: var(--accent); text-decoration: underline; text-decoration-thickness: 1px;
-  text-underline-offset: 3px; text-decoration-color: rgba(27,94,154,.25);
+a { color: var(--ink); text-decoration: underline; text-decoration-thickness: 1px;
+  text-underline-offset: 3px; text-decoration-color: rgba(51,51,51,.45);
   transition: color .15s, text-decoration-color .15s; }
-a:hover, a:active { color: var(--accent-d); text-decoration-color: currentColor; }
-a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 2px; }
+a:hover, a:active { color: #000; text-decoration-color: #000; }
+a:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; border-radius: 2px; }
 strong, b { font-weight: 600; }
 .date { font: 400 14px var(--sans); font-style: normal; color: var(--slate); margin-bottom: 10px; }
-
-/* intro paragraph on every page reads as a lead */
-.page .entry > p:first-child { font-size: 22px; line-height: 1.5; color: var(--ink); }
 
 /* ---------- on-page contents (the “TOC” lists) ---------- */
 .entry h3#toc { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
@@ -81,62 +77,82 @@ strong, b { font-weight: 600; }
   display: flex; flex-wrap: wrap; gap: 8px; }
 .entry h3#toc + ol li a { display: inline-block; padding: 7px 14px; border: 1px solid var(--rule);
   border-radius: 999px; font: 500 14px/1.2 var(--sans); color: var(--ink); text-decoration: none; }
-.entry h3#toc + ol li a:hover { border-color: var(--accent); color: var(--accent); }
+.entry h3#toc + ol li a:hover { border-color: var(--ink); }
 
 /* ---------- images ---------- */
 .entry img { border-radius: 10px; }
 /* height cap only on main pages, not in blog posts (keeps figures legible) */
-.page .entry > p > img, .page .entry > p > a > img { display: block; margin: 0 auto; max-height: 460px;
-  width: auto; }
+.page .entry > p > img, .page .entry > p > a > img { display: block; margin: 0 auto;
+  max-height: 460px; width: auto; }
 
-/* ---------- collapsible sections ---------- */
-details { border-top: 1px solid var(--rule); }
-details + details, details + p + details { }
-details:last-of-type { border-bottom: 1px solid var(--rule); }
-summary { list-style: none; cursor: pointer; padding: 14px 0 14px 28px; position: relative;
+/* ---------- collapsible sections (no dividing lines) ---------- */
+details { margin: 0; }
+summary { list-style: none; cursor: pointer; padding: 10px 0 10px 26px; position: relative;
   font: 600 16px/1.4 var(--sans); color: var(--ink); }
 summary::-webkit-details-marker { display: none; }
 summary b { font-weight: 600; }
-summary::before { content: ""; position: absolute; left: 4px; top: 50%; width: 8px; height: 8px;
-  border-right: 2px solid var(--slate); border-bottom: 2px solid var(--slate);
+summary::before { content: ""; position: absolute; left: 4px; top: 50%; width: 7px; height: 7px;
+  border-right: 2px solid var(--ink); border-bottom: 2px solid var(--ink);
   transform: translateY(-70%) rotate(-45deg); transition: transform .2s; }
 details[open] > summary::before { transform: translateY(-70%) rotate(45deg); }
-summary:hover { color: var(--accent); }
-details[open] { padding-bottom: 12px; }
+summary:hover { text-decoration: underline; text-underline-offset: 3px; }
+details[open] { padding-bottom: 14px; }
 details > *:not(summary) { font-size: 17px; }
+/* paragraphs that only hold an invisible jump anchor (<a name="...">) take no space */
+.entry > p:has(> a[name]:first-child:last-child) { margin: 0; }
 
 /* ---------- publication list ---------- */
 table.publist, table.publist tr, table.publist tr:nth-child(2n) { background: transparent !important; }
 table.publist tr { border-top: 0; border-bottom: 1px solid var(--rule); }
-table.publist tr td { padding: 18px 0 18px 0 !important; font: 400 15px/1.55 var(--sans) !important;
+table.publist tr td { padding: 18px 0 !important; font: 400 15px/1.55 var(--sans) !important;
   color: var(--slate); }
+table.publist td * { font-size: inherit !important; }
 table.publist tr td:first-child { width: 128px !important; padding-right: 22px !important; }
-table.publist tr td:first-child img { width: 128px !important; height: auto !important; max-height: 170px; object-fit: contain;
-  background: #fff; border: 1px solid var(--rule); border-radius: 6px; padding: 4px; }
-table.publist td a { text-decoration: none; }
-table.publist td a strong { color: var(--ink); font-weight: 600; }
-table.publist td a:hover strong { color: var(--accent); }
+table.publist tr td:first-child img { width: 128px !important; height: auto !important;
+  max-height: 170px; object-fit: contain; background: #fff; border: 1px solid var(--rule);
+  border-radius: 6px; padding: 4px; }
 table.publist td strong { color: var(--ink); font-weight: 600; }
-/* award / invited badges – currently inline style="color:green" */
+table.publist td a { text-decoration-color: rgba(51,51,51,.35); }
+table.publist td a:has(strong) { text-decoration: none; }
+table.publist td a:hover strong { color: #000; text-decoration: underline; }
+/* award / invited badges – inline style="color:green" in home.md */
 table.publist td p[style*="green"] { display: inline-block; margin: 8px 0 0 !important;
   padding: 3px 9px; border-radius: 4px; background: var(--award-bg); color: var(--award) !important;
   font: 600 12px/1.3 var(--sans) !important; text-align: left !important; }
 
-/* generic tables: the old 10px font is unreadable */
-table:not(.publist) tr, table:not(.publist) td, table:not(.publist) th { font: 14px/1.45 var(--sans); }
+/* ---------- all other tables (research, teaching, ...) ---------- */
+table:not(.publist) { width: 100%; border-collapse: collapse; margin: 1.2em 0 2em;
+  display: block; overflow-x: auto; }   /* a too-wide table scrolls sideways instead of overflowing */
+table:not(.publist) tr,
+table:not(.publist) tr:nth-child(2n) { background: transparent !important; border: 0;
+  border-bottom: 1px solid var(--rule); }
+table:not(.publist) th,
+table:not(.publist) td { border: 0 !important; padding: 10px 14px 10px 0 !important;
+  font: 400 14.5px/1.5 var(--sans) !important; color: var(--ink); text-align: left;
+  vertical-align: top; }
+table:not(.publist) th { font-weight: 600 !important; border-bottom: 1px solid var(--ink) !important; }
+table:not(.publist) td *, table:not(.publist) th * { font-size: inherit !important; }
+
+/* ---------- research.md: "Characteristics" cards (inline styles in the page) ---------- */
+.entry div[style*="#f0f5fb"] { background: transparent !important; border: 0 !important;
+  padding: 0 !important; }
+.entry div[style*="border-left:4px solid"] { background: var(--wash) !important; border: 0 !important;
+  border-radius: 8px !important; box-shadow: none !important; padding: 16px 18px !important;
+  font-size: 17px; line-height: 1.55; }
+.entry img[style*="#c8d8ea"] { border-color: var(--rule) !important; }
 
 /* ---------- blockquote ---------- */
-.post blockquote, blockquote { border-left: 3px solid var(--accent); color: var(--ink);
+.post blockquote, blockquote { border-left: 3px solid var(--ink); color: var(--ink);
   font: italic 400 22px/1.5 var(--serif); margin: 1.6em 0; padding: .1em 0 .1em 1.1em; }
 
 /* ---------- footer ---------- */
-.wrapper-footer { background: #fff; border: 0; border-top: 1px solid var(--rule); margin-top: 80px; }
+.wrapper-footer { background: #fff; border: 0; border-top: 1px solid var(--ink); margin-top: 80px; }
 footer { padding: 28px 0 40px; display: flex; justify-content: center; gap: 14px; }
 footer a { text-decoration: none; }
 footer .svg-icon { filter: grayscale(1) contrast(1.1); opacity: .55; transition: opacity .15s, filter .15s; }
 footer a:hover .svg-icon { filter: none; opacity: 1; }
 
-::selection { background: #D7E6F5; color: var(--ink); }
+::selection { background: #E5E5E5; color: var(--ink); }
 
 @media (max-width: 640px) {
   body { font-size: 18px; }
@@ -146,38 +162,10 @@ footer a:hover .svg-icon { filter: none; opacity: 1; }
   .site-description { font-size: 13.5px; }
   nav { margin-top: 14px; flex-wrap: nowrap; overflow-x: auto; gap: 22px; font-size: 15px;
     scrollbar-width: none; -webkit-mask-image: linear-gradient(90deg,#000 85%,transparent); }
-  nav a { color: var(--slate); white-space: nowrap; }
-  h1 { font-size: 32px; } h2 { font-size: 25px; }
-  .page .entry > p:first-child { font-size: 19.5px; }
+  nav a { white-space: nowrap; }
+  h1, .post h1 { font-size: 34px; } h2 { font-size: 27px; } h3 { font-size: 21px; }
   table.publist tr td:first-child { width: 84px !important; padding-right: 14px !important; }
   table.publist tr td:first-child img { width: 84px !important; }
   table.publist tr td { font-size: 14px !important; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
-
-/* --- ZHAW kinship: Inter headings/UI, monochrome links, dark rule --- */
-:root {
-  --ink: #2B2B2B;  --slate: #5C5C5C;  --rule: #DADADA;
-  --accent: #2B2B2B; --accent-d: #000;
-  --sans: "Inter", "Helvetica Neue", Arial, sans-serif;
-}
-/* bold, tight sans headings like zhaw.ch; serif stays for running text */
-h1, h2, h3, h4 { font-family: var(--sans); font-weight: 700; letter-spacing: -0.025em; }
-h1 { font-size: 44px; } h2 { font-size: 32px; border-top-color: var(--ink); } h3 { font-size: 22px; font-weight: 600; }
-/* monochrome links, underlined in text colour (zhaw.ch convention) */
-a { color: var(--ink); text-decoration-color: rgba(43,43,43,.45); }
-a:hover { color: #000; text-decoration-color: #000; }
-/* the dark 1px rule that frames zhaw.ch's navigation */
-.masthead { border-bottom: 1px solid var(--ink); }
-nav a.active { border-bottom-color: var(--ink); }
-.entry h3#toc + ol li a:hover { border-color: var(--ink); color: var(--ink); }
-table.publist td a:hover strong { color: #000; text-decoration: underline; }
-blockquote, .post blockquote { border-left-color: var(--ink); }
-::selection { background: #E5E5E5; }
-.site-avatar img { background: #EDEDED; }
-
-/* --- fixes: uniform size inside publication entries; DOI links visibly underlined --- */
-table.publist td * { font-size: inherit !important; }
-table.publist td a { text-decoration: underline; text-decoration-color: rgba(43,43,43,.35); }
-table.publist td a:has(strong) { text-decoration: none; }
-@media (max-width: 640px) { h1 { font-size: 28px; } }
