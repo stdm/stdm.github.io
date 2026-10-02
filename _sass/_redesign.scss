@@ -152,6 +152,12 @@ footer a { text-decoration: none; }
 footer .svg-icon { filter: grayscale(1) contrast(1.1); opacity: .55; transition: opacity .15s, filter .15s; }
 footer a:hover .svg-icon { filter: none; opacity: 1; }
 
+/* ---------- all images in greyscale; colour returns on hover ---------- */
+img { filter: grayscale(1); transition: filter .3s ease; }
+img:hover, a:hover > img, a:focus-visible > img { filter: none; }
+/* exceptions that always stay in colour: header portrait, sunrise picture on Research */
+.site-avatar img, img[src$="/hope.jpg"] { filter: none; }
+
 ::selection { background: #E5E5E5; color: var(--ink); }
 
 @media (max-width: 640px) {
