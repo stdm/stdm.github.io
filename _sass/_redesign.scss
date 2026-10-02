@@ -2,8 +2,8 @@
 /*************************************************************/
 /* REDESIGN 2026-10 (look & feel, "ZHAW kinship")             */
 /* Overrides the Jekyll Now rules in style.scss. Fonts are    */
-/* loaded in _layouts/default.html (Inter, Newsreader,        */
-/* IBM Plex Mono). Remove the @import in style.scss to revert.*/
+/* loaded in _layouts/default.html (Inter via rsms.me, Newsreader). */
+/* Remove the @import in style.scss to revert.                */
 /*************************************************************/
 
 :root {
@@ -14,8 +14,7 @@
   --award:    #7A5A00;   /* badge text */
   --award-bg: #FBF3DC;   /* badge fill */
   --serif: "Newsreader", Georgia, serif;
-  --sans:  "Inter", "Helvetica Neue", Arial, sans-serif;
-  --mono:  "IBM Plex Mono", ui-monospace, monospace;
+  --sans:  "InterVariable", "Inter", "Helvetica Neue", Arial, sans-serif;   /* same font as zhaw.ch */
 }
 
 body {
@@ -37,9 +36,10 @@ body {
 .site-avatar img { width: 72px; height: 72px; border-radius: 50%; object-fit: cover;
   background: #EDEDED; }  /* cut-out portrait sits on a soft disc */
 .site-info { float: none; flex: 1 1 0; min-width: 0; }
-.site-name { font: 500 30px/1.1 var(--mono); letter-spacing: -0.02em; color: var(--ink); }
+.site-name { font: 700 34px/1.1 var(--sans); letter-spacing: normal; color: var(--ink);
+  font-feature-settings: "cv08"; }   /* capital I with serifs, so "AIssays" does not read "Alssays" */
 .site-name a { color: inherit; text-decoration: none; }
-.site-description { margin: 6px 0 0; font: 400 15px/1.4 var(--sans); color: var(--slate); }
+.site-description { margin: 6px 0 0; font: 400 17px/1.4 var(--sans); color: var(--slate); }
 nav {
   float: none; flex-basis: 100%; margin: 18px 0 0;
   display: flex; flex-wrap: wrap; gap: 4px 26px;
@@ -158,8 +158,8 @@ footer a:hover .svg-icon { filter: none; opacity: 1; }
   body { font-size: 18px; }
   .masthead { text-align: left; padding-top: 22px; }
   .site-avatar, .site-avatar img { width: 56px; height: 56px; }
-  .site-name { font-size: 24px; }
-  .site-description { font-size: 13.5px; }
+  .site-name { font-size: 26px; }
+  .site-description { font-size: 15px; }
   nav { margin-top: 14px; flex-wrap: nowrap; overflow-x: auto; gap: 22px; font-size: 15px;
     scrollbar-width: none; -webkit-mask-image: linear-gradient(90deg,#000 85%,transparent); }
   nav a { white-space: nowrap; }

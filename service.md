@@ -1,5 +1,5 @@
 ---
-title: Service
+title:
 layout: page
 comments: false
 ---

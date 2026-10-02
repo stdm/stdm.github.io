@@ -1,9 +1,10 @@
 ---
-title: Applied Data Science - Lessons Learned for the Data-Driven Business 
+title: 
 layout: page
 comments: false
 ---
 
+## Applied Data Science - Lessons Learned for the Data-Driven Business
 ### Braschler, Stadelmann, Stockinger (Eds.)
 **Springer, 2019**
 

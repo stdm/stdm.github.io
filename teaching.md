@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title:
 layout: page
 comments: false
 ---
