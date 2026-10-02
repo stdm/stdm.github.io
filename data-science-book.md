@@ -1,14 +1,10 @@
 ---
-title: 
+title:
 layout: page
 comments: false
 ---
 
-## Applied Data Science - Lessons Learned for the Data-Driven Business
-### Braschler, Stadelmann, Stockinger (Eds.)
-**Springer, 2019**
-
-Companion website to the book [*Applied Data Science - Lessons Learned for the Data-Driven Business*](https://www.springer.com/us/book/9783030118204).
+Companion website to the book [**Applied Data Science - Lessons Learned for the Data-Driven Business**](https://www.springer.com/us/book/9783030118204) by Braschler, Stadelmann, Stockinger (Eds.), Springer, 2019.
 
 [<img alt="Book cover" src="http://stdm.github.io/images/apd-cover.jpg"/>](http://stdm.github.io/images/apd-cover.jpg)
 
