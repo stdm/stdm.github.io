@@ -408,3 +408,6 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+// Redesign 2026-10 (look & feel). Remove this line to revert to the old styling.
+@import "redesign";

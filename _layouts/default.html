@@ -5,6 +5,9 @@
 		
 		{% include meta.html %}
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <link rel="icon" type="image/png" href="{{ site.favicon }}">
@@ -25,15 +28,15 @@
           </div>
 
           <nav>
-          	<a href="{{ site.baseurl }}/home">&#8962;</a>
-            <a href="{{ site.baseurl }}/research">Research</a>
-            <a href="{{ site.baseurl }}/teaching">Teaching</a>
+          	<a href="{{ site.baseurl }}/home"{% if page.url contains '/home' %} class="active"{% endif %}>&#8962;</a>
+            <a href="{{ site.baseurl }}/research"{% if page.url contains '/research' %} class="active"{% endif %}>Research</a>
+            <a href="{{ site.baseurl }}/teaching"{% if page.url contains '/teaching' %} class="active"{% endif %}>Teaching</a>
             <!-- <a href="{{ site.baseurl }}/ai-course">AI</a>
             <a href="{{ site.baseurl }}/ml-course">ML</a> -->
-            <a href="{{ site.baseurl }}/service">Service</a>
-            <a href="{{ site.baseurl }}/data-science-book">Book</a>
-            <a href="{{ site.baseurl }}/prayer">Prayer</a>
-            <a href="{{ site.baseurl }}/blog">Blog</a>
+            <a href="{{ site.baseurl }}/service"{% if page.url contains '/service' %} class="active"{% endif %}>Service</a>
+            <a href="{{ site.baseurl }}/data-science-book"{% if page.url contains '/data-science-book' %} class="active"{% endif %}>Book</a>
+            <a href="{{ site.baseurl }}/prayer"{% if page.url contains '/prayer' %} class="active"{% endif %}>Prayer</a>
+            <a href="{{ site.baseurl }}/blog"{% if page.url contains '/blog' %} class="active"{% endif %}>Blog</a>
           </nav>
         </header>
       </div>
