@@ -538,7 +538,7 @@ Dano Roost, Ralph Meier, Giovanni Toffetti Carughi, and Thilo Stadelmann. <a hre
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ANNPR_2020.pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/ANNPR_2020.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Top-5 paper, invited for extended journal paper</p>.</td>
+<td style="width: 175px;"><a href="https://stdm.github.io/downloads/papers/ANNPR_2020.pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/ANNPR_2020.jpg"/></a><p style="color:green;text-align:center;font-weight:bold;">Top-5 paper, invited for extended journal paper</p></td>
 <td>
 Stefan Glüge, Mohammadreza Amirian, Dandolo Flumini, and Thilo Stadelmann. <a href="https://stdm.github.io/downloads/papers/ANNPR_2020.pdf"><strong>How (Not) to Measure Bias in Face Recognition Networks</strong></a>. In: Proceedings of the 9th IAPR TC 3 Workshop on Artificial Neural Networks for Pattern Recognition (<strong>ANNPR'20</strong>), Springer, LNAI, Winterthur, Switzerland, September 02-04, 2020.
 </td>
