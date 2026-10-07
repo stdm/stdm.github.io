@@ -39,7 +39,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Invited talk "What to make of AI: On technology, worldview, and who we are becoming" at **ICF Business Small Group**, Winterthur, Switzerland, October 15, 2026
   
-  * Invited talk at "Sternstunde", **Christen bei Daimler & Benz**, online, October 07, 2026
+  * Invited talk on "KI als Technologie, Weltanschauung und Chance" at "Sternstunde", **Christen bei Daimler & Benz**, online, October 07, 2026
 
   * Invited talk on "Prohuman Tech Design" at **Digital Winterthur**, Winterthur, Switzerland, September 10, 2026
   
@@ -815,13 +815,15 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * September 28, 2026 [Aargauer Zeitung, etc.](https://www.aargauerzeitung.ch/leben/ki-fehler-im-geheimdienstbericht-haette-us-angriff-ausgeloest-ld.4237855): "**Warum KI Nashörner manchmal noch für Affen hält.** Ein KI-Fehler in einem Geheimdienstbericht hätte beinahe einen US-Angriff ausgelöst. KI-Forscher Thilo Stadelmann erklärt, warum Halluzinationen nicht einfach verschwinden."
+  
   * September 19, 2026 [Schweiz heute, Aargauer Zeitung, etc.](https://www.schweizheute.ch/schweiz/ki-bedroht-die-menschheit-12-schweizer-experten-ordnen-ein-ld.4233851): "Löscht KI uns alle aus? Wir haben 12 Persönlichkeiten befragt, die es wissen sollten. Thilo Stadelmann, Professor für künstliche Intelligenz an der ZHAW: '**Die Superintelligenz ist rein hypothetisch**'."
   
   * September 14, 2026 [SRF 10 vor 10](https://www.srf.ch/play/tv/10-vor-10/video/studiogast-thilo-stadelmann?urn=urn:srf:video:f7905ade-dfe9-4c44-99dc-0c2845c72147): "KI zwischen Innovation und Risiko: Wo braucht es Grenzen? Antworten dazu im **Studiogespräch mit Thilo Stadelmann**, Professor für künstliche Intelligenz, ZHAW." See also the mashup in [Late Night Switzerland](https://www.srf.ch/play/tv/redirect/detail/6c9a164e-6ec8-47be-9882-59226b1a0550) (min. 20:08-20:44).
   
   * August 26, 2026 [Die Tagespost](https://www.die-tagespost.de/leben/wirtschaft/superintelligenz-nicht-mit-der-technologie-von-heute-art-278138): "**Superintelligenz? Nicht mit der Technologie von heute.** Kommt die 'Singularität'? Der KI-Professor Thilo Stadelmann zweifelt an den KI-Fortschrittsversprechen der großen Techkonzerne – und an der 'Job-Apokalypse'."
   
-  * July 04, 2026 [SRF News](https://www.srf.ch/news/davos-tech-summit-warum-roboter-auch-in-20-jahren-nicht-fuer-uns-einkaufen-gehen): **Warum Roboter auch in 20 Jahren nicht für uns einkaufen gehen**: _[...] Doch mithilfe von künstlicher Intelligenz könnten die Maschinen bald ein echtes Verständnis unserer Welt erlangen. Das Stichwort heisst: Weltmodelle. 'Mit so einem Modell kann der Roboter Konsequenzen von Handlungen vorhersehen', erklärt Thilo Stadelmann [...]_"
+  * July 08, 2026 [SRF News](https://www.srf.ch/news/davos-tech-summit-warum-roboter-auch-in-20-jahren-nicht-fuer-uns-einkaufen-gehen): **Warum Roboter auch in 20 Jahren nicht für uns einkaufen gehen**: _[...] Doch mithilfe von künstlicher Intelligenz könnten die Maschinen bald ein echtes Verständnis unserer Welt erlangen. Das Stichwort heisst: Weltmodelle. 'Mit so einem Modell kann der Roboter Konsequenzen von Handlungen vorhersehen', erklärt Thilo Stadelmann [...]_"
 
   * June 19, 2026 [Radio Live Channel](https://erf-medien.ch/gesellschaft/wissen/wenn-technologie-zur-religion-wird/): "**Wenn Technologie zur Religion wird**"
   
