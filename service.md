@@ -43,7 +43,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
   * Invited talk on "Prohuman Tech Design" at **Digital Winterthur**, Winterthur, Switzerland, September 10, 2026
   
-  * Invited talk series at **Congreso Christiano**, Asunción, Paraguay, September 03-04, 2026
+  * Invited [talk series](https://youtube.com/playlist?list=PLX03apcWX7jk&si=-tQKB40eewiXR-0D) at **XVIII Congreso Cristiano de Ejecutivos y Líderes 2026**, Asunción, Paraguay, September 03-04, 2026
   
   * Keynote "Towards reliable physical AI: From world models to human-AI co-learning spaces" at [**Davos Tech Summit**](https://davostechsummit.com/program), Davos, Switzerland, July 02, 2026
   
