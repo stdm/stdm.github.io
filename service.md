@@ -33,6 +33,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
   * Invited talk at **IST InfraStrukturTreff**, Rapperswil, Switzerland, November 05, 2026
   
+  * Invited talk on "KI ist hier - was nun?" at the **Open Day** of the **ZHAW School of Management and Law**, Winterthur, Switzerland, October 24, 2026
+  
   * Invited talk at **Schweizerische Technische Fachschule Winterthur**, Steckborn, Switzerland, October 23, 2026
   
   * Keynote at Fachtagung der Schweizerischen Kirchen on **10 rules for the digital world**, Paulusakademie Zurich, Switzerland, October 20, 2026
