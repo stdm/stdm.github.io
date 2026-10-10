@@ -25,7 +25,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   
   * Ivited talk at "Gottesdienst für Ausgeschlafene", **Evangelische Kirche Altnau**, Altnau, Switzerland, March 14, 2027
   
-  * KEynote at **credivo** Thinktank für Glaubenskommunikation, Zürich, Schweiz, March 10, 2027
+  * Keynote at **credivo** Thinktank für Glaubenskommunikation, Zürich, Schweiz, March 10, 2027
 
   * Panelist at CAS Integral Economics, Univeersity of Fribourg, Biel, Switzerland, February 19, 2027
 
@@ -44,6 +44,10 @@ I enjoy active networking (matching people, organizations and ideas), public spe
   * Invited talk on "Prohuman Tech Design" at **Digital Winterthur**, Winterthur, Switzerland, September 10, 2026
   
   * Invited [talk series](https://youtube.com/playlist?list=PLX03apcWX7jk&si=-tQKB40eewiXR-0D) at **XVIII Congreso Cristiano de Ejecutivos y Líderes 2026**, Asunción, Paraguay, September 03-04, 2026
+  
+    [<img alt="Video" src="http://stdm.github.io/images/teaser-vortragsserie-2026.jpg"/>](https://youtube.com/playlist?list=PLX03apcWX7jk&si=-tQKB40eewiXR-0D)
+    
+    [Youtube](https://youtube.com/playlist?list=PLX03apcWX7jk&si=-tQKB40eewiXR-0D)  
   
   * Keynote "Towards reliable physical AI: From world models to human-AI co-learning spaces" at [**Davos Tech Summit**](https://davostechsummit.com/program), Davos, Switzerland, July 02, 2026
   
