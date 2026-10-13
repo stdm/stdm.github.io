@@ -107,6 +107,12 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
+<td style="width: 175px;"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/ExpertSystAppl_2026.png"/></td>
+<td>
+Ahmed Begga, Waqar Ali, Marcello Pelillo, Miguel Angel Lozano, Sebastiano Vascon, Thilo Stadelmann, and Francisco Escolano. <strong>Learnable Eigenfunctions for Graph Rewiring: Balancing Local Community Structure and Global Connectivity</strong>. In: Accepted to Expert Systems with Applications (<strong>Expert. Syst. Appl.</strong>). Elsevier.
+</td>
+</tr>
+<tr>
 <td style="width: 175px;"><a href="https://doi.org/10.1007/978-3-032-39028-8_26"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/ANNPR_2026.png"/></a></td>
 <td>
 Waqar Ali, Benjamin Meyer, Linus Stuhlmann, Schlomo Aschkenasy, Paola Daniore, Thilo Stadelmann, and Ahmed Abdulkadir. <a href="https://stdm.github.io/downloads/papers/ANNPR_2026.pdf"><strong>Automated component testing for agentic AI in medical decision support systems</strong></a>. In: Dimitri, G.M., Aslan, S., Montanelli, S., Ravanelli, M., Subakan, C., Trentin, E. (eds) Artificial Neural Networks in Pattern Recognition. <strong>ANNPR 2026</strong>. Lecture Notes in Computer Science, vol 16978. Springer, Cham. DOI <a href="https://doi.org/10.1007/978-3-032-39028-8_26">10.1007/978-3-032-39028-8_26</a>.
