@@ -107,9 +107,9 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/ExpertSystAppl_2026.png"/></td>
+<td style="width: 175px;"><a href="http://dx.doi.org/10.2139/ssrn.6308729"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/ExpertSystAppl_2026.png"/></a></td>
 <td>
-Ahmed Begga, Waqar Ali, Marcello Pelillo, Miguel Angel Lozano, Sebastiano Vascon, Thilo Stadelmann, and Francisco Escolano. <strong>Learnable Eigenfunctions for Graph Rewiring: Balancing Local Community Structure and Global Connectivity</strong>. In: Accepted to Expert Systems with Applications (<strong>Expert. Syst. Appl.</strong>). Elsevier.
+Ahmed Begga, Waqar Ali, Marcello Pelillo, Miguel Angel Lozano, Sebastiano Vascon, Thilo Stadelmann, and Francisco Escolano. <a href="http://dx.doi.org/10.2139/ssrn.6308729"><strong>Learnable Eigenfunctions for Graph Rewiring: Balancing Local Community Structure and Global Connectivity</strong></a>. In: Accepted to Expert Systems with Applications (<strong>Expert. Syst. Appl.</strong>). Elsevier, October 2026. Preprint DOI <a href="http://dx.doi.org/10.2139/ssrn.6308729">10.2139/ssrn.6308729</a>.
 </td>
 </tr>
 <tr>
