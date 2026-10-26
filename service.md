@@ -821,6 +821,10 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * October 25, 2026 [20 Minuten](https://www.20min.ch/story/ki-risiken-professor-hinterfragt-warnungen-vor-weltuntergang-103654491): "**'Die meisten Ängste stammen aus der Sci-Fi-Literatur'**. Wird KI die Menschheit auslöschen? Professor widerspricht." 
+  
+  * October 22, 2026 [kath.ch](https://www.kath.ch/newsd/menschlichkeit-im-zeitalter-der-kuenstlich-intelligenten-roboter/): "**Menschlichkeit im Zeitalter der künstlich intelligenten Roboter**: Angefangen aber hatte der Dienstag mit einem fulminanten Referat von Thilo Stadelmann."
+
   * September 28, 2026 [Aargauer Zeitung, etc.](https://www.aargauerzeitung.ch/leben/ki-fehler-im-geheimdienstbericht-haette-us-angriff-ausgeloest-ld.4237855): "**Warum KI Nashörner manchmal noch für Affen hält.** Ein KI-Fehler in einem Geheimdienstbericht hätte beinahe einen US-Angriff ausgelöst. KI-Forscher Thilo Stadelmann erklärt, warum Halluzinationen nicht einfach verschwinden."
   
   * September 19, 2026 [Schweiz heute, Aargauer Zeitung, etc.](https://www.schweizheute.ch/schweiz/ki-bedroht-die-menschheit-12-schweizer-experten-ordnen-ein-ld.4233851): "Löscht KI uns alle aus? Wir haben 12 Persönlichkeiten befragt, die es wissen sollten. Thilo Stadelmann, Professor für künstliche Intelligenz an der ZHAW: '**Die Superintelligenz ist rein hypothetisch**'."
