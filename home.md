@@ -52,7 +52,7 @@ This is the academic website of [Thilo Stadelmann](https://www.zhaw.ch/en/about-
     <li><a href="https://www.linkedin.com/in/jakub-hanush/">Jakub Hanuska</a>, M.Sc. student: B.Sc. open informatics (Mendel University of Brno)</li>
     <li><a href="https://www.linkedin.com/in/rebekka-von-wartburg-3b807b298/">Rebekka von Wartburg</a>, M.Sc. student: B.Sc. computer science (ZHAW)</li>
     <li><a href="https://www.linkedin.com/in/jose-pablo-mu%C3%B1oz/">Jose Pablo Muñoz Montero</a>, M.Sc. student: B.Sc. computer engineering (Tecnológico de Costa Rica)</li>
-    <li><a href="http://www.linkedin.com/in/joey-kurek-1016a2236">Joseph Kurek</a>, external PhD student: B.A. in linguistics (Harvard University) & M.Sc. in language science and technology (Universität des Saarlandes), doctorate in conjunction with <a href="https://www.cl.uzh.ch/de/about-us/people/team/phonetics/vdellw.html">V. Dellwo</a> and <a href="https://www.cl.uzh.ch/de/about-us/people/team/Language-Technology/Srikanth-Madikeri.html">S. Madikeri</a> of the University of Zurich</li>    
+    <li><a href="http://www.linkedin.com/in/joey-kurek-1016a2236">Joseph Kurek</a>, external PhD student: B.A. in linguistics (Harvard University) & M.Sc. in language science and technology (Universität des Saarlandes), doctorate in conjunction with <a href="https://www.cl.uzh.ch/de/about-us/people/team/phonetics/vdellw.html">Volker Dellwo</a> and <a href="https://www.cl.uzh.ch/de/about-us/people/team/Language-Technology/Srikanth-Madikeri.html">Srikanth Madikeri</a> of the University of Zurich</li>    
     <li><a href="https://www.linkedin.com/in/aaronschm1d/">Aaron Schmid</a>, M.Sc. student: B.Sc. data science (ZHAW)</li>
 </ul>
 </details>
