@@ -29,7 +29,7 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
   * Panelist at CAS Integral Economics, Univeersity of Fribourg, Biel, Switzerland, February 19, 2027
 
-#### 2026
+#### 2026 
 
   * Invited talk at **IST InfraStrukturTreff**, Rapperswil, Switzerland, November 05, 2026
   
