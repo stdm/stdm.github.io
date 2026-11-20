@@ -821,6 +821,8 @@ I enjoy active networking (matching people, organizations and ideas), public spe
 
 <a name="press"></a>
 ## In the press 
+  * November 20, 2026 [Input - das Fachmagazin der Neo One AG, Ausgabe Dezember 2/2026](https://www.neo-one.ch/input/): "**Eine hoffnungsvolle, humane Zukunft mit KI ist möglich**. Thilo Stadelmann, einer der profiliertesten Experten der Schweizer KI-Forschung über Chancen und Bedrohung: 'KI nimmt uns nicht unsere Freiheiten und Fähigkeiten – aber wir können sie freiwillig abgeben, und das gilt es zu vermeiden.'"
+
   * October 25, 2026 [20 Minuten](https://www.20min.ch/story/ki-risiken-professor-hinterfragt-warnungen-vor-weltuntergang-103654491): "**'Die meisten Ängste stammen aus der Sci-Fi-Literatur'**. Wird KI die Menschheit auslöschen? Professor widerspricht." 
   
   * October 22, 2026 [kath.ch](https://www.kath.ch/newsd/menschlichkeit-im-zeitalter-der-kuenstlich-intelligenten-roboter/): "**Menschlichkeit im Zeitalter der künstlich intelligenten Roboter**: Angefangen aber hatte der Dienstag mit einem fulminanten Referat von Thilo Stadelmann."
