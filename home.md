@@ -108,9 +108,9 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 
 <table class="publist">
 <tr>
-<td style="width: 175px;"><a href="http://stdm.github.io/images/papers/ArXiv_2026.pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/ArXiv_2026.png"/></a></td>
+<td style="width: 175px;"><a href="https://arxiv.org/pdf/2611.19477"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/ArXiv_2026.png"/></a></td>
 <td>
-Pascal Sager, Benjamin Grewe, Pau Vilimelis Aceituno, and Thilo Stadelmann. <a href="https://arxiv.org/pdf/2611.19477"><strong>Grokking can be steered: Selecting desirable solutions by choice of learning rule</strong></a>. In: <strong>arXiv preprint</strong>), November 2026.
+Pascal Sager, Benjamin Grewe, Pau Vilimelis Aceituno, and Thilo Stadelmann. <a href="http://stdm.github.io/images/papers/ArXiv_2026.pdf"><strong>Grokking Can Be Steered: Selecting Desirable Solutions By Choice of learning rule</strong></a>. In: <strong>arXiv preprint</strong>), November 2026.
 </td>
 </tr>
 <tr>
