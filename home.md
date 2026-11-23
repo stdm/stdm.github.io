@@ -109,11 +109,11 @@ Compare bibliometrics on [Google scholar](https://scholar.google.ch/citations?us
 <tr>
 <td style="width: 175px;"><a href="https://doi.org/10.1016/j.eswa.2026.134736"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/ExpertSystAppl_2027.png"/></a></td>
 <td>
-Waqar Ali, Ahmed Begga, Sebastiano Vascon, Francisco Escolano, Miguel Ángel Lozano, Thilo Stadelmann, and Marcello Pelillo. <a href="http://stdm.github.io/downloads/papers/ExpertSytsAppl_2027.pdf"><strong>Learnable Eigenfunctions for Graph Rewiring: Balancing Local Community Structure and Global Connectivity</strong></a>. In: Expert Systems with Applications (<strong>Expert. Syst. Appl.</strong>). Elsevier, February 2027. DOI <a href="https://doi.org/10.1016/j.eswa.2026.134736>10.1016/j.eswa.2026.134736</a>.
+Waqar Ali, Ahmed Begga, Sebastiano Vascon, Francisco Escolano, Miguel Ángel Lozano, Thilo Stadelmann, and Marcello Pelillo. <a href="http://stdm.github.io/downloads/papers/ExpertSytsAppl_2027.pdf"><strong>Learnable Eigenfunctions for Graph Rewiring: Balancing Local Community Structure and Global Connectivity</strong></a>. In: Expert Systems with Applications (<strong>Expert. Syst. Appl.</strong>). Elsevier, February 2027. DOI <a href="https://doi.org/10.1016/j.eswa.2026.134736">10.1016/j.eswa.2026.134736</a>.
 </td>
 </tr>
 <tr>
-<td style="width: 175px;"><a href=http://stdm.github.io/downloads/papers/IHIET-AI_2027.pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/IHIET-AI_2027.png"/></a></td>
+<td style="width: 175px;"><a href="http://stdm.github.io/downloads/papers/IHIET-AI_2027.pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/IHIET-AI_2027.png"/></a></td>
 <td
 Manuel Renold, Janick Marti, Julia Stadelmann, Thilo Stadelmann, Roman Lissner, and Ricardo Chavarriaga. <a href="http://stdm.github.io/images/papers/IHIET-AI_2027.pdf"><strong>Beyond Command-Based Interaction: A Token-Based Framework for Human Direction of Autonomous Multi-Agent Systems</strong></a>. In: Proceedings of 19th International Conference on Human Interaction & Emerging Technologies:
 Artificial Intelligence & Future Applications (<strong>IHIET-AI</strong>), April 5-7, 2027, Nixe Palace, Palma de Mallorca, Spain.
