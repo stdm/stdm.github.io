@@ -114,7 +114,7 @@ Waqar Ali, Ahmed Begga, Sebastiano Vascon, Francisco Escolano, Miguel Ángel Loz
 </tr>
 <tr>
 <td style="width: 175px;"><a href="http://stdm.github.io/downloads/papers/IHIET-AI_2027.pdf"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/IHIET-AI_2027.png"/></a></td>
-<td
+<td> 
 Manuel Renold, Janick Marti, Julia Stadelmann, Thilo Stadelmann, Roman Lissner, and Ricardo Chavarriaga. <a href="http://stdm.github.io/images/papers/IHIET-AI_2027.pdf"><strong>Beyond Command-Based Interaction: A Token-Based Framework for Human Direction of Autonomous Multi-Agent Systems</strong></a>. In: Proceedings of 19th International Conference on Human Interaction & Emerging Technologies:
 Artificial Intelligence & Future Applications (<strong>IHIET-AI</strong>), April 5-7, 2027, Nixe Palace, Palma de Mallorca, Spain.
 </td>
@@ -126,7 +126,7 @@ Artificial Intelligence & Future Applications (<strong>IHIET-AI</strong>), April
 <table class="publist">
 <tr>
 <td style="width: 175px;"><a href="https://arxiv.org/pdf/2611.19477"><img alt="Paper thumbnail" style="height:auto; width:175px;" src="http://stdm.github.io/images/papers/ArXiv_2026.png"/></a></td>
-<td>
+<td> 
 Pascal Sager, Benjamin Grewe, Pau Vilimelis Aceituno, and Thilo Stadelmann. <a href="http://stdm.github.io/images/papers/ArXiv_2026.pdf"><strong>Grokking Can Be Steered: Selecting Desirable Solutions By Choice of learning rule</strong></a>. In: <strong>arXiv preprint</strong>), November 2026.
 </td>
 </tr>
