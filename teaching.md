@@ -45,7 +45,7 @@ Original versions of my main courses are available as free online ressources as 
 | Fall 2025 | MSc | VT1| **Pro-human AI System Design: Preserving Human Characteristics in Practice** <br> _top grade_ <br> Student: Rebekka von Wartburg |
 | Fall 2025 | BSc | PA | Deep Learning for MRI Analysis |
 | Fall 2025 | BSc | PA | How does uncertainty quantification improve the quality of latent representations in world models? |
-| Spring 2025 | PhD | Thesis | [**Advanced Representation Learning Techniques For Graph Neural Networks**](https://doi.org/10.21256/zhaw-32794) <br> Student: Waqar Ali |
+| Spring 2025 | PhD | Thesis | [**Advanced Representation Learning Techniques For Graph Neural Networks**](https://doi.org/10.21256/zhaw-32794) <br> _successfully defended_ <br> Student: Waqar Ali |
 | Fall 2024 | PhD | Thesis | **[Strategies for Practical Deep Learning](https://n2t.net/ark:/12658/srd1330766)** <br> _top grade_ <br> Student: Lukas Tuggener |
 | Fall 2024 | BSc | PA | AI-based interpretation of engineering drawings |
 | Fall 2024 | BSc | PA | Enhancing SwissGPT with Agentic RAG |
@@ -78,7 +78,7 @@ Original versions of my main courses are available as free online ressources as 
 | Fall 2021 | BSc | PA | Forschungs-PA: Continual Deep Learning for Visual Recognition |
 | Spring 2021 | MSc | VT1 | Exploiting Temporal Information in Speech using Deep Learning |
 | Spring 2021 | MSc | VT2 | Multimedia Retrieval using Vision Transformers |
-| Spring 2021 | MSc | MT @ HSLU | [**Deep Learning with Noisy Image Labels in Real-World Computer Vision Applications**](https://stdm.github.io/downloads/papers/SDS_2021a.pdf) <br> _paper at SDS2021> <br> Student: Niclas Simmler |
+| Spring 2021 | MSc | MT @ HSLU | [**Deep Learning with Noisy Image Labels in Real-World Computer Vision Applications**](https://stdm.github.io/downloads/papers/SDS_2021a.pdf) <br> _paper at SDS 2021_ <br> Student: Niclas Simmler |
 | Spring 2021 | BSc | BA | [**Neural Network-based Image Synthesis to Improve Automatic Segmentation of Medical Images for COVID**](https://stdm.github.io/downloads/papers/CISP_BMEI_2021.pdf) <br> _paper at CISP-BMEI 2021_ <br> Students: Jonathan Gruss and Yves D. Stebler |
 | Spring 2021 | BSc | BA | **Transfer Learning of Deep Neural Network Representations of Brain Activity** <br> _top grade_ <br> Students: Benjamin Bertalan and Gian Andri Hess |
 | Fall 2020 | PhD | Thesis @ Ca'Foscari / Venice | external examiner for "Using Contextual Information In Weakly Supervised Learning" |
